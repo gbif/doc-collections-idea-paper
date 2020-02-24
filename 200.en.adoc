@@ -8,7 +8,7 @@ We need to develop a shared vision for the content that the catalogue should hol
 The scope for the catalogue needs to be defined. This involves agreeing what should be counted as a natural history collection and what should be excluded. Practices in this regard vary across the community. Within IH, each herbarium record usually corresponds to an institution with its own unique collection code, street address, etc. Within zoology, museums are often structured as a set of collections with differing and possibly hierarchical taxonomic scope. Specimens collected on famous expeditions or by significant researchers may have their own identity. Other categories that may require consideration include living collections (microbial collections, zoos, aquaria, botanic gardens, seed banks), specially managed collections (e.g. tissue collections, DNA repositories, slide banks, xylaria), university and personal collections.
 
 ====
-Q8. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Are collections (and collection records) hierarchical? If so, how do parent-child relationships work, and do we infer information from parent to child or vice versa? What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection?
+*Q8*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Are collections (and collection records) hierarchical? If so, how do parent-child relationships work, and do we infer information from parent to child or vice versa? What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection?
 ====
 
 === Description of a collection
@@ -16,14 +16,14 @@ Q8. What is the definition for our purposes (minimal and sufficient criteria) of
 The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats.
 
 ====
-Q9. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?
+*Q9*. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?
 ====
 
 === Wider data linkages
 Information in the collection catalogue may be linked to a wide range of other biodiversity information (specimens, sequences, datasets, images, publications, etc.) to support information access and exploration.
 
 ====
-Q10. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:
+*Q10*. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:
 
 * Specimens held by a collection
 * Type specimens held by a collection
@@ -42,7 +42,7 @@ Q10. What information should be linked to collection records? We should focus on
 The main value from the collection catalogue may appear in the information services that can be offered around the information managed. Considering these services may help to clarify the content requirements.
 
 ====
-Q11. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?
+*Q11*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?
 
 * Assess the growth, scale and value of the world's collections
 * Discover the location of biological materials or the likely presence of biological materials for any taxon
