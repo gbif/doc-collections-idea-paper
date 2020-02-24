@@ -13,7 +13,7 @@ Q8. What is the definition for our purposes (minimal and sufficient criteria) of
 
 === Description of a collection
 
-The TDWG Collection Descriptions (CD) Interest Group is currently developing the CD standard for collection descriptions (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats.
+The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats.
 
 ====
 Q9. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?
@@ -24,23 +24,24 @@ Information in the collection catalogue may be linked to a wide range of other b
 
 ====
 Q10. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:
-Specimens held by a collection
-Type specimens held by a collection
-Species/taxa represented in a collection (with/without specimen counts)
-Sequences, images and other preparations from the collection (but these may be better treated as information about specimens rather than about the collection)
-Datasets (checklists, occurrences, sampling events) associated with the collection
-Collecting expeditions carried out by or contributing to the collection (modeled as sampling events?)
-Collectors associated with a collection
-Publications based on materials from the collection
-Researchers/staff associated with the collection
-Field notebooks
+* Specimens held by a collection
+* Type specimens held by a collection
+* Species/taxa represented in a collection (with/without specimen counts)
+* Sequences, images and other preparations from the collection (but these may be better treated as information about specimens rather than about the collection)
+* Datasets (checklists, occurrences, sampling events) associated with the collection
+* Collecting expeditions carried out by or contributing to the collection (modeled as sampling events?)
+* Collectors associated with a collection
+* Publications based on materials from the collection
+* Researchers/staff associated with the collection
+* Field notebooks
+====
 
 === Information services relating to collections
 
 The main value from the collection catalogue may appear in the information services that can be offered around the information managed. Considering these services may help to clarify the content requirements.
 
 ====
-Q11. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. BHL, GBIF, CoL)?
+Q11. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. http://www.biodiversitylibrary.org/[BHL], https://gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?
 * Assess the growth, scale and value of the world's collections
 * Discover the location of biological materials or the likely presence of biological materials for any taxon
 * Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised

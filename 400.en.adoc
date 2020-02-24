@@ -45,7 +45,7 @@ Q21. What are the incentives for different contributors to maintain information 
 
 === Funding
 
-Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the CoreTrustSeal model for trusted repositories).
+Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories).
 
 ====
 Q22. How can the governance and technical aspects be funded? Is external funding likely? What other models may be feasible (contributions from collections, inclusion within the funded mission for GBIF or some other host)?
