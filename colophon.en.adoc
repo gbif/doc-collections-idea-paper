@@ -24,10 +24,10 @@ Additional contributors to subsequent versions will be credited here.
 === Licence
 The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
 
-=== URI persistente
+=== Persistent URI
 https://doi.org/10.15468/doc-wnsx-ep77
 
-=== Control de documentos
+=== Document control
 v1.0, 24 February 2020
 
 === Cover image
