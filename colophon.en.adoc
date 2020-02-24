@@ -1,0 +1,36 @@
+// add cover image to img directory and update filename below
+ifdef::backend-html5[]
+image::img/web/photo.jpg[]
+endif::backend-html5[]
+
+== Colophon
+
+=== Suggested citation
+Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn T. Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-xxxx-xxxx.
+
+== Contributors
+
+* https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life | International Barcode of Life 
+* https://orcid.org/0000-0003-0116-3445[Alex Asase], University of Ghana | GBIF Ghana
+* https://orcid.org/0000-0002-0596-5376[Quentin Groom], Meise Botanic Garden
+* https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group
+* https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF Secretariat
+* https://orcid.org/0000-0002-4048-7728[Patrick Semal], Royal Belgian Institute of Natural Sciences | CETAF
+* https://orcid.org/0000-0002-8613-7133[Barbara Thiers], New York Botanical Garden | Index Herbariorum
+* https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Natural History Museum, London | TDWG CD Interest Group
+
+Additional contributors to subsequent versions will be credited here.
+
+=== Licence
+The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
+
+=== URI persistente
+https://doi.org/10.15468/doc-xxxx-xxxx
+
+=== Control de documentos
+v1.0, 24 February 2020
+
+=== Cover image
+
+// Caption. Credit, source, licence.
+Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].

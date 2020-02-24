@@ -1,0 +1,5 @@
+https://builds.gbif.org/job/doc-collections-idea-paper/[image:https://builds.gbif.org/job/doc-collections-idea-paper/badge/icon[Build status]]
+
+= Advancing the Catalogue of the World's Natural History Collections
+
+This document explores ideas for improved global collaboration to build, maintain and use a *comprehensive catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]. 

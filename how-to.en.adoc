@@ -1,0 +1,21 @@
+== How to respond to this Ideas Paper
+
+Read the sections below and contribute to developing a roadmap for collaborative activity to build the catalogue.
+
+We welcome contributions as follows:
+
+* Do you represent a *stakeholder, project, database, tool, standard or community* that addresses some aspect of the topics outlined here, or do you have ideas for novel approaches to mobilise or use information on collections? 
+** Please contact mailto:dhobern@gbif.org[Donald Hobern] by 3 April 2020 to contribute significant ideas or examples that will add value to the online discussions.
+** We welcome short documents or slide presentations that can be shared on the consultation website. 
+** If presentations are unlikely to be clear without further explanation, please modify the slides or consider supplying the presentation as a pre-recorded video with audio commentary. 
+** Please keep all materials brief and focused, so that a reader or viewer could assimilate the ideas within fifteen minutes or (ideally) less. 
+* Would you like to *understand more about the consultation* or to suggest possible additions to the scope outlined here?
+** Please register for one of the preparatory webinars (06:00 UTC on 12 March 2020 or 15:00 UTC on 13 March 2020).
+* Would you like to *contribute to the online discussions* for the consultation?
+** Please register to join the consultation community on the GBIF Discourse site.
+** Discussions will take place between 17 and 29 April 2020.
+** We will keep you informed as more information is added to the site and ensure that you receive regular updates during the consultation
+* Will you be able to expand the relevance of the consultation by *translating short summary updates* into languages other than English?
+** We expect to circulate regular short summaries (a few paragraphs every day or two) to all participants during the main consultation period to keep the discussion focused, summarise agreement, and highlight new ideas and questions.
+** We welcome assistance in translating these into languages that will make it easier for all participants to follow the discussions and know how to contribute.
+** Please contact mailto:dhobern@gbif.org[Donald Hobern] if you are interested in helping.
