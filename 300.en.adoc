@@ -8,7 +8,7 @@ A wide range of different tools are already in use for authoring collection meta
 Existing information on collections is edited and maintained in different ways. IH allows herbaria to provide or edit their records and offers support for herbaria to provide updates via email or other channels. Other communities such as national portals have other pathways for collections to provide or update information. Several tools help data publishers to create EML metadata for publishing data to GBIF and elsewhere. These could evolve to deliver collection records in preferred formats. The https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] could be enhanced to offer collection records as one of the core record types that can be shared. This would allow collections either to publish one or more collection records as a small standalone dataset or collection networks to manage and publish a dataset comprising many collection records. Wikidata could also serve as a tool or platform for editing catalogue information and making it widely accessible and reusable.
 
 ====
-Q12. Which existing tools, databases and websites can help to mobilise and maintain collection records? Is it possible to identify additional tools or pathways that need to be developed or supported?
+*Q12*. Which existing tools, databases and websites can help to mobilise and maintain collection records? Is it possible to identify additional tools or pathways that need to be developed or supported?
 ====
 
 === Community catalogues
@@ -16,7 +16,7 @@ Q12. Which existing tools, databases and websites can help to mobilise and maint
 IH is the best established catalogue servicing a large community of collections, but many other communities are important, including regionally or nationally focused efforts, such as CETAF’s institutional profiles, the web portals of https://www.idigbio.org/portal/collections[iDigBio] and the ALA, and the https://biss.pensoft.net/article/38772/[One World Collection initiative], and thematically aligned efforts, such as the http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections] and the http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. A comprehensive global catalogue should ensure that the needs of these different communities are met and support their continued operation and independence wherever is valued by collections. Understanding these requirements is essential in planning the technical implementation and governance of the catalogue.
 
 ====
-Q13. What catalogues already address the needs of some communities of collections? How can an integrated catalogue support these communities? Which communities require a separately branded identity and/or platform? What is the best way to include these communities as part of an interconnected solution? Is there a role for content to be created and improved by a wider audience (e.g. through Wikidata)?
+*Q13*. What catalogues already address the needs of some communities of collections? How can an integrated catalogue support these communities? Which communities require a separately branded identity and/or platform? What is the best way to include these communities as part of an interconnected solution? Is there a role for content to be created and improved by a wider audience (e.g. through Wikidata)?
 ====
 
 === Integrated catalogue
@@ -24,7 +24,7 @@ Q13. What catalogues already address the needs of some communities of collection
 GBIF has the mission to provide global-scale support for biodiversity informatics solutions and has expanded its Registry to host the data historically maintained as GRSciColl. GRSciColl content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   
 
 ====
-Q14. Are there issues with GBIF providing hosting and support for the global catalogue through its Registry? What is required to ensure that this meets the needs of collections and is fully adopted and owned by the collections community? What challenges need to be addressed to minimise duplication of content and effort within an integrated catalogue?
+*Q14*. Are there issues with GBIF providing hosting and support for the global catalogue through its Registry? What is required to ensure that this meets the needs of collections and is fully adopted and owned by the collections community? What challenges need to be addressed to minimise duplication of content and effort within an integrated catalogue?
 ====
 
 === Collection management systems
@@ -32,7 +32,7 @@ Q14. Are there issues with GBIF providing hosting and support for the global cat
 Most natural history collections maintain data on their specimens in a collection management system (CMS) such as https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Some of these tools could develop to interface directly with the collection catalogue, providing up-to-date metadata and metrics.
 
 ====
-Q15. What present or future requirements are there for interfaces directly between CMS platforms and the collection catalogue? Are there special opportunities that should be considered? Could CMS platforms become a source of metadata for institutional collections within a global catalogue?
+*Q15*. What present or future requirements are there for interfaces directly between CMS platforms and the collection catalogue? Are there special opportunities that should be considered? Could CMS platforms become a source of metadata for institutional collections within a global catalogue?
 ====
 
 === Interfaces, APIs and client modules
@@ -40,5 +40,5 @@ Q15. What present or future requirements are there for interfaces directly betwe
 The value of a shared commons-based resource can be maximised by ensuring that interfaces and APIs support the needs of all key stakeholder groups, including addressing issues around content delivery to the fullest extent possible in multiple languages. Some needs may be addressed by offering reusable client components that can be embedded in other applications.
 
 ====
-Q16. What interfaces and APIs are required to maximise access to the collection catalogue? How can the catalogue best support diverse user communities, including speakers of different languages?
+*Q16*. What interfaces and APIs are required to maximise access to the collection catalogue? How can the catalogue best support diverse user communities, including speakers of different languages?
 ====
