@@ -1,7 +1,0 @@
-Status: 303 See Other
-Location: ./en/
-Content-Type: text/html; charset=UTF-8
-Content-Language: en
-Vary: negotiate,accept-language
-
-See <a href="./en/">en</a>.
