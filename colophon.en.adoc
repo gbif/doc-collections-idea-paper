@@ -32,4 +32,4 @@ v1.0, 24 February 2020
 
 === Cover image
 
-(_Wheeleria spilodactylus_), Canberra, Australia. Photo 2007 Donald Hobern via https://www.gbif.org/occurrence/1414839790[International Barcode of Life project (iBOL)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0].
+_Wheeleria spilodactylus_, Canberra, Australia. Photo 2007 Donald Hobern via https://www.gbif.org/occurrence/1414839790[International Barcode of Life project (iBOL)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0].
