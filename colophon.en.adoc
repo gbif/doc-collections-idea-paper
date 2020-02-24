@@ -6,7 +6,7 @@ endif::backend-html5[]
 == Colophon
 
 === Suggested citation
-Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn T. Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-xxxx-xxxx.
+Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn T. Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-wnsx-ep77.
 
 == Contributors
 
@@ -25,7 +25,7 @@ Additional contributors to subsequent versions will be credited here.
 The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
 
 === URI persistente
-https://doi.org/10.15468/doc-xxxx-xxxx
+https://doi.org/10.15468/doc-wnsx-ep77
 
 === Control de documentos
 v1.0, 24 February 2020

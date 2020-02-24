@@ -1,5 +1,5 @@
 = Advancing the Catalogue of the World's Natural History Collections
-mailto:dhobern@gbif.org[Donald Hobern], Alex Asase, Quentin Groom, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Semal, 
+mailto:dhobern@gbif.org[Donald Hobern], Alex Asase, Quentin Groom, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers & Matt Woodburn 
 :toc: left
 :toclevels: 3
 :numbered:
