@@ -24,6 +24,7 @@ Information in the collection catalogue may be linked to a wide range of other b
 
 ====
 Q10. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:
+
 * Specimens held by a collection
 * Type specimens held by a collection
 * Species/taxa represented in a collection (with/without specimen counts)
@@ -41,7 +42,8 @@ Q10. What information should be linked to collection records? We should focus on
 The main value from the collection catalogue may appear in the information services that can be offered around the information managed. Considering these services may help to clarify the content requirements.
 
 ====
-Q11. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. http://www.biodiversitylibrary.org/[BHL], https://gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?
+Q11. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?
+
 * Assess the growth, scale and value of the world's collections
 * Discover the location of biological materials or the likely presence of biological materials for any taxon
 * Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised
