@@ -6,7 +6,7 @@ endif::backend-html5[]
 == Colophon
 
 === Suggested citation
-Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn T (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-wnsx-ep77.
+Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-wnsx-ep77.
 
 == Contributors
 
