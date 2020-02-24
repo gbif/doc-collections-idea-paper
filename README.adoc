@@ -1,4 +1,4 @@
-https://builds.gbif.org/job/doc-collections-idea-paper/[image:https://builds.gbif.org/job/doc-collections-idea-paper/badge/icon[Build status]]
+https://doi.org/10.15468/doc-wnsx-ep77[image:https://zenodo.org/badge/DOI/10.15468/doc-wnsx-ep77.svg[doi:10.15468/doc-wnsx-ep77]] https://builds.gbif.org/job/doc-collections-idea-paper/[image:https://builds.gbif.org/job/doc-collections-idea-paper/badge/icon[Build status]]
 
 = Advancing the Catalogue of the World's Natural History Collections
 
