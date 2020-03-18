@@ -5,7 +5,7 @@ The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection D
 
 === A directory to support the collections community
 
-Collections staff and taxonomists collaborate as a truly global community. Valuable specimens are distributed between institutions in all parts of the world. Researchers visit these collections or borrow specimens as part of their work. Index Herbariorum (IH) is the directory of information on the world’s herbaria (addresses, contacts, specialties, size, etc.). It is a well-managed resource and highly regarded as a tool by the botanical community. No full equivalent exists globally for other natural history collections, although national/regional infrastructures such as the ALA collections pages, the iDigBio US Collections List, and the CETAF profiles serve similar roles. GBIF has recently integrated the Global Registry of Scientific Collections (GRSciColl) into its registry as a framework that can be extended with richer information curated by collections communities. 
+Collections staff and taxonomists collaborate as a truly global community. Valuable specimens are distributed between institutions in all parts of the world. Researchers visit these collections or borrow specimens as part of their work. Index Herbariorum (IH) is the directory of information on the world’s herbaria (addresses, contacts, specialties, size, etc.). It is a well-managed resource and highly regarded as a tool by the botanical community. No full equivalent exists globally for other natural history collections, although national/regional infrastructures such as the ALA collections pages, the iDigBio US Collections List, and the CETAF profiles serve similar roles. GBIF has recently integrated the Global Registry of Scientific Collections (GRSciColl) into its registry as a framework that can be extended with richer information curated by collections communities.
 
 ====
 *Q1*. Would the collections community benefit from a comprehensive directory of all natural history collections? Who would make use of such a directory? (The focus here is on the catalogue as a directory of known institutions and information required to contact them.)
@@ -57,4 +57,20 @@ A comprehensive directory could serve as a foundation for new tools that enhance
 
 ====
 *Q7*. What other services could be developed on the foundations of a collection catalogue? Would these attract investment to fund the development and support the maintenance of the catalogue?
+====
+
+=== Improvements to citation and visibility for collections
+
+Research value is primarily measured in terms of visibility and impacts from published literature. Natural history collections are poorly recognised by such measures and their importance as foundational research tools is almost hidden. Users of collections are regularly urged to cite specimens examined and reference the collection. However, citation is often https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[lacking, incomplete or ambiguous]. Research infrastructures such as https://explore.openaire.eu/search/find[OpenAIRE] in Europe increasingly map not only linkages between researchers and publications but also datasets, projects, content providers and organisations. A catalogue could help to standardise citation of collections, making their impact visible through such knowledge graphs. Journals and editorial boards could be encouraged to require standard collection identifiers wherever collections are referenced.
+
+====
+*Q8*. How might a comprehensive catalogue promote citation and attribution for collections? What can be done to encourage wide standardised use of identifiers from the catalogue?
+====
+
+=== Support for national and regional needs and applications
+
+Although this consultation aims to encourage the development of standardised information for all collections globally, each country or region may have needs or uses for this same information to in local applications and services. It is important to identify a range of these needs and to make sure they are addressed as part of a collaborative solution. An inclusive approach will bring incentives to work together to make information on each catalogue as complete, current and accurate as possible. Requirements are relatively well understood from Europe (e.g. DiSSCo) and the United States (e.g. iDigBio), but other regions may have subtly or significantly different needs.
+
+====
+*Q9*. What national and regional needs or possible uses should be considered? Do national portals or specialist networks require information not currently addressed by data standards for collection metadata? Are there significant regional research infrastructures or public websites that include (or should include) information on local collections? Are there regionally important uses that are not addressed elsewhere in this document?
 ====
