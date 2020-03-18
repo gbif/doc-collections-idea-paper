@@ -9,8 +9,8 @@ We welcome contributions as follows:
 ** We welcome short documents or slide presentations that can be shared on the consultation website. 
 ** If presentations are unlikely to be clear without further explanation, please modify the slides or consider supplying the presentation as a pre-recorded video with audio commentary. 
 ** Please keep all materials brief and focused, so that a reader or viewer could assimilate the ideas within fifteen minutes or (ideally) less. 
-* Would you like to *understand more about the consultation* or to suggest possible additions to the scope outlined here?
-** Please register for one of the preparatory webinars (06:00 UTC on 12 March 2020 or 15:00 UTC on 13 March 2020).
+* Would you like to *review the preparatory webinars* outlining the scope and plan for the consultation?
+** Recordings are available online on https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] and https://vimeo.com/showcase/6859611[Vimeo].
 * Would you like to *contribute to the online discussions* for the consultation?
 ** Please register to join the consultation community on the GBIF Discourse site.
 ** Discussions will take place between 17 and 29 April 2020.
