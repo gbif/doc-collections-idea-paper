@@ -8,7 +8,7 @@ Standards and tools are only one part of the solution. For the catalogue to succ
 The basic assumption is that each institution should have primary responsibility and control for information on its collections. However, it may be appropriate to delegate full or partial responsibility to thematic, regional or national communities that have data curators able to ensure the quality and standardisation of collection records. In some contexts, where institutions have for any reason not provided authoritative information, or do not have the resources to do so, there may be reason to allow or encourage a wider user base to contribute and improve collection records. In all cases, a version history is required for the information, so that users can understand and respond to changes made by others.
 
 ====
-*Q17*. How should ownership and access control for collection records be managed? How should appropriate editors be recognised and validated? Are there situations where automated or human intervention will be required to resolve disagreements or discrepancies?
+*Q21*. How should ownership and access control for collection records be managed? How should appropriate editors be recognised and validated? Are there situations where automated or human intervention will be required to resolve disagreements or discrepancies?
 ====
 
 === Communities of practice
@@ -16,7 +16,7 @@ The basic assumption is that each institution should have primary responsibility
 Communities such as IH, CETAF, ALA, iDigBio, etc. play an important role supporting collections and promoting standards-based practices. In many cases, these communities have a high level of understanding and participate closely in the development of biodiversity informatics solutions. Their roles and rights need to be well defined and supported in any integrated solution.
 
 ====
-*Q18*. What do these communities require to be able to carry out their work efficiently and support their collections? How can an integrated approach enhance their offerings? What risks need to be addressed?
+*Q22*. What do these communities require to be able to carry out their work efficiently and support their collections? How can an integrated approach enhance their offerings? What risks need to be addressed?
 ====
 
 === Technical infrastructures
@@ -24,7 +24,7 @@ Communities such as IH, CETAF, ALA, iDigBio, etc. play an important role support
 Biodiversity information infrastructures such as GBIF, DiSSCo, iDigBio and other national and regional platforms are usually funded in the context of broader open science goals for research infrastructures. Their participation can provide an important bridge between the needs of the collection communities and funding and expertise for informatics solutions. Roles and responsibilities must however be well defined to ensure that the needs of researchers and user communities are central. It is important to define clearly how these technical infrastructures can best participate in the overall solution, including demonstrating the benefits required to secure sustained funding for an integrated catalogue and for all the component parts.
 
 ====
-*Q19*. What technical infrastructures need to be engaged as part of the solution? How are their roles and needs best balanced with those of the collections and of their communities?
+*Q23*. What technical infrastructures need to be engaged as part of the solution? How are their roles and needs best balanced with those of the collections and of their communities?
 ====
 
 === Governance arrangements
@@ -32,7 +32,7 @@ Biodiversity information infrastructures such as GBIF, DiSSCo, iDigBio and other
 A complex, commons-based solution will depend for its long-term success on a governance model that provides confidence to all parties that their interests are served and protected. The model should find the right balance between ensuring the health of the collaboration and minimising associated overheads in terms of meetings, reporting, etc.
 
 ====
-*Q20*. Are there appropriate models that can be adopted or expanded to support the governance of this catalogue? Can it be managed in the context of an existing organisation or institution?
+*Q24*. Are there appropriate models that can be adopted or expanded to support the governance of this catalogue? Can it be managed in the context of an existing organisation or institution?
 ====
 
 === Incentives for contributors
@@ -40,7 +40,7 @@ A complex, commons-based solution will depend for its long-term success on a gov
 Relatively little effort may be required for each institution to register and manage its own collection records. However, the stability of the system will depend on continued effort from these institutions or from other parties to correct errors and outdated information. There should be clear benefits or incentives encouraging stakeholders to contribute this effort. A key goal should be to ensure that the catalogue contributes usefully for the work of collection managers and taxonomists. Acknowledgement of contributions may also be valuable.
 
 ====
-*Q21*. What are the incentives for different contributors to maintain information in the catalogue? How can these be maximised?
+*Q25*. What are the incentives for different contributors to maintain information in the catalogue? How can these be maximised?
 ====
 
 === Funding
@@ -48,5 +48,5 @@ Relatively little effort may be required for each institution to register and ma
 Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories).
 
 ====
-*Q22*. How can the governance and technical aspects be funded? Is external funding likely? What other models may be feasible (contributions from collections, inclusion within the funded mission for GBIF or some other host)?
+*Q26*. How can the governance and technical aspects be funded? Is external funding likely? What other models may be feasible (contributions from collections, inclusion within the funded mission for GBIF or some other host)?
 ====
