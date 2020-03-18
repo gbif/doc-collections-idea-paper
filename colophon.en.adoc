@@ -6,18 +6,20 @@ endif::backend-html5[]
 == Colophon
 
 === Suggested citation
-Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-wnsx-ep77.
+Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/p93g-te47.
 
 == Contributors
 
 * https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life | International Barcode of Life 
 * https://orcid.org/0000-0003-0116-3445[Alex Asase], University of Ghana | GBIF Ghana
 * https://orcid.org/0000-0002-0596-5376[Quentin Groom], Meise Botanic Garden
+* Maofang Luo, Chinese Academy of Sciences
 * https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group
 * https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF Secretariat
 * https://orcid.org/0000-0002-4048-7728[Patrick Semal], Royal Belgian Institute of Natural Sciences | CETAF
 * https://orcid.org/0000-0002-8613-7133[Barbara Thiers], New York Botanical Garden | Index Herbariorum
 * https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Natural History Museum, London | TDWG CD Interest Group
+* Eliza Zschuschen, Suriname National Herbarium
 
 Additional contributors to subsequent versions will be credited here.
 
@@ -25,11 +27,15 @@ Additional contributors to subsequent versions will be credited here.
 The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
 
 === Persistent URI
-https://doi.org/10.15468/doc-wnsx-ep77
+https://doi.org/10.35035/p93g-te47
 
 === Document control
-v1.0, 24 February 2020
+v2.0, March 2020
+
+Updated from https://doi.org/10.15468/doc-wnsx-ep77[v1.0], 25 February 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen.
 
 === Cover image
 
-_Stenoptilia pterodactyla_, collected by Aare Lindt in Kübassaare, Estonia, 2010. Photo 2016 PlutoF via https://www.gbif.org/occurrence/1148413078[Estonian Natural History Museum], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
+Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0].  
+
+<<<
