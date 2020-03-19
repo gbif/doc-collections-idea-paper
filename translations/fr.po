@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-19 15:48+0000\n"
-"PO-Revision-Date: 2020-03-19 15:58\n"
+"PO-Revision-Date: 2020-03-19 16:50\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -28,25 +28,25 @@ msgstr ""
 #. type: Plain text
 #: index.en.adoc:16
 msgid "_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._"
-msgstr ""
+msgstr "_languageLinks:pdf[Ce document est également disponible en,format PDF] et languageLinks:languages[dans d'autres langues :,.]_"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "img/web/photo2.jpg"
-msgstr ""
+msgstr "img/web/photo2.jpg"
 
 #. type: Title ==
 #: colophon.en.adoc:6
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colophon"
 
 #. type: Title ===
 #: colophon.en.adoc:8
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Suggestion de citation"
 
 #. type: Plain text
 #: colophon.en.adoc:10
@@ -57,7 +57,7 @@ msgstr ""
 #: colophon.en.adoc:11
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "Contributeurs"
 
 #. type: Plain text
 #: colophon.en.adoc:14
@@ -129,7 +129,7 @@ msgstr ""
 #: colophon.en.adoc:29
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI permanent"
 
 #. type: Plain text
 #: colophon.en.adoc:31
@@ -140,7 +140,7 @@ msgstr ""
 #: colophon.en.adoc:32
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Contrôle du document"
 
 #. type: Plain text
 #: colophon.en.adoc:34
@@ -166,7 +166,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:41
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: background.en.adoc:1
