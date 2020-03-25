@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-24 23:35+0000\n"
-"PO-Revision-Date: 2020-03-24 23:55\n"
+"PO-Revision-Date: 2020-03-25 09:58\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -40,13 +40,13 @@ msgstr ""
 #: colophon.en.adoc:6
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colofón"
 
 #. type: Title ===
 #: colophon.en.adoc:8
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Cita bibliográfica sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:10
@@ -57,7 +57,7 @@ msgstr ""
 #: colophon.en.adoc:11
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "Colaboradores"
 
 #. type: Plain text
 #: colophon.en.adoc:14
@@ -118,7 +118,7 @@ msgstr ""
 #: colophon.en.adoc:26
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "Licencia"
 
 #. type: Plain text
 #: colophon.en.adoc:28
@@ -129,7 +129,7 @@ msgstr ""
 #: colophon.en.adoc:29
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI persistente"
 
 #. type: Plain text
 #: colophon.en.adoc:31
@@ -140,7 +140,7 @@ msgstr ""
 #: colophon.en.adoc:32
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Control de documentos"
 
 #. type: Plain text
 #: colophon.en.adoc:34
@@ -156,7 +156,7 @@ msgstr ""
 #: colophon.en.adoc:37
 #, no-wrap
 msgid "Cover image"
-msgstr ""
+msgstr "Imagen de la portada"
 
 #. type: Plain text
 #: colophon.en.adoc:40
