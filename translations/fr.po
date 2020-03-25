@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-24 23:35+0000\n"
-"PO-Revision-Date: 2020-03-24 23:55\n"
+"PO-Revision-Date: 2020-03-25 09:58\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -118,7 +118,7 @@ msgstr ""
 #: colophon.en.adoc:26
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "Licence"
 
 #. type: Plain text
 #: colophon.en.adoc:28
@@ -156,7 +156,7 @@ msgstr ""
 #: colophon.en.adoc:37
 #, no-wrap
 msgid "Cover image"
-msgstr ""
+msgstr "Image de couverture"
 
 #. type: Plain text
 #: colophon.en.adoc:40
