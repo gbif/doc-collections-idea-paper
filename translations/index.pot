@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-03-27 02:39+0000\n"
+"POT-Creation-Date: 2020-03-27 02:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -182,14 +182,68 @@ msgid ""
 "Collections. v1.0. GBIF Secretariat: Copenhagen."
 msgstr ""
 
+#. type: Plain text
+#: colophon.en.adoc:38
+msgid "The main changes from v1.0 are as follows:"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:40
+msgid ""
+"Clarification in scope of consultation and definition of \"natural history "
+"collection\""
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:41
+msgid "Additional topics and questions:"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:42
+msgid "Improvements to citation and visibility for collections - Q8"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:43
+msgid "Support for national and regional needs and applications - Q9"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:44
+msgid "Identifiers for collections - Q11"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:45
+msgid "Hierarchical collection structures and subcollections - Q12"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:46
+msgid "Major edits to topic and questions:"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:47
+msgid "Scope for the catalogue and definition of “collection” - Q10"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:48
+msgid ""
+"Minor edits following preparatory webinars and input from Ana Casino and Luc "
+"Willemse"
+msgstr ""
+
 #. type: Title ===
-#: colophon.en.adoc:37
+#: colophon.en.adoc:49
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:40
+#: colophon.en.adoc:52
 msgid ""
 "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by "
 "W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, "
@@ -200,7 +254,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:41
+#: colophon.en.adoc:53
 msgid "<<<"
 msgstr ""
 
