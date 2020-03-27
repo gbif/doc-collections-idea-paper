@@ -1,11 +1,11 @@
-﻿role;orcidId;fname;lname;affiliation;affiliation2
-author;https://orcid.org/0000-0001-6492-4016;Donald;Hobern;Catalogue of Life;International Barcode of Life
-author;https://orcid.org/0000-0003-0116-3445;Alex;Asase;GBIF Ghana;
-author;https://orcid.org/0000-0002-0596-5376;Quentin;Groom;Meise Botanic Garden;
-author;;Maofang;Luo;Chinese Academy of Sciences;
-author;https://orcid.org/0000-0003-2639-7520;Deborah;Paul;iDigBio;TDWG CD Interest Group
-author;https://orcid.org/0000-0001-6215-3617;Tim;Robertson;GBIF Secretariat;
-author;https://orcid.org/0000-0002-4048-7728;Patrick;Semal;Royal Belgian Institute of Natural Sciences;CETAF
-author;https://orcid.org/0000-0002-8613-7133;Barbara;Thiers;New York Botanical Garden;Index Herbariorum
-author;https://orcid.org/0000-0001-6496-1423;Matt;Woodburn;Natural History Museum, London;TDWG CD Interest Group
-author;;Eliza;Zschuschen;Suriname National Herbarium;
+﻿role,orcidId,fname,lname,affiliation,affiliation2
+author,https://orcid.org/0000-0001-6492-4016,Donald;Hobern,Catalogue of Life,International Barcode of Life
+author,https://orcid.org/0000-0003-0116-3445,Alex,Asase,GBIF Ghana,
+author,https://orcid.org/0000-0002-0596-5376,Quentin,Groom;Meise Botanic Garden,
+author,,Maofang,Luo,Chinese Academy of Sciences,
+author,https://orcid.org/0000-0003-2639-7520,Deborah,Paul,iDigBio,TDWG CD Interest Group
+author,https://orcid.org/0000-0001-6215-3617,Tim,Robertson,GBIF Secretariat,
+author,https://orcid.org/0000-0002-4048-7728,Patrick,Semal,Royal Belgian Institute of Natural Sciences,CETAF
+author,https://orcid.org/0000-0002-8613-7133,Barbara,Thiers,New York Botanical Garden,Index Herbariorum
+author,https://orcid.org/0000-0001-6496-1423,Matt,Woodburn,Natural History Museum London,TDWG CD Interest Group
+author,,Eliza,Zschuschen,Suriname National Herbarium,
