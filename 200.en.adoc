@@ -37,7 +37,7 @@ Within IH, each herbarium record usually corresponds to an institution with its 
 
 === Description of a collection
 
-The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats.
+The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats.
 
 ====
 *Q13*. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?
@@ -69,6 +69,7 @@ The main value from the collection catalogue may appear in the information servi
 *Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?
 
 * Assess the growth, scale and value of the world's collections
+* Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection digitisation dashboard] to monitor and highlight progress
 * Discover the location of biological materials or the likely presence of biological materials for any taxon
 * Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised
 * Identify sections of collections that should be digitised to answer specific questions
