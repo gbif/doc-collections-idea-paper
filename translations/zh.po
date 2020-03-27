@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-03-27 01:54+0000\n"
-"PO-Revision-Date: 2020-03-27 02:00\n"
+"POT-Creation-Date: 2020-03-27 02:39+0000\n"
+"PO-Revision-Date: 2020-03-27 02:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -313,7 +313,7 @@ msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:5
-msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders."
+msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
 msgstr ""
 
 #. type: Title ===
@@ -358,7 +358,7 @@ msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:25
-msgid "The information needed to build the catalogue of collections closely matches the metadata required to publish a specimen dataset to GBIF and other portals. A collection record could be treated as a minimal first step, perhaps leading through processes such as Join The Dots and onwards to comprehensive digitisation. A comprehensive catalogue of such records could guide efforts to prioritise further digitisation, by highlighting collections with holdings of particular relevance or by assisting the development of collaborative digitisation networks like the ADBC Thematic Collection Networks."
+msgid "The information needed to build the catalogue of collections closely matches the metadata required to publish a specimen dataset to GBIF and other portals. A record that describes a collection could be treated as a minimal first step, perhaps leading through processes such as Join The Dots and onwards to comprehensive digitisation. A comprehensive catalogue of such records could guide efforts to prioritise further digitisation, by highlighting collections with holdings of particular relevance or by assisting the development of collaborative digitisation networks like the ADBC Thematic Collection Networks."
 msgstr ""
 
 #. type: delimited block =
@@ -375,7 +375,7 @@ msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:33
-msgid "Estimates of the number of specimens held by collections run into billions, but no definitive number exists. A catalogue could help to narrow these estimates and to assess the economic value of these irreplaceable holdings. This information may help to justify the scale of effort and funding needed to digitise collections and make their data accessible for universal and persistent use."
+msgid "Estimates of the number of specimens held by collections run into billions, but no definitive number exists. A catalogue could help to narrow these estimates and to assess the economic value of these irreplaceable holdings. This information may help to justify the scale of effort and funding needed to digitise collections and make their data accessible for universal, reliable and persistent use."
 msgstr ""
 
 #. type: delimited block =
@@ -392,7 +392,7 @@ msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:41
-msgid "Accurate information on any collection can be used as a reference or as linked data associated with specimen records and other data objects. Users of specimen records need contextual information about the the collection that holds the specimen, for example to communicate with collection managers about individual specimens, to offer corrections to specimen data, or simply to determine whether the collection is likely to hold quantities of similar specimens. It may be inefficient to embed all of this information within the specimen record. Holding a single authoritative copy assists with keeping the collection information current. The collection record may also contain information on taxonomic or geographic scope or other aspects that can resolve potential ambiguities within a specimen record. Links to current collection records will also enhance taxonomic publications referencing their materials. This is particularly important because catalogue numbers and other specimen identifiers used in publications may not link to digitised information on the specimens. Linking to the collection simplifies future access and may enable digital links to be inferred in future."
+msgid "Accurate information on any collection can be used as a reference or as linked data associated with specimen records and other data objects. Users of specimen records need contextual information about the collection that holds the specimen, for example to communicate with collection managers about individual specimens, to offer corrections to specimen data, or simply to determine whether the collection is likely to hold quantities of similar specimens. It may be inefficient to embed all of this information within the specimen record. Holding a single authoritative copy assists with keeping the collection information current. The collection record may also contain information on taxonomic or geographic scope or other aspects that can resolve potential ambiguities within a specimen record. Links to current collection records will also enhance taxonomic publications referencing their materials. This is particularly important because catalogue numbers and other specimen identifiers used in publications may not link to digitised information on the specimens. Linking to the collection simplifies future access and may enable digital links to be inferred in future."
 msgstr ""
 
 #. type: delimited block =
@@ -409,7 +409,7 @@ msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:49
-msgid "Although no complete catalogue of collections exists, the need for such information leads to such data repeatedly being published in different formats for different portals, project documentation, metadata for other data, etc. This duplication results in confusion as outdated information remains on the web. Mechanisms that always link to a single continuously updated version would address these issues."
+msgid "Although no complete catalogue of collections exists, the need for such information leads to such data repeatedly being published in different formats for different portals, project documentation, metadata for other data, etc. This duplication results in confusion as outdated information remains on the web. Mechanisms that always link to a single continuously updated version (and a version history) would address these issues."
 msgstr ""
 
 #. type: delimited block =
@@ -426,7 +426,7 @@ msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:57
-msgid "A comprehensive directory could serve as a foundation for new tools that enhance taxonomic efforts and cooperation between all collections. One example might be the development of distributed loans systems or on-demand digitisation, as planned for the DiSSCo European Loans and Visits System (ELViS). A catalogue could also serve as a showcase for institutions to highlight their holdings and unique features, as in the visual concept shared by GBIF for collection pages. GBIF tracking and reporting on the use of biodiversity data in research publications could feed into new services that provide standard metrics and help collections to measure and report their impact."
+msgid "A comprehensive directory could serve as a foundation for new tools that enhance taxonomic efforts and cooperation between all collection holders. One example might be the development of distributed loans systems or on-demand digitisation, as planned for the DiSSCo European Loans and Visits System (ELViS). A catalogue could also serve as a showcase for institutions to highlight their holdings and unique features, as in the visual concept shared by GBIF for collection pages. GBIF tracking and reporting on the use of biodiversity data in research publications could feed into new services that provide standard metrics and help collections to measure and report their impact."
 msgstr ""
 
 #. type: delimited block =
@@ -574,7 +574,7 @@ msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:41
-msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
+msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
 msgstr ""
 
 #. type: delimited block =
@@ -674,46 +674,51 @@ msgstr ""
 
 #. type: delimited block =
 #: 200.en.adoc:73
-msgid "Discover the location of biological materials or the likely presence of biological materials for any taxon"
+msgid "Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection digitisation dashboard] to monitor and highlight progress"
 msgstr ""
 
 #. type: delimited block =
 #: 200.en.adoc:74
-msgid "Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised"
+msgid "Discover the location of biological materials or the likely presence of biological materials for any taxon"
 msgstr ""
 
 #. type: delimited block =
 #: 200.en.adoc:75
-msgid "Identify sections of collections that should be digitised to answer specific questions"
+msgid "Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised"
 msgstr ""
 
 #. type: delimited block =
 #: 200.en.adoc:76
-msgid "Match gap analysis of published specimen data against the collection catalogue to prioritise digitisation for filling taxonomic, geographic, or other gaps."
+msgid "Identify sections of collections that should be digitised to answer specific questions"
 msgstr ""
 
 #. type: delimited block =
 #: 200.en.adoc:77
-msgid "Discover holdings that make a particular collection unique, and therefore of even higher value"
+msgid "Match gap analysis of published specimen data against the collection catalogue to prioritise digitisation for filling taxonomic, geographic, or other gaps."
 msgstr ""
 
 #. type: delimited block =
 #: 200.en.adoc:78
-msgid "Develop and fund collaborative digitisation programmes focused on understanding of the holdings of the network as a whole"
+msgid "Discover holdings that make a particular collection unique, and therefore of even higher value"
 msgstr ""
 
 #. type: delimited block =
 #: 200.en.adoc:79
-msgid "Develop cross-institutional loan systems and taxonomic workbenches"
+msgid "Develop and fund collaborative digitisation programmes focused on understanding of the holdings of the network as a whole"
 msgstr ""
 
 #. type: delimited block =
 #: 200.en.adoc:80
-msgid "Develop citation models for collections and track their impact"
+msgid "Develop cross-institutional loan systems and taxonomic workbenches"
 msgstr ""
 
 #. type: delimited block =
 #: 200.en.adoc:81
+msgid "Develop citation models for collections and track their impact"
+msgstr ""
+
+#. type: delimited block =
+#: 200.en.adoc:82
 msgid "Perform risk assessment of the health or stability of a collection"
 msgstr ""
 
@@ -725,7 +730,7 @@ msgstr ""
 
 #. type: Plain text
 #: 300.en.adoc:5
-msgid "A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed."
+msgid "A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl CETAF Collections Registry and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed."
 msgstr ""
 
 #. type: Title ===
