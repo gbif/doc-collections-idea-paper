@@ -34,6 +34,18 @@ v2.0, March 2020
 
 Updated from https://doi.org/10.15468/doc-wnsx-ep77[v1.0], 25 February 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen.
 
+The main changes from v1.0 are as follows:
+
+* Clarification in scope of consultation and definition of "natural history collection"
+* Additional topics and questions:
+** Improvements to citation and visibility for collections - Q8
+** Support for national and regional needs and applications - Q9
+** Identifiers for collections - Q11
+** Hierarchical collection structures and subcollections - Q12
+* Major edits to topic and questions:
+** Scope for the catalogue and definition of “collection” - Q10
+* Minor edits following preparatory webinars and input from Ana Casino and Luc Willemse
+
 === Cover image
 
 Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0].  
