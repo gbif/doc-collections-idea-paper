@@ -5,7 +5,7 @@ Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Roberts
 :numbered:
 :revnumber: {git-metadata-sha-short}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
-:title-logo-image: img/web/photo.jpg
+:title-logo-image: img/web/photo2.jpg
 :icons: font
 :pagenums:
 :license: https://creativecommons.org/licenses/by/4.0/
