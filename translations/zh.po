@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-03-27 02:54+0000\n"
-"PO-Revision-Date: 2020-03-27 03:06\n"
+"POT-Creation-Date: 2020-03-27 11:17+0000\n"
+"PO-Revision-Date: 2020-03-27 11:20\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -968,7 +968,7 @@ msgstr ""
 #. type: Title ===
 #: 400.en.adoc:46
 #, no-wrap
-msgid "Funding"
+msgid "Funding and sustainability"
 msgstr ""
 
 #. type: Plain text
