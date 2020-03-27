@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-03-24 23:35+0000\n"
+"POT-Creation-Date: 2020-03-27 01:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,18 +213,33 @@ msgstr ""
 #. type: Plain text
 #: background.en.adoc:4
 msgid ""
-"Information about natural history collections helps to map the research "
-"landscape and assists researchers in locating and contacting the holders of "
-"specimens. Collection records contribute to the development of a "
-"https://doi.org/10.3897/rio.2.e8767[fully interlinked biodiversity knowledge "
-"graph], showcasing the existence and importance of museums and herbaria and "
-"supplying context to available data on specimens. These records also "
-"potentially open new avenues for fresh use of these collections and for "
-"accelerating their full availability online."
+"This paper explores needs and opportunities around digital information and "
+"services associated with \"natural history collections\". This term is used "
+"here to refer particularly to institutional collections that hold preserved "
+"biological materials (specimens, tissues, DNA extracts, etc.). Several "
+"important use cases relate specifically to the role of these collections to "
+"support taxonomy and other fields of biological research. However, many of "
+"the requirements discussed here are common to other natural science "
+"collections, especially geoscience collections, living collections and "
+"privately-owned collections. We hope that this paper and the planned "
+"discussions will also address the needs of this wider community."
 msgstr ""
 
 #. type: Plain text
 #: background.en.adoc:6
+msgid ""
+"Information about natural history collections helps to map the complex "
+"landscape of research resources and assists researchers in locating and "
+"contacting the holders of specimens. Collection records contribute to the "
+"development of a https://doi.org/10.3897/rio.2.e8767[fully interlinked "
+"biodiversity knowledge graph], showcasing the existence and importance of "
+"museums and herbaria and supplying context to available data on "
+"specimens. These records also potentially open new avenues for fresh use of "
+"these collections and for accelerating their full availability online."
+msgstr ""
+
+#. type: Plain text
+#: background.en.adoc:8
 msgid ""
 "This document explores ideas for improved global collaboration to build, "
 "maintain and use a comprehensive *catalogue of the world’s natural history "
@@ -235,7 +250,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:8
+#: background.en.adoc:10
 msgid ""
 "Over the last few decades, the field of biodiversity informatics has "
 "developed to include researchers and informaticians from all over the world, "
@@ -244,7 +259,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:10
+#: background.en.adoc:12
 msgid ""
 "The focus of biodiversity informatics has largely been on species and other "
 "taxa (including their names, diagnostic characters and traits), natural "
@@ -259,7 +274,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:12
+#: background.en.adoc:14
 msgid ""
 "The biodiversity informatics community has also given attention to other "
 "categories of information that support these primary elements, especially "
@@ -270,7 +285,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:14
+#: background.en.adoc:16
 msgid ""
 "These collections are the repository for materials from centuries of "
 "international investment to collect, document, study and describe "
@@ -278,13 +293,14 @@ msgid ""
 "understanding of evolution and contemporary diversity. They provide the "
 "bridge between historical knowledge and continuing efforts to describe life "
 "on Earth. Many of their holdings are truly irreplaceable or give otherwise "
-"irrecoverable insights into past distributions and ecology. Information on "
-"the collections themselves is an important tool for accessing, enriching and "
+"irrecoverable insights into past distributions and ecology. Such insights "
+"are important also for modelling environmental futures. Information on the "
+"collections themselves is an important tool for accessing, enriching and "
 "using them."
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:15
+#: background.en.adoc:17
 msgid ""
 "Many established use cases for standardised collection information relate "
 "primarily to preserved biological collections. This paper treats these "
