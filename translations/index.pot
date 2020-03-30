@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-03-27 11:17+0000\n"
+"POT-Creation-Date: 2020-03-30 07:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,8 +59,8 @@ msgstr ""
 msgid ""
 "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, "
 "Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's "
-"Natural History Collections. v2.0. GBIF Secretariat: "
-"Copenhagen. https://doi.org/10.35035/p93g-te47."
+"Natural History Collections. v2.0. Copenhagen: GBIF "
+"Secretariat. https://doi.org/10.35035/p93g-te47."
 msgstr ""
 
 #. type: Title ==
@@ -176,10 +176,10 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid ""
-"Updated from https://doi.org/10.15468/doc-wnsx-ep77[v1.0], 25 February 2020: "
-"Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & "
-"Woodburn M (2020) Advancing the Catalogue of the World's Natural History "
-"Collections. v1.0. GBIF Secretariat: Copenhagen."
+"Updated from v1.0, published on 25 February 2020: Hobern D, Asase A, Groom "
+"Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the "
+"Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF "
+"Secretariat. https://doi.org/10.15468/doc-wnsx-ep77"
 msgstr ""
 
 #. type: Plain text
