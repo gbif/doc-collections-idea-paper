@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-31 07:29\n"
+"PO-Revision-Date: 2020-03-31 08:05\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -227,17 +227,17 @@ msgstr "背景"
 #. type: Plain text
 #: background.en.adoc:4
 msgid "This paper explores needs and opportunities around digital information and services associated with \"natural history collections\". This term is used here to refer particularly to institutional collections that hold preserved biological materials (specimens, tissues, DNA extracts, etc.). Several important use cases relate specifically to the role of these collections to support taxonomy and other fields of biological research. However, many of the requirements discussed here are common to other natural science collections, especially geoscience collections, living collections and privately-owned collections. We hope that this paper and the planned discussions will also address the needs of this wider community."
-msgstr ""
+msgstr "本文件探讨与“自然历史收藏”相关的数字信息和服务方面的需要和机会。 此处使用“自然历史收藏”这一术语特指保存生物材料（标本、组织、脱氧核糖核酸提取物等）的机构收藏。 有几个重要的使用案例具体涉及这些收藏在支持分类学和其他生物研究领域中的作用。 然而，这里讨论的许多要求与其他自然科学收藏是相同的，特别是地球科学收藏、活体收藏和私人拥有的收藏是相同的。 我们希望，这篇文章和计划的讨论也将满足这一更广泛的团体的需要。"
 
 #. type: Plain text
 #: background.en.adoc:6
 msgid "Information about natural history collections helps to map the complex landscape of research resources and assists researchers in locating and contacting the holders of specimens. Collection records contribute to the development of a https://doi.org/10.3897/rio.2.e8767[fully interlinked biodiversity knowledge graph], showcasing the existence and importance of museums and herbaria and supplying context to available data on specimens. These records also potentially open new avenues for fresh use of these collections and for accelerating their full availability online."
-msgstr ""
+msgstr "自然历史藏品的相关信息有助于绘制研究资源复杂的地形图，并有助于研究人员找到样品持有人并与他们联系。 收藏记录有助于绘制一张完全相互关联的生物多样性知识图表[https://doi.org/10.3897/rio.2.e8767]，展示出博物馆和植物标本室的存在及其重要性，并向现有的标本数据提供背景。 这些记录还可能开辟新的渠道，重新利用这些收藏品，并加快收藏品在网上的全面可获取性。"
 
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr ""
+msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使用一个全面的*世界自然历史收藏目录*。 每个想法都是作为一个单独的主题提出的，其中包括一系列问题，以引导在线讨论，https://www。 bif.org/news/6TvOkvpPlxRm5vHxljYN5/[_推进全国自然历史馆藏_]。"
 
 #. type: Plain text
 #: background.en.adoc:10
