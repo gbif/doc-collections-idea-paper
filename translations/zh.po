@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-31 08:05\n"
+"PO-Revision-Date: 2020-03-31 08:51\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -242,17 +242,17 @@ msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使
 #. type: Plain text
 #: background.en.adoc:10
 msgid "Over the last few decades, the field of biodiversity informatics has developed to include researchers and informaticians from all over the world, collaborating to bring together knowledge of the world’s species and ecosystems in a readily usable form."
-msgstr ""
+msgstr "过去几十年来，生物多样性信息学领域已经发展起来，来自世界各地的研究人员和信息学家协作整合关于全球物种和生态系统的知识，使之成为以便于使用的形式。"
 
 #. type: Plain text
 #: background.en.adoc:12
 msgid "The focus of biodiversity informatics has largely been on species and other taxa (including their names, diagnostic characters and traits), natural history specimens (including information on their collection in the field, their measurements, images, sequences, etc.), and field observations (including information on occurrence, distribution and abundance surveys, monitoring activities, citizen science, genomics and many other sources). These elements together help to address two fundamental challenges in biology: characterising the set of species with which we share the planet, and understanding the changing distribution, co-occurrence, interactions, and dynamics of these species in space and time."
-msgstr ""
+msgstr "生物多样性信息学的重点主要是物种和其他分类群（包括其名称、可鉴别特征和特性）， 自然历史标本(包括它们在实地收集的资料、它们的测量结果、图像、序列等) - 实地观察（包括关于发生率、分布和丰度调查、监测活动、citizen science、基因组学和许多其他来源的资料）。 这些因素结合在一起，有助于应对生物学方面的两项基本挑战：了解与我们共生于地球的一系列物种的特点， 并了解这些物种在空间和时间上不断变化的分布、共同发生、相互作用和动态。"
 
 #. type: Plain text
 #: background.en.adoc:14
 msgid "The biodiversity informatics community has also given attention to other categories of information that support these primary elements, especially through efforts to digitise the vast literature on taxonomy and biodiversity and work to develop a comprehensive catalogue of the world’s natural history collections, including museums, herbaria and a range of specialised collections."
-msgstr ""
+msgstr "生物多样性信息学界也关注支撑这些主要要素的其他各类信息。 特别是努力使关于分类学和生物多样性的大量文献数字化，并努力编制一份全球自然历史馆藏的综合目录， 包括博物馆、植物标本室和一系列专门收藏品。"
 
 #. type: Plain text
 #: background.en.adoc:16
