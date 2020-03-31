@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-31 10:35\n"
+"PO-Revision-Date: 2020-03-31 12:04\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -28,7 +28,7 @@ msgstr ""
 #. type: Plain text
 #: index.en.adoc:16
 msgid "_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._"
-msgstr "语言链接：pdf[此文件也可用于PDF格式]语言链接："
+msgstr "_languageLinks:pdf[此文件也可用于,PDF格式]languageLinks:[和其他语言:,]._"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
