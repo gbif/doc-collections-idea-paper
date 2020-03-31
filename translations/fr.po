@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 12:18+0000\n"
-"PO-Revision-Date: 2020-03-31 13:36\n"
+"PO-Revision-Date: 2020-03-31 15:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -18,12 +18,12 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Advancing the Catalogue of the World's Natural History Collections"
-msgstr ""
+msgstr "Progressant le Catalogue des Collections d'Histoire Naturelle du Monde"
 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn & Eliza Zschuschen"
-msgstr ""
+msgstr "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn, Eliza Zschuschen"
 
 #. type: Plain text
 #: index.en.adoc:16
@@ -112,7 +112,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:25
 msgid "Additional contributors to subsequent versions will be credited here."
-msgstr ""
+msgstr "Les contributeurs supplémentaires seront crédités ici dans les versions suivantes."
 
 #. type: Title ===
 #: colophon.en.adoc:26
@@ -123,7 +123,7 @@ msgstr "Licence"
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr ""
+msgstr "Le document _Progressant le Catalogue des Collections d'Histoire Naturelle du Monde_ est sous licence par https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:29
@@ -134,7 +134,7 @@ msgstr "URI permanent"
 #. type: Plain text
 #: colophon.en.adoc:31
 msgid "https://doi.org/10.35035/p93g-te47"
-msgstr ""
+msgstr "https://doi.org/10.35035/p93g-te47"
 
 #. type: Title ===
 #: colophon.en.adoc:32
