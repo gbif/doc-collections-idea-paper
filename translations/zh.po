@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-31 09:21\n"
+"PO-Revision-Date: 2020-03-31 10:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -262,18 +262,18 @@ msgstr "这些收藏品是几百年来国际投资收集、记录、研究和描
 #. type: Plain text
 #: background.en.adoc:17
 msgid "Many established use cases for standardised collection information relate primarily to preserved biological collections. This paper treats these collections as its core focus. However, we hope that the consultation will also explore two other closely related contexts: 1) geological collections (often held and managed by the same institutions as biological collections) and 2) living collections (overlapping significantly with the subject matter and research uses of preserved biological collections). We welcome inputs that address this wider scope."
-msgstr ""
+msgstr "许多已经确定的使用标准化收集信息的案例主要与保存的生物收藏品有关，本文将这些收藏品作为核心重点。 然而我们希望，这次consultation还将探讨另外两个密切相关的情况：⑴ 地质采集（往往由一样作为生物藏馆的机构进行和管理）和⑵ 活体采集（与主题事项大相径庭，研究如何使用保存的生物收藏品）。 我们欢迎更广范围的见解。"
 
 #. type: Title ==
 #: how-to.en.adoc:1
 #, no-wrap
 msgid "How to respond to this Ideas Paper"
-msgstr ""
+msgstr "如何回应此著作"
 
 #. type: Plain text
 #: how-to.en.adoc:4
 msgid "Read the sections below and contribute to developing a roadmap for collaborative activity to build the catalogue."
-msgstr ""
+msgstr "阅读下面的章节，并为协作活动制定一个roadmap做出贡献，以便完成编制目录。"
 
 #. type: Plain text
 #: how-to.en.adoc:6
