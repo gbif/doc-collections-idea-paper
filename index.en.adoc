@@ -12,8 +12,7 @@ Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Roberts
 :xrefstyle: short
 
 ifdef::backend-html5[]
-_languageLinks:pdf[This document is also available in,PDF format]._
-// Removed until a translation has some substance: languageLinks:languages[and in other languages:,]
+_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._
 endif::backend-html5[]
 
 :sectnums!:
