@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-30 15:43\n"
+"POT-Creation-Date: 2020-03-31 12:18+0000\n"
+"PO-Revision-Date: 2020-03-31 16:23\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -18,17 +18,17 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Advancing the Catalogue of the World's Natural History Collections"
-msgstr ""
+msgstr "Progressant le Catalogue des Collections d'Histoire Naturelle du Monde"
 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn & Eliza Zschuschen"
-msgstr ""
+msgstr "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn, Eliza Zschuschen"
 
 #. type: Plain text
 #: index.en.adoc:16
 msgid "_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._"
-msgstr ""
+msgstr "_languageLinks:pdf[Ce document est également disponible en,format PDF] et languageLinks:languages[dans d'autres langues :,.]_"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
@@ -51,7 +51,7 @@ msgstr "Suggestion de citation"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v2.0. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/p93g-te47."
-msgstr ""
+msgstr "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Preogressant le Catalogue des Collections d'Histoire Naturelle du Monde. v2.0. Copenhague: Secrétariat du GBIF. https://doi.org/10.35035/p93g-te47."
 
 #. type: Title ==
 #: colophon.en.adoc:11
@@ -62,57 +62,57 @@ msgstr "Contributeurs"
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life | International Barcode of Life"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life | International Barcode of Life"
 
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "https://orcid.org/0000-0003-0116-3445[Alex Asase], University of Ghana | GBIF Ghana"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-0116-3445[Alex Asase], Université du Ghana | GBIF Ghana"
 
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid "https://orcid.org/0000-0002-0596-5376[Quentin Groom], Meise Botanic Garden"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-0596-5376[Quentin Groom], Jardin Botanique Meise"
 
 #. type: Plain text
 #: colophon.en.adoc:17
 msgid "Maofang Luo, Chinese Academy of Sciences"
-msgstr ""
+msgstr "Maofang Luo, Académie Chinoise des Sciences"
 
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group"
 
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF Secretariat"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6215-3617[Tim Robertson], Secrétariat du GBIF"
 
 #. type: Plain text
 #: colophon.en.adoc:20
 msgid "https://orcid.org/0000-0002-4048-7728[Patrick Semal], Royal Belgian Institute of Natural Sciences | CETAF"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-4048-7728[Patrick Semal], Institut Royal des Sciences Naturelles de Belgique | CETAF"
 
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], New York Botanical Garden | Index Herbariorum"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], Jardin botanique de New York | Index Herbariorum"
 
 #. type: Plain text
 #: colophon.en.adoc:22
 msgid "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Natural History Museum, London | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Musée d'histoire naturelle, Londres | TDWG CD Interest Group"
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "Eliza Zschuschen, Suriname National Herbarium"
-msgstr ""
+msgstr "Eliza Zschuschen, Herbarium National du Suriname"
 
 #. type: Plain text
 #: colophon.en.adoc:25
 msgid "Additional contributors to subsequent versions will be credited here."
-msgstr ""
+msgstr "Les contributeurs supplémentaires seront crédités ici dans les versions suivantes."
 
 #. type: Title ===
 #: colophon.en.adoc:26
@@ -123,7 +123,7 @@ msgstr "Licence"
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr ""
+msgstr "Le document _Progressant le Catalogue des Collections d'Histoire Naturelle du Monde_ est licencié sous https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:29
@@ -134,7 +134,7 @@ msgstr "URI permanent"
 #. type: Plain text
 #: colophon.en.adoc:31
 msgid "https://doi.org/10.35035/p93g-te47"
-msgstr ""
+msgstr "https://doi.org/10.35035/p93g-te47"
 
 #. type: Title ===
 #: colophon.en.adoc:32
@@ -145,62 +145,62 @@ msgstr "Contrôle du document"
 #. type: Plain text
 #: colophon.en.adoc:34
 msgid "v2.0, March 2020"
-msgstr ""
+msgstr "v2.0, mars 2020"
 
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid "Updated from v1.0, published on 25 February 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-wnsx-ep77"
-msgstr ""
+msgstr "Mis à jour de la v1.0, publié le 25 février 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Progressant le Catalogue des Collections d'Histoire Naturelle du Monde. v1.0. Copenhague: Secrétariat du GBIF. https://doi.org/10.15468/doc-wnsx-ep77"
 
 #. type: Plain text
 #: colophon.en.adoc:38
 msgid "The main changes from v1.0 are as follows:"
-msgstr ""
+msgstr "Les changements principaux par rapport à la v1.0 sont ci-dessous :"
 
 #. type: Plain text
 #: colophon.en.adoc:40
 msgid "Clarification in scope of consultation and definition of \"natural history collection\""
-msgstr ""
+msgstr "Clarification du cadre de la consultation et définition d'une \"collection d'histoire naturelle\""
 
 #. type: Plain text
 #: colophon.en.adoc:41
 msgid "Additional topics and questions:"
-msgstr ""
+msgstr "Sujets et questions supplémentaires :"
 
 #. type: Plain text
 #: colophon.en.adoc:42
 msgid "Improvements to citation and visibility for collections - Q8"
-msgstr ""
+msgstr "Améliorations de la citation et de la visibilité pour les collections - Q8"
 
 #. type: Plain text
 #: colophon.en.adoc:43
 msgid "Support for national and regional needs and applications - Q9"
-msgstr ""
+msgstr "Soutien pour les besoins et les applications national et regional - Q9"
 
 #. type: Plain text
 #: colophon.en.adoc:44
 msgid "Identifiers for collections - Q11"
-msgstr ""
+msgstr "Identifiants pour les collections - Q11"
 
 #. type: Plain text
 #: colophon.en.adoc:45
 msgid "Hierarchical collection structures and subcollections - Q12"
-msgstr ""
+msgstr "Hiérarchie des structures de collection et des sous-collections - Q12"
 
 #. type: Plain text
 #: colophon.en.adoc:46
 msgid "Major edits to topic and questions:"
-msgstr ""
+msgstr "Modifications majeures au sujet et aux questions :"
 
 #. type: Plain text
 #: colophon.en.adoc:47
 msgid "Scope for the catalogue and definition of “collection” - Q10"
-msgstr ""
+msgstr "Cadre pour le catalogue et définition de la \"colleciton\" - Q10"
 
 #. type: Plain text
 #: colophon.en.adoc:48
 msgid "Minor edits following preparatory webinars and input from Ana Casino and Luc Willemse"
-msgstr ""
+msgstr "Modifications mineures suivant les webinaires préparatoires et des contributions de Ana Casino et Luc Willemse"
 
 #. type: Title ===
 #: colophon.en.adoc:49
@@ -211,7 +211,7 @@ msgstr "Image de couverture"
 #. type: Plain text
 #: colophon.en.adoc:52
 msgid "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
-msgstr ""
+msgstr "Maryland sematophyllum mousse (_Sematophyllum marylandicum_), collecté par W.R. Buck dans Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, États-Unis. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licencié sous http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:53
@@ -222,7 +222,7 @@ msgstr "<<<"
 #: background.en.adoc:1
 #, no-wrap
 msgid "Background"
-msgstr ""
+msgstr "Contexte"
 
 #. type: Plain text
 #: background.en.adoc:4

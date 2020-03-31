@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-31 12:04\n"
+"POT-Creation-Date: 2020-03-31 12:18+0000\n"
+"PO-Revision-Date: 2020-03-31 22:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -34,7 +34,7 @@ msgstr "_languageLinks:pdf[此文件也可用于,PDF格式]languageLinks:[和其
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "img/web/photo2.jpg"
-msgstr ""
+msgstr "img/web/photo2.jpg"
 
 #. type: Title ==
 #: colophon.en.adoc:6
@@ -134,7 +134,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:31
 msgid "https://doi.org/10.35035/p93g-te47"
-msgstr ""
+msgstr "https://doi.org/10.35035/p93g-te47"
 
 #. type: Title ===
 #: colophon.en.adoc:32
@@ -216,7 +216,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:53
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: background.en.adoc:1
@@ -237,7 +237,7 @@ msgstr "自然历史藏品的相关信息有助于绘制研究资源复杂的地
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使用一个全面的*世界自然历史收藏目录*。 每个想法都是作为一个单独的主题提出的，其中包括一系列问题，以引导在线讨论，https://www。 bif.org/news/6TvOkvpPlxRm5vHxljYN5/[_推进全国自然历史馆藏_]。"
+msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使用一个全面的*世界自然历史收藏目录*。 每个想法都是作为一个单独的主题提出的，其中包括一系列问题，以引导在线讨论，https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYN5/[_推进全国自然历史馆藏_]。"
 
 #. type: Plain text
 #: background.en.adoc:10
@@ -288,7 +288,7 @@ msgstr "您是否代表一个 *利益攸关者、项目、数据库、工具、�
 #. type: Plain text
 #: how-to.en.adoc:9
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] by 3 April 2020 to contribute significant ideas or examples that will add value to the online discussions."
-msgstr "请在2020年4月3日之前联系邮箱:dhobern@gbif.org[Donald Hobern]，以便提供重要的想法或例子，会使得在线讨论价值增加。"
+msgstr "请在2020年4月3日之前联系邮箱mailto:dhobern@gbif.org[Donald Hobern]，以便提供重要的想法或例子，会使得在线讨论价值增加。"
 
 #. type: Plain text
 #: how-to.en.adoc:10
