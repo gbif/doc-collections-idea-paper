@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-03-31 08:13+0000\n"
-"PO-Revision-Date: 2020-03-31 12:13\n"
+"POT-Creation-Date: 2020-03-31 12:18+0000\n"
+"PO-Revision-Date: 2020-03-31 13:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -25,10 +25,9 @@ msgstr ""
 msgid "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn & Eliza Zschuschen"
 msgstr ""
 
-#.  Removed until a translation has some substance: languageLinks:languages[and in other languages:,]
 #. type: Plain text
-#: index.en.adoc:17
-msgid "_languageLinks:pdf[This document is also available in,PDF format]._"
+#: index.en.adoc:16
+msgid "_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._"
 msgstr ""
 
 #. type: Target for macro image
