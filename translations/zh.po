@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-31 08:51\n"
+"PO-Revision-Date: 2020-03-31 09:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -257,7 +257,7 @@ msgstr "生物多样性信息学界也关注支撑这些主要要素的其他各
 #. type: Plain text
 #: background.en.adoc:16
 msgid "These collections are the repository for materials from centuries of international investment to collect, document, study and describe species. Specimens and other materials held in these collections anchor our understanding of evolution and contemporary diversity. They provide the bridge between historical knowledge and continuing efforts to describe life on Earth. Many of their holdings are truly irreplaceable or give otherwise irrecoverable insights into past distributions and ecology. Such insights are important also for modelling environmental futures. Information on the collections themselves is an important tool for accessing, enriching and using them."
-msgstr ""
+msgstr "这些收藏品是几百年来国际投资收集、记录、研究和描述物种的材料储存库。 这些收藏中的标本和其他材料巩固了我们对演变和当代多样性的理解。 它们构建了历史知识与形容地球上生命的不懈努力之间的桥梁。许多藏品确实是不可替代的，或者对过去的分布和生态提供了以其他方式无法复原的见解。 这种见解对于未来环境的建模也很重要。关于这些藏品本身的信息是获取、enriching和使用这些藏品的重要工具。"
 
 #. type: Plain text
 #: background.en.adoc:17
