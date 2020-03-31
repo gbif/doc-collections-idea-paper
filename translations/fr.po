@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 12:18+0000\n"
-"PO-Revision-Date: 2020-03-31 16:02\n"
+"PO-Revision-Date: 2020-03-31 16:23\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -77,37 +77,37 @@ msgstr "https://orcid.org/0000-0002-0596-5376[Quentin Groom], Jardin Botanique M
 #. type: Plain text
 #: colophon.en.adoc:17
 msgid "Maofang Luo, Chinese Academy of Sciences"
-msgstr ""
+msgstr "Maofang Luo, Académie Chinoise des Sciences"
 
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group"
 
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF Secretariat"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6215-3617[Tim Robertson], Secrétariat du GBIF"
 
 #. type: Plain text
 #: colophon.en.adoc:20
 msgid "https://orcid.org/0000-0002-4048-7728[Patrick Semal], Royal Belgian Institute of Natural Sciences | CETAF"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-4048-7728[Patrick Semal], Institut Royal des Sciences Naturelles de Belgique | CETAF"
 
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], New York Botanical Garden | Index Herbariorum"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], Jardin botanique de New York | Index Herbariorum"
 
 #. type: Plain text
 #: colophon.en.adoc:22
 msgid "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Natural History Museum, London | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Musée d'histoire naturelle, Londres | TDWG CD Interest Group"
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "Eliza Zschuschen, Suriname National Herbarium"
-msgstr ""
+msgstr "Eliza Zschuschen, Herbarium National du Suriname"
 
 #. type: Plain text
 #: colophon.en.adoc:25
