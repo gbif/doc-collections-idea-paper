@@ -6,7 +6,7 @@ endif::backend-html5[]
 == Colophon
 
 === Suggested citation
-Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v2.0. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/p93g-te47.
+Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v2.0. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/p93g-te47.
 
 == Contributors
 
@@ -32,7 +32,19 @@ https://doi.org/10.35035/p93g-te47
 === Document control
 v2.0, March 2020
 
-Updated from https://doi.org/10.15468/doc-wnsx-ep77[v1.0], 25 February 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. GBIF Secretariat: Copenhagen.
+Updated from v1.0, published on 25 February 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-wnsx-ep77
+
+The main changes from v1.0 are as follows:
+
+* Clarification in scope of consultation and definition of "natural history collection"
+* Additional topics and questions:
+** Improvements to citation and visibility for collections - Q8
+** Support for national and regional needs and applications - Q9
+** Identifiers for collections - Q11
+** Hierarchical collection structures and subcollections - Q12
+* Major edits to topic and questions:
+** Scope for the catalogue and definition of “collection” - Q10
+* Minor edits following preparatory webinars and input from Ana Casino and Luc Willemse
 
 === Cover image
 

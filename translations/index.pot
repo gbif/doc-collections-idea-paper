@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-03-30 15:07+0000\n"
+"POT-Creation-Date: 2020-03-31 08:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,8 +58,8 @@ msgstr ""
 msgid ""
 "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, "
 "Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's "
-"Natural History Collections. v2.0. GBIF Secretariat: "
-"Copenhagen. https://doi.org/10.35035/p93g-te47."
+"Natural History Collections. v2.0. Copenhagen: GBIF "
+"Secretariat. https://doi.org/10.35035/p93g-te47."
 msgstr ""
 
 #. type: Title ==
@@ -175,20 +175,74 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid ""
-"Updated from https://doi.org/10.15468/doc-wnsx-ep77[v1.0], 25 February 2020: "
-"Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & "
-"Woodburn M (2020) Advancing the Catalogue of the World's Natural History "
-"Collections. v1.0. GBIF Secretariat: Copenhagen."
+"Updated from v1.0, published on 25 February 2020: Hobern D, Asase A, Groom "
+"Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the "
+"Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF "
+"Secretariat. https://doi.org/10.15468/doc-wnsx-ep77"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:38
+msgid "The main changes from v1.0 are as follows:"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:40
+msgid ""
+"Clarification in scope of consultation and definition of \"natural history "
+"collection\""
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:41
+msgid "Additional topics and questions:"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:42
+msgid "Improvements to citation and visibility for collections - Q8"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:43
+msgid "Support for national and regional needs and applications - Q9"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:44
+msgid "Identifiers for collections - Q11"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:45
+msgid "Hierarchical collection structures and subcollections - Q12"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:46
+msgid "Major edits to topic and questions:"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:47
+msgid "Scope for the catalogue and definition of “collection” - Q10"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:48
+msgid ""
+"Minor edits following preparatory webinars and input from Ana Casino and Luc "
+"Willemse"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:37
+#: colophon.en.adoc:49
 #, no-wrap
 msgid "Cover image"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:40
+#: colophon.en.adoc:52
 msgid ""
 "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by "
 "W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, "
@@ -199,7 +253,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:41
+#: colophon.en.adoc:53
 msgid "<<<"
 msgstr ""
 
@@ -212,18 +266,33 @@ msgstr ""
 #. type: Plain text
 #: background.en.adoc:4
 msgid ""
-"Information about natural history collections helps to map the research "
-"landscape and assists researchers in locating and contacting the holders of "
-"specimens. Collection records contribute to the development of a "
-"https://doi.org/10.3897/rio.2.e8767[fully interlinked biodiversity knowledge "
-"graph], showcasing the existence and importance of museums and herbaria and "
-"supplying context to available data on specimens. These records also "
-"potentially open new avenues for fresh use of these collections and for "
-"accelerating their full availability online."
+"This paper explores needs and opportunities around digital information and "
+"services associated with \"natural history collections\". This term is used "
+"here to refer particularly to institutional collections that hold preserved "
+"biological materials (specimens, tissues, DNA extracts, etc.). Several "
+"important use cases relate specifically to the role of these collections to "
+"support taxonomy and other fields of biological research. However, many of "
+"the requirements discussed here are common to other natural science "
+"collections, especially geoscience collections, living collections and "
+"privately-owned collections. We hope that this paper and the planned "
+"discussions will also address the needs of this wider community."
 msgstr ""
 
 #. type: Plain text
 #: background.en.adoc:6
+msgid ""
+"Information about natural history collections helps to map the complex "
+"landscape of research resources and assists researchers in locating and "
+"contacting the holders of specimens. Collection records contribute to the "
+"development of a https://doi.org/10.3897/rio.2.e8767[fully interlinked "
+"biodiversity knowledge graph], showcasing the existence and importance of "
+"museums and herbaria and supplying context to available data on "
+"specimens. These records also potentially open new avenues for fresh use of "
+"these collections and for accelerating their full availability online."
+msgstr ""
+
+#. type: Plain text
+#: background.en.adoc:8
 msgid ""
 "This document explores ideas for improved global collaboration to build, "
 "maintain and use a comprehensive *catalogue of the world’s natural history "
@@ -234,7 +303,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:8
+#: background.en.adoc:10
 msgid ""
 "Over the last few decades, the field of biodiversity informatics has "
 "developed to include researchers and informaticians from all over the world, "
@@ -243,7 +312,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:10
+#: background.en.adoc:12
 msgid ""
 "The focus of biodiversity informatics has largely been on species and other "
 "taxa (including their names, diagnostic characters and traits), natural "
@@ -258,7 +327,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:12
+#: background.en.adoc:14
 msgid ""
 "The biodiversity informatics community has also given attention to other "
 "categories of information that support these primary elements, especially "
@@ -269,7 +338,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:14
+#: background.en.adoc:16
 msgid ""
 "These collections are the repository for materials from centuries of "
 "international investment to collect, document, study and describe "
@@ -277,13 +346,14 @@ msgid ""
 "understanding of evolution and contemporary diversity. They provide the "
 "bridge between historical knowledge and continuing efforts to describe life "
 "on Earth. Many of their holdings are truly irreplaceable or give otherwise "
-"irrecoverable insights into past distributions and ecology. Information on "
-"the collections themselves is an important tool for accessing, enriching and "
+"irrecoverable insights into past distributions and ecology. Such insights "
+"are important also for modelling environmental futures. Information on the "
+"collections themselves is an important tool for accessing, enriching and "
 "using them."
 msgstr ""
 
 #. type: Plain text
-#: background.en.adoc:15
+#: background.en.adoc:17
 msgid ""
 "Many established use cases for standardised collection information relate "
 "primarily to preserved biological collections. This paper treats these "
@@ -435,7 +505,10 @@ msgstr ""
 msgid ""
 "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG "
 "Collection Description Interest Group] has collected use cases for natural "
-"history collection information from several major stakeholders."
+"history collection information from several major stakeholders. In addition, "
+"major European projects, including https://www.icedig.eu/[ICEDIG], are "
+"preparing for the development of the https://www.dissco.eu/[DiSSCo] "
+"infrastructure by documenting use cases for collections."
 msgstr ""
 
 #. type: Title ===
@@ -511,13 +584,13 @@ msgstr ""
 msgid ""
 "The information needed to build the catalogue of collections closely matches "
 "the metadata required to publish a specimen dataset to GBIF and other "
-"portals. A collection record could be treated as a minimal first step, "
-"perhaps leading through processes such as Join The Dots and onwards to "
-"comprehensive digitisation. A comprehensive catalogue of such records could "
-"guide efforts to prioritise further digitisation, by highlighting "
-"collections with holdings of particular relevance or by assisting the "
-"development of collaborative digitisation networks like the ADBC Thematic "
-"Collection Networks."
+"portals. A record that describes a collection could be treated as a minimal "
+"first step, perhaps leading through processes such as Join The Dots and "
+"onwards to comprehensive digitisation. A comprehensive catalogue of such "
+"records could guide efforts to prioritise further digitisation, by "
+"highlighting collections with holdings of particular relevance or by "
+"assisting the development of collaborative digitisation networks like the "
+"ADBC Thematic Collection Networks."
 msgstr ""
 
 #. type: delimited block =
@@ -543,7 +616,7 @@ msgid ""
 "estimates and to assess the economic value of these irreplaceable "
 "holdings. This information may help to justify the scale of effort and "
 "funding needed to digitise collections and make their data accessible for "
-"universal and persistent use."
+"universal, reliable and persistent use."
 msgstr ""
 
 #. type: delimited block =
@@ -565,8 +638,8 @@ msgstr ""
 msgid ""
 "Accurate information on any collection can be used as a reference or as "
 "linked data associated with specimen records and other data objects. Users "
-"of specimen records need contextual information about the the collection "
-"that holds the specimen, for example to communicate with collection managers "
+"of specimen records need contextual information about the collection that "
+"holds the specimen, for example to communicate with collection managers "
 "about individual specimens, to offer corrections to specimen data, or simply "
 "to determine whether the collection is likely to hold quantities of similar "
 "specimens. It may be inefficient to embed all of this information within the "
@@ -604,7 +677,7 @@ msgid ""
 "formats for different portals, project documentation, metadata for other "
 "data, etc. This duplication results in confusion as outdated information "
 "remains on the web. Mechanisms that always link to a single continuously "
-"updated version would address these issues."
+"updated version (and a version history) would address these issues."
 msgstr ""
 
 #. type: delimited block =
@@ -625,15 +698,15 @@ msgstr ""
 #: 100.en.adoc:57
 msgid ""
 "A comprehensive directory could serve as a foundation for new tools that "
-"enhance taxonomic efforts and cooperation between all collections. One "
-"example might be the development of distributed loans systems or on-demand "
-"digitisation, as planned for the DiSSCo European Loans and Visits System "
-"(ELViS). A catalogue could also serve as a showcase for institutions to "
-"highlight their holdings and unique features, as in the visual concept "
-"shared by GBIF for collection pages. GBIF tracking and reporting on the use "
-"of biodiversity data in research publications could feed into new services "
-"that provide standard metrics and help collections to measure and report "
-"their impact."
+"enhance taxonomic efforts and cooperation between all collection "
+"holders. One example might be the development of distributed loans systems "
+"or on-demand digitisation, as planned for the DiSSCo European Loans and "
+"Visits System (ELViS). A catalogue could also serve as a showcase for "
+"institutions to highlight their holdings and unique features, as in the "
+"visual concept shared by GBIF for collection pages. GBIF tracking and "
+"reporting on the use of biodiversity data in research publications could "
+"feed into new services that provide standard metrics and help collections to "
+"measure and report their impact."
 msgstr ""
 
 #. type: delimited block =
@@ -742,7 +815,7 @@ msgid ""
 "explore needs and opportunities around other types of natural science "
 "collection. Some of these may fit readily within the scope of the "
 "catalogue. In other cases, work on the catalogue may offer benefits to these "
-"other communities. Note in particular: 1) mant institutions hold both "
+"other communities. Note in particular: 1) many institutions hold both "
 "biological and geological collections and may manage these as a unified "
 "whole; 2) DiSSCo includes geological collections within its scope, and other "
 "networks such as iDigBio include at least paleontological collections; 3) "
@@ -878,10 +951,10 @@ msgid ""
 "Natural Collections Description (NCD) standard). Existing networks and "
 "institutional schemes use a variety of different formats or variants of "
 "metadata standards for their collection records, as a result of which "
-"interoperability between these resources is limited. To overcome this "
-"barrier, clarity is needed around factors such as preferred standards and "
-"vocabularies, mandatory fields and compatibility between information in "
-"different formats."
+"interoperability between these resources (and hence data aggregation) is "
+"limited. To overcome this barrier, clarity is needed around factors such as "
+"preferred standards and vocabularies, mandatory fields and compatibility "
+"between information in different formats."
 msgstr ""
 
 #. type: delimited block =
@@ -1011,12 +1084,19 @@ msgstr ""
 #. type: delimited block =
 #: 200.en.adoc:73
 msgid ""
+"Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection "
+"digitisation dashboard] to monitor and highlight progress"
+msgstr ""
+
+#. type: delimited block =
+#: 200.en.adoc:74
+msgid ""
 "Discover the location of biological materials or the likely presence of "
 "biological materials for any taxon"
 msgstr ""
 
 #. type: delimited block =
-#: 200.en.adoc:74
+#: 200.en.adoc:75
 msgid ""
 "Develop discovery services for accessing information on type specimens or "
 "communicating with the relevant collection where the specimen is not "
@@ -1024,14 +1104,14 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: 200.en.adoc:75
+#: 200.en.adoc:76
 msgid ""
 "Identify sections of collections that should be digitised to answer specific "
 "questions"
 msgstr ""
 
 #. type: delimited block =
-#: 200.en.adoc:76
+#: 200.en.adoc:77
 msgid ""
 "Match gap analysis of published specimen data against the collection "
 "catalogue to prioritise digitisation for filling taxonomic, geographic, or "
@@ -1039,31 +1119,31 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: 200.en.adoc:77
+#: 200.en.adoc:78
 msgid ""
 "Discover holdings that make a particular collection unique, and therefore of "
 "even higher value"
 msgstr ""
 
 #. type: delimited block =
-#: 200.en.adoc:78
+#: 200.en.adoc:79
 msgid ""
 "Develop and fund collaborative digitisation programmes focused on "
 "understanding of the holdings of the network as a whole"
 msgstr ""
 
 #. type: delimited block =
-#: 200.en.adoc:79
+#: 200.en.adoc:80
 msgid "Develop cross-institutional loan systems and taxonomic workbenches"
 msgstr ""
 
 #. type: delimited block =
-#: 200.en.adoc:80
+#: 200.en.adoc:81
 msgid "Develop citation models for collections and track their impact"
 msgstr ""
 
 #. type: delimited block =
-#: 200.en.adoc:81
+#: 200.en.adoc:82
 msgid "Perform risk assessment of the health or stability of a collection"
 msgstr ""
 
@@ -1077,12 +1157,13 @@ msgstr ""
 #: 300.en.adoc:5
 msgid ""
 "A wide range of different tools are already in use for authoring collection "
-"metadata, curating partial catalogues such as IH, GRSciColl and national "
-"collections pages. These vary in their technical capabilities and "
-"sustainability. Some are well supported by existing communities and could "
-"form part of an interconnected solution. A goal for this consultation is to "
-"identify which components are mature and stable and can contribute to such a "
-"solution and to identify what other components may need to be developed."
+"metadata, curating partial catalogues such as IH, GRSciColl CETAF "
+"Collections Registry and national collections pages. These vary in their "
+"technical capabilities and sustainability. Some are well supported by "
+"existing communities and could form part of an interconnected solution. A "
+"goal for this consultation is to identify which components are mature and "
+"stable and can contribute to such a solution and to identify what other "
+"components may need to be developed."
 msgstr ""
 
 #. type: Title ===
@@ -1405,7 +1486,7 @@ msgstr ""
 #. type: Title ===
 #: 400.en.adoc:46
 #, no-wrap
-msgid "Funding"
+msgid "Funding and sustainability"
 msgstr ""
 
 #. type: Plain text

@@ -1,7 +1,7 @@
 [[technology-for-the-catalogue]]
 == Technology for the catalogue
 
-A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed.
+A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl CETAF Collections Registry and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed.
 
 === Pathways and tools for publishing collection records
 

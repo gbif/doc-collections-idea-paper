@@ -1,7 +1,7 @@
 [[uses-for-the-catalogue]]
 == Uses for the catalogue
 
-The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders.
+The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections.
 
 === A directory to support the collections community
 
@@ -21,7 +21,7 @@ Taxonomic studies and other research projects normally depend on researchers (or
 
 === A first step towards databasing collections
 
-The information needed to build the catalogue of collections closely matches the metadata required to publish a specimen dataset to GBIF and other portals. A collection record could be treated as a minimal first step, perhaps leading through processes such as Join The Dots and onwards to comprehensive digitisation. A comprehensive catalogue of such records could guide efforts to prioritise further digitisation, by highlighting collections with holdings of particular relevance or by assisting the development of collaborative digitisation networks like the ADBC Thematic Collection Networks.
+The information needed to build the catalogue of collections closely matches the metadata required to publish a specimen dataset to GBIF and other portals. A record that describes a collection could be treated as a minimal first step, perhaps leading through processes such as Join The Dots and onwards to comprehensive digitisation. A comprehensive catalogue of such records could guide efforts to prioritise further digitisation, by highlighting collections with holdings of particular relevance or by assisting the development of collaborative digitisation networks like the ADBC Thematic Collection Networks.
 
 ====
 *Q3*. Can publishing a collection record to a catalogue assist collections in moving towards full digitisation? What incentives or support do collections need to make this a worthwhile step?
@@ -29,7 +29,7 @@ The information needed to build the catalogue of collections closely matches the
 
 === Assessing the scale and value of collections
 
-Estimates of the number of specimens held by collections run into billions, but no definitive number exists. A catalogue could help to narrow these estimates and to assess the economic value of these irreplaceable holdings. This information may help to justify the scale of effort and funding needed to digitise collections and make their data accessible for universal and persistent use.
+Estimates of the number of specimens held by collections run into billions, but no definitive number exists. A catalogue could help to narrow these estimates and to assess the economic value of these irreplaceable holdings. This information may help to justify the scale of effort and funding needed to digitise collections and make their data accessible for universal, reliable and persistent use.
 
 ====
 *Q4*. Would more accurate estimates of the scale and value of collections be useful? How might these be used and by whom?
@@ -37,7 +37,7 @@ Estimates of the number of specimens held by collections run into billions, but 
 
 === Increased value for data on specimens, taxonomic publications, etc.
 
-Accurate information on any collection can be used as a reference or as linked data associated with specimen records and other data objects. Users of specimen records need contextual information about the the collection that holds the specimen, for example to communicate with collection managers about individual specimens, to offer corrections to specimen data, or simply to determine whether the collection is likely to hold quantities of similar specimens. It may be inefficient to embed all of this information within the specimen record. Holding a single authoritative copy assists with keeping the collection information current. The collection record may also contain information on taxonomic or geographic scope or other aspects that can resolve potential ambiguities within a specimen record. Links to current collection records will also enhance taxonomic publications referencing their materials. This is particularly important because catalogue numbers and other specimen identifiers used in publications may not link to digitised information on the specimens. Linking to the collection simplifies future access and may enable digital links to be inferred in future.
+Accurate information on any collection can be used as a reference or as linked data associated with specimen records and other data objects. Users of specimen records need contextual information about the collection that holds the specimen, for example to communicate with collection managers about individual specimens, to offer corrections to specimen data, or simply to determine whether the collection is likely to hold quantities of similar specimens. It may be inefficient to embed all of this information within the specimen record. Holding a single authoritative copy assists with keeping the collection information current. The collection record may also contain information on taxonomic or geographic scope or other aspects that can resolve potential ambiguities within a specimen record. Links to current collection records will also enhance taxonomic publications referencing their materials. This is particularly important because catalogue numbers and other specimen identifiers used in publications may not link to digitised information on the specimens. Linking to the collection simplifies future access and may enable digital links to be inferred in future.
 
 ====
 *Q5*. How could a comprehensive collections catalogue contribute to improvements to other categories of biodiversity data? What requirements would these improvements place on the catalogue?
@@ -45,7 +45,7 @@ Accurate information on any collection can be used as a reference or as linked d
 
 === Reducing duplication of effort
 
-Although no complete catalogue of collections exists, the need for such information leads to such data repeatedly being published in different formats for different portals, project documentation, metadata for other data, etc. This duplication results in confusion as outdated information remains on the web. Mechanisms that always link to a single continuously updated version would address these issues.
+Although no complete catalogue of collections exists, the need for such information leads to such data repeatedly being published in different formats for different portals, project documentation, metadata for other data, etc. This duplication results in confusion as outdated information remains on the web. Mechanisms that always link to a single continuously updated version (and a version history) would address these issues.
 
 ====
 *Q6*. Can we identify savings in time and costs that would arise from a well-managed shared catalogue of collections?
@@ -53,7 +53,7 @@ Although no complete catalogue of collections exists, the need for such informat
 
 === Foundation for new and enriched services
 
-A comprehensive directory could serve as a foundation for new tools that enhance taxonomic efforts and cooperation between all collections. One example might be the development of distributed loans systems or on-demand digitisation, as planned for the DiSSCo European Loans and Visits System (ELViS). A catalogue could also serve as a showcase for institutions to highlight their holdings and unique features, as in the visual concept shared by GBIF for collection pages. GBIF tracking and reporting on the use of biodiversity data in research publications could feed into new services that provide standard metrics and help collections to measure and report their impact.
+A comprehensive directory could serve as a foundation for new tools that enhance taxonomic efforts and cooperation between all collection holders. One example might be the development of distributed loans systems or on-demand digitisation, as planned for the DiSSCo European Loans and Visits System (ELViS). A catalogue could also serve as a showcase for institutions to highlight their holdings and unique features, as in the visual concept shared by GBIF for collection pages. GBIF tracking and reporting on the use of biodiversity data in research publications could feed into new services that provide standard metrics and help collections to measure and report their impact.
 
 ====
 *Q7*. What other services could be developed on the foundations of a collection catalogue? Would these attract investment to fund the development and support the maintenance of the catalogue?
