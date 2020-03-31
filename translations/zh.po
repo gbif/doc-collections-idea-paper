@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-31 06:49\n"
+"PO-Revision-Date: 2020-03-31 07:29\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -28,7 +28,7 @@ msgstr ""
 #. type: Plain text
 #: index.en.adoc:16
 msgid "_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._"
-msgstr ""
+msgstr "语言链接：pdf[此文件也可用于PDF格式]语言链接："
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
@@ -62,7 +62,7 @@ msgstr "参与者"
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life | International Barcode of Life"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], 生命目录|国际生命编码。"
 
 #. type: Plain text
 #: colophon.en.adoc:15
@@ -165,12 +165,12 @@ msgstr "澄清协商范围和“自然历史收藏”的定义"
 #. type: Plain text
 #: colophon.en.adoc:41
 msgid "Additional topics and questions:"
-msgstr "追加主题和问题："
+msgstr "追加专题和问题："
 
 #. type: Plain text
 #: colophon.en.adoc:42
 msgid "Improvements to citation and visibility for collections - Q8"
-msgstr "改进引文和收藏品的可见度 - Q8"
+msgstr "改进引文和馆藏品的可见度 - Q8"
 
 #. type: Plain text
 #: colophon.en.adoc:43
@@ -180,33 +180,33 @@ msgstr "支持国家和区域的需要和应用 - Q9"
 #. type: Plain text
 #: colophon.en.adoc:44
 msgid "Identifiers for collections - Q11"
-msgstr "收藏品的标识符 - Q11"
+msgstr "馆藏品的标识符 - Q11"
 
 #. type: Plain text
 #: colophon.en.adoc:45
 msgid "Hierarchical collection structures and subcollections - Q12"
-msgstr ""
+msgstr "馆藏分类结构和子收藏 - Q12"
 
 #. type: Plain text
 #: colophon.en.adoc:46
 msgid "Major edits to topic and questions:"
-msgstr ""
+msgstr "专题和问题的主要编辑："
 
 #. type: Plain text
 #: colophon.en.adoc:47
 msgid "Scope for the catalogue and definition of “collection” - Q10"
-msgstr ""
+msgstr "目录范围和“收藏”定义 - Q10"
 
 #. type: Plain text
 #: colophon.en.adoc:48
 msgid "Minor edits following preparatory webinars and input from Ana Casino and Luc Willemse"
-msgstr ""
+msgstr "根据预备性网络研讨会和Ana Cisino和Luc Willemse提供的信息进行的小修改"
 
 #. type: Title ===
 #: colophon.en.adoc:49
 #, no-wrap
 msgid "Cover image"
-msgstr ""
+msgstr "封面图片"
 
 #. type: Plain text
 #: colophon.en.adoc:52
@@ -222,7 +222,7 @@ msgstr ""
 #: background.en.adoc:1
 #, no-wrap
 msgid "Background"
-msgstr ""
+msgstr "背景"
 
 #. type: Plain text
 #: background.en.adoc:4
