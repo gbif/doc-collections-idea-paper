@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-31 12:04\n"
+"POT-Creation-Date: 2020-03-31 08:13+0000\n"
+"PO-Revision-Date: 2020-03-31 12:13\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -25,10 +25,11 @@ msgstr "推进《世界自然历史收藏目录》"
 msgid "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn & Eliza Zschuschen"
 msgstr ""
 
+#.  Removed until a translation has some substance: languageLinks:languages[and in other languages:,]
 #. type: Plain text
-#: index.en.adoc:16
-msgid "_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._"
-msgstr "_languageLinks:pdf[此文件也可用于,PDF格式]languageLinks:[和其他语言:,]._"
+#: index.en.adoc:17
+msgid "_languageLinks:pdf[This document is also available in,PDF format]._"
+msgstr ""
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
@@ -216,7 +217,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:53
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: background.en.adoc:1
@@ -288,7 +289,7 @@ msgstr "您是否代表一个 *利益攸关者、项目、数据库、工具、�
 #. type: Plain text
 #: how-to.en.adoc:9
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] by 3 April 2020 to contribute significant ideas or examples that will add value to the online discussions."
-msgstr "请在2020年4月3日之前联系邮箱:dhobern@gbif.org[Donald Hobern]，以便提供重要的想法或例子，会使得在线讨论价值增加。"
+msgstr "请在2020年4月3日之前联系邮箱mailto:dhobern@gbif.org[Donald Hobern]，以便提供重要的想法或例子，会使得在线讨论价值增加。"
 
 #. type: Plain text
 #: how-to.en.adoc:10
