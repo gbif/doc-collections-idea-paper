@@ -10,6 +10,7 @@ Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Roberts
 :pagenums:
 :license: https://creativecommons.org/licenses/by/4.0/
 :xrefstyle: short
+:scripts: cjk
 
 ifdef::backend-html5[]
 _languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._
