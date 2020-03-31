@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 12:18+0000\n"
-"PO-Revision-Date: 2020-03-31 15:41\n"
+"PO-Revision-Date: 2020-03-31 15:55\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -123,7 +123,7 @@ msgstr "Licence"
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr "Le document _Progressant le Catalogue des Collections d'Histoire Naturelle du Monde_ est sous licence par https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
+msgstr "Le document _Progressant le Catalogue des Collections d'Histoire Naturelle du Monde_ est licencié sous https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:29
@@ -175,32 +175,32 @@ msgstr "Améliorations de la citation et de la visibilité pour les collections 
 #. type: Plain text
 #: colophon.en.adoc:43
 msgid "Support for national and regional needs and applications - Q9"
-msgstr ""
+msgstr "Soutien pour les besoins et les applications national et regional - Q9"
 
 #. type: Plain text
 #: colophon.en.adoc:44
 msgid "Identifiers for collections - Q11"
-msgstr ""
+msgstr "Identifiants pour les collections - Q11"
 
 #. type: Plain text
 #: colophon.en.adoc:45
 msgid "Hierarchical collection structures and subcollections - Q12"
-msgstr ""
+msgstr "Hiérarchie des structures de collection et des sous-collections - Q12"
 
 #. type: Plain text
 #: colophon.en.adoc:46
 msgid "Major edits to topic and questions:"
-msgstr ""
+msgstr "Modifications majeures au sujet et aux questions :"
 
 #. type: Plain text
 #: colophon.en.adoc:47
 msgid "Scope for the catalogue and definition of “collection” - Q10"
-msgstr ""
+msgstr "Cadre pour le catalogue et définition de la \"colleciton\" - Q10"
 
 #. type: Plain text
 #: colophon.en.adoc:48
 msgid "Minor edits following preparatory webinars and input from Ana Casino and Luc Willemse"
-msgstr ""
+msgstr "Modifications mineures suivant les webinaires préparatoires et des contributions de Ana Casino et Luc Willemse"
 
 #. type: Title ===
 #: colophon.en.adoc:49
@@ -211,7 +211,7 @@ msgstr "Image de couverture"
 #. type: Plain text
 #: colophon.en.adoc:52
 msgid "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
-msgstr ""
+msgstr "Maryland sematophyllum mousse (_Sematophyllum marylandicum_), collecté par W.R. Buck dans Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, États-Unis. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licencié sous http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:53
@@ -222,7 +222,7 @@ msgstr "<<<"
 #: background.en.adoc:1
 #, no-wrap
 msgid "Background"
-msgstr ""
+msgstr "Contexte"
 
 #. type: Plain text
 #: background.en.adoc:4
