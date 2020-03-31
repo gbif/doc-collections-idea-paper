@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 12:18+0000\n"
-"PO-Revision-Date: 2020-03-31 15:36\n"
+"PO-Revision-Date: 2020-03-31 15:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -160,17 +160,17 @@ msgstr "Les changements principaux par rapport à la v1.0 sont ci-dessous :"
 #. type: Plain text
 #: colophon.en.adoc:40
 msgid "Clarification in scope of consultation and definition of \"natural history collection\""
-msgstr ""
+msgstr "Clarification du cadre de la consultation et définition d'une \"collection d'histoire naturelle\""
 
 #. type: Plain text
 #: colophon.en.adoc:41
 msgid "Additional topics and questions:"
-msgstr ""
+msgstr "Sujets et questions supplémentaires :"
 
 #. type: Plain text
 #: colophon.en.adoc:42
 msgid "Improvements to citation and visibility for collections - Q8"
-msgstr ""
+msgstr "Améliorations de la citation et de la visibilité pour les collections - Q8"
 
 #. type: Plain text
 #: colophon.en.adoc:43
