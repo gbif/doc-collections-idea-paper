@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-31 10:15\n"
+"PO-Revision-Date: 2020-03-31 10:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -278,27 +278,27 @@ msgstr "阅读下面的章节，并为协作活动制定一个roadmap做出贡�
 #. type: Plain text
 #: how-to.en.adoc:6
 msgid "We welcome contributions as follows:"
-msgstr ""
+msgstr "我们欢迎以下方面的贡献："
 
 #. type: Plain text
 #: how-to.en.adoc:8
 msgid "Do you represent a *stakeholder, project, database, tool, standard or community* that addresses some aspect of the topics outlined here, or do you have ideas for novel approaches to mobilise or use information on collections?"
-msgstr ""
+msgstr "您是否代表一个 *利益攸关者、项目、数据库、工具、标准或群体* 来处理这里概述的主题的某些方面。 或者您是否有全新调动或使用收藏品信息的方法呢？"
 
 #. type: Plain text
 #: how-to.en.adoc:9
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] by 3 April 2020 to contribute significant ideas or examples that will add value to the online discussions."
-msgstr ""
+msgstr "请在2020年4月3日之前联系邮箱:dhobern@gbif.org[Donald Hobern]，以便提供重要的想法或例子，会使得在线讨论价值增加。"
 
 #. type: Plain text
 #: how-to.en.adoc:10
 msgid "We welcome short documents or slide presentations that can be shared on the consultation website."
-msgstr ""
+msgstr "我们欢迎可以在讨论网站上分享的简短文件或幻灯片陈述材料。"
 
 #. type: Plain text
 #: how-to.en.adoc:11
 msgid "If presentations are unlikely to be clear without further explanation, please modify the slides or consider supplying the presentation as a pre-recorded video with audio commentary."
-msgstr ""
+msgstr "如果不作进一步解释，陈述无法做到清晰明了， 请修改幻灯片或考虑以附有音频评论的预制视频方式呈现。"
 
 #. type: Plain text
 #: how-to.en.adoc:12
