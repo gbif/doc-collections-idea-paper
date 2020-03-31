@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-30 15:23+0000\n"
-"PO-Revision-Date: 2020-03-30 15:43\n"
+"PO-Revision-Date: 2020-03-31 06:49\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Advancing the Catalogue of the World's Natural History Collections"
-msgstr ""
+msgstr "推进《世界自然历史收藏目录》"
 
 #. type: Plain text
 #: index.en.adoc:3
@@ -40,13 +40,13 @@ msgstr ""
 #: colophon.en.adoc:6
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "版权标记"
 
 #. type: Title ===
 #: colophon.en.adoc:8
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "推荐引用格式"
 
 #. type: Plain text
 #: colophon.en.adoc:10
@@ -57,7 +57,7 @@ msgstr ""
 #: colophon.en.adoc:11
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "参与者"
 
 #. type: Plain text
 #: colophon.en.adoc:14
@@ -77,7 +77,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:17
 msgid "Maofang Luo, Chinese Academy of Sciences"
-msgstr ""
+msgstr "中国科学院 Maofang Luo"
 
 #. type: Plain text
 #: colophon.en.adoc:18
@@ -112,18 +112,18 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:25
 msgid "Additional contributors to subsequent versions will be credited here."
-msgstr ""
+msgstr "后续版本的其他贡献者将在此记入。"
 
 #. type: Title ===
 #: colophon.en.adoc:26
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "授权条款"
 
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr ""
+msgstr "推进《全球自然历史馆藏目录》文档授权于https://creativecommons.org/licenses/by/4.0[知识共享署名4.0本地化许可协议]。"
 
 #. type: Title ===
 #: colophon.en.adoc:29
@@ -140,47 +140,47 @@ msgstr ""
 #: colophon.en.adoc:32
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "文档控制"
 
 #. type: Plain text
 #: colophon.en.adoc:34
 msgid "v2.0, March 2020"
-msgstr ""
+msgstr "2.0版本，2020年3月"
 
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid "Updated from v1.0, published on 25 February 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-wnsx-ep77"
-msgstr ""
+msgstr "由2020年2月25日出版的1.0版本更新： Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-wnsx-ep77"
 
 #. type: Plain text
 #: colophon.en.adoc:38
 msgid "The main changes from v1.0 are as follows:"
-msgstr ""
+msgstr "与1.0版本不同的主要变化如下："
 
 #. type: Plain text
 #: colophon.en.adoc:40
 msgid "Clarification in scope of consultation and definition of \"natural history collection\""
-msgstr ""
+msgstr "澄清协商范围和“自然历史收藏”的定义"
 
 #. type: Plain text
 #: colophon.en.adoc:41
 msgid "Additional topics and questions:"
-msgstr ""
+msgstr "追加主题和问题："
 
 #. type: Plain text
 #: colophon.en.adoc:42
 msgid "Improvements to citation and visibility for collections - Q8"
-msgstr ""
+msgstr "改进引文和收藏品的可见度 - Q8"
 
 #. type: Plain text
 #: colophon.en.adoc:43
 msgid "Support for national and regional needs and applications - Q9"
-msgstr ""
+msgstr "支持国家和区域的需要和应用 - Q9"
 
 #. type: Plain text
 #: colophon.en.adoc:44
 msgid "Identifiers for collections - Q11"
-msgstr ""
+msgstr "收藏品的标识符 - Q11"
 
 #. type: Plain text
 #: colophon.en.adoc:45
