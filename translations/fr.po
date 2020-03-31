@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 12:18+0000\n"
-"PO-Revision-Date: 2020-03-31 15:26\n"
+"PO-Revision-Date: 2020-03-31 15:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -145,17 +145,17 @@ msgstr "Contrôle du document"
 #. type: Plain text
 #: colophon.en.adoc:34
 msgid "v2.0, March 2020"
-msgstr ""
+msgstr "v2.0, mars 2020"
 
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid "Updated from v1.0, published on 25 February 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-wnsx-ep77"
-msgstr ""
+msgstr "Mis à jour de la v1.0, publié le 25 février 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Progressant le Catalogue des Collections d'Histoire Naturelle du Monde. v1.0. Copenhague: Secrétariat du GBIF. https://doi.org/10.15468/doc-wnsx-ep77"
 
 #. type: Plain text
 #: colophon.en.adoc:38
 msgid "The main changes from v1.0 are as follows:"
-msgstr ""
+msgstr "Les changements principaux par rapport à la v1.0 sont ci-dessous :"
 
 #. type: Plain text
 #: colophon.en.adoc:40
