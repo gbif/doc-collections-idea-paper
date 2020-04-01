@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-01 04:25\n"
+"PO-Revision-Date: 2020-04-01 04:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -308,32 +308,32 @@ msgstr "请保持所有材料简短和有针对性，以便读者或浏览者能
 #. type: Plain text
 #: how-to.en.adoc:13
 msgid "Would you like to *review the preparatory webinars* outlining the scope and plan for the consultation?"
-msgstr ""
+msgstr "您是否希望查看网络研讨会概述范围并为之做准备计划？"
 
 #. type: Plain text
 #: how-to.en.adoc:14
 msgid "Recordings are available online on https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] and https://vimeo.com/showcase/6859611[Vimeo]."
-msgstr ""
+msgstr "录制材料可在网上查阅：https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] 和 https://vimeo.com/showcase/6859611[Vimeo]。"
 
 #. type: Plain text
 #: how-to.en.adoc:15
 msgid "Would you like to *contribute to the online discussions* for the consultation?"
-msgstr ""
+msgstr "您愿意参与到此次在线咨询会议的讨论中吗？"
 
 #. type: Plain text
 #: how-to.en.adoc:16
 msgid "Please register to join the consultation community on the GBIF Discourse site."
-msgstr ""
+msgstr "请注册以加入在 GBIF Discourse 网站上的咨询社区。"
 
 #. type: Plain text
 #: how-to.en.adoc:17
 msgid "Discussions will take place between 17 and 29 April 2020."
-msgstr ""
+msgstr "讨论将在2020年4月17日至29日进行。"
 
 #. type: Plain text
 #: how-to.en.adoc:18
 msgid "We will keep you informed as more information is added to the site and ensure that you receive regular updates during the consultation"
-msgstr ""
+msgstr "我们将随时向您通报网站新增信息并确保您在此咨询会议期间收到定期更新。"
 
 #. type: Plain text
 #: how-to.en.adoc:19
