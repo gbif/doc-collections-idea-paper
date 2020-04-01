@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-01 07:48\n"
+"PO-Revision-Date: 2020-04-01 09:50\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -123,7 +123,7 @@ msgstr "授权条款"
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr "推进《全球自然历史馆藏目录》文档授权于https://creativecommons.org/licenses/by/4.0[知识共享署名4.0本地化许可协议]。"
+msgstr "推进《全球自然历史馆藏目录》文档授权于link:https://creativecommons.org/licenses/by/4.0[知识共享署名4.0本地化许可协议]。"
 
 #. type: Title ===
 #: colophon.en.adoc:29
@@ -232,7 +232,7 @@ msgstr "本文件探讨与“自然历史收藏”相关的数字信息和服务
 #. type: Plain text
 #: background.en.adoc:6
 msgid "Information about natural history collections helps to map the complex landscape of research resources and assists researchers in locating and contacting the holders of specimens. Collection records contribute to the development of a https://doi.org/10.3897/rio.2.e8767[fully interlinked biodiversity knowledge graph], showcasing the existence and importance of museums and herbaria and supplying context to available data on specimens. These records also potentially open new avenues for fresh use of these collections and for accelerating their full availability online."
-msgstr "自然历史藏品的相关信息有助于绘制研究资源复杂的地形图，并有助于研究人员找到样品持有人并与他们联系。 收藏记录有助于绘制一张完全相互关联的生物多样性知识图表[https://doi.org/10.3897/rio.2.e8767]，展示出博物馆和植物标本室的存在及其重要性，并向现有的标本数据提供背景。 这些记录还可能开辟新的渠道，重新利用这些收藏品，并加快收藏品在网上的全面可获取性。"
+msgstr "自然历史藏品的相关信息有助于绘制研究资源复杂的地形图，并有助于研究人员找到样品持有人并与他们联系。 收藏记录有助于绘制一张link:https://doi.org/10.3897/rio.2.e8767[完全相互关联的生物多样性知识图表]，展示出博物馆和植物标本室的存在及其重要性，并向现有的标本数据提供背景。 这些记录还可能开辟新的渠道，重新利用这些收藏品，并加快收藏品在网上的全面可获取性。"
 
 #. type: Plain text
 #: background.en.adoc:8
@@ -353,7 +353,7 @@ msgstr "我们欢迎协助将这些讨论内容翻译成各种语言，使所有
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] if you are interested in helping."
-msgstr "如果您有兴趣提供帮助，请联系邮箱:dhobern@gbif.org[Donald Hobern]。"
+msgstr "如果您有兴趣提供帮助，请联系mailto:dhobern@gbif.org[Donald Hobern]。"
 
 #. type: Title ==
 #: 100.en.adoc:2
@@ -364,7 +364,7 @@ msgstr "目录的使用"
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr "https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG 收藏描述兴趣小组]已经从几个主要利益攸关方收集了一些自然历史收藏信息的使用案例。 此外，包括https://www.icedig.eu/[ICEDIG]在内的主要欧洲项目正在准备通过记录藏品的使用案例构建https://www。 issco.eu/[DiSSCo] 信息基础构架。"
+msgstr "https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG 收藏描述兴趣小组]已经从几个主要利益攸关方收集了一些自然历史收藏信息的使用案例。 此外，包括link:https://www.icedig.eu/[ICEDIG]在内的主要欧洲项目正在准备通过记录藏品的使用案例构建link:https://www.issco.eu/[DiSSCo]信息基础构架。"
 
 #. type: Title ===
 #: 100.en.adoc:6
@@ -398,13 +398,13 @@ msgstr "分类学研究和其他研究项目通常依靠研究人员（或其认
 #: 100.en.adoc:20
 #, no-wrap
 msgid "*Q2*. Would summary information on every collection’s materials be a useful tool? Who would use this information? What is the minimum level of information (and what is ideal) to support these users?\n"
-msgstr ""
+msgstr "*Q2*。每个收藏品相关材料的摘要信息是否是有用的工具？谁会使用这种信息？能帮助到这些用户的最少信息水平是多少(以及什么才是理想水平？）\n"
 
 #. type: Title ===
 #: 100.en.adoc:22
 #, no-wrap
 msgid "A first step towards databasing collections"
-msgstr ""
+msgstr "建立馆藏数据库的第一步。"
 
 #. type: Plain text
 #: 100.en.adoc:25
