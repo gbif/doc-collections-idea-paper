@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-03-31 12:18+0000\n"
-"PO-Revision-Date: 2020-03-31 22:00\n"
+"POT-Creation-Date: 2020-03-31 22:03+0000\n"
+"PO-Revision-Date: 2020-04-01 07:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -26,7 +26,7 @@ msgid "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim 
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:16
+#: index.en.adoc:17
 msgid "_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._"
 msgstr "_languageLinks:pdf[此文件也可用于,PDF格式]languageLinks:[和其他语言:,]._"
 
@@ -303,96 +303,96 @@ msgstr "如果不作进一步解释，陈述无法做到清晰明了， 请修�
 #. type: Plain text
 #: how-to.en.adoc:12
 msgid "Please keep all materials brief and focused, so that a reader or viewer could assimilate the ideas within fifteen minutes or (ideally) less."
-msgstr ""
+msgstr "请保持所有材料简短和有针对性，以便读者或浏览者能够在十五分钟或（理想化）更少时间内明白您的观点大意。"
 
 #. type: Plain text
 #: how-to.en.adoc:13
 msgid "Would you like to *review the preparatory webinars* outlining the scope and plan for the consultation?"
-msgstr ""
+msgstr "您是否希望查看网络研讨会概述范围并为之做准备计划？"
 
 #. type: Plain text
 #: how-to.en.adoc:14
 msgid "Recordings are available online on https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] and https://vimeo.com/showcase/6859611[Vimeo]."
-msgstr ""
+msgstr "录制材料可在网上查阅：https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] 和 https://vimeo.com/showcase/6859611[Vimeo]。"
 
 #. type: Plain text
 #: how-to.en.adoc:15
 msgid "Would you like to *contribute to the online discussions* for the consultation?"
-msgstr ""
+msgstr "您愿意参与到此次在线咨询会议的讨论中吗？"
 
 #. type: Plain text
 #: how-to.en.adoc:16
 msgid "Please register to join the consultation community on the GBIF Discourse site."
-msgstr ""
+msgstr "请注册以加入在 GBIF Discourse 网站上的咨询社区。"
 
 #. type: Plain text
 #: how-to.en.adoc:17
 msgid "Discussions will take place between 17 and 29 April 2020."
-msgstr ""
+msgstr "讨论将在2020年4月17日至29日进行。"
 
 #. type: Plain text
 #: how-to.en.adoc:18
 msgid "We will keep you informed as more information is added to the site and ensure that you receive regular updates during the consultation"
-msgstr ""
+msgstr "我们将随时向您通报网站新增信息并确保您在此咨询会议期间收到定期更新。"
 
 #. type: Plain text
 #: how-to.en.adoc:19
 msgid "Will you be able to expand the relevance of the consultation by *translating short summary updates* into languages other than English?"
-msgstr ""
+msgstr "您是否能够通过*将简短的摘要更新*翻译成英文以外的其他语言来扩大咨询的相关性？"
 
 #. type: Plain text
 #: how-to.en.adoc:20
 msgid "We expect to circulate regular short summaries (a few paragraphs every day or two) to all participants during the main consultation period to keep the discussion focused, summarise agreement, and highlight new ideas and questions."
-msgstr ""
+msgstr "我们期望在集中咨询期间向所有与会者定期分发简短的摘要（每一或两天发送几段），以便使讨论重点突出； 总结达成的共识，并重点突出新的想法和问题。"
 
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "We welcome assistance in translating these into languages that will make it easier for all participants to follow the discussions and know how to contribute."
-msgstr ""
+msgstr "我们欢迎协助将这些讨论内容翻译成各种语言，使所有与会者更容易理解讨论内容并了解如何参与其中。"
 
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] if you are interested in helping."
-msgstr ""
+msgstr "如果您有兴趣提供帮助，请联系邮箱:dhobern@gbif.org[Donald Hobern]。"
 
 #. type: Title ==
 #: 100.en.adoc:2
 #, no-wrap
 msgid "Uses for the catalogue"
-msgstr ""
+msgstr "目录的使用"
 
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr ""
+msgstr "https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG 收藏描述兴趣小组]已经从几个主要利益攸关方收集了一些自然历史收藏信息的使用案例。 此外，包括https://www.icedig.eu/[ICEDIG]在内的主要欧洲项目正在准备通过记录藏品的使用案例构建https://www。 issco.eu/[DiSSCo] 信息基础构架。"
 
 #. type: Title ===
 #: 100.en.adoc:6
 #, no-wrap
 msgid "A directory to support the collections community"
-msgstr ""
+msgstr "为收藏社区提供帮助的联系录"
 
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Collections staff and taxonomists collaborate as a truly global community. Valuable specimens are distributed between institutions in all parts of the world. Researchers visit these collections or borrow specimens as part of their work. Index Herbariorum (IH) is the directory of information on the world’s herbaria (addresses, contacts, specialties, size, etc.). It is a well-managed resource and highly regarded as a tool by the botanical community. No full equivalent exists globally for other natural history collections, although national/regional infrastructures such as the ALA collections pages, the iDigBio US Collections List, and the CETAF profiles serve similar roles. GBIF has recently integrated the Global Registry of Scientific Collections (GRSciColl) into its registry as a framework that can be extended with richer information curated by collections communities."
-msgstr ""
+msgstr "收集藏品工作人员和分类学家作为一个真正全球性社区进行合作，宝贵的标本在世界各地的机构之间互相流通。 研究人员工作的一部分就是参观这些收藏品，或借用这些标本。 标本馆索引(IH) 是全球植物标本室的目录(地址、联系人、专业、大小等)。 它是一种管理良好的资源，被植物学社区看作是一种很好的工具。 全球没有其他能与自然历史馆藏相提并论的文献存在，尽管有国家/区域性的信息基础构架起到相似作用，如《非洲土地退化评估》的文献页， the iDigBio US Collections List和CETAF简介。全球生物多样性信息网络最近将全球科学收藏登记册作为一个框架纳入其登记册，收集社区可以补充更丰富的信息用以扩展这个框架。"
 
 #. type: delimited block =
 #: 100.en.adoc:12
 #, no-wrap
 msgid "*Q1*. Would the collections community benefit from a comprehensive directory of all natural history collections? Who would make use of such a directory? (The focus here is on the catalogue as a directory of known institutions and information required to contact them.)\n"
-msgstr ""
+msgstr "*Q1*。收藏界是否能从所有自然历史收藏的综合目录中获益？谁会使用这样一个目录？ （此处关注的重点是作为已知机构和联系机构所需信息的目录。）\n"
 
 #. type: Title ===
 #: 100.en.adoc:14
 #, no-wrap
 msgid "Locating specimens and genetic materials"
-msgstr ""
+msgstr "定位标本和遗传材料"
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Taxonomic studies and other research projects normally depend on researchers (or their contacts) knowing which institutions hold relevant specimens or other materials. This is complicated by the history of expeditions and collecting activities. Specimens have been scattered across all continents. Only a small proportion of these specimens have been databased in forms that can be accessed through GBIF or other portals. A catalogue providing at least summary information on taxonomic and geographic scope for each collection could assist researchers in locating relevant materials."
-msgstr ""
+msgstr "分类学研究和其他研究项目通常依靠研究人员（或其认识的人）去了解哪些机构持有相关的标本或其他材料来开展。 这一过程由于考察和收集活动的历史而更加复杂。标本散布在各个大陆。 这些标本只有一小部分被收录进表格数据库，可以通过GBIF或其他门户查阅。 一个至少提供每个收藏品的分类和地理范围概要信息的目录，可以帮助研究人员找到相关材料。"
 
 #. type: delimited block =
 #: 100.en.adoc:20
