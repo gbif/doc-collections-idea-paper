@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-01 06:06\n"
+"PO-Revision-Date: 2020-04-01 06:55\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -375,19 +375,19 @@ msgstr "为收藏社区提供帮助的联系录"
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Collections staff and taxonomists collaborate as a truly global community. Valuable specimens are distributed between institutions in all parts of the world. Researchers visit these collections or borrow specimens as part of their work. Index Herbariorum (IH) is the directory of information on the world’s herbaria (addresses, contacts, specialties, size, etc.). It is a well-managed resource and highly regarded as a tool by the botanical community. No full equivalent exists globally for other natural history collections, although national/regional infrastructures such as the ALA collections pages, the iDigBio US Collections List, and the CETAF profiles serve similar roles. GBIF has recently integrated the Global Registry of Scientific Collections (GRSciColl) into its registry as a framework that can be extended with richer information curated by collections communities."
-msgstr ""
+msgstr "收集藏品工作人员和分类学家作为一个真正全球性社区进行合作，宝贵的标本在世界各地的机构之间互相流通。 研究人员工作的一部分就是参观这些收藏品，或借用这些标本。 标本馆索引(IH) 是全球植物标本室的目录(地址、联系人、专业、大小等)。 它是一种管理良好的资源，被植物学社区看作是一种很好的工具。 全球没有其他能与自然历史馆藏相提并论的文献存在，尽管有国家/区域性的信息基础构架起到相似作用，如《非洲土地退化评估》的文献页， the iDigBio US Collections List和CETAF简介。全球生物多样性信息网络最近将全球科学收藏登记册作为一个框架纳入其登记册，收集社区可以补充更丰富的信息用以扩展这个框架。"
 
 #. type: delimited block =
 #: 100.en.adoc:12
 #, no-wrap
 msgid "*Q1*. Would the collections community benefit from a comprehensive directory of all natural history collections? Who would make use of such a directory? (The focus here is on the catalogue as a directory of known institutions and information required to contact them.)\n"
-msgstr ""
+msgstr "*Q1*。收藏界是否能从所有自然历史收藏的综合目录中获益？谁会使用这样一个目录？ （此处关注的重点是作为已知机构和联系机构所需信息的目录。）\n"
 
 #. type: Title ===
 #: 100.en.adoc:14
 #, no-wrap
 msgid "Locating specimens and genetic materials"
-msgstr ""
+msgstr "定位标本和遗传材料"
 
 #. type: Plain text
 #: 100.en.adoc:17
