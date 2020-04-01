@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-03-31 22:10\n"
+"PO-Revision-Date: 2020-04-01 04:25\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -303,7 +303,7 @@ msgstr "如果不作进一步解释，陈述无法做到清晰明了， 请修�
 #. type: Plain text
 #: how-to.en.adoc:12
 msgid "Please keep all materials brief and focused, so that a reader or viewer could assimilate the ideas within fifteen minutes or (ideally) less."
-msgstr ""
+msgstr "请保持所有材料简短和有针对性，以便读者或浏览者能够在十五分钟或（理想化）更少时间内明白您的观点大意。"
 
 #. type: Plain text
 #: how-to.en.adoc:13
