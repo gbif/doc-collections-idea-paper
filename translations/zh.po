@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-01 07:48\n"
+"PO-Revision-Date: 2020-04-01 08:23\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -398,13 +398,13 @@ msgstr "分类学研究和其他研究项目通常依靠研究人员（或其认
 #: 100.en.adoc:20
 #, no-wrap
 msgid "*Q2*. Would summary information on every collection’s materials be a useful tool? Who would use this information? What is the minimum level of information (and what is ideal) to support these users?\n"
-msgstr ""
+msgstr "*Q2*。每个收藏品相关材料的摘要信息是否是有用的工具？谁会使用这种信息？能帮助到这些用户的最少信息水平是多少(以及什么才是理想水平？）\n"
 
 #. type: Title ===
 #: 100.en.adoc:22
 #, no-wrap
 msgid "A first step towards databasing collections"
-msgstr ""
+msgstr "建立馆藏数据库的第一步。"
 
 #. type: Plain text
 #: 100.en.adoc:25
