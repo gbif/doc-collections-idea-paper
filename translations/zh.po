@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-01 06:55\n"
+"PO-Revision-Date: 2020-04-01 07:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -392,7 +392,7 @@ msgstr "定位标本和遗传材料"
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Taxonomic studies and other research projects normally depend on researchers (or their contacts) knowing which institutions hold relevant specimens or other materials. This is complicated by the history of expeditions and collecting activities. Specimens have been scattered across all continents. Only a small proportion of these specimens have been databased in forms that can be accessed through GBIF or other portals. A catalogue providing at least summary information on taxonomic and geographic scope for each collection could assist researchers in locating relevant materials."
-msgstr ""
+msgstr "分类学研究和其他研究项目通常依靠研究人员（或其认识的人）去了解哪些机构持有相关的标本或其他材料来开展。 这一过程由于考察和收集活动的历史而更加复杂。标本散布在各个大陆。 这些标本只有一小部分被收录进表格数据库，可以通过GBIF或其他门户查阅。 一个至少提供每个收藏品的分类和地理范围概要信息的目录，可以帮助研究人员找到相关材料。"
 
 #. type: delimited block =
 #: 100.en.adoc:20
