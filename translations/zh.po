@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-01 05:23\n"
+"PO-Revision-Date: 2020-04-01 06:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -364,13 +364,13 @@ msgstr "目录的使用"
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr ""
+msgstr "https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG 收藏描述兴趣小组]已经从几个主要利益攸关方收集了一些自然历史收藏信息的使用案例。 此外，包括https://www.icedig.eu/[ICEDIG]在内的主要欧洲项目正在准备通过记录藏品的使用案例构建https://www。 issco.eu/[DiSSCo] 信息基础构架。"
 
 #. type: Title ===
 #: 100.en.adoc:6
 #, no-wrap
 msgid "A directory to support the collections community"
-msgstr ""
+msgstr "为收藏社区提供帮助的联系录"
 
 #. type: Plain text
 #: 100.en.adoc:9
