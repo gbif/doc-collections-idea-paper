@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-02 03:40\n"
+"PO-Revision-Date: 2020-04-02 05:17\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -443,19 +443,19 @@ msgstr "标本的数据、分类出版物等的价值增加。"
 #. type: Plain text
 #: 100.en.adoc:41
 msgid "Accurate information on any collection can be used as a reference or as linked data associated with specimen records and other data objects. Users of specimen records need contextual information about the collection that holds the specimen, for example to communicate with collection managers about individual specimens, to offer corrections to specimen data, or simply to determine whether the collection is likely to hold quantities of similar specimens. It may be inefficient to embed all of this information within the specimen record. Holding a single authoritative copy assists with keeping the collection information current. The collection record may also contain information on taxonomic or geographic scope or other aspects that can resolve potential ambiguities within a specimen record. Links to current collection records will also enhance taxonomic publications referencing their materials. This is particularly important because catalogue numbers and other specimen identifiers used in publications may not link to digitised information on the specimens. Linking to the collection simplifies future access and may enable digital links to be inferred in future."
-msgstr ""
+msgstr "任何关于收集工作的准确信息可作为参考资料或与标本记录和其他数据对象相关联的数据使用。 标本记录的使用者需要关于标本的收藏的背景信息，例如与收集管理者就个别样本进行沟通，对标本数据进行纠正，或只是确定藏品中是否可能存在大量相似标本。将所有这些信息都嵌入标本记录可能是没有效率的。 但保存一份权威性的副本有助于使收集资料随时更新。 收集记录还可包含关于分类或地理范畴等其他方面的信息，标本记录中潜在的模棱两可之处也可以在这些信息中找到答案。与现有收藏记录的链接也将改善分类学出版物参考收藏信息。 这一点尤其重要，因为出版物中使用的目录编号和其他标本识别码可能与标本的数字化信息没有对应。 与收藏记录建立链接简化了今后的存取，可能会使今后使用数字链接。"
 
 #. type: delimited block =
 #: 100.en.adoc:44
 #, no-wrap
 msgid "*Q5*. How could a comprehensive collections catalogue contribute to improvements to other categories of biodiversity data? What requirements would these improvements place on the catalogue?\n"
-msgstr ""
+msgstr "*Q5*. 全面的馆藏目录如何有助于改进其他类别的生物多样性数据？ 这些改进将对目录作何要求？\n"
 
 #. type: Title ===
 #: 100.en.adoc:46
 #, no-wrap
 msgid "Reducing duplication of effort"
-msgstr ""
+msgstr "减少重复工作"
 
 #. type: Plain text
 #: 100.en.adoc:49
