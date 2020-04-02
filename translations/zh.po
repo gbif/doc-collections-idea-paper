@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-02 07:59\n"
+"PO-Revision-Date: 2020-04-02 08:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -506,7 +506,7 @@ msgstr "*Q8*。一个全面的目录如何能够改进收藏品的引证和归�
 #: 100.en.adoc:70
 #, no-wrap
 msgid "Support for national and regional needs and applications"
-msgstr ""
+msgstr "支持国家和区域的需要和应用"
 
 #. type: Plain text
 #: 100.en.adoc:73
@@ -517,24 +517,24 @@ msgstr ""
 #: 100.en.adoc:76
 #, no-wrap
 msgid "*Q9*. What national and regional needs or possible uses should be considered? Do national portals or specialist networks require information not currently addressed by data standards for collection metadata? Are there significant regional research infrastructures or public websites that include (or should include) information on local collections? Are there regionally important uses that are not addressed elsewhere in this document?\n"
-msgstr ""
+msgstr "*Q9*. 应考虑哪些国家和区域需要或可能的用途？ 国家门户网站或专家网络是否需要馆藏元数据的数据标准目前尚未涉及的信息？ 是否存在重要的区域性研究基础设施或公共网站包括（或应当包括）地方馆藏的信息？ 是否存在本文档没有提及的重要区域性用途？\n"
 
 #. type: Title ==
 #: 200.en.adoc:2
 #, no-wrap
 msgid "Information in the catalogue"
-msgstr ""
+msgstr "目录中的信息"
 
 #. type: Plain text
 #: 200.en.adoc:5
 msgid "We need to develop a shared vision for the content that the catalogue should hold and how it interlinks with other information products."
-msgstr ""
+msgstr "我们需要就目录应包含的内容以及它与其他信息产品之间的相互联系形成共同的愿景。"
 
 #. type: Title ===
 #: 200.en.adoc:6
 #, no-wrap
 msgid "Scope for the catalogue and definition of “collection”"
-msgstr ""
+msgstr "目录范围和“馆藏”的定义"
 
 #. type: Plain text
 #: 200.en.adoc:9
@@ -545,7 +545,7 @@ msgstr ""
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr ""
+msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的标准）的定义是什么？ 馆藏如何与机构、数据集和collecting events（eg.expenditions）有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
