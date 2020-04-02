@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-02 05:29\n"
+"PO-Revision-Date: 2020-04-02 07:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -477,30 +477,30 @@ msgstr "新型和丰富服务的基础"
 #. type: Plain text
 #: 100.en.adoc:57
 msgid "A comprehensive directory could serve as a foundation for new tools that enhance taxonomic efforts and cooperation between all collection holders. One example might be the development of distributed loans systems or on-demand digitisation, as planned for the DiSSCo European Loans and Visits System (ELViS). A catalogue could also serve as a showcase for institutions to highlight their holdings and unique features, as in the visual concept shared by GBIF for collection pages. GBIF tracking and reporting on the use of biodiversity data in research publications could feed into new services that provide standard metrics and help collections to measure and report their impact."
-msgstr ""
+msgstr "一个综合目录可作为新工具的基础，促进分类工作开展及其与所有收藏者之间的合作。 例如，按照DiSSCo欧洲贷款和访问系统(ELViS) 计划的那样，可以开发分配贷款系统或按需数字化。 目录也可作为机构展示的机会，突出其收藏资产和独特特征，正如在GBIF 馆藏页面共享的视觉概念。 GBIF追踪和报告研究出版物中生物多样性数据的使用情况，使得产生提供权威衡量标准的新服务，并有助于量度和反馈收藏品的影响力。"
 
 #. type: delimited block =
 #: 100.en.adoc:60
 #, no-wrap
 msgid "*Q7*. What other services could be developed on the foundations of a collection catalogue? Would these attract investment to fund the development and support the maintenance of the catalogue?\n"
-msgstr ""
+msgstr "*Q7*. 可以在收藏目录的基础上开发哪些其他服务？ 这些是否会吸引投资为开发和维护目录提供资金和支持？\n"
 
 #. type: Title ===
 #: 100.en.adoc:62
 #, no-wrap
 msgid "Improvements to citation and visibility for collections"
-msgstr ""
+msgstr "引文和馆藏品的可视度的改进"
 
 #. type: Plain text
 #: 100.en.adoc:65
 msgid "Research value is primarily measured in terms of visibility and impacts from published literature. Natural history collections are poorly recognised by such measures and their importance as foundational research tools is almost hidden. Users of collections are regularly urged to cite specimens examined and reference the collection. However, citation is often https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[lacking, incomplete or ambiguous]. Research infrastructures such as https://explore.openaire.eu/search/find[OpenAIRE] in Europe increasingly map not only linkages between researchers and publications but also datasets, projects, content providers and organisations. A catalogue could help to standardise citation of collections, making their impact visible through such knowledge graphs. Journals and editorial boards could be encouraged to require standard collection identifiers wherever collections are referenced."
-msgstr ""
+msgstr "研究价值主要是根据出版物的可见度和影响力来衡量的。 衡量标准自然历史馆藏价值被低估，其作为基本研究工具的重要性几乎被掩盖。 馆藏的使用者经常被要求引用已检查过的标本和参考馆藏。但引证常常是[https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/]缺失、不完整或含糊不清的。 在欧洲诸如OpenAIRE[https://explore.openaire.eu/search/find]之类的研究基础设施不仅越来越多地建立研究人员与出版物之间的联系，还建立数据集、项目、内容提供者和组织机构之间的联系。目录可能有助于馆藏品的引述标准化，并通过这种知识图表显示其影响力可视化。 可以鼓励记者和编辑委员会要求在参考馆藏品时采用标准馆藏标识符。"
 
 #. type: delimited block =
 #: 100.en.adoc:68
 #, no-wrap
 msgid "*Q8*. How might a comprehensive catalogue promote citation and attribution for collections? What can be done to encourage wide standardised use of identifiers from the catalogue?\n"
-msgstr ""
+msgstr "*Q8*。一个全面的目录如何能够改进收藏品的引证和归属源？ 可以做些什么来促进目录中标识符的标准化使用普及化？\n"
 
 #. type: Title ===
 #: 100.en.adoc:70
