@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-01 09:50\n"
+"PO-Revision-Date: 2020-04-02 02:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -415,7 +415,7 @@ msgstr ""
 #: 100.en.adoc:28
 #, no-wrap
 msgid "*Q3*. Can publishing a collection record to a catalogue assist collections in moving towards full digitisation? What incentives or support do collections need to make this a worthwhile step?\n"
-msgstr ""
+msgstr "*Q3*。是否可以将收藏记录发布到目录，帮助收藏走向完全数字化？ 收藏需要什么奖励或支持才能使这个步骤成为一个有价值的步骤？\n"
 
 #. type: Title ===
 #: 100.en.adoc:30
