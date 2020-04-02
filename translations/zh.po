@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-02 05:17\n"
+"PO-Revision-Date: 2020-04-02 05:29\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -460,19 +460,19 @@ msgstr "减少重复工作"
 #. type: Plain text
 #: 100.en.adoc:49
 msgid "Although no complete catalogue of collections exists, the need for such information leads to such data repeatedly being published in different formats for different portals, project documentation, metadata for other data, etc. This duplication results in confusion as outdated information remains on the web. Mechanisms that always link to a single continuously updated version (and a version history) would address these issues."
-msgstr ""
+msgstr "虽然不存在完全完整的馆藏目录，但这类资料的需求导致这类数据被一再以不同格式发布在不同的门户网站、 项目文件、其他数据的元数据等中。这些重复信息造成混乱，因为网上仍有过时的信息。 总是链接到一个能够不断更新的单一版本(包含版本历史) 的机制将解决这些问题。"
 
 #. type: delimited block =
 #: 100.en.adoc:52
 #, no-wrap
 msgid "*Q6*. Can we identify savings in time and costs that would arise from a well-managed shared catalogue of collections?\n"
-msgstr ""
+msgstr "*Q6*。我们能否认同一个管理良好的共用收藏目录能节省时间和费用？\n"
 
 #. type: Title ===
 #: 100.en.adoc:54
 #, no-wrap
 msgid "Foundation for new and enriched services"
-msgstr ""
+msgstr "新型和丰富服务的基础"
 
 #. type: Plain text
 #: 100.en.adoc:57
