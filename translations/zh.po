@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-02 02:38\n"
+"PO-Revision-Date: 2020-04-02 02:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -409,7 +409,7 @@ msgstr "建立馆藏数据库的第一步。"
 #. type: Plain text
 #: 100.en.adoc:25
 msgid "The information needed to build the catalogue of collections closely matches the metadata required to publish a specimen dataset to GBIF and other portals. A record that describes a collection could be treated as a minimal first step, perhaps leading through processes such as Join The Dots and onwards to comprehensive digitisation. A comprehensive catalogue of such records could guide efforts to prioritise further digitisation, by highlighting collections with holdings of particular relevance or by assisting the development of collaborative digitisation networks like the ADBC Thematic Collection Networks."
-msgstr ""
+msgstr "建立收集目录所需的信息与向GBIF和其他门户网站发布标本数据集所需的元数据高度匹配。 描述收藏的记录作为最起码的第一步，也许能够引导信息一点一点组合起来进而全面数字化的进程。通过突出具有特别相关性的收藏品，或协助类似于ADBC 专题收集网络等合作数字化网络发展，这种描述性记录的全面目录可以指导优先处理进一步数字化的工作。"
 
 #. type: delimited block =
 #: 100.en.adoc:28
@@ -421,7 +421,7 @@ msgstr "*Q3*。是否可以将收藏记录发布到目录，帮助收藏走向�
 #: 100.en.adoc:30
 #, no-wrap
 msgid "Assessing the scale and value of collections"
-msgstr ""
+msgstr "评估收藏的规模和价值"
 
 #. type: Plain text
 #: 100.en.adoc:33
