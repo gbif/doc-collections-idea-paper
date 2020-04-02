@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-02 08:36\n"
+"PO-Revision-Date: 2020-04-02 09:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -511,7 +511,7 @@ msgstr "支持国家和区域的需要和应用"
 #. type: Plain text
 #: 100.en.adoc:73
 msgid "Although this consultation aims to encourage the development of standardised information for all collections globally, each country or region may have needs or uses for this same information to in local applications and services. It is important to identify a range of these needs and to make sure they are addressed as part of a collaborative solution. An inclusive approach will bring incentives to work together to make information on each catalogue as complete, current and accurate as possible. Requirements are relatively well understood from Europe (e.g. DiSSCo) and the United States (e.g. iDigBio), but other regions may have subtly or significantly different needs."
-msgstr ""
+msgstr "尽管这次咨询的目的是促进全球所有馆藏制定标准化信息， 但是每个国家或区域在当地的应用和服务中对于同样的信息可能有不同的需求或用途。 重要的是要认识到一系列这类需求，并确保将其作为协作解决方案的一部分来处理。 一个具有包容性的方案将促使各国共同努力使每个目录的信息尽可能完整、最新和准确。 欧洲(例如DiSSCo)和美国(例如iDigBio)的要求相对较好理解，但其他区域的需要可能有微小或明显不同。"
 
 #. type: delimited block =
 #: 100.en.adoc:76
@@ -539,7 +539,7 @@ msgstr "目录范围和“馆藏”的定义"
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "The scope for the catalogue needs to be defined. The core use case under consideration is the listing and description of collections holding preserved biological specimens, referred to here as \"natural history collections\". The consultation will focus on developing a solution that is robust and effective for natural history collections, but it is valuable to explore needs and opportunities around other types of natural science collection. Some of these may fit readily within the scope of the catalogue. In other cases, work on the catalogue may offer benefits to these other communities. Note in particular: 1) many institutions hold both biological and geological collections and may manage these as a unified whole; 2) DiSSCo includes geological collections within its scope, and other networks such as iDigBio include at least paleontological collections; 3) GRSciColl was established to hold records on any scientific collection; and 4) the TDWG Collection Description standard is extensible for different collection types."
-msgstr ""
+msgstr "目录的范围需要界定。 正在审议的核心使用案例是保存生物标本的收藏清单和描述，此处称为“自然历史馆藏”。 咨询将侧重于为自然历史馆藏制定一种强有力和有效的实行方案，但此方案也对其他类型的自然科学收藏探索的需求和机会是有价值的。 其中有些可以很容易地纳入目录范围。对于其他情况，编纂目录的工作可能也会给其他领域带来好处。 特别强调：1）许多同时拥有生物和地质藏品的机构可以统一管理这些藏品。 2) DiSSCo在其范围内拥有地质藏品，iDigBio等其他网络门户至少拥有古生物藏品； (3) 为了保存所有科学藏品的记录建立了GRSciColl ；(4) TDWG的馆藏描述标准可以扩展到不同的收藏类型。"
 
 #. type: delimited block =
 #: 200.en.adoc:12
