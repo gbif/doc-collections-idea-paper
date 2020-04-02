@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-02 02:59\n"
+"PO-Revision-Date: 2020-04-02 03:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -426,19 +426,19 @@ msgstr "评估收藏的规模和价值"
 #. type: Plain text
 #: 100.en.adoc:33
 msgid "Estimates of the number of specimens held by collections run into billions, but no definitive number exists. A catalogue could help to narrow these estimates and to assess the economic value of these irreplaceable holdings. This information may help to justify the scale of effort and funding needed to digitise collections and make their data accessible for universal, reliable and persistent use."
-msgstr ""
+msgstr "估计被收藏起来的标本数达到数十亿，但没有确切数字。一个目录可有助于缩小这些估计数的范围，并评估这些不可替代的收藏品的经济价值。 这类资料可能有助于阐明收藏品的数字化工作以及使其数据能被普及并被长期使用所需的努力和资金规模。"
 
 #. type: delimited block =
 #: 100.en.adoc:36
 #, no-wrap
 msgid "*Q4*. Would more accurate estimates of the scale and value of collections be useful? How might these be used and by whom?\n"
-msgstr ""
+msgstr "*Q4*。是否需要更准确地估计收藏品的规模和价值？如何使用这些信息以及由谁使用？\n"
 
 #. type: Title ===
 #: 100.en.adoc:38
 #, no-wrap
 msgid "Increased value for data on specimens, taxonomic publications, etc."
-msgstr ""
+msgstr "标本的数据、分类出版物等的价值增加。"
 
 #. type: Plain text
 #: 100.en.adoc:41
