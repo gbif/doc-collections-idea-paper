@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-03-31 22:10\n"
+"PO-Revision-Date: 2020-04-03 11:54\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. type: Plain text
 #: index.en.adoc:3
 msgid "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn & Eliza Zschuschen"
-msgstr ""
+msgstr "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn & Eliza Zschuschen"
 
 #. type: Plain text
 #: index.en.adoc:17
@@ -34,7 +34,7 @@ msgstr ""
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "img/web/photo2.jpg"
-msgstr ""
+msgstr "img/web/foto2.jpg"
 
 #. type: Title ==
 #: colophon.en.adoc:6
@@ -62,7 +62,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life | International Barcode of Life"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life | International Barcode of Life"
 
 #. type: Plain text
 #: colophon.en.adoc:15
