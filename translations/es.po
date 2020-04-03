@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 12:07\n"
+"PO-Revision-Date: 2020-04-03 12:14\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -200,7 +200,7 @@ msgstr "Alcance del catálogo y definición de \"colección\" - Q10"
 #. type: Plain text
 #: colophon.en.adoc:48
 msgid "Minor edits following preparatory webinars and input from Ana Casino and Luc Willemse"
-msgstr ""
+msgstr "Ediciones menores a partir de seminarios preparatorios y aportes de Ana Casino y Luc Willemse"
 
 #. type: Title ===
 #: colophon.en.adoc:49
@@ -216,13 +216,13 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:53
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: background.en.adoc:1
 #, no-wrap
 msgid "Background"
-msgstr ""
+msgstr "Antecedentes"
 
 #. type: Plain text
 #: background.en.adoc:4
