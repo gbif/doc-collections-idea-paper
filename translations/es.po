@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 11:54\n"
+"PO-Revision-Date: 2020-04-03 12:07\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -67,47 +67,47 @@ msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life 
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "https://orcid.org/0000-0003-0116-3445[Alex Asase], University of Ghana | GBIF Ghana"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-0116-3445[Alex Asase], University of Ghana | GBIF Ghana"
 
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid "https://orcid.org/0000-0002-0596-5376[Quentin Groom], Meise Botanic Garden"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-0596-5376[Quentin Groom], Meise Botanic Garden"
 
 #. type: Plain text
 #: colophon.en.adoc:17
 msgid "Maofang Luo, Chinese Academy of Sciences"
-msgstr ""
+msgstr "Maofang Luo, Chinese Academy of Sciences"
 
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group"
 
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF Secretariat"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF Secretariat"
 
 #. type: Plain text
 #: colophon.en.adoc:20
 msgid "https://orcid.org/0000-0002-4048-7728[Patrick Semal], Royal Belgian Institute of Natural Sciences | CETAF"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-4048-7728[Patrick Semal], Royal Belgian Institute of Natural Sciences | CETAF"
 
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], New York Botanical Garden | Index Herbariorum"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], New York Botanical Garden | Index Herbariorum"
 
 #. type: Plain text
 #: colophon.en.adoc:22
 msgid "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Natural History Museum, London | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Natural History Museum, London | TDWG CD Interest Group"
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "Eliza Zschuschen, Suriname National Herbarium"
-msgstr ""
+msgstr "Eliza Zschuschen, Suriname National Herbarium"
 
 #. type: Plain text
 #: colophon.en.adoc:25
@@ -134,7 +134,7 @@ msgstr "URI persistente"
 #. type: Plain text
 #: colophon.en.adoc:31
 msgid "https://doi.org/10.35035/p93g-te47"
-msgstr ""
+msgstr "https://doi.org/10.35035/p93g-te47"
 
 #. type: Title ===
 #: colophon.en.adoc:32
@@ -145,57 +145,57 @@ msgstr "Control de documentos"
 #. type: Plain text
 #: colophon.en.adoc:34
 msgid "v2.0, March 2020"
-msgstr ""
+msgstr "v2.0, Marzo 2020"
 
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid "Updated from v1.0, published on 25 February 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-wnsx-ep77"
-msgstr ""
+msgstr "Actualizado de la versión, publicada el 25 de febrero de 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-wnsx-ep77"
 
 #. type: Plain text
 #: colophon.en.adoc:38
 msgid "The main changes from v1.0 are as follows:"
-msgstr ""
+msgstr "Los cambios principales respecto a la versión v1.0 son los siguientes:"
 
 #. type: Plain text
 #: colophon.en.adoc:40
 msgid "Clarification in scope of consultation and definition of \"natural history collection\""
-msgstr ""
+msgstr "Aclaración sobre el alcance de la consulta y la definición de \"colección de historia natural\""
 
 #. type: Plain text
 #: colophon.en.adoc:41
 msgid "Additional topics and questions:"
-msgstr ""
+msgstr "Tópicos adicionales y preguntas:"
 
 #. type: Plain text
 #: colophon.en.adoc:42
 msgid "Improvements to citation and visibility for collections - Q8"
-msgstr ""
+msgstr "Mejoramiento de las citas y visibilidad de las colecciones - Q8"
 
 #. type: Plain text
 #: colophon.en.adoc:43
 msgid "Support for national and regional needs and applications - Q9"
-msgstr ""
+msgstr "Apoyo a necesidades y aplicaciones nacionales y regionales - Q9"
 
 #. type: Plain text
 #: colophon.en.adoc:44
 msgid "Identifiers for collections - Q11"
-msgstr ""
+msgstr "Identificadores para colecciones - Q11"
 
 #. type: Plain text
 #: colophon.en.adoc:45
 msgid "Hierarchical collection structures and subcollections - Q12"
-msgstr ""
+msgstr "Estructuras jerárquicas de colecciones y subcolecciones - Q12"
 
 #. type: Plain text
 #: colophon.en.adoc:46
 msgid "Major edits to topic and questions:"
-msgstr ""
+msgstr "Ediciones principales a tópicos y preguntas:"
 
 #. type: Plain text
 #: colophon.en.adoc:47
 msgid "Scope for the catalogue and definition of “collection” - Q10"
-msgstr ""
+msgstr "Alcance del catálogo y definición de \"colección\" - Q10"
 
 #. type: Plain text
 #: colophon.en.adoc:48
