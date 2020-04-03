@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 20:58\n"
+"PO-Revision-Date: 2020-04-03 21:17\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -303,68 +303,69 @@ msgstr "Si es probable que las presentaciones no sean claras sin más explicacio
 #. type: Plain text
 #: how-to.en.adoc:12
 msgid "Please keep all materials brief and focused, so that a reader or viewer could assimilate the ideas within fifteen minutes or (ideally) less."
-msgstr ""
+msgstr "Por favor mantenga todos los materiales breves y enfocados, para que el lector o espectador pueda asimilar las ideas en quince minutos o (idealmente) menos."
 
 #. type: Plain text
 #: how-to.en.adoc:13
 msgid "Would you like to *review the preparatory webinars* outlining the scope and plan for the consultation?"
-msgstr ""
+msgstr "¿Le gustaría *revisar los seminarios web preparatorios* esbozando el alcance y el plan para la consulta?"
 
 #. type: Plain text
 #: how-to.en.adoc:14
 msgid "Recordings are available online on https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] and https://vimeo.com/showcase/6859611[Vimeo]."
-msgstr ""
+msgstr "Las grabaciones están disponibles en línea en https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] y https://vimeo.com/showcase/6859611[Vimeo]."
 
 #. type: Plain text
 #: how-to.en.adoc:15
 msgid "Would you like to *contribute to the online discussions* for the consultation?"
-msgstr ""
+msgstr "¿Le gustaría *contribuir a los debates en línea* para la consulta?"
 
 #. type: Plain text
 #: how-to.en.adoc:16
 msgid "Please register to join the consultation community on the GBIF Discourse site."
-msgstr ""
+msgstr "Por favor regístrese para unirse a la comunidad de consulta en el sitio GBIF Discourse."
 
 #. type: Plain text
 #: how-to.en.adoc:17
 msgid "Discussions will take place between 17 and 29 April 2020."
-msgstr ""
+msgstr "Las discusiones tendrán lugar entre el 17 y el 29 de abril de 2020."
 
 #. type: Plain text
 #: how-to.en.adoc:18
 msgid "We will keep you informed as more information is added to the site and ensure that you receive regular updates during the consultation"
-msgstr ""
+msgstr "Le mantendremos informado a medida que se agregue más información al sitio y nos aseguraremos de que reciba actualizaciones periódicas durante la consulta"
 
 #. type: Plain text
 #: how-to.en.adoc:19
 msgid "Will you be able to expand the relevance of the consultation by *translating short summary updates* into languages other than English?"
-msgstr ""
+msgstr "¿Podría expandir la relevancia de la consulta mediante la *traducción de breves resúmenes de \n"
+"actualización* a idiomas distintos del inglés?"
 
 #. type: Plain text
 #: how-to.en.adoc:20
 msgid "We expect to circulate regular short summaries (a few paragraphs every day or two) to all participants during the main consultation period to keep the discussion focused, summarise agreement, and highlight new ideas and questions."
-msgstr ""
+msgstr "Esperamos distribuir regularmente resúmenes cortos (sólo unos párrafos cada uno o dos días) a todos los participantes durante el período de consulta principal para mantener la discusión enfocada, resumir puntos de acuerdo y resaltar nuevas ideas y preguntas."
 
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "We welcome assistance in translating these into languages that will make it easier for all participants to follow the discussions and know how to contribute."
-msgstr ""
+msgstr "Apreciamos que nos asistan en su traducción a idiomas que facilitarán que todos los participantes sigan las discusiones y sepan cómo contribuir."
 
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] if you are interested in helping."
-msgstr ""
+msgstr "Por favor contactar a mailto:dhobern@gbif.org[Donald Hobern] si está interesada/o en ayudar."
 
 #. type: Title ==
 #: 100.en.adoc:2
 #, no-wrap
 msgid "Uses for the catalogue"
-msgstr ""
+msgstr "Usos para el catálogo"
 
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr ""
+msgstr "El grupo https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Collection Collection Description Interest Group] ha recolectado casos de uso para la información de colección de historia natural de varios de los principales interesados. Además, importantes proyectos europeos, incluyendo https://www.icedig.eu/[ICEDIG], se están preparando para el desarrollo de la infraestructura de https://www. issco.eu/[DiSSCo] documentando casos de uso para colecciones."
 
 #. type: Title ===
 #: 100.en.adoc:6
