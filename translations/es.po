@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 23:21\n"
+"PO-Revision-Date: 2020-04-03 23:31\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -393,19 +393,19 @@ msgstr "Localizando especímenes y material genético"
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Taxonomic studies and other research projects normally depend on researchers (or their contacts) knowing which institutions hold relevant specimens or other materials. This is complicated by the history of expeditions and collecting activities. Specimens have been scattered across all continents. Only a small proportion of these specimens have been databased in forms that can be accessed through GBIF or other portals. A catalogue providing at least summary information on taxonomic and geographic scope for each collection could assist researchers in locating relevant materials."
-msgstr ""
+msgstr "Los estudios taxonómicos y otros proyectos de investigación normalmente dependen de que los investigadores (o sus contactos) sepan qué instituciones contienen especímenes relevantes u otros materiales. Ello se complica dada la historia de las expediciones y actividades de colecta. Los especímenes han sido dispersados por todos los continentes. Sólo una pequeña proporción de estos ejemplares cuenta con información que ha sido capturada en bases de datos de manera que se pueda acceder a través de GBIF u otros portales. Un catálogo que proporcione al menos información resumida sobre el alcance taxonómico y geográfico de cada colección podría ayudar a los investigadores a localizar materiales relevantes."
 
 #. type: delimited block =
 #: 100.en.adoc:20
 #, no-wrap
 msgid "*Q2*. Would summary information on every collection’s materials be a useful tool? Who would use this information? What is the minimum level of information (and what is ideal) to support these users?\n"
-msgstr ""
+msgstr "*P2*. ¿La información resumida sobre los materiales de todas las colecciones sería una herramienta útil? ¿Quién usaría esta información? ¿Cuál es el nivel mínimo de información (y cuál el ideal) para ayudar a estos usuarios?\n"
 
 #. type: Title ===
 #: 100.en.adoc:22
 #, no-wrap
 msgid "A first step towards databasing collections"
-msgstr ""
+msgstr "Un primer paso hacia la digitalización de colecciones"
 
 #. type: Plain text
 #: 100.en.adoc:25
