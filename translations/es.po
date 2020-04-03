@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 20:21\n"
+"PO-Revision-Date: 2020-04-03 20:58\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -257,33 +257,33 @@ msgstr "La comunidad de informática de la biodiversidad también ha prestado at
 #. type: Plain text
 #: background.en.adoc:16
 msgid "These collections are the repository for materials from centuries of international investment to collect, document, study and describe species. Specimens and other materials held in these collections anchor our understanding of evolution and contemporary diversity. They provide the bridge between historical knowledge and continuing efforts to describe life on Earth. Many of their holdings are truly irreplaceable or give otherwise irrecoverable insights into past distributions and ecology. Such insights are important also for modelling environmental futures. Information on the collections themselves is an important tool for accessing, enriching and using them."
-msgstr ""
+msgstr "Estas colecciones son el depósito de materiales resultado de siglos de inversión internacional para colectar, documentar, estudiar y describir especies. Los especímenes y otros materiales albergados en estas colecciones son la base para nuestra comprensión de la evolución y la diversidad contemporánea. Proporcionan el puente entre el conocimiento histórico y los continuos esfuerzos para describir la vida sobre la Tierra. Muchos de los elementos que contienen son verdaderamente irreemplazables u ofrecen visiones sobre distribuciones y ecología pasadas que serían de otro modo irrecuperables. Estas visiones son importantes también para modelar el futuro ambiental. La información sobre las colecciones en sí mismas es una herramienta importante para acceder a ellas, enriquecerlas y utilizarlas."
 
 #. type: Plain text
 #: background.en.adoc:17
 msgid "Many established use cases for standardised collection information relate primarily to preserved biological collections. This paper treats these collections as its core focus. However, we hope that the consultation will also explore two other closely related contexts: 1) geological collections (often held and managed by the same institutions as biological collections) and 2) living collections (overlapping significantly with the subject matter and research uses of preserved biological collections). We welcome inputs that address this wider scope."
-msgstr ""
+msgstr "Muchos casos de uso establecidos para la información estandarizada de las colecciones se refieren principalmente a las colecciones biológicas conservada. Este trabajo trata a estas colecciones como su principal foco de atención. Sin embargo, esperamos que la consulta también explore otros dos contextos estrechamente relacionados: 1) colecciones geológicas (a menudo mantenidas y gestionadas por las mismas instituciones que las colecciones biológicas) y 2) colecciones vivas (que se superponen significativamente con el tema y con los usos en investigación de las colecciones biológicas conservadas). Aportes que aborden este alcance más amplio son bienvenidos."
 
 #. type: Title ==
 #: how-to.en.adoc:1
 #, no-wrap
 msgid "How to respond to this Ideas Paper"
-msgstr ""
+msgstr "Cómo responder a este Documento de Ideas"
 
 #. type: Plain text
 #: how-to.en.adoc:4
 msgid "Read the sections below and contribute to developing a roadmap for collaborative activity to build the catalogue."
-msgstr ""
+msgstr "Lea las secciones a continuación y contribuya al desarrollo de una hoja de ruta para la actividad colaborativa en la construcción del catálogo."
 
 #. type: Plain text
 #: how-to.en.adoc:6
 msgid "We welcome contributions as follows:"
-msgstr ""
+msgstr "Las contribuciones son bienvenidas de la siguiente manera:"
 
 #. type: Plain text
 #: how-to.en.adoc:8
 msgid "Do you represent a *stakeholder, project, database, tool, standard or community* that addresses some aspect of the topics outlined here, or do you have ideas for novel approaches to mobilise or use information on collections?"
-msgstr ""
+msgstr "¿Representa usted a una *parte interesada, proyecto, base de datos, herramienta, estándar o comunidad* que aborde algún aspecto de los temas descritos aquí, o tiene ideas sobre nuevos enfoques para movilizar o utilizar información sobre colecciones?"
 
 #. type: Plain text
 #: how-to.en.adoc:9
@@ -293,12 +293,12 @@ msgstr "Por favor contactar a mailto:dhobern@gbif.org[Donald Hobern] hasta el 3 
 #. type: Plain text
 #: how-to.en.adoc:10
 msgid "We welcome short documents or slide presentations that can be shared on the consultation website."
-msgstr ""
+msgstr "Documentos cortos o presentaciones de diapositivas que puedan ser compartidas en el sitio web de la consulta son bienvenidas."
 
 #. type: Plain text
 #: how-to.en.adoc:11
 msgid "If presentations are unlikely to be clear without further explanation, please modify the slides or consider supplying the presentation as a pre-recorded video with audio commentary."
-msgstr ""
+msgstr "Si es probable que las presentaciones no sean claras sin más explicaciones, por favor modifique las diapositivas o considere proporcionar la presentación como vídeo pregrabado con comentarios de audio."
 
 #. type: Plain text
 #: how-to.en.adoc:12
