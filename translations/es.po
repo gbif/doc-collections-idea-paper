@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 18:00\n"
+"PO-Revision-Date: 2020-04-03 20:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -242,17 +242,17 @@ msgstr ""
 #. type: Plain text
 #: background.en.adoc:10
 msgid "Over the last few decades, the field of biodiversity informatics has developed to include researchers and informaticians from all over the world, collaborating to bring together knowledge of the world’s species and ecosystems in a readily usable form."
-msgstr ""
+msgstr "En las últimas décadas, el campo de la informática de la biodiversidad se ha desarrollado para incluir a investigadores e informáticos de todo el mundo. colaborando para reunir el conocimiento sobre las especies y los ecosistemas del mundo en una forma fácilmente utilizable."
 
 #. type: Plain text
 #: background.en.adoc:12
 msgid "The focus of biodiversity informatics has largely been on species and other taxa (including their names, diagnostic characters and traits), natural history specimens (including information on their collection in the field, their measurements, images, sequences, etc.), and field observations (including information on occurrence, distribution and abundance surveys, monitoring activities, citizen science, genomics and many other sources). These elements together help to address two fundamental challenges in biology: characterising the set of species with which we share the planet, and understanding the changing distribution, co-occurrence, interactions, and dynamics of these species in space and time."
-msgstr ""
+msgstr "El foco de la informática de la biodiversidad se ha centrado mayormente en las especies y otros taxones (incluidos sus nombres, caracteres diagnósticos y rasgos), en ejemplares de historia natural (incluyendo información sobre su colecta en el campo, sus medidas, imágenes, secuencias, etc.), y en observaciones de campo (incluyendo información sobre presencia, relevamientos de distribución y abundancia, actividades de monitoreo, ciencia ciudadana, genómica y muchas otras fuentes). Estos elementos en conjunto ayudan a abordar dos retos fundamentales en la biología: caracterizar el conjunto de especies con las que compartimos el planeta, y entender la distribución cambiante, co-ocurrencia, interacciones y dinámicas de estas especies en el espacio y el tiempo."
 
 #. type: Plain text
 #: background.en.adoc:14
 msgid "The biodiversity informatics community has also given attention to other categories of information that support these primary elements, especially through efforts to digitise the vast literature on taxonomy and biodiversity and work to develop a comprehensive catalogue of the world’s natural history collections, including museums, herbaria and a range of specialised collections."
-msgstr ""
+msgstr "La comunidad de informática de la biodiversidad también ha prestado atención a otras categorías de información que apoyan estos elementos primarios, especialmente a través de esfuerzos para digitalizar la vasta literatura sobre taxonomía y biodiversidad y trabajar para desarrollar un catálogo completo de las colecciones de historia natural del mundo, incluyendo museos, herbarios y una serie de colecciones especializadas."
 
 #. type: Plain text
 #: background.en.adoc:16
