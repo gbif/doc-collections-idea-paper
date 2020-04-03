@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 12:14\n"
+"PO-Revision-Date: 2020-04-03 12:22\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -227,7 +227,7 @@ msgstr "Antecedentes"
 #. type: Plain text
 #: background.en.adoc:4
 msgid "This paper explores needs and opportunities around digital information and services associated with \"natural history collections\". This term is used here to refer particularly to institutional collections that hold preserved biological materials (specimens, tissues, DNA extracts, etc.). Several important use cases relate specifically to the role of these collections to support taxonomy and other fields of biological research. However, many of the requirements discussed here are common to other natural science collections, especially geoscience collections, living collections and privately-owned collections. We hope that this paper and the planned discussions will also address the needs of this wider community."
-msgstr ""
+msgstr "Este trabajo explora las necesidades y oportunidades en torno a la información y servicios digitales asociados con las \"colecciones de historia natural\". Estos términos son utilizados aquí para referir en particular a colecciones institucionales que albergan material biológico preservado (especímenes, tejidos, ADN, extractos, etc.). Muchos casos de uso importantes se relacionan específicamente con el rol de estas colecciones en apoyar la taxonomía y otros campos de investigación en biología. Sin embargo, muchos de los requerimientos discutidos aquí son comunes a otras colecciones de ciencias naturales, especialmente a colecciones de geociencias, colecciones vivas y colecciones privadas. Esperamos que este trabajo y las discusiones que están planeadas puedan también abordar las necesidades de esta comunidad más amplia."
 
 #. type: Plain text
 #: background.en.adoc:6
