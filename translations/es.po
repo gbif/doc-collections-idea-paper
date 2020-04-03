@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 21:17\n"
+"PO-Revision-Date: 2020-04-03 23:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -170,22 +170,22 @@ msgstr "Tópicos adicionales y preguntas:"
 #. type: Plain text
 #: colophon.en.adoc:42
 msgid "Improvements to citation and visibility for collections - Q8"
-msgstr "Mejoramiento de las citas y visibilidad de las colecciones - Q8"
+msgstr "Mejoramiento de las citas y visibilidad de las colecciones - P8"
 
 #. type: Plain text
 #: colophon.en.adoc:43
 msgid "Support for national and regional needs and applications - Q9"
-msgstr "Apoyo a necesidades y aplicaciones nacionales y regionales - Q9"
+msgstr "Apoyo a necesidades y aplicaciones nacionales y regionales - P9"
 
 #. type: Plain text
 #: colophon.en.adoc:44
 msgid "Identifiers for collections - Q11"
-msgstr "Identificadores para colecciones - Q11"
+msgstr "Identificadores para colecciones - P11"
 
 #. type: Plain text
 #: colophon.en.adoc:45
 msgid "Hierarchical collection structures and subcollections - Q12"
-msgstr "Estructuras jerárquicas de colecciones y subcolecciones - Q12"
+msgstr "Estructuras jerárquicas de colecciones y subcolecciones - P12"
 
 #. type: Plain text
 #: colophon.en.adoc:46
@@ -195,7 +195,7 @@ msgstr "Ediciones principales a tópicos y preguntas:"
 #. type: Plain text
 #: colophon.en.adoc:47
 msgid "Scope for the catalogue and definition of “collection” - Q10"
-msgstr "Alcance del catálogo y definición de \"colección\" - Q10"
+msgstr "Alcance del catálogo y definición de \"colección\" - P10"
 
 #. type: Plain text
 #: colophon.en.adoc:48
@@ -371,24 +371,24 @@ msgstr "El grupo https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG
 #: 100.en.adoc:6
 #, no-wrap
 msgid "A directory to support the collections community"
-msgstr ""
+msgstr "Un directorio para apoyar a la comunidad de colecciones"
 
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Collections staff and taxonomists collaborate as a truly global community. Valuable specimens are distributed between institutions in all parts of the world. Researchers visit these collections or borrow specimens as part of their work. Index Herbariorum (IH) is the directory of information on the world’s herbaria (addresses, contacts, specialties, size, etc.). It is a well-managed resource and highly regarded as a tool by the botanical community. No full equivalent exists globally for other natural history collections, although national/regional infrastructures such as the ALA collections pages, the iDigBio US Collections List, and the CETAF profiles serve similar roles. GBIF has recently integrated the Global Registry of Scientific Collections (GRSciColl) into its registry as a framework that can be extended with richer information curated by collections communities."
-msgstr ""
+msgstr "El personal de las colecciones y los taxónomos colaboran como una comunidad verdaderamente global. Valiosos especímenes se distribuyen entre instituciones en todas partes del mundo. Los investigadores visitan estas colecciones o piden prestado especímenes como parte de su trabajo. Index Herbariorum (IH) es el directorio de información sobre herbarios del mundo (direcciones, contactos, especialidades, tamaño, etc.). Es un recurso bien gestionado y muy estimado como herramienta por la comunidad botánica. No existe un equivalente completo global para otras colecciones de historia natural, aunque algunas infraestructuras nacionales/regionales como las páginas de colecciones de ALA, la Lista de Colecciones de Estados Unidos de iDigBio, y los perfiles del CETAF cumplen funciones similares. GBIF ha integrado recientemente a su registro el Registro Global de Colecciones Científicas (Global Registry of Scientific Collections, GRSciColl), como un marco que puede ser ampliado con información más rica curada por las comunidades de colecciones."
 
 #. type: delimited block =
 #: 100.en.adoc:12
 #, no-wrap
 msgid "*Q1*. Would the collections community benefit from a comprehensive directory of all natural history collections? Who would make use of such a directory? (The focus here is on the catalogue as a directory of known institutions and information required to contact them.)\n"
-msgstr ""
+msgstr "*P1*. ¿La comunidad de colecciones se beneficiaría al tener un directorio exhaustivo de todas las colecciones de historia natural? ¿Quién haría uso de dicho directorio? (El enfoque aquí es sobre el catálogo como un directorio de instituciones conocidas y la información requerida para contactar con ellas.)\n"
 
 #. type: Title ===
 #: 100.en.adoc:14
 #, no-wrap
 msgid "Locating specimens and genetic materials"
-msgstr ""
+msgstr "Localizando especímenes y material genético"
 
 #. type: Plain text
 #: 100.en.adoc:17
