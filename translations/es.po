@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 23:39\n"
+"PO-Revision-Date: 2020-04-03 23:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -439,7 +439,7 @@ msgstr "*P4*. ¿Sería útil tener estimaciones más exactas de la escala y el v
 #: 100.en.adoc:38
 #, no-wrap
 msgid "Increased value for data on specimens, taxonomic publications, etc."
-msgstr ""
+msgstr "Mayor valor para los datos sobre especímenes, publicaciones taxonómicas, etc."
 
 #. type: Plain text
 #: 100.en.adoc:41
