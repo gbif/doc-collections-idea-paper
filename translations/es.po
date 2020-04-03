@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 23:31\n"
+"PO-Revision-Date: 2020-04-03 23:39\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -410,30 +410,30 @@ msgstr "Un primer paso hacia la digitalización de colecciones"
 #. type: Plain text
 #: 100.en.adoc:25
 msgid "The information needed to build the catalogue of collections closely matches the metadata required to publish a specimen dataset to GBIF and other portals. A record that describes a collection could be treated as a minimal first step, perhaps leading through processes such as Join The Dots and onwards to comprehensive digitisation. A comprehensive catalogue of such records could guide efforts to prioritise further digitisation, by highlighting collections with holdings of particular relevance or by assisting the development of collaborative digitisation networks like the ADBC Thematic Collection Networks."
-msgstr ""
+msgstr "La información necesaria para construir el catálogo de colecciones coincide estrechamente con los metadatos necesarios para publicar un conjunto de datos de especímenes en GBIF y otros portales. Un registro que describe una colección podría ser tratado como un mínimo primer paso, tal vez conduciendo a través de procesos tales como Une los Puntos y en adelante, a una digitalización integral. Un catálogo exhaustivo de dichos registros podría guiar los esfuerzos para priorizar actividades de digitalización, destacando colecciones con contenido de especial relevancia o ayudando al desarrollo de redes colaborativas de digitalización como las Redes de Colecciones Temáticas (ADBC Thematic Collection Networks)."
 
 #. type: delimited block =
 #: 100.en.adoc:28
 #, no-wrap
 msgid "*Q3*. Can publishing a collection record to a catalogue assist collections in moving towards full digitisation? What incentives or support do collections need to make this a worthwhile step?\n"
-msgstr ""
+msgstr "*P3*. ¿Puede la publicación de un registro de colección en un catálogo ayudar a las colecciones a avanzar hacia la digitalización completa? ¿Qué incentivos o apoyo necesitan las colecciones para hacer de ello un paso valioso?\n"
 
 #. type: Title ===
 #: 100.en.adoc:30
 #, no-wrap
 msgid "Assessing the scale and value of collections"
-msgstr ""
+msgstr "Evaluando la escala y el valor de las colecciones"
 
 #. type: Plain text
 #: 100.en.adoc:33
 msgid "Estimates of the number of specimens held by collections run into billions, but no definitive number exists. A catalogue could help to narrow these estimates and to assess the economic value of these irreplaceable holdings. This information may help to justify the scale of effort and funding needed to digitise collections and make their data accessible for universal, reliable and persistent use."
-msgstr ""
+msgstr "Las estimaciones del número de especímenes albergados en las colecciones ascienden a miles de millones, pero no existe un número definitivo. Un catálogo podría ayudar a afinar estas estimaciones y a evaluar el valor económico de estos bienes irreemplazables. Esta información puede ayudar a justificar la magnitud del esfuerzo y la financiación necesarios para digitalizar las colecciones y hacer que sus datos sean accesibles para su uso universal, confiable y persistente."
 
 #. type: delimited block =
 #: 100.en.adoc:36
 #, no-wrap
 msgid "*Q4*. Would more accurate estimates of the scale and value of collections be useful? How might these be used and by whom?\n"
-msgstr ""
+msgstr "*P4*. ¿Sería útil tener estimaciones más exactas de la escala y el valor de las colecciones? ¿Cómo podrían ser usadas estas estimaciones y por quién?\n"
 
 #. type: Title ===
 #: 100.en.adoc:38
