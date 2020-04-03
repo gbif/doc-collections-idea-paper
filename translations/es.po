@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 17:24\n"
+"PO-Revision-Date: 2020-04-03 18:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -232,7 +232,7 @@ msgstr "Este trabajo explora las necesidades y oportunidades en torno a la infor
 #. type: Plain text
 #: background.en.adoc:6
 msgid "Information about natural history collections helps to map the complex landscape of research resources and assists researchers in locating and contacting the holders of specimens. Collection records contribute to the development of a https://doi.org/10.3897/rio.2.e8767[fully interlinked biodiversity knowledge graph], showcasing the existence and importance of museums and herbaria and supplying context to available data on specimens. These records also potentially open new avenues for fresh use of these collections and for accelerating their full availability online."
-msgstr ""
+msgstr "La información acerca de las colecciones de historia natural ayuda a mapear el complejo escenario de recursos para investigación y asiste a los investigadores en la localización y contacto con los personas que custodian los especímenes. Los registros de colecciones contribuyen al desarrollo de un https://doi.org/10.3897/rio.2.e8767[gráfico de conocimiento totalmente interconectado], demostrando la existencia y la importancia de museos y herbarios y proveyendo un contexto para los datos disponibles sobre los especímenes. Estos registros también abren potencialmente nuevos caminos para nuevos usos de estas colecciones y para acelerar su completa disponibilidad en línea."
 
 #. type: Plain text
 #: background.en.adoc:8
