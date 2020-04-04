@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 17:43\n"
+"PO-Revision-Date: 2020-04-04 18:03\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -840,7 +840,7 @@ msgstr ""
 #: 300.en.adoc:30
 #, no-wrap
 msgid "Collection management systems"
-msgstr ""
+msgstr "Sistemas de administración de colecciones"
 
 #. type: Plain text
 #: 300.en.adoc:33
@@ -857,7 +857,7 @@ msgstr ""
 #: 300.en.adoc:38
 #, no-wrap
 msgid "Interfaces, APIs and client modules"
-msgstr ""
+msgstr "Interfaces, APIs y módulos de cliente"
 
 #. type: Plain text
 #: 300.en.adoc:41
@@ -885,7 +885,7 @@ msgstr ""
 #: 400.en.adoc:6
 #, no-wrap
 msgid "Ownership of information for each collection"
-msgstr ""
+msgstr "Propiedad de la información de cada colección"
 
 #. type: Plain text
 #: 400.en.adoc:9
@@ -913,7 +913,7 @@ msgstr ""
 #: 400.en.adoc:20
 #, no-wrap
 msgid "*Q22*. What do these communities require to be able to carry out their work efficiently and support their collections? How can an integrated approach enhance their offerings? What risks need to be addressed?\n"
-msgstr ""
+msgstr "*P22*. ¿Qué necesitan estas comunidades para poder llevar a cabo su trabajo de forma eficiente y apoyar a sus colecciones? ¿Cómo puede un enfoque integrado mejorar sus ofertas? ¿Qué riesgos hay que considerar?\n"
 
 #. type: Title ===
 #: 400.en.adoc:22
@@ -981,5 +981,5 @@ msgstr ""
 #: 400.en.adoc:52
 #, no-wrap
 msgid "*Q26*. How can the governance and technical aspects be funded? Is external funding likely? What other models may be feasible (contributions from collections, inclusion within the funded mission for GBIF or some other host)?\n"
-msgstr ""
+msgstr "*P26*. ¿Cómo se puede financiar la gobernanza y los aspectos técnicos? ¿Es la financiación exterior una fuente probable? ¿Qué otros modelos podrían ser factibles (contribuciones de las colecciones, inclusión dentro de la financiación de la misión de GBIF o algún otro actor)?\n"
 
