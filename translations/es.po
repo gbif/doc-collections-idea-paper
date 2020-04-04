@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 18:03\n"
+"PO-Revision-Date: 2020-04-04 18:56\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -828,13 +828,13 @@ msgstr "Catálogo integrado"
 #: 300.en.adoc:25
 #, no-wrap
 msgid "GBIF has the mission to provide global-scale support for biodiversity informatics solutions and has expanded its Registry to host the data historically maintained as GRSciColl. GRSciColl content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   \n"
-msgstr ""
+msgstr "GBIF tiene la misión de proporcionar apoyo a escala global a soluciones para la informática de la biodiversidad y ha ampliado su Registro para albergar los datos históricamente mantenidos como GRSciColl. El contenido de GRSciColl está incompleto y se considera más bien como un marco para la expansión con metadatos de colecciones más ricos que representen adecuadamente las necesidades e intereses de las colecciones. GBIF puede servir como contexto para la integración y des-duplicación de información de colecciones proveniente de distintas fuentes, y para interconectar esta información con otros datos de biodiversidad. GBIF requiere asesoramiento sobre la mejor manera de apoyar las necesidades y la representación de las colecciones y sus comunidades a medida que desarrolla estos servicios.\n"
 
 #. type: delimited block =
 #: 300.en.adoc:28
 #, no-wrap
 msgid "*Q18*. Are there issues with GBIF providing hosting and support for the global catalogue through its Registry? What is required to ensure that this meets the needs of collections and is fully adopted and owned by the collections community? What challenges need to be addressed to minimise duplication of content and effort within an integrated catalogue?\n"
-msgstr ""
+msgstr "*P18*. ¿Habría inconvenientes si GBIF proporcionara alojamiento y soporte para el catálogo global a través de su Registro? ¿Qué se necesita para garantizar que esto satisfaga las necesidades de las colecciones y sea totalmente adoptado y reconocido como propio por la comunidad de colecciones? ¿Qué retos hay que abordar para minimizar la duplicación del contenido y el esfuerzo dentro de un catálogo integrado?\n"
 
 #. type: Title ===
 #: 300.en.adoc:30
@@ -845,13 +845,13 @@ msgstr "Sistemas de administración de colecciones"
 #. type: Plain text
 #: 300.en.adoc:33
 msgid "Most natural history collections maintain data on their specimens in a collection management system (CMS) such as https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Some of these tools could develop to interface directly with the collection catalogue, providing up-to-date metadata and metrics."
-msgstr ""
+msgstr "La mayoría de las colecciones de historia natural mantienen datos sobre sus especímenes en un sistema de gestión de colecciones (CMS por su sigla en inglés) como https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell. om/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] o https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Algunas de estas herramientas podrían desarrollarse para interactuar directamente con el catálogo de colecciones, proporcionando metadatos y métricas actualizadas."
 
 #. type: delimited block =
 #: 300.en.adoc:36
 #, no-wrap
 msgid "*Q19*. What present or future requirements are there for interfaces directly between CMS platforms and the collection catalogue? Are there special opportunities that should be considered? Could CMS platforms become a source of metadata for institutional collections within a global catalogue?\n"
-msgstr ""
+msgstr "*P19*. ¿Qué requisitos presentes o futuros existen para las interacciones directas entre las plataformas CMS y el catálogo de colecciones? ¿Hay oportunidades especiales que deberían ser consideradas? ¿Podrían las plataformas CMS convertirse en una fuente de metadatos para las colecciones institucionales dentro de un catálogo global?\n"
 
 #. type: Title ===
 #: 300.en.adoc:38
@@ -862,7 +862,7 @@ msgstr "Interfaces, APIs y módulos de cliente"
 #. type: Plain text
 #: 300.en.adoc:41
 msgid "The value of a shared commons-based resource can be maximised by ensuring that interfaces and APIs support the needs of all key stakeholder groups, including addressing issues around content delivery to the fullest extent possible in multiple languages. Some needs may be addressed by offering reusable client components that can be embedded in other applications."
-msgstr ""
+msgstr "El valor de un recurso compartido comunitario puede ser maximizado asegurando que las interfaces y APIs soporten las necesidades de todos los grupos clave de agentes interesados, incluyendo el abordaje cuestiones relacionadas con la entrega de contenido en la mayor medida posible en varios idiomas. Algunas necesidades podrían ser atendidas ofreciendo componentes de cliente reutilizables que pueden ser embebidos en otras aplicaciones."
 
 #. type: delimited block =
 #: 300.en.adoc:44
