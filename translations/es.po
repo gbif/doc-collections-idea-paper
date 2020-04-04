@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 00:33\n"
+"PO-Revision-Date: 2020-04-04 14:13\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -495,7 +495,7 @@ msgstr "Mejoramiento de las citas y visibildad de las colecciones"
 #. type: Plain text
 #: 100.en.adoc:65
 msgid "Research value is primarily measured in terms of visibility and impacts from published literature. Natural history collections are poorly recognised by such measures and their importance as foundational research tools is almost hidden. Users of collections are regularly urged to cite specimens examined and reference the collection. However, citation is often https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[lacking, incomplete or ambiguous]. Research infrastructures such as https://explore.openaire.eu/search/find[OpenAIRE] in Europe increasingly map not only linkages between researchers and publications but also datasets, projects, content providers and organisations. A catalogue could help to standardise citation of collections, making their impact visible through such knowledge graphs. Journals and editorial boards could be encouraged to require standard collection identifiers wherever collections are referenced."
-msgstr ""
+msgstr "El valor de la investigación se mide principalmente en términos de visibilidad e impacto de la literatura publicada. Las colecciones de historia natural son pobremente reconocidas por estas medidas y su importancia como herramientas fundamentales de investigación está casi oculta. Los usuarios de las colecciones son regularmente instados a citar los especímenes examinados y hacer referencia a la colección. Sin embargo, la cita es a menudo https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[inexistente, incompleta o ambigua]. Las infraestructuras de investigación como https://explore.openaire. u/buscar/encontrar[OpenAIRE] en Europa mapean cada vez más no sólo conexiones entre investigadores y publicaciones, sino también conjuntos de datos, proyectos, proveedores de contenidos y organizaciones. Un catálogo podría ayudar a estandarizar la cita de las colecciones, haciendo visible su impacto a través de estos gráficos de conocimiento. Se podría alentar a las revistas y a las comisiones editoriales a que exijan identificadores estándar de colecciones toda vez que se haga referencia a las colecciones."
 
 #. type: delimited block =
 #: 100.en.adoc:68
@@ -512,13 +512,13 @@ msgstr "Apoyo a necesidades y aplicaciones nacionales y regionales"
 #. type: Plain text
 #: 100.en.adoc:73
 msgid "Although this consultation aims to encourage the development of standardised information for all collections globally, each country or region may have needs or uses for this same information to in local applications and services. It is important to identify a range of these needs and to make sure they are addressed as part of a collaborative solution. An inclusive approach will bring incentives to work together to make information on each catalogue as complete, current and accurate as possible. Requirements are relatively well understood from Europe (e.g. DiSSCo) and the United States (e.g. iDigBio), but other regions may have subtly or significantly different needs."
-msgstr ""
+msgstr "Aunque esta consulta pretende fomentar el desarrollo de información estandarizada para todas las colecciones a nivel global, cada país o región puede tener necesidades o usos para esta misma información en aplicaciones y servicios locales. Es importante identificar una serie de estas necesidades y asegurarse de que se abordan como parte de una solución colaborativa. Un enfoque inclusivo aportará incentivos para trabajar juntos para que la información sobre cada catálogo sea lo más completa, actual y precisa posible. Los requisitos son relativamente bien conocidos para Europa (e.g., DiSSCo) y los Estados Unidos (e.g., iDigBio), pero otras regiones podrían tener necesidades sutil o significativamente diferentes."
 
 #. type: delimited block =
 #: 100.en.adoc:76
 #, no-wrap
 msgid "*Q9*. What national and regional needs or possible uses should be considered? Do national portals or specialist networks require information not currently addressed by data standards for collection metadata? Are there significant regional research infrastructures or public websites that include (or should include) information on local collections? Are there regionally important uses that are not addressed elsewhere in this document?\n"
-msgstr ""
+msgstr "*P9*. ¿Qué necesidades nacionales y regionales o posibles usos deben tenerse en cuenta? ¿Los portales nacionales o las redes especializadas requieren información que actualmente no se contempla en los estándares de datos para los metadatos de las colecciones? ¿Existen infraestructuras regionales de investigación relevantes o sitios web públicos que incluyan (o debieran incluir) información sobre colecciones locales? ¿Hay usos importantes regionalmente que no se aborden en otras partes de este documento?\n"
 
 #. type: Title ==
 #: 200.en.adoc:2
