@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 15:07\n"
+"PO-Revision-Date: 2020-04-04 16:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -626,45 +626,45 @@ msgstr "Descripción de una colección"
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
-msgstr ""
+msgstr "El https://www.tdwg.org/community/cd/[Grupo de Interés de Descripción de Colecciones de (TDWG Collection Descriptions, CD)] está desarrollando actualmente el https://github. om/tdwg/cd[estándar para descripción de colecciones, CD] (evolucionando desde el estándar anterior de Descripción de Colecciones Naturales de TDWG (TDWG Natural Collections Description)). Las redes existentes y los esquemas institucionales utilizan una variedad de formatos diferentes o variantes de estándares de metadatos para sus registros de colecciones, como resultado de lo cual la interoperabilidad entre estos recursos (y por tanto la agregación de datos) es limitada. Para superar esta barrera, se necesita claridad en torno a factores como estándares y vocabularios preferidos, campos obligatorios y compatibilidad entre información en diferentes formatos."
 
 #. type: delimited block =
 #: 200.en.adoc:44
 #, no-wrap
 msgid "*Q13*. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?\n"
-msgstr ""
+msgstr "*P13*. ¿Qué información descriptiva debe considerarse obligatoria o deseable para cada Colección? ¿El CD de TDWG provee todo lo necesario? De lo contrario, ¿qué mejoras son necesarias? ¿Cuánta de esta información necesita normalizarse para el procesamiento por parte de computadoras (en lugar de sólo para lectores humanos)?\n"
 
 #. type: Title ===
 #: 200.en.adoc:46
 #, no-wrap
 msgid "Wider data linkages"
-msgstr ""
+msgstr "Interconexión de datos más amplia"
 
 #. type: Plain text
 #: 200.en.adoc:48
 msgid "Information in the collection catalogue may be linked to a wide range of other biodiversity information (specimens, sequences, datasets, images, publications, etc.) to support information access and exploration."
-msgstr ""
+msgstr "La información en el catálogo de colecciones podría estar vinculada a un amplio rango de otros tipos de información sobre la biodiversidad (ejemplares, secuencias, conjuntos de datos, imágenes, publicaciones, etc.) para apoyar el acceso a la información y la exploración."
 
 #. type: delimited block =
 #: 200.en.adoc:51
 #, no-wrap
 msgid "*Q14*. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:\n"
-msgstr ""
+msgstr "*P14*. ¿Qué información debería estar vinculada a los registros de colecciones? Debemos centrarnos en establecer vínculos que realmente justifiquen los costos de creación y mantenimiento. Los siguientes son probables candidatos, pero otros son posibles. En cada caso, debemos determinar si el enlace debe ser bidireccional:\n"
 
 #. type: delimited block =
 #: 200.en.adoc:53
 msgid "Specimens held by a collection"
-msgstr ""
+msgstr "Especímenes de una colección"
 
 #. type: delimited block =
 #: 200.en.adoc:54
 msgid "Type specimens held by a collection"
-msgstr ""
+msgstr "Especímenes tipo de una colección"
 
 #. type: delimited block =
 #: 200.en.adoc:55
 msgid "Species/taxa represented in a collection (with/without specimen counts)"
-msgstr ""
+msgstr "Especies/taxones representados en una colección (con/sin conteo de especímenes)"
 
 #. type: delimited block =
 #: 200.en.adoc:56
