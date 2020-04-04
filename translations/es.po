@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 14:29\n"
+"PO-Revision-Date: 2020-04-04 14:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -561,50 +561,50 @@ msgstr "Colecciones antropológicas"
 #. type: delimited block =
 #: 200.en.adoc:16
 msgid "Ethnobotanical collections"
-msgstr ""
+msgstr "Colecciones etnobotánicas"
 
 #. type: delimited block =
 #: 200.en.adoc:17
 msgid "Wood collections (xylaria)"
-msgstr ""
+msgstr "Colecciones de maderas (xylaria)"
 
 #. type: delimited block =
 #: 200.en.adoc:18
 msgid "Tissue banks, DNA repositories and slide collections"
-msgstr ""
+msgstr "Bancos de tejidos, repositorios de ADN y colecciones de diapositivas"
 
 #. type: delimited block =
 #: 200.en.adoc:19
 msgid "Living collections (microbial collections, zoos, aquaria, botanic gardens, seed banks)"
-msgstr ""
+msgstr "Colecciones vivas (colecciones microbianas, zoológicos, acuarios, jardines botánicos, bancos de semillas)"
 
 #. type: delimited block =
 #: 200.en.adoc:20
 msgid "Personal collections"
-msgstr ""
+msgstr "Colecciones personales"
 
 #. type: Title ===
 #: 200.en.adoc:22
 #, no-wrap
 msgid "Identifiers for collections"
-msgstr ""
+msgstr "Identificadores para colecciones"
 
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "Most collections are already identified by one or more collection codes and may have existing web identifiers (URLs, DOIs, etc.) in one or more databases. The catalogue may reuse one or other of these identifiers or may help to support a standardised scheme. GRSciColl exists to assist with standardisation of collection codes and machine-readable identifiers, but several other efforts are also in place. Unique identifiers for each collection will be important to maximise cross-linkage of information and standardise citation, but other existing identifiers should ideally resolve to the same information and be recognised as synonyms for the preferred identifiers."
-msgstr ""
+msgstr "La mayoría de las colecciones ya están identificadas por uno o más códigos de colección y pueden tener identificadores web (URLs, DOIs, etc.) en una o más bases de datos. El catálogo puede reutilizar uno u otro de estos identificadores o puede ayudar a apoyar un esquema estandarizado. GRSciColl existe para ayudar con la estandarización de los códigos de colección y los identificadores digitales (legibles por computadoras), pero también existen varios otros esfuerzos. Los identificadores únicos para cada colección serán importantes para maximizar la interconexión de la información y la estandarización de citas, pero otros identificadores existentes deberían resolver idealmente a la misma información y ser reconocidos como sinónimos de los identificadores preferidos."
 
 #. type: delimited block =
 #: 200.en.adoc:28
 #, no-wrap
 msgid "*Q11*. What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection? What characteristics of identifiers are important for use by machines and humans? Are there benefits in selecting any particular identifier scheme (e.g. https://www.doi.org/[DOIs] or https://ror.org/[ROR] identifiers)? What can be done to promote use of the preferred identifiers?\n"
-msgstr ""
+msgstr "*P11*. ¿Qué esquemas de identificadores (códigos de colección IH, URIs de GRSciColl, etc.) existen y deben ser mantenidos de alguna manera? ¿Siguen estos esquemas una definición consistente de colección de historia natural? ¿Qué características de los identificadores son importantes para el uso por parte de computadoras y humanos? ¿Hay beneficios en la selección de algún esquema de identificación particular (e.g., identificadores https://www.doi.org/[DOIs] o https://ror.org/[ROR])? ¿Qué se puede hacer para promover el uso de los identificadores preferidos?\n"
 
 #. type: Title ===
 #: 200.en.adoc:30
 #, no-wrap
 msgid "Hierarchical collection structures and subcollections"
-msgstr ""
+msgstr "Estructuras jerárquicas de colecciones y subcolecciones"
 
 #. type: Plain text
 #: 200.en.adoc:33
