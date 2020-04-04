@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 16:41\n"
+"PO-Revision-Date: 2020-04-04 17:31\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -751,49 +751,49 @@ msgstr "Comparar análisis de deficiencias en cobertura de los datos de especím
 #. type: delimited block =
 #: 200.en.adoc:78
 msgid "Discover holdings that make a particular collection unique, and therefore of even higher value"
-msgstr ""
+msgstr "Descubrir los elementos que posee cada colección que hacen que sea única, y por lo tanto de mayor valor"
 
 #. type: delimited block =
 #: 200.en.adoc:79
 msgid "Develop and fund collaborative digitisation programmes focused on understanding of the holdings of the network as a whole"
-msgstr ""
+msgstr "Desarrollar y financiar programas de digitalización colaborativa centrados en la comprender los elementos que posee la red en su conjunto"
 
 #. type: delimited block =
 #: 200.en.adoc:80
 msgid "Develop cross-institutional loan systems and taxonomic workbenches"
-msgstr ""
+msgstr "Desarrollar sistemas de préstamos interinstitucionales y plataformas de trabajo taxonómico"
 
 #. type: delimited block =
 #: 200.en.adoc:81
 msgid "Develop citation models for collections and track their impact"
-msgstr ""
+msgstr "Desarrollar modelos de citas para colecciones y rastrear su impacto"
 
 #. type: delimited block =
 #: 200.en.adoc:82
 msgid "Perform risk assessment of the health or stability of a collection"
-msgstr ""
+msgstr "Realizar evaluaciones del riesgo de la salud o estabilidad de una colección"
 
 #. type: Title ==
 #: 300.en.adoc:2
 #, no-wrap
 msgid "Technology for the catalogue"
-msgstr ""
+msgstr "Tecnología para el catálogo"
 
 #. type: Plain text
 #: 300.en.adoc:5
 msgid "A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl CETAF Collections Registry and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed."
-msgstr ""
+msgstr "Una amplia gama de diferentes herramientas ya están en uso para la creación de metadatos de colecciones, curado de catálogos parciales como IH, el Registro de Colecciones de GRSciColl CETAF y paginas de colecciones nacionales. Estas herramientas varían en cuanto a sus capacidades técnicas y sostenibilidad. Algunas están muy respaldadas por las comunidades existentes y podrían formar parte de una solución interconectada. Un objetivo para esta consulta es identificar qué componentes se consideran maduros y estables y pueden contribuir a tal solución e identificar qué otros componentes se necesitarían desarrollar."
 
 #. type: Title ===
 #: 300.en.adoc:6
 #, no-wrap
 msgid "Pathways and tools for publishing collection records"
-msgstr ""
+msgstr "Rutas y herramientas para la publicación de registros de colecciones"
 
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Existing information on collections is edited and maintained in different ways. IH allows herbaria to provide or edit their records and offers support for herbaria to provide updates via email or other channels. Other communities such as national portals have other pathways for collections to provide or update information. Several tools help data publishers to create EML metadata for publishing data to GBIF and elsewhere. These could evolve to deliver collection records in preferred formats. The https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] could be enhanced to offer collection records as one of the core record types that can be shared. This would allow collections either to publish one or more collection records as a small standalone dataset or collection networks to manage and publish a dataset comprising many collection records. Wikidata could also serve as a tool or platform for editing catalogue information and making it widely accessible and reusable."
-msgstr ""
+msgstr "La información existente sobre las colecciones es editada y mantenida de diferentes maneras. IH permite que los herbarios proporcionen o editen sus registros y ofrece soporte para que los herbarios proporcionen actualizaciones por correo electrónico u otros canales. Otras comunidades, como los portales nacionales, tienen otras vías para que las colecciones proporcionen o actualicen información. Varias herramientas ayudan a los publicadores de datos a crear metadatos EML para publicar datos en GBIF y en otros lugares. Estas herramientas podrían mejorarse para proporcionar registros de colecciones en formatos preferidos. La https://www.gbif.org/ipt[herramienta de publicación integrada (Integrated Publishing Toolkit, IPT)] podría ser mejorada para ofrecer registros de colecciones como uno de los tipos de registro principales que se pueden compartir. Esto permitiría a las colecciones publicar uno o más registros de colecciones como un pequeño conjunto de datos autónomo y permitiría a redes de colecciones administrar y publicar un conjunto de datos que comprenda muchos registros de colecciones. Wikidata también podría servir como herramienta o plataforma para editar información del catálogo y hacerla ampliamente accesible y reutilizable."
 
 #. type: delimited block =
 #: 300.en.adoc:12
