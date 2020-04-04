@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 17:31\n"
+"PO-Revision-Date: 2020-04-04 17:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -799,13 +799,13 @@ msgstr "La información existente sobre las colecciones es editada y mantenida d
 #: 300.en.adoc:12
 #, no-wrap
 msgid "*Q16*. Which existing tools, databases and websites can help to mobilise and maintain collection records? Is it possible to identify additional tools or pathways that need to be developed or supported?\n"
-msgstr ""
+msgstr "*P16*. ¿Qué herramientas, bases de datos y sitios web existentes pueden ayudar a movilizar y mantener los registros de colecciones? ¿Es posible identificar herramientas o vías adicionales que necesitarían ser desarrolladas o apoyadas?\n"
 
 #. type: Title ===
 #: 300.en.adoc:14
 #, no-wrap
 msgid "Community catalogues"
-msgstr ""
+msgstr "Catálogos de la comunidad"
 
 #. type: Plain text
 #: 300.en.adoc:17
