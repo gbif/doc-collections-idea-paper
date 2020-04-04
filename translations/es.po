@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 17:36\n"
+"PO-Revision-Date: 2020-04-04 17:43\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -810,19 +810,19 @@ msgstr "Catálogos de la comunidad"
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "IH is the best established catalogue servicing a large community of collections, but many other communities are important, including regionally or nationally focused efforts, such as CETAF’s institutional profiles, the web portals of https://www.idigbio.org/portal/collections[iDigBio] and the ALA, and the https://biss.pensoft.net/article/38772/[One World Collection initiative], and thematically aligned efforts, such as the http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections] and the http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. A comprehensive global catalogue should ensure that the needs of these different communities are met and support their continued operation and independence wherever is valued by collections. Understanding these requirements is essential in planning the technical implementation and governance of the catalogue."
-msgstr ""
+msgstr "IH es el catálogo mejor establecido que atiende a una gran comunidad de colecciones, pero muchas otras comunidades son importantes, incluyendo esfuerzos enfocados a nivel regional o nacional, como los perfiles institucionales del CETAF, los portales web de https://www. Colecciones digbio.org/portal/[iDigBio] y ALA, y la iniciativa https://biss.pensoft.net/article/38772/[One World Collection], y esfuerzos alineados temáticamente, como el http://www.wfcc.info/ccinfo/index. hp/home/content[Directorio Mundial de Colecciones Culturales (World Directory of Culture Collections)] y el portal de la http://www.ggbn.org/ggbn_portal/members/index[Red Global de Diversidad Genómica (Global Genome Biodiversity Network)]. Un catálogo global exhaustivo debería garantizar que se satisfagan las necesidades de estas diferentes comunidades y apoyar su funcionamiento e independencia en todos los ámbitos valorados para las colecciones. Entender estos requisitos es esencial en la planificación de la implementación técnica y la gobernanza del catálogo."
 
 #. type: delimited block =
 #: 300.en.adoc:20
 #, no-wrap
 msgid "*Q17*. What catalogues already address the needs of some communities of collections? How can an integrated catalogue support these communities? Which communities require a separately branded identity and/or platform? What is the best way to include these communities as part of an interconnected solution? Is there a role for content to be created and improved by a wider audience (e.g. through Wikidata)?\n"
-msgstr ""
+msgstr "*P17*. ¿Qué catálogos ya responden a las necesidades de algunas comunidades de colecciones? ¿Cómo puede un catálogo integrado apoyar a estas comunidades? ¿Qué comunidades necesitan una marca o identidad y/o plataforma separadas? ¿Cuál es la mejor manera de incluir a estas comunidades como parte de una solución interconectada? ¿Existe un rol para que el contenido sea creado y mejorado por un público más amplio (e.g., a través de Wikidata)?\n"
 
 #. type: Title ===
 #: 300.en.adoc:22
 #, no-wrap
 msgid "Integrated catalogue"
-msgstr ""
+msgstr "Catálogo integrado"
 
 #. type: Plain text
 #: 300.en.adoc:25
@@ -874,7 +874,7 @@ msgstr ""
 #: 400.en.adoc:2
 #, no-wrap
 msgid "Governance of the catalogue"
-msgstr ""
+msgstr "Gobernanza del catálogo"
 
 #. type: Plain text
 #: 400.en.adoc:5
@@ -902,7 +902,7 @@ msgstr ""
 #: 400.en.adoc:14
 #, no-wrap
 msgid "Communities of practice"
-msgstr ""
+msgstr "Comunidades de práctica"
 
 #. type: Plain text
 #: 400.en.adoc:17
@@ -919,7 +919,7 @@ msgstr ""
 #: 400.en.adoc:22
 #, no-wrap
 msgid "Technical infrastructures"
-msgstr ""
+msgstr "Infraestructuras técnicas"
 
 #. type: Plain text
 #: 400.en.adoc:25
@@ -930,13 +930,13 @@ msgstr ""
 #: 400.en.adoc:28
 #, no-wrap
 msgid "*Q23*. What technical infrastructures need to be engaged as part of the solution? How are their roles and needs best balanced with those of the collections and of their communities?\n"
-msgstr ""
+msgstr "*P23*. ¿Qué infraestructuras técnicas deben integrarse como parte de la solución? ¿Cómo se equilibrarían mejor sus roles y necesidades con aquellos de las colecciones y sus comunidades?\n"
 
 #. type: Title ===
 #: 400.en.adoc:30
 #, no-wrap
 msgid "Governance arrangements"
-msgstr ""
+msgstr "Acuerdos de gobernanza"
 
 #. type: Plain text
 #: 400.en.adoc:33
@@ -947,7 +947,7 @@ msgstr ""
 #: 400.en.adoc:36
 #, no-wrap
 msgid "*Q24*. Are there appropriate models that can be adopted or expanded to support the governance of this catalogue? Can it be managed in the context of an existing organisation or institution?\n"
-msgstr ""
+msgstr "*P24*. ¿Existen modelos adecuados que podrían adoptarse o ampliarse para apoyar la gobernanza de este catálogo? ¿Puede gestionarse en el contexto de una organización o institución existente?\n"
 
 #. type: Title ===
 #: 400.en.adoc:38
@@ -970,7 +970,7 @@ msgstr ""
 #: 400.en.adoc:46
 #, no-wrap
 msgid "Funding and sustainability"
-msgstr ""
+msgstr "Financiamiento y sostenibilidad"
 
 #. type: Plain text
 #: 400.en.adoc:49
