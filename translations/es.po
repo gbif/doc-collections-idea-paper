@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 14:48\n"
+"PO-Revision-Date: 2020-04-04 15:07\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -615,13 +615,13 @@ msgstr "Dentro de IH, cada registro de herbario corresponde normalmente a una in
 #: 200.en.adoc:36
 #, no-wrap
 msgid "*Q12*. Should the catalogue support hierarchical relationships between collections (and collection records)? If so, how do parent-child relationships work, and do we infer information from parent to child or vice versa? \n"
-msgstr ""
+msgstr "*P12*. ¿Debe el catálogo apoyar relaciones jerárquicas entre colecciones (y registros de colecciones)? Si es así, ¿cómo funcionan las relaciones \"padre-hijo\"? e ¿inferimos información de padre a hijo o viceversa?\n"
 
 #. type: Title ===
 #: 200.en.adoc:38
 #, no-wrap
 msgid "Description of a collection"
-msgstr ""
+msgstr "Descripción de una colección"
 
 #. type: Plain text
 #: 200.en.adoc:41
