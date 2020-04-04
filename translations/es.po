@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 16:18\n"
+"PO-Revision-Date: 2020-04-04 16:27\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -669,64 +669,64 @@ msgstr "Especies/taxones representados en una colección (con/sin conteo de espe
 #. type: delimited block =
 #: 200.en.adoc:56
 msgid "Sequences, images and other preparations from the collection (but these may be better treated as information about specimens rather than about the collection)"
-msgstr ""
+msgstr "Secuencias, imágenes y otros preparados de la colección (pero éstos pueden tratarse mejor como información sobre especímenes que como información sobre la colección)"
 
 #. type: delimited block =
 #: 200.en.adoc:57
 msgid "Datasets (checklists, occurrences, sampling events) associated with the collection"
-msgstr ""
+msgstr "Conjuntos de datos (listas de especies, presencias, eventos de muestreo) asociados con la colección"
 
 #. type: delimited block =
 #: 200.en.adoc:58
 msgid "Collecting expeditions carried out by or contributing to the collection (modeled as sampling events?)"
-msgstr ""
+msgstr "Expediciones de colecta realizadas por o contribuidas a la colección (¿modeladas como eventos de muestreo?)"
 
 #. type: delimited block =
 #: 200.en.adoc:59
 msgid "Collectors associated with a collection"
-msgstr ""
+msgstr "Colectores asociados con una colección"
 
 #. type: delimited block =
 #: 200.en.adoc:60
 msgid "Publications based on materials from the collection"
-msgstr ""
+msgstr "Publicaciones basadas en materiales de la colección"
 
 #. type: delimited block =
 #: 200.en.adoc:61
 msgid "Researchers/staff associated with the collection"
-msgstr ""
+msgstr "Investigadores/personal asociado con la colección"
 
 #. type: delimited block =
 #: 200.en.adoc:62
 msgid "Field notebooks"
-msgstr ""
+msgstr "Notas de campo"
 
 #. type: Title ===
 #: 200.en.adoc:64
 #, no-wrap
 msgid "Information services relating to collections"
-msgstr ""
+msgstr "Servicios de información relacionados con las colecciones"
 
 #. type: Plain text
 #: 200.en.adoc:67
 msgid "The main value from the collection catalogue may appear in the information services that can be offered around the information managed. Considering these services may help to clarify the content requirements."
-msgstr ""
+msgstr "El valor principal del catálogo de colecciones podría revelarse en los servicios de información que se puedan ofrecer en torno a la información administrada. Tener en cuenta estos servicios puede ayudar a clarificar los requisitos de contenido."
 
 #. type: delimited block =
 #: 200.en.adoc:70
 #, no-wrap
 msgid "*Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
-msgstr ""
+msgstr "*P15*. ¿Qué queremos hacer con el catálogo, más allá de disponer de datos interconectados abiertos, claros y exhaustivos sobre cada colección? Los siguientes servicios podrían ser potenciales candidatos, pero otros son posibles. En cada caso, ¿el servicio dependería de una asociación con otros repositorios digitales (e.g., https://www.biodiversity ylibrary. rg/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
 
 #. type: delimited block =
 #: 200.en.adoc:72
 msgid "Assess the growth, scale and value of the world's collections"
-msgstr ""
+msgstr "Evaluar el crecimiento, la escala y el valor de las colecciones del mundo"
 
 #. type: delimited block =
 #: 200.en.adoc:73
 msgid "Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection digitisation dashboard] to monitor and highlight progress"
-msgstr ""
+msgstr "Proporcionar un https://zenodo.org/record/2621055#.Xn1lqIgzabi[entorno de digitalización de colecciones] para monitorear y resaltar el progreso"
 
 #. type: delimited block =
 #: 200.en.adoc:74
