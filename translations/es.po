@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 16:27\n"
+"PO-Revision-Date: 2020-04-04 16:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -731,22 +731,22 @@ msgstr "Proporcionar un https://zenodo.org/record/2621055#.Xn1lqIgzabi[entorno d
 #. type: delimited block =
 #: 200.en.adoc:74
 msgid "Discover the location of biological materials or the likely presence of biological materials for any taxon"
-msgstr ""
+msgstr "Descubrir la ubicación de materiales biológicos o la presencia probable de materiales biológicos para cualquier taxón"
 
 #. type: delimited block =
 #: 200.en.adoc:75
 msgid "Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised"
-msgstr ""
+msgstr "Desarrollar servicios de descubrimiento para acceder a información sobre especímenes tipo o comunicarse con la colección pertinente si el espécimen no está digitalizado"
 
 #. type: delimited block =
 #: 200.en.adoc:76
 msgid "Identify sections of collections that should be digitised to answer specific questions"
-msgstr ""
+msgstr "Identificar secciones de colecciones que deben ser digitalizadas para responder preguntas específicas"
 
 #. type: delimited block =
 #: 200.en.adoc:77
 msgid "Match gap analysis of published specimen data against the collection catalogue to prioritise digitisation for filling taxonomic, geographic, or other gaps."
-msgstr ""
+msgstr "Comparar análisis de deficiencias en cobertura de los datos de especímenes publicados contra el catálogo de colecciones para priorizar la digitalización en función de llenar vacíos taxonómicos, geográficos o de otra índole."
 
 #. type: delimited block =
 #: 200.en.adoc:78
