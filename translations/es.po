@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-03 23:48\n"
+"PO-Revision-Date: 2020-04-04 00:33\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -444,53 +444,53 @@ msgstr "Mayor valor para los datos sobre especímenes, publicaciones taxonómica
 #. type: Plain text
 #: 100.en.adoc:41
 msgid "Accurate information on any collection can be used as a reference or as linked data associated with specimen records and other data objects. Users of specimen records need contextual information about the collection that holds the specimen, for example to communicate with collection managers about individual specimens, to offer corrections to specimen data, or simply to determine whether the collection is likely to hold quantities of similar specimens. It may be inefficient to embed all of this information within the specimen record. Holding a single authoritative copy assists with keeping the collection information current. The collection record may also contain information on taxonomic or geographic scope or other aspects that can resolve potential ambiguities within a specimen record. Links to current collection records will also enhance taxonomic publications referencing their materials. This is particularly important because catalogue numbers and other specimen identifiers used in publications may not link to digitised information on the specimens. Linking to the collection simplifies future access and may enable digital links to be inferred in future."
-msgstr ""
+msgstr "La información exacta sobre cualquier colección se puede utilizar como referencia o como datos vinculados con registros de especímenes y otros objetos de datos. Los usuarios de registros de especímenes necesitan información contextual sobre la colección que contiene el espécimen, por ejemplo para comunicarse con los administradores de la colección en referencia a especímenes individuales, para ofrecer correcciones a los datos de los especímenes, o simplemente para determinar si es probable que la colección contenga cantidades de especímenes similares. Incluir toda esta información en los registros de especímenes puede ser ineficiente. Mantener una única copia de una fuente autorizada ayuda a mantener actualizada la información de la colección. El registro de una colección también puede contener información sobre el alcance taxonómico o geográfico u otros aspectos que puedan resolver potenciales ambigüedades dentro de un registro de espécimen. Los enlaces a los registros de colecciones actuales también mejorarán las publicaciones taxonómicas que hacen referencia a sus materiales. Esto es especialmente importante porque los números de catálogo y otros identificadores de especímenes utilizados en las publicaciones pueden no vincularse a información digitalizada acerca de los especímenes. La vinculación a la colección simplifica el acceso futuro y podría permitir que en el futuro los enlaces digitales puedan ser inferidos."
 
 #. type: delimited block =
 #: 100.en.adoc:44
 #, no-wrap
 msgid "*Q5*. How could a comprehensive collections catalogue contribute to improvements to other categories of biodiversity data? What requirements would these improvements place on the catalogue?\n"
-msgstr ""
+msgstr "*P5*. ¿Cómo puede un catálogo exhaustivo de colecciones contribuir a mejorar otras categorías de datos sobre biodiversidad? ¿Qué requisitos supondrían estas mejoras en el catálogo?\n"
 
 #. type: Title ===
 #: 100.en.adoc:46
 #, no-wrap
 msgid "Reducing duplication of effort"
-msgstr ""
+msgstr "Reduciendo la duplicación del esfuerzo"
 
 #. type: Plain text
 #: 100.en.adoc:49
 msgid "Although no complete catalogue of collections exists, the need for such information leads to such data repeatedly being published in different formats for different portals, project documentation, metadata for other data, etc. This duplication results in confusion as outdated information remains on the web. Mechanisms that always link to a single continuously updated version (and a version history) would address these issues."
-msgstr ""
+msgstr "Aunque no existe un catálogo exhaustivo de colecciones, la necesidad de dicha información lleva a que estos datos se publiquen repetidamente en diferentes formatos en diferentes portales, en documentación de proyectos, metadatos para otros datos, etc. Esta duplicación resulta en confusión a medida que información ya obsoleta permanece en la web. Mecanismos que siempre enlacen a una única versión continuamente actualizada (y a un historial de versiones) resolvería estos problemas."
 
 #. type: delimited block =
 #: 100.en.adoc:52
 #, no-wrap
 msgid "*Q6*. Can we identify savings in time and costs that would arise from a well-managed shared catalogue of collections?\n"
-msgstr ""
+msgstr "*P6*. ¿Podemos identificar ahorros en tiempo y costos que surgirían de contar con un catálogo compartido de colecciones bien gestionado?\n"
 
 #. type: Title ===
 #: 100.en.adoc:54
 #, no-wrap
 msgid "Foundation for new and enriched services"
-msgstr ""
+msgstr "Fundamento para servicios nuevos y enriquecidos"
 
 #. type: Plain text
 #: 100.en.adoc:57
 msgid "A comprehensive directory could serve as a foundation for new tools that enhance taxonomic efforts and cooperation between all collection holders. One example might be the development of distributed loans systems or on-demand digitisation, as planned for the DiSSCo European Loans and Visits System (ELViS). A catalogue could also serve as a showcase for institutions to highlight their holdings and unique features, as in the visual concept shared by GBIF for collection pages. GBIF tracking and reporting on the use of biodiversity data in research publications could feed into new services that provide standard metrics and help collections to measure and report their impact."
-msgstr ""
+msgstr "Un directorio exhaustivo podría servir como base para nuevas herramientas que mejoren los esfuerzos taxonómicos y la cooperación entre colecciones. Un ejemplo podría ser el desarrollo de sistemas de préstamos distribuidos o la digitalización a demanda, como se ha previsto para el Sistema Europeo de Préstamos y Visitas de DiSCo (European Loans and Visits System, ELViS). Un catálogo también podría servir como escaparate para que las instituciones resalten su contenido y características únicas, tal como ocurre en el concepto visual compartido por GBIF para las páginas de colección. El seguimiento y reporte de GBIF sobre el uso de datos sobre biodiversidad en publicaciones científicas podrían alimentar nuevos servicios que proporcionen métricas estándar y ayuden a las colecciones a medir y reportar su impacto."
 
 #. type: delimited block =
 #: 100.en.adoc:60
 #, no-wrap
 msgid "*Q7*. What other services could be developed on the foundations of a collection catalogue? Would these attract investment to fund the development and support the maintenance of the catalogue?\n"
-msgstr ""
+msgstr "*P7*. ¿Qué otros servicios podrían desarrollarse sobre los cimientos de un catálogo de colecciones? Estos servicios, ¿atraerían inversiones para financiar el desarrollo y apoyar el mantenimiento del catálogo?\n"
 
 #. type: Title ===
 #: 100.en.adoc:62
 #, no-wrap
 msgid "Improvements to citation and visibility for collections"
-msgstr ""
+msgstr "Mejoramiento de las citas y visibildad de las colecciones"
 
 #. type: Plain text
 #: 100.en.adoc:65
@@ -501,13 +501,13 @@ msgstr ""
 #: 100.en.adoc:68
 #, no-wrap
 msgid "*Q8*. How might a comprehensive catalogue promote citation and attribution for collections? What can be done to encourage wide standardised use of identifiers from the catalogue?\n"
-msgstr ""
+msgstr "*P8*. ¿Cómo puede un catálogo exhaustivo promover citas y atribuciones para las colecciones? ¿Qué puede hacerse para fomentar un uso amplio y estandarizado de identificadores del catálogo?\n"
 
 #. type: Title ===
 #: 100.en.adoc:70
 #, no-wrap
 msgid "Support for national and regional needs and applications"
-msgstr ""
+msgstr "Apoyo a necesidades y aplicaciones nacionales y regionales"
 
 #. type: Plain text
 #: 100.en.adoc:73
@@ -524,7 +524,7 @@ msgstr ""
 #: 200.en.adoc:2
 #, no-wrap
 msgid "Information in the catalogue"
-msgstr ""
+msgstr "Información en el catálogo"
 
 #. type: Plain text
 #: 200.en.adoc:5
@@ -535,7 +535,7 @@ msgstr ""
 #: 200.en.adoc:6
 #, no-wrap
 msgid "Scope for the catalogue and definition of “collection”"
-msgstr ""
+msgstr "Alcance del catálogo y definición de \"colección\""
 
 #. type: Plain text
 #: 200.en.adoc:9
@@ -546,7 +546,7 @@ msgstr ""
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr ""
+msgstr "*P10*. ¿Cuál es la definición para nuestros propósitos (criterios mínimos y suficientes) de una colección de historia natural? ¿Cómo se relacionan y difieren las colecciones de 1) las instituciones, 2) los conjuntos de datos y 3) los eventos de colecta (e.g., expediciones)? ¿Deberían incluirse las siguientes categorías? De lo contrario, ¿hay conexiones importantes u oportunidades que deberían ser consideradas?\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
