@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 14:13\n"
+"PO-Revision-Date: 2020-04-04 14:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -529,7 +529,7 @@ msgstr "Información en el catálogo"
 #. type: Plain text
 #: 200.en.adoc:5
 msgid "We need to develop a shared vision for the content that the catalogue should hold and how it interlinks with other information products."
-msgstr ""
+msgstr "Necesitamos desarrollar una visión común compartida del contenido que debería tener el catálogo y de cómo se interrelaciona con otros productos de información."
 
 #. type: Title ===
 #: 200.en.adoc:6
