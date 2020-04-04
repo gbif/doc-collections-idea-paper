@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 14:41\n"
+"PO-Revision-Date: 2020-04-04 14:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -609,7 +609,7 @@ msgstr "Estructuras jerárquicas de colecciones y subcolecciones"
 #. type: Plain text
 #: 200.en.adoc:33
 msgid "Within IH, each herbarium record usually corresponds to an institution with its own unique collection code, street address, etc. Within zoology, museums are often structured as a set of collections with differing and possibly hierarchical taxonomic scope. Specimens collected on famous expeditions or by significant researchers may have their own identity and appear as special collections. As a result, curators and researchers may wish to refer to different (potentially overlapping) sets of specimens as separate collections with their own names, identifiers and descriptions."
-msgstr ""
+msgstr "Dentro de IH, cada registro de herbario corresponde normalmente a una institución con su propio código de colección único, dirección postal, etc. En zoología, los museos a menudo están estructurados como un conjunto de colecciones con un alcance taxonómico diferente y posiblemente jerárquico. Los especímenes colectados en expediciones famosas o por investigadores significativos pueden tener su propia identidad y aparecer como colecciones especiales. Como resultado, los curadores e investigadores pueden desear referirse a diferentes conjuntos de especímenes (potencialmente solapados) como colecciones separadas con sus propios nombres, identificadores y descripciones."
 
 #. type: delimited block =
 #: 200.en.adoc:36
