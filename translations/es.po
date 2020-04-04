@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 18:56\n"
+"PO-Revision-Date: 2020-04-04 19:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -868,7 +868,7 @@ msgstr "El valor de un recurso compartido comunitario puede ser maximizado asegu
 #: 300.en.adoc:44
 #, no-wrap
 msgid "*Q20*. What interfaces and APIs are required to maximise access to the collection catalogue? How can the catalogue best support diverse user communities, including speakers of different languages?\n"
-msgstr ""
+msgstr "*P20*. ¿Qué interfaces y APIs se requieren para maximizar el acceso al catálogo de colecciones? ¿Cómo puede el catálogo ayudar mejor a las diversas comunidades de usuarios, incluidos los hablantes de diferentes idiomas?\n"
 
 #. type: Title ==
 #: 400.en.adoc:2
@@ -879,7 +879,7 @@ msgstr "Gobernanza del catálogo"
 #. type: Plain text
 #: 400.en.adoc:5
 msgid "Standards and tools are only one part of the solution. For the catalogue to succeed and provide value, it must be accepted by and deliver value to the stakeholders it represents, in particular the collection-holding institutions and the communities that support collections. It is important to identify the stakeholders that need ownership for each aspect of the collection building and to understand how they can be enabled, empowered, and resources to take on these responsibilities. Mechanisms are also needed to deal with situations in which needs or interests may come into conflict."
-msgstr ""
+msgstr "Los estándares y las herramientas son sólo una parte de la solución. Para que el catálogo tenga éxito y proporcione valor, debe ser aceptado y entregar valor a las partes interesadas que representa, en particular las instituciones que contienen colecciones y las comunidades que apoyan las colecciones. Es importante identificar a los agentes interesados que necesitan un sentido de propiedad para cada aspecto refererido a la construcción de las colecciones, y entender cómo pueden ser habilitados, empoderados, y qué recursos son necesarios para asumir estas responsabilidades. También se necesitan mecanismos para hacer frente a situaciones en las que las necesidades o los intereses pueden entrar en conflicto."
 
 #. type: Title ===
 #: 400.en.adoc:6
@@ -890,13 +890,13 @@ msgstr "Propiedad de la información de cada colección"
 #. type: Plain text
 #: 400.en.adoc:9
 msgid "The basic assumption is that each institution should have primary responsibility and control for information on its collections. However, it may be appropriate to delegate full or partial responsibility to thematic, regional or national communities that have data curators able to ensure the quality and standardisation of collection records. In some contexts, where institutions have for any reason not provided authoritative information, or do not have the resources to do so, there may be reason to allow or encourage a wider user base to contribute and improve collection records. In all cases, a version history is required for the information, so that users can understand and respond to changes made by others."
-msgstr ""
+msgstr "El supuesto básico es que cada institución debe tener la responsabilidad primaria y el control de la información sobre sus colecciones. Sin embargo, puede ser apropiado delegar la responsabilidad total o parcialmente a comunidades temáticas, regionales o nacionales que cuentan con curadores de datos capaces de garantizar la calidad y estandarización de los registros de colecciones. En algunos contextos, si las instituciones por algún motivo no proveen información formal, o no tienen los recursos para hacerlo, podría haber motivos para permitir o alentar a una base de usuarios más amplia para contribuir y mejorar los registros de la colección. En todos los casos, se requiere un historial de versiones para la información, de modo que los usuarios puedan entender y responder a los cambios realizados por otros."
 
 #. type: delimited block =
 #: 400.en.adoc:12
 #, no-wrap
 msgid "*Q21*. How should ownership and access control for collection records be managed? How should appropriate editors be recognised and validated? Are there situations where automated or human intervention will be required to resolve disagreements or discrepancies?\n"
-msgstr ""
+msgstr "*P21*. ¿Cómo debe gestionarse la propiedad y el control de acceso para los registros de colecciones?¿Cómo deben reconocerse y validarse los editores apropiados? ¿Hay situaciones en las que será necesaria una intervención automátizada o humana para resolver desacuerdos o discrepancias?\n"
 
 #. type: Title ===
 #: 400.en.adoc:14
@@ -907,7 +907,7 @@ msgstr "Comunidades de práctica"
 #. type: Plain text
 #: 400.en.adoc:17
 msgid "Communities such as IH, CETAF, ALA, iDigBio, etc. play an important role supporting collections and promoting standards-based practices. In many cases, these communities have a high level of understanding and participate closely in the development of biodiversity informatics solutions. Their roles and rights need to be well defined and supported in any integrated solution."
-msgstr ""
+msgstr "Comunidades como IH, CETAF, ALA, iDigBio, etc., desempeñan un papel importante apoyando colecciones y promoviendo prácticas basadas en estándares. En muchos casos, estas comunidades tienen un alto nivel de entendimiento y participan estrechamente en el desarrollo de soluciones para la informática de la biodiversidad. Sus funciones y derechos deben estar bien definidos y apoyados en cualquier solución integrada."
 
 #. type: delimited block =
 #: 400.en.adoc:20
@@ -924,7 +924,7 @@ msgstr "Infraestructuras técnicas"
 #. type: Plain text
 #: 400.en.adoc:25
 msgid "Biodiversity information infrastructures such as GBIF, DiSSCo, iDigBio and other national and regional platforms are usually funded in the context of broader open science goals for research infrastructures. Their participation can provide an important bridge between the needs of the collection communities and funding and expertise for informatics solutions. Roles and responsibilities must however be well defined to ensure that the needs of researchers and user communities are central. It is important to define clearly how these technical infrastructures can best participate in the overall solution, including demonstrating the benefits required to secure sustained funding for an integrated catalogue and for all the component parts."
-msgstr ""
+msgstr "Infraestructuras de información sobre biodiversidad como GBIF, DiSSCo, iDigBio y otras plataformas nacionales y regionales suelen ser financiadas en el contexto de metas científicas abiertas más amplias para las infraestructuras de investigación. Su participación puede representar un puente importante entre las necesidades de las comunidades de colecciones y el financiamiento y experiencia en soluciones informáticas. Sin embargo, los roles y las responsabilidades deben estar bien definidos para garantizar que las necesidades de los investigadores y las comunidades de usuarios sean centrales. Es importante definir claramente la mejor forma de que estas infraestructuras técnicas puedan participar en la solución global, incluyendo la demostración de los beneficios necesarios para asegurar una financiación sostenida de un catálogo integrado y de todas las partes que lo componen."
 
 #. type: delimited block =
 #: 400.en.adoc:28
@@ -941,7 +941,7 @@ msgstr "Acuerdos de gobernanza"
 #. type: Plain text
 #: 400.en.adoc:33
 msgid "A complex, commons-based solution will depend for its long-term success on a governance model that provides confidence to all parties that their interests are served and protected. The model should find the right balance between ensuring the health of the collaboration and minimising associated overheads in terms of meetings, reporting, etc."
-msgstr ""
+msgstr "El éxito a largo plazo de una solución compleja comunitaria dependerá de contar con un modelo de gobernanza que proporcione confianza a todas las partes respecto a que sus intereses están atendidos y protegidos. El modelo debería encontrar el equilibrio adecuado entre asegurar la salud de la colaboración y minimizar los gastos generales asociados a reuniones, informes, etc."
 
 #. type: delimited block =
 #: 400.en.adoc:36
