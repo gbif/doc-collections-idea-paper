@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-04 19:18\n"
+"PO-Revision-Date: 2020-04-04 19:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Advancing the Catalogue of the World's Natural History Collections"
-msgstr ""
+msgstr "Adelantando el Catálogo de Colecciones de Historia Natural del Mundo"
 
 #. type: Plain text
 #: index.en.adoc:3
@@ -51,7 +51,7 @@ msgstr "Cita bibliográfica sugerida"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v2.0. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/p93g-te47."
-msgstr ""
+msgstr "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v2.0. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/p93g-te47."
 
 #. type: Title ==
 #: colophon.en.adoc:11
@@ -112,7 +112,7 @@ msgstr "Eliza Zschuschen, Suriname National Herbarium"
 #. type: Plain text
 #: colophon.en.adoc:25
 msgid "Additional contributors to subsequent versions will be credited here."
-msgstr ""
+msgstr "Contribuciones adicionales a versiones subsequentes serán reconocidas aquí."
 
 #. type: Title ===
 #: colophon.en.adoc:26
@@ -123,7 +123,7 @@ msgstr "Licencia"
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr ""
+msgstr "El documento _Adelantando el Catálogo de Colecciones de Historia Natural del Mundo_ está publicado bajo una licencia https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported]."
 
 #. type: Title ===
 #: colophon.en.adoc:29
@@ -211,7 +211,7 @@ msgstr "Imagen de la portada"
 #. type: Plain text
 #: colophon.en.adoc:52
 msgid "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
-msgstr ""
+msgstr "Musgo sematophyllum de Maryland (_Sematophyllum marylandicum_), colectado por W.R. Buck en el Área Natural Ferncliff, Parque Estatal Ohiopyle, Pennsylvania, Estados Unidos. Foto 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licencia http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:53
@@ -237,7 +237,7 @@ msgstr "La información acerca de las colecciones de historia natural ayuda a ma
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr ""
+msgstr "Este documento explora ideas para mejorar la colaboración global para construir, mantener y utilizar un *catálogo de las colecciones de historia natural del mundo* exhaustivo. Cada idea se presenta como un tema separado con un conjunto de preguntas para guiar la discusión dentro de la consulta en línea, https://www. bif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Adelantando el Catálogo de Colecciones de Historia Natural del Mundo_]."
 
 #. type: Plain text
 #: background.en.adoc:10
@@ -958,7 +958,7 @@ msgstr ""
 #. type: Plain text
 #: 400.en.adoc:41
 msgid "Relatively little effort may be required for each institution to register and manage its own collection records. However, the stability of the system will depend on continued effort from these institutions or from other parties to correct errors and outdated information. There should be clear benefits or incentives encouraging stakeholders to contribute this effort. A key goal should be to ensure that the catalogue contributes usefully for the work of collection managers and taxonomists. Acknowledgement of contributions may also be valuable."
-msgstr ""
+msgstr "Es posible que se requiera un esfuerzo relativamente pequeño para que cada institución registre y gestione sus propios registros de colecciones. Sin embargo, la estabilidad del sistema dependerá del esfuerzo continuado de estas instituciones o de otras partes para corregir errores e información desactualizada. Debería haber beneficios o incentivos claros que animen a las partes interesadas a contribuir con este esfuerzo. Un objetivo clave debería ser garantizar que el catálogo contribuya de forma útil a la labor de los gestores de colecciones y de los taxónomos. El reconocimiento de las contribuciones también puede ser valioso."
 
 #. type: delimited block =
 #: 400.en.adoc:44
@@ -975,7 +975,7 @@ msgstr "Financiamiento y sostenibilidad"
 #. type: Plain text
 #: 400.en.adoc:49
 msgid "Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories)."
-msgstr ""
+msgstr "Las necesidades de financiación dependerán de otros aspectos del enfoque adoptado para elaborar el catálogo. Los costes serán mayores si se requiere un apoyo más centralizado para mantener el contenido. Incluso si el contenido es gestionado en gran medida de forma gratuita por la comunidad internacional, mantener una infraestructura confiable requiere esfuerzo e inversión a largo plazo (véase por ejemplo https://www. oretrustseal.org/[Modelo CoreTrustSeal para repositorios de confianza)."
 
 #. type: delimited block =
 #: 400.en.adoc:52
