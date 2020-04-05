@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-05 14:55\n"
+"PO-Revision-Date: 2020-04-05 15:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -268,7 +268,7 @@ msgstr "许多已经确定的使用标准化收集信息的案例主要与保存
 #: how-to.en.adoc:1
 #, no-wrap
 msgid "How to respond to this Ideas Paper"
-msgstr "如何回应此著作"
+msgstr "如何发表此著作相关的建议或感想"
 
 #. type: Plain text
 #: how-to.en.adoc:4
@@ -591,19 +591,19 @@ msgstr "馆藏品的标识符"
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "Most collections are already identified by one or more collection codes and may have existing web identifiers (URLs, DOIs, etc.) in one or more databases. The catalogue may reuse one or other of these identifiers or may help to support a standardised scheme. GRSciColl exists to assist with standardisation of collection codes and machine-readable identifiers, but several other efforts are also in place. Unique identifiers for each collection will be important to maximise cross-linkage of information and standardise citation, but other existing identifiers should ideally resolve to the same information and be recognised as synonyms for the preferred identifiers."
-msgstr ""
+msgstr "大部分馆藏品有一个或多个收藏代码，并且可能在一个或更多数据库中都存在网络标识码(URL、DOI等)。 此目录可能使用其中的一个标识码，或者不采用其中的任何一个，又或是帮助建立标准化方案。 GRSciColl的存在就是为了帮助馆藏代码和机器可读的标识码标准化，但其他一些工作仍在进程中。 每个馆藏品拥有独一无二的标识码对于最大限度地加强信息相互联系和标准化引证十分重要。 但其他现有的标识符最好能够解析出相同的信息，并被视为首选标识符的同义替代。"
 
 #. type: delimited block =
 #: 200.en.adoc:28
 #, no-wrap
 msgid "*Q11*. What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection? What characteristics of identifiers are important for use by machines and humans? Are there benefits in selecting any particular identifier scheme (e.g. https://www.doi.org/[DOIs] or https://ror.org/[ROR] identifiers)? What can be done to promote use of the preferred identifiers?\n"
-msgstr ""
+msgstr "*Q11*. 哪些标识符方案(IH 收藏码，GRSciColl URIs，等等) 已经存在，并且需要以某种方式进行维护。这些方案是否遵循了对自然历史馆藏的一致定义？ 哪些标识符的特征在机器和人使用时十分重要？ 选择一个特定标识符方案是否更好（例如：https://www.doi.org/[DOIs] 或 https://ror.org/[ROR] identifiers)？可以做些什么来推广使用首选标识符？\n"
 
 #. type: Title ===
 #: 200.en.adoc:30
 #, no-wrap
 msgid "Hierarchical collection structures and subcollections"
-msgstr ""
+msgstr "馆藏分类结构和子收藏"
 
 #. type: Plain text
 #: 200.en.adoc:33
