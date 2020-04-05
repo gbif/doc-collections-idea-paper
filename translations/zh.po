@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-02 09:26\n"
+"PO-Revision-Date: 2020-04-05 14:55\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -77,7 +77,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:17
 msgid "Maofang Luo, Chinese Academy of Sciences"
-msgstr "中国科学院 Maofang Luo"
+msgstr "中国科学院 罗茂芳"
 
 #. type: Plain text
 #: colophon.en.adoc:18
@@ -404,7 +404,7 @@ msgstr "*Q2*。每个收藏品相关材料的摘要信息是否是有用的工�
 #: 100.en.adoc:22
 #, no-wrap
 msgid "A first step towards databasing collections"
-msgstr "建立馆藏数据库的第一步。"
+msgstr "馆藏数据化的第一步。"
 
 #. type: Plain text
 #: 100.en.adoc:25
@@ -550,12 +550,12 @@ msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的
 #. type: delimited block =
 #: 200.en.adoc:14
 msgid "Geological and paleontological collections"
-msgstr ""
+msgstr "地质学的和古生物学的馆藏品"
 
 #. type: delimited block =
 #: 200.en.adoc:15
 msgid "Anthropological collections"
-msgstr ""
+msgstr "人类学的馆藏品"
 
 #. type: delimited block =
 #: 200.en.adoc:16
@@ -565,28 +565,28 @@ msgstr ""
 #. type: delimited block =
 #: 200.en.adoc:17
 msgid "Wood collections (xylaria)"
-msgstr ""
+msgstr "木材馆藏品(xylaria)"
 
 #. type: delimited block =
 #: 200.en.adoc:18
 msgid "Tissue banks, DNA repositories and slide collections"
-msgstr ""
+msgstr "组织库、 DNA 存储库和切片馆藏"
 
 #. type: delimited block =
 #: 200.en.adoc:19
 msgid "Living collections (microbial collections, zoos, aquaria, botanic gardens, seed banks)"
-msgstr ""
+msgstr "活体生物馆藏品(微生物馆藏、动物园、水族馆、植物园、种子库)"
 
 #. type: delimited block =
 #: 200.en.adoc:20
 msgid "Personal collections"
-msgstr ""
+msgstr "个人馆藏"
 
 #. type: Title ===
 #: 200.en.adoc:22
 #, no-wrap
 msgid "Identifiers for collections"
-msgstr ""
+msgstr "馆藏品的标识符"
 
 #. type: Plain text
 #: 200.en.adoc:25
