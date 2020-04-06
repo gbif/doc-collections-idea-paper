@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-06 02:44\n"
+"PO-Revision-Date: 2020-04-06 02:52\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -694,7 +694,7 @@ msgstr "Publicaciones basadas en materiales de la colección"
 #. type: delimited block =
 #: 200.en.adoc:61
 msgid "Researchers/staff associated with the collection"
-msgstr "Investigadores/personal asociado con la colección"
+msgstr "Investigadores/personal asociados con la colección"
 
 #. type: delimited block =
 #: 200.en.adoc:62
