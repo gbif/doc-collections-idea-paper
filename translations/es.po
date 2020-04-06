@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-06 10:19\n"
+"POT-Creation-Date: 2020-04-06 11:51+0000\n"
+"PO-Revision-Date: 2020-04-06 11:58\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -27,14 +27,14 @@ msgstr "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim
 
 #. type: Plain text
 #: index.en.adoc:17
-msgid "_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._"
-msgstr "_languageLinks:pdf[Este documento también está disponible en,formato PDF]languageLinks:languages[y en otros idiomas:,]._"
+msgid "languageLinks:combined[]"
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "img/web/photo2.jpg"
-msgstr "img/web/foto2.jpg"
+msgstr "img/web/photo2.jpg"
 
 #. type: Title ==
 #: colophon.en.adoc:6
