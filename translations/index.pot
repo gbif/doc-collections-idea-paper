@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-04-06 12:14+0000\n"
+"POT-Creation-Date: 2020-04-06 13:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,13 +23,7 @@ msgid "Advancing the Catalogue of the World's Natural History Collections"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:3
-#, no-wrap
-msgid "Donald Hobern; Alex Asase; Quentin Groom; Maofang Luo; Deborah Paul; Tim Robertson; Patrick Semal; Barbara Thiers; Matt Woodburn; Eliza Zschuschen"
-msgstr ""
-
-#. type: Plain text
-#: index.en.adoc:18
+#: index.en.adoc:27
 msgid "languageLinks:combined[]"
 msgstr ""
 

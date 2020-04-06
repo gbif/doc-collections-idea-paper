@@ -1,5 +1,15 @@
 = Advancing the Catalogue of the World's Natural History Collections
-Donald Hobern; Alex Asase; Quentin Groom; Maofang Luo; Deborah Paul; Tim Robertson; Patrick Semal; Barbara Thiers; Matt Woodburn; Eliza Zschuschen
+:authorcount: 10
+:author_1: Donald Hobern
+:author_2: Alex Asase
+:author_3: Quentin Groom
+:author_4: Maofang Luo
+:author_5: Deborah Paul
+:author_6: Tim Robertson
+:author_7: Patrick Semal
+:author_8: Barbara Thiers
+:author_9: Matt Woodburn
+:author_10: Eliza Zschuschen
 :toc: left
 :toclevels: 3
 :numbered:
