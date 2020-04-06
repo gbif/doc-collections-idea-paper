@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-06 09:59\n"
+"PO-Revision-Date: 2020-04-06 10:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -716,7 +716,7 @@ msgstr "El valor principal del catálogo de colecciones podría revelarse en los
 #: 200.en.adoc:70
 #, no-wrap
 msgid "*Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
-msgstr "*P15*. ¿Qué queremos hacer con el catálogo, más allá de disponer de datos interconectados abiertos, claros y exhaustivos sobre cada colección? Los siguientes servicios podrían ser potenciales candidatos, pero otros son posibles. En cada caso, ¿el servicio dependería de una asociación con otros repositorios digitales (e.g., https://www.biodiversity ylibrary. rg/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
+msgstr "*P15*. ¿Qué queremos hacer con el catálogo, más allá de disponer de datos interconectados abiertos, claros y exhaustivos sobre cada colección? Los siguientes servicios podrían ser potenciales candidatos, pero otros son posibles. En cada caso, ¿el servicio dependería de una asociación con otros repositorios digitales (e.g., https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
 
 #. type: delimited block =
 #: 200.en.adoc:72
@@ -810,7 +810,7 @@ msgstr "Catálogos de la comunidad"
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "IH is the best established catalogue servicing a large community of collections, but many other communities are important, including regionally or nationally focused efforts, such as CETAF’s institutional profiles, the web portals of https://www.idigbio.org/portal/collections[iDigBio] and the ALA, and the https://biss.pensoft.net/article/38772/[One World Collection initiative], and thematically aligned efforts, such as the http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections] and the http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. A comprehensive global catalogue should ensure that the needs of these different communities are met and support their continued operation and independence wherever is valued by collections. Understanding these requirements is essential in planning the technical implementation and governance of the catalogue."
-msgstr "IH es el catálogo mejor establecido que atiende a una gran comunidad de colecciones, pero muchas otras comunidades son importantes, incluyendo esfuerzos enfocados a nivel regional o nacional, como los perfiles institucionales del CETAF, los portales web de https://www. Colecciones digbio.org/portal/[iDigBio] y ALA, y la iniciativa https://biss.pensoft.net/article/38772/[One World Collection], y esfuerzos alineados temáticamente, como el http://www.wfcc.info/ccinfo/index. hp/home/content[Directorio Mundial de Colecciones Culturales (World Directory of Culture Collections)] y el portal de la http://www.ggbn.org/ggbn_portal/members/index[Red Global de Diversidad Genómica (Global Genome Biodiversity Network)]. Un catálogo global exhaustivo debería garantizar que se satisfagan las necesidades de estas diferentes comunidades y apoyar su funcionamiento e independencia en todos los ámbitos valorados para las colecciones. Entender estos requisitos es esencial en la planificación de la implementación técnica y la gobernanza del catálogo."
+msgstr "IH es el catálogo mejor establecido que atiende a una gran comunidad de colecciones, pero muchas otras comunidades son importantes, incluyendo esfuerzos enfocados a nivel regional o nacional, como los perfiles institucionales del CETAF, los portales web de https://www.idigbio.org/portal/collections[iDigBio] y ALA, y la iniciativa https://biss.pensoft.net/article/38772/[One World Collection], y esfuerzos alineados temáticamente, como el http://www.wfcc.info/ccinfo/index.php/home/content[Directorio Mundial de Colecciones Culturales (World Directory of Culture Collections)] y el portal de la http://www.ggbn.org/ggbn_portal/members/index[Red Global de Diversidad Genómica (Global Genome Biodiversity Network)]. Un catálogo global exhaustivo debería garantizar que se satisfagan las necesidades de estas diferentes comunidades y apoyar su funcionamiento e independencia en todos los ámbitos valorados para las colecciones. Entender estos requisitos es esencial en la planificación de la implementación técnica y la gobernanza del catálogo."
 
 #. type: delimited block =
 #: 300.en.adoc:20
@@ -845,7 +845,7 @@ msgstr "Sistemas de administración de colecciones"
 #. type: Plain text
 #: 300.en.adoc:33
 msgid "Most natural history collections maintain data on their specimens in a collection management system (CMS) such as https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Some of these tools could develop to interface directly with the collection catalogue, providing up-to-date metadata and metrics."
-msgstr "La mayoría de las colecciones de historia natural mantienen datos sobre sus especímenes en un sistema de gestión de colecciones (CMS por su sigla en inglés) como https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell. om/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] o https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Algunas de estas herramientas podrían desarrollarse para interactuar directamente con el catálogo de colecciones, proporcionando metadatos y métricas actualizadas."
+msgstr "La mayoría de las colecciones de historia natural mantienen datos sobre sus especímenes en un sistema de gestión de colecciones (CMS por su sigla en inglés) como https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] o https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Algunas de estas herramientas podrían desarrollarse para interactuar directamente con el catálogo de colecciones, proporcionando metadatos y métricas actualizadas."
 
 #. type: delimited block =
 #: 300.en.adoc:36
@@ -975,7 +975,7 @@ msgstr "Financiamiento y sostenibilidad"
 #. type: Plain text
 #: 400.en.adoc:49
 msgid "Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories)."
-msgstr "Las necesidades de financiación dependerán de otros aspectos del enfoque adoptado para elaborar el catálogo. Los costos serán mayores si se requiere un apoyo más centralizado para mantener el contenido. Incluso si el contenido es gestionado en gran medida de forma gratuita por la comunidad internacional, mantener una infraestructura confiable requiere esfuerzo e inversión a largo plazo (véase por ejemplo https://www. oretrustseal.org/[Modelo CoreTrustSeal para repositorios de confianza)."
+msgstr "Las necesidades de financiación dependerán de otros aspectos del enfoque adoptado para elaborar el catálogo. Los costos serán mayores si se requiere un apoyo más centralizado para mantener el contenido. Incluso si el contenido es gestionado en gran medida de forma gratuita por la comunidad internacional, mantener una infraestructura confiable requiere esfuerzo e inversión a largo plazo (véase por ejemplo https://www.coretrustseal.org/[modelo CoreTrustSeal] para repositorios de confianza)."
 
 #. type: delimited block =
 #: 400.en.adoc:52
