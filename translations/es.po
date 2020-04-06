@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-06 02:52\n"
+"PO-Revision-Date: 2020-04-06 03:07\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -782,7 +782,7 @@ msgstr "Tecnología para el catálogo"
 #. type: Plain text
 #: 300.en.adoc:5
 msgid "A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl CETAF Collections Registry and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed."
-msgstr "Una amplia gama de diferentes herramientas ya están en uso para la creación de metadatos de colecciones, curado de catálogos parciales como IH, el Registro de Colecciones de GRSciColl CETAF y paginas de colecciones nacionales. Estas herramientas varían en cuanto a sus capacidades técnicas y sostenibilidad. Algunas están muy respaldadas por las comunidades existentes y podrían formar parte de una solución interconectada. Un objetivo para esta consulta es identificar qué componentes se consideran maduros y estables y pueden contribuir a tal solución e identificar qué otros componentes se necesitarían desarrollar."
+msgstr "Una amplia gama de diferentes herramientas ya están en uso para la creación de metadatos de colecciones, curado de catálogos parciales como IH, el Registro de Colecciones de GRSciColl CETAF y pàginas de colecciones nacionales. Estas herramientas varían en cuanto a sus capacidades técnicas y sostenibilidad. Algunas están muy respaldadas por las comunidades existentes y podrían formar parte de una solución interconectada. Un objetivo para esta consulta es identificar qué componentes se consideran maduros y estables y pueden contribuir a tal solución e identificar qué otros componentes se necesitarían desarrollar."
 
 #. type: Title ===
 #: 300.en.adoc:6
