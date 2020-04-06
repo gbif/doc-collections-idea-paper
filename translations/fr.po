@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-04-06 11:51+0000\n"
-"PO-Revision-Date: 2020-04-06 11:58\n"
+"POT-Creation-Date: 2020-04-06 13:36+0000\n"
+"PO-Revision-Date: 2020-04-06 13:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -21,12 +21,7 @@ msgid "Advancing the Catalogue of the World's Natural History Collections"
 msgstr "Progressant le Catalogue des Collections d'Histoire Naturelle du Monde"
 
 #. type: Plain text
-#: index.en.adoc:3
-msgid "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn & Eliza Zschuschen"
-msgstr "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim Robertson, Patrick Semal, Barbara Thiers, Matt Woodburn, Eliza Zschuschen"
-
-#. type: Plain text
-#: index.en.adoc:17
+#: index.en.adoc:27
 msgid "languageLinks:combined[]"
 msgstr "languageLinks:combined[]"
 
