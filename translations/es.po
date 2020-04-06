@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-06 03:07\n"
+"PO-Revision-Date: 2020-04-06 03:19\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -975,7 +975,7 @@ msgstr "Financiamiento y sostenibilidad"
 #. type: Plain text
 #: 400.en.adoc:49
 msgid "Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories)."
-msgstr "Las necesidades de financiación dependerán de otros aspectos del enfoque adoptado para elaborar el catálogo. Los costes serán mayores si se requiere un apoyo más centralizado para mantener el contenido. Incluso si el contenido es gestionado en gran medida de forma gratuita por la comunidad internacional, mantener una infraestructura confiable requiere esfuerzo e inversión a largo plazo (véase por ejemplo https://www. oretrustseal.org/[Modelo CoreTrustSeal para repositorios de confianza)."
+msgstr "Las necesidades de financiación dependerán de otros aspectos del enfoque adoptado para elaborar el catálogo. Los costos serán mayores si se requiere un apoyo más centralizado para mantener el contenido. Incluso si el contenido es gestionado en gran medida de forma gratuita por la comunidad internacional, mantener una infraestructura confiable requiere esfuerzo e inversión a largo plazo (véase por ejemplo https://www. oretrustseal.org/[Modelo CoreTrustSeal para repositorios de confianza)."
 
 #. type: delimited block =
 #: 400.en.adoc:52
