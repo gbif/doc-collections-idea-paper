@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-06 01:08\n"
+"PO-Revision-Date: 2020-04-06 01:30\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -28,7 +28,7 @@ msgstr "Donald Hobern, Alex Asase, Quentin Groom, Maofang Luo, Deborah Paul, Tim
 #. type: Plain text
 #: index.en.adoc:17
 msgid "_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._"
-msgstr "_languageLinks:pdf[Este documento también está disponible en, formato PDF]languageLinks:languages[y en otros idiomas:,]._"
+msgstr "_languageLinks:pdf[Este documento también está disponible en,formato PDF]languageLinks:languages[y en otros idiomas:,]._"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
@@ -262,7 +262,7 @@ msgstr "Estas colecciones son el depósito de materiales resultado de siglos de 
 #. type: Plain text
 #: background.en.adoc:17
 msgid "Many established use cases for standardised collection information relate primarily to preserved biological collections. This paper treats these collections as its core focus. However, we hope that the consultation will also explore two other closely related contexts: 1) geological collections (often held and managed by the same institutions as biological collections) and 2) living collections (overlapping significantly with the subject matter and research uses of preserved biological collections). We welcome inputs that address this wider scope."
-msgstr "Muchos casos de uso establecidos para la información estandarizada de las colecciones se refieren principalmente a las colecciones biológicas conservada. Este trabajo trata a estas colecciones como su principal foco de atención. Sin embargo, esperamos que la consulta también explore otros dos contextos estrechamente relacionados: 1) colecciones geológicas (a menudo mantenidas y gestionadas por las mismas instituciones que las colecciones biológicas) y 2) colecciones vivas (que se superponen significativamente con el tema y con los usos en investigación de las colecciones biológicas conservadas). Aportes que aborden este alcance más amplio son bienvenidos."
+msgstr "Muchos casos de uso establecidos para la información estandarizada de las colecciones se refieren principalmente a las colecciones biológicas conservadas. Este trabajo trata a estas colecciones como su principal foco de atención. Sin embargo, esperamos que la consulta también explore otros dos contextos estrechamente relacionados: 1) colecciones geológicas (a menudo mantenidas y gestionadas por las mismas instituciones que las colecciones biológicas) y 2) colecciones vivas (que se superponen significativamente con el tema y con los usos en investigación de las colecciones biológicas conservadas). Aportes que aborden este alcance más amplio son bienvenidos."
 
 #. type: Title ==
 #: how-to.en.adoc:1
