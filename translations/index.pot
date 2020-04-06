@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-04-06 13:55+0000\n"
+"POT-Creation-Date: 2020-04-06 13:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,19 +17,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title =
-#: index.en.adoc:2
+#: index.en.adoc:1
 #, no-wrap
 msgid "Advancing the Catalogue of the World's Natural History Collections"
 msgstr ""
 
-#. type: Attribute :author_4:
-#: index.en.adoc:7
-#, no-wrap
-msgid "Maofang Luo"
-msgstr ""
-
 #. type: Plain text
-#: index.en.adoc:28
+#: index.en.adoc:27
 msgid "languageLinks:combined[]"
 msgstr ""
 
