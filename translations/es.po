@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-06 10:12\n"
+"PO-Revision-Date: 2020-04-06 10:19\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -365,7 +365,7 @@ msgstr "Usos para el catálogo"
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr "El grupo https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Collection Collection Description Interest Group] ha recolectado casos de uso para la información de colección de historia natural de varios de los principales interesados. Además, importantes proyectos europeos, incluyendo https://www.icedig.eu/[ICEDIG], se están preparando para el desarrollo de la infraestructura de https://www.issco.eu/[DiSSCo] documentando casos de uso para colecciones."
+msgstr "El grupo https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Collection Collection Description Interest Group] ha recolectado casos de uso para la información de colección de historia natural de varios de los principales interesados. Además, importantes proyectos europeos, incluyendo https://www.icedig.eu/[ICEDIG], se están preparando para el desarrollo de la infraestructura de https://www.dissco.eu/[DiSSCo] documentando casos de uso para colecciones."
 
 #. type: Title ===
 #: 100.en.adoc:6
