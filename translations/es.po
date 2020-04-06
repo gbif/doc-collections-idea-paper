@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-06 01:30\n"
+"PO-Revision-Date: 2020-04-06 02:44\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -566,7 +566,7 @@ msgstr "Colecciones etnobotánicas"
 #. type: delimited block =
 #: 200.en.adoc:17
 msgid "Wood collections (xylaria)"
-msgstr "Colecciones de maderas (xylaria)"
+msgstr "Colecciones de maderas (xilotecas)"
 
 #. type: delimited block =
 #: 200.en.adoc:18
