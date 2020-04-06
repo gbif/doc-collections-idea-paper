@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-01 09:50\n"
+"PO-Revision-Date: 2020-04-05 15:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -77,7 +77,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:17
 msgid "Maofang Luo, Chinese Academy of Sciences"
-msgstr "中国科学院 Maofang Luo"
+msgstr "中国科学院 罗茂芳"
 
 #. type: Plain text
 #: colophon.en.adoc:18
@@ -268,7 +268,7 @@ msgstr "许多已经确定的使用标准化收集信息的案例主要与保存
 #: how-to.en.adoc:1
 #, no-wrap
 msgid "How to respond to this Ideas Paper"
-msgstr "如何回应此著作"
+msgstr "如何发表此著作相关的建议或感想"
 
 #. type: Plain text
 #: how-to.en.adoc:4
@@ -404,158 +404,158 @@ msgstr "*Q2*。每个收藏品相关材料的摘要信息是否是有用的工�
 #: 100.en.adoc:22
 #, no-wrap
 msgid "A first step towards databasing collections"
-msgstr "建立馆藏数据库的第一步。"
+msgstr "馆藏数据化的第一步。"
 
 #. type: Plain text
 #: 100.en.adoc:25
 msgid "The information needed to build the catalogue of collections closely matches the metadata required to publish a specimen dataset to GBIF and other portals. A record that describes a collection could be treated as a minimal first step, perhaps leading through processes such as Join The Dots and onwards to comprehensive digitisation. A comprehensive catalogue of such records could guide efforts to prioritise further digitisation, by highlighting collections with holdings of particular relevance or by assisting the development of collaborative digitisation networks like the ADBC Thematic Collection Networks."
-msgstr ""
+msgstr "建立收集目录所需的信息与向GBIF和其他门户网站发布标本数据集所需的元数据高度匹配。 描述收藏的记录作为最起码的第一步，也许能够引导信息一点一点组合起来进而全面数字化的进程。通过突出具有特别相关性的收藏品，或协助类似于ADBC 专题收集网络等合作数字化网络发展，这种描述性记录的全面目录可以指导优先处理进一步数字化的工作。"
 
 #. type: delimited block =
 #: 100.en.adoc:28
 #, no-wrap
 msgid "*Q3*. Can publishing a collection record to a catalogue assist collections in moving towards full digitisation? What incentives or support do collections need to make this a worthwhile step?\n"
-msgstr ""
+msgstr "*Q3*。是否可以将收藏记录发布到目录，帮助收藏走向完全数字化？ 收藏需要什么奖励或支持才能使这个步骤成为一个有价值的步骤？\n"
 
 #. type: Title ===
 #: 100.en.adoc:30
 #, no-wrap
 msgid "Assessing the scale and value of collections"
-msgstr ""
+msgstr "评估收藏的规模和价值"
 
 #. type: Plain text
 #: 100.en.adoc:33
 msgid "Estimates of the number of specimens held by collections run into billions, but no definitive number exists. A catalogue could help to narrow these estimates and to assess the economic value of these irreplaceable holdings. This information may help to justify the scale of effort and funding needed to digitise collections and make their data accessible for universal, reliable and persistent use."
-msgstr ""
+msgstr "估计被收藏起来的标本数达到数十亿，但没有确切数字。一个目录可有助于缩小这些估计数的范围，并评估这些不可替代的收藏品的经济价值。 这类资料可能有助于阐明收藏品的数字化工作以及使其数据能被普及并被长期使用所需的努力和资金规模。"
 
 #. type: delimited block =
 #: 100.en.adoc:36
 #, no-wrap
 msgid "*Q4*. Would more accurate estimates of the scale and value of collections be useful? How might these be used and by whom?\n"
-msgstr ""
+msgstr "*Q4*。是否需要更准确地估计收藏品的规模和价值？如何使用这些信息以及由谁使用？\n"
 
 #. type: Title ===
 #: 100.en.adoc:38
 #, no-wrap
 msgid "Increased value for data on specimens, taxonomic publications, etc."
-msgstr ""
+msgstr "标本的数据、分类出版物等的价值增加。"
 
 #. type: Plain text
 #: 100.en.adoc:41
 msgid "Accurate information on any collection can be used as a reference or as linked data associated with specimen records and other data objects. Users of specimen records need contextual information about the collection that holds the specimen, for example to communicate with collection managers about individual specimens, to offer corrections to specimen data, or simply to determine whether the collection is likely to hold quantities of similar specimens. It may be inefficient to embed all of this information within the specimen record. Holding a single authoritative copy assists with keeping the collection information current. The collection record may also contain information on taxonomic or geographic scope or other aspects that can resolve potential ambiguities within a specimen record. Links to current collection records will also enhance taxonomic publications referencing their materials. This is particularly important because catalogue numbers and other specimen identifiers used in publications may not link to digitised information on the specimens. Linking to the collection simplifies future access and may enable digital links to be inferred in future."
-msgstr ""
+msgstr "任何关于收集工作的准确信息可作为参考资料或与标本记录和其他数据对象相关联的数据使用。 标本记录的使用者需要关于标本的收藏的背景信息，例如与收集管理者就个别样本进行沟通，对标本数据进行纠正，或只是确定藏品中是否可能存在大量相似标本。将所有这些信息都嵌入标本记录可能是没有效率的。 但保存一份权威性的副本有助于使收集资料随时更新。 收集记录还可包含关于分类或地理范畴等其他方面的信息，标本记录中潜在的模棱两可之处也可以在这些信息中找到答案。与现有收藏记录的链接也将改善分类学出版物参考收藏信息。 这一点尤其重要，因为出版物中使用的目录编号和其他标本识别码可能与标本的数字化信息没有对应。 与收藏记录建立链接简化了今后的存取，可能会使今后使用数字链接。"
 
 #. type: delimited block =
 #: 100.en.adoc:44
 #, no-wrap
 msgid "*Q5*. How could a comprehensive collections catalogue contribute to improvements to other categories of biodiversity data? What requirements would these improvements place on the catalogue?\n"
-msgstr ""
+msgstr "*Q5*. 全面的馆藏目录如何有助于改进其他类别的生物多样性数据？ 这些改进将对目录作何要求？\n"
 
 #. type: Title ===
 #: 100.en.adoc:46
 #, no-wrap
 msgid "Reducing duplication of effort"
-msgstr ""
+msgstr "减少重复工作"
 
 #. type: Plain text
 #: 100.en.adoc:49
 msgid "Although no complete catalogue of collections exists, the need for such information leads to such data repeatedly being published in different formats for different portals, project documentation, metadata for other data, etc. This duplication results in confusion as outdated information remains on the web. Mechanisms that always link to a single continuously updated version (and a version history) would address these issues."
-msgstr ""
+msgstr "虽然不存在完全完整的馆藏目录，但这类资料的需求导致这类数据被一再以不同格式发布在不同的门户网站、 项目文件、其他数据的元数据等中。这些重复信息造成混乱，因为网上仍有过时的信息。 总是链接到一个能够不断更新的单一版本(包含版本历史) 的机制将解决这些问题。"
 
 #. type: delimited block =
 #: 100.en.adoc:52
 #, no-wrap
 msgid "*Q6*. Can we identify savings in time and costs that would arise from a well-managed shared catalogue of collections?\n"
-msgstr ""
+msgstr "*Q6*。我们能否认同一个管理良好的共用收藏目录能节省时间和费用？\n"
 
 #. type: Title ===
 #: 100.en.adoc:54
 #, no-wrap
 msgid "Foundation for new and enriched services"
-msgstr ""
+msgstr "新型和丰富服务的基础"
 
 #. type: Plain text
 #: 100.en.adoc:57
 msgid "A comprehensive directory could serve as a foundation for new tools that enhance taxonomic efforts and cooperation between all collection holders. One example might be the development of distributed loans systems or on-demand digitisation, as planned for the DiSSCo European Loans and Visits System (ELViS). A catalogue could also serve as a showcase for institutions to highlight their holdings and unique features, as in the visual concept shared by GBIF for collection pages. GBIF tracking and reporting on the use of biodiversity data in research publications could feed into new services that provide standard metrics and help collections to measure and report their impact."
-msgstr ""
+msgstr "一个综合目录可作为新工具的基础，促进分类工作开展及其与所有收藏者之间的合作。 例如，按照DiSSCo欧洲贷款和访问系统(ELViS) 计划的那样，可以开发分配贷款系统或按需数字化。 目录也可作为机构展示的机会，突出其收藏资产和独特特征，正如在GBIF 馆藏页面共享的视觉概念。 GBIF追踪和报告研究出版物中生物多样性数据的使用情况，使得产生提供权威衡量标准的新服务，并有助于量度和反馈收藏品的影响力。"
 
 #. type: delimited block =
 #: 100.en.adoc:60
 #, no-wrap
 msgid "*Q7*. What other services could be developed on the foundations of a collection catalogue? Would these attract investment to fund the development and support the maintenance of the catalogue?\n"
-msgstr ""
+msgstr "*Q7*. 可以在收藏目录的基础上开发哪些其他服务？ 这些是否会吸引投资为开发和维护目录提供资金和支持？\n"
 
 #. type: Title ===
 #: 100.en.adoc:62
 #, no-wrap
 msgid "Improvements to citation and visibility for collections"
-msgstr ""
+msgstr "引文和馆藏品的可视度的改进"
 
 #. type: Plain text
 #: 100.en.adoc:65
 msgid "Research value is primarily measured in terms of visibility and impacts from published literature. Natural history collections are poorly recognised by such measures and their importance as foundational research tools is almost hidden. Users of collections are regularly urged to cite specimens examined and reference the collection. However, citation is often https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[lacking, incomplete or ambiguous]. Research infrastructures such as https://explore.openaire.eu/search/find[OpenAIRE] in Europe increasingly map not only linkages between researchers and publications but also datasets, projects, content providers and organisations. A catalogue could help to standardise citation of collections, making their impact visible through such knowledge graphs. Journals and editorial boards could be encouraged to require standard collection identifiers wherever collections are referenced."
-msgstr ""
+msgstr "研究价值主要是根据出版物的可见度和影响力来衡量的。 衡量标准自然历史馆藏价值被低估，其作为基本研究工具的重要性几乎被掩盖。 馆藏的使用者经常被要求引用已检查过的标本和参考馆藏。但引证常常是[https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/]缺失、不完整或含糊不清的。 在欧洲诸如OpenAIRE[https://explore.openaire.eu/search/find]之类的研究基础设施不仅越来越多地建立研究人员与出版物之间的联系，还建立数据集、项目、内容提供者和组织机构之间的联系。目录可能有助于馆藏品的引述标准化，并通过这种知识图表显示其影响力可视化。 可以鼓励记者和编辑委员会要求在参考馆藏品时采用标准馆藏标识符。"
 
 #. type: delimited block =
 #: 100.en.adoc:68
 #, no-wrap
 msgid "*Q8*. How might a comprehensive catalogue promote citation and attribution for collections? What can be done to encourage wide standardised use of identifiers from the catalogue?\n"
-msgstr ""
+msgstr "*Q8*。一个全面的目录如何能够改进收藏品的引证和归属源？ 可以做些什么来促进目录中标识符的标准化使用普及化？\n"
 
 #. type: Title ===
 #: 100.en.adoc:70
 #, no-wrap
 msgid "Support for national and regional needs and applications"
-msgstr ""
+msgstr "支持国家和区域的需要和应用"
 
 #. type: Plain text
 #: 100.en.adoc:73
 msgid "Although this consultation aims to encourage the development of standardised information for all collections globally, each country or region may have needs or uses for this same information to in local applications and services. It is important to identify a range of these needs and to make sure they are addressed as part of a collaborative solution. An inclusive approach will bring incentives to work together to make information on each catalogue as complete, current and accurate as possible. Requirements are relatively well understood from Europe (e.g. DiSSCo) and the United States (e.g. iDigBio), but other regions may have subtly or significantly different needs."
-msgstr ""
+msgstr "尽管这次咨询的目的是促进全球所有馆藏制定标准化信息， 但是每个国家或区域在当地的应用和服务中对于同样的信息可能有不同的需求或用途。 重要的是要认识到一系列这类需求，并确保将其作为协作解决方案的一部分来处理。 一个具有包容性的方案将促使各国共同努力使每个目录的信息尽可能完整、最新和准确。 欧洲(例如DiSSCo)和美国(例如iDigBio)的要求相对较好理解，但其他区域的需要可能有微小或明显不同。"
 
 #. type: delimited block =
 #: 100.en.adoc:76
 #, no-wrap
 msgid "*Q9*. What national and regional needs or possible uses should be considered? Do national portals or specialist networks require information not currently addressed by data standards for collection metadata? Are there significant regional research infrastructures or public websites that include (or should include) information on local collections? Are there regionally important uses that are not addressed elsewhere in this document?\n"
-msgstr ""
+msgstr "*Q9*. 应考虑哪些国家和区域需要或可能的用途？ 国家门户网站或专家网络是否需要馆藏元数据的数据标准目前尚未涉及的信息？ 是否存在重要的区域性研究基础设施或公共网站包括（或应当包括）地方馆藏的信息？ 是否存在本文档没有提及的重要区域性用途？\n"
 
 #. type: Title ==
 #: 200.en.adoc:2
 #, no-wrap
 msgid "Information in the catalogue"
-msgstr ""
+msgstr "目录中的信息"
 
 #. type: Plain text
 #: 200.en.adoc:5
 msgid "We need to develop a shared vision for the content that the catalogue should hold and how it interlinks with other information products."
-msgstr ""
+msgstr "我们需要就目录应包含的内容以及它与其他信息产品之间的相互联系形成共同的愿景。"
 
 #. type: Title ===
 #: 200.en.adoc:6
 #, no-wrap
 msgid "Scope for the catalogue and definition of “collection”"
-msgstr ""
+msgstr "目录范围和“馆藏”的定义"
 
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "The scope for the catalogue needs to be defined. The core use case under consideration is the listing and description of collections holding preserved biological specimens, referred to here as \"natural history collections\". The consultation will focus on developing a solution that is robust and effective for natural history collections, but it is valuable to explore needs and opportunities around other types of natural science collection. Some of these may fit readily within the scope of the catalogue. In other cases, work on the catalogue may offer benefits to these other communities. Note in particular: 1) many institutions hold both biological and geological collections and may manage these as a unified whole; 2) DiSSCo includes geological collections within its scope, and other networks such as iDigBio include at least paleontological collections; 3) GRSciColl was established to hold records on any scientific collection; and 4) the TDWG Collection Description standard is extensible for different collection types."
-msgstr ""
+msgstr "目录的范围需要界定。 正在审议的核心使用案例是保存生物标本的收藏清单和描述，此处称为“自然历史馆藏”。 咨询将侧重于为自然历史馆藏制定一种强有力和有效的实行方案，但此方案也对其他类型的自然科学收藏探索的需求和机会是有价值的。 其中有些可以很容易地纳入目录范围。对于其他情况，编纂目录的工作可能也会给其他领域带来好处。 特别强调：1）许多同时拥有生物和地质藏品的机构可以统一管理这些藏品。 2) DiSSCo在其范围内拥有地质藏品，iDigBio等其他网络门户至少拥有古生物藏品； (3) 为了保存所有科学藏品的记录建立了GRSciColl ；(4) TDWG的馆藏描述标准可以扩展到不同的收藏类型。"
 
 #. type: delimited block =
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr ""
+msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的标准）的定义是什么？ 馆藏如何与机构、数据集和collecting events（eg.expenditions）有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
 msgid "Geological and paleontological collections"
-msgstr ""
+msgstr "地质学的和古生物学的馆藏品"
 
 #. type: delimited block =
 #: 200.en.adoc:15
 msgid "Anthropological collections"
-msgstr ""
+msgstr "人类学的馆藏品"
 
 #. type: delimited block =
 #: 200.en.adoc:16
@@ -565,45 +565,45 @@ msgstr ""
 #. type: delimited block =
 #: 200.en.adoc:17
 msgid "Wood collections (xylaria)"
-msgstr ""
+msgstr "木材馆藏品(xylaria)"
 
 #. type: delimited block =
 #: 200.en.adoc:18
 msgid "Tissue banks, DNA repositories and slide collections"
-msgstr ""
+msgstr "组织库、 DNA 存储库和切片馆藏"
 
 #. type: delimited block =
 #: 200.en.adoc:19
 msgid "Living collections (microbial collections, zoos, aquaria, botanic gardens, seed banks)"
-msgstr ""
+msgstr "活体生物馆藏品(微生物馆藏、动物园、水族馆、植物园、种子库)"
 
 #. type: delimited block =
 #: 200.en.adoc:20
 msgid "Personal collections"
-msgstr ""
+msgstr "个人馆藏"
 
 #. type: Title ===
 #: 200.en.adoc:22
 #, no-wrap
 msgid "Identifiers for collections"
-msgstr ""
+msgstr "馆藏品的标识符"
 
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "Most collections are already identified by one or more collection codes and may have existing web identifiers (URLs, DOIs, etc.) in one or more databases. The catalogue may reuse one or other of these identifiers or may help to support a standardised scheme. GRSciColl exists to assist with standardisation of collection codes and machine-readable identifiers, but several other efforts are also in place. Unique identifiers for each collection will be important to maximise cross-linkage of information and standardise citation, but other existing identifiers should ideally resolve to the same information and be recognised as synonyms for the preferred identifiers."
-msgstr ""
+msgstr "大部分馆藏品有一个或多个收藏代码，并且可能在一个或更多数据库中都存在网络标识码(URL、DOI等)。 此目录可能使用其中的一个标识码，或者不采用其中的任何一个，又或是帮助建立标准化方案。 GRSciColl的存在就是为了帮助馆藏代码和机器可读的标识码标准化，但其他一些工作仍在进程中。 每个馆藏品拥有独一无二的标识码对于最大限度地加强信息相互联系和标准化引证十分重要。 但其他现有的标识符最好能够解析出相同的信息，并被视为首选标识符的同义替代。"
 
 #. type: delimited block =
 #: 200.en.adoc:28
 #, no-wrap
 msgid "*Q11*. What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection? What characteristics of identifiers are important for use by machines and humans? Are there benefits in selecting any particular identifier scheme (e.g. https://www.doi.org/[DOIs] or https://ror.org/[ROR] identifiers)? What can be done to promote use of the preferred identifiers?\n"
-msgstr ""
+msgstr "*Q11*. 哪些标识符方案(IH 收藏码，GRSciColl URIs，等等) 已经存在，并且需要以某种方式进行维护。这些方案是否遵循了对自然历史馆藏的一致定义？ 哪些标识符的特征在机器和人使用时十分重要？ 选择一个特定标识符方案是否更好（例如：https://www.doi.org/[DOIs] 或 https://ror.org/[ROR] identifiers)？可以做些什么来推广使用首选标识符？\n"
 
 #. type: Title ===
 #: 200.en.adoc:30
 #, no-wrap
 msgid "Hierarchical collection structures and subcollections"
-msgstr ""
+msgstr "馆藏分类结构和子收藏"
 
 #. type: Plain text
 #: 200.en.adoc:33
