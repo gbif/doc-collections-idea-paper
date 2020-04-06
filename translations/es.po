@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-03-31 22:03+0000\n"
-"PO-Revision-Date: 2020-04-06 03:19\n"
+"PO-Revision-Date: 2020-04-06 09:52\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -237,7 +237,7 @@ msgstr "La información acerca de las colecciones de historia natural ayuda a ma
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "Este documento explora ideas para mejorar la colaboración global para construir, mantener y utilizar un *catálogo de las colecciones de historia natural del mundo* exhaustivo. Cada idea se presenta como un tema separado con un conjunto de preguntas para guiar la discusión dentro de la consulta en línea, https://www. bif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Adelantando el Catálogo de Colecciones de Historia Natural del Mundo_]."
+msgstr "Este documento explora ideas para mejorar la colaboración global para construir, mantener y utilizar un *catálogo de las colecciones de historia natural del mundo* exhaustivo. Cada idea se presenta como un tema separado con un conjunto de preguntas para guiar la discusión dentro de la consulta en línea, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Adelantando el Catálogo de Colecciones de Historia Natural del Mundo_]."
 
 #. type: Plain text
 #: background.en.adoc:10
