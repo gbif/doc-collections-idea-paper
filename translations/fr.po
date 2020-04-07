@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-07 18:09\n"
+"PO-Revision-Date: 2020-04-07 18:17\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -257,68 +257,68 @@ msgstr "Ces collections sont le dépôt de matériaux provenant de siècles d’
 #. type: Plain text
 #: background.en.adoc:17
 msgid "Many established use cases for standardised collection information relate primarily to preserved biological collections. This paper treats these collections as its core focus. However, we hope that the consultation will also explore two other closely related contexts: 1) geological collections (often held and managed by the same institutions as biological collections) and 2) living collections (overlapping significantly with the subject matter and research uses of preserved biological collections). We welcome inputs that address this wider scope."
-msgstr ""
+msgstr "Plusieurs cas d'utilisation établis pour des informations normalisées de collecte se rapportent principalement à des collections biologiques préservées. Cependant, nous espérons que la consultation explorera également deux autres contextes étroitement liés : 1) les collections géologiques (souvent détenues et gérées par les mêmes institutions que les collections biologiques) et 2) les collections vivantes (se chevauchant de façon significative avec les matières et les utilisations de recherche des collections biologiques préservées). Nous saluons les contributions qui abordent ce champ d'application plus large."
 
 #. type: Title ==
 #: how-to.en.adoc:1
 #, no-wrap
 msgid "How to respond to this Ideas Paper"
-msgstr ""
+msgstr "Comment répondre à ce Note Conceptuelle"
 
 #. type: Plain text
 #: how-to.en.adoc:4
 msgid "Read the sections below and contribute to developing a roadmap for collaborative activity to build the catalogue."
-msgstr ""
+msgstr "Lisez les sections ci-dessous et contribuez à l'élaboration d'une feuille de route pour la création du catalogue."
 
 #. type: Plain text
 #: how-to.en.adoc:6
 msgid "We welcome contributions as follows:"
-msgstr ""
+msgstr "Nous saluons les contributions de la manière suivante :"
 
 #. type: Plain text
 #: how-to.en.adoc:8
 msgid "Do you represent a *stakeholder, project, database, tool, standard or community* that addresses some aspect of the topics outlined here, or do you have ideas for novel approaches to mobilise or use information on collections?"
-msgstr ""
+msgstr "Représentez-vous une *partie prenante, un projet, une base de données, un outil, une norme ou une communauté* qui aborde certains aspects des sujets décrits ici, ou avez-vous des idées de nouvelles approches pour mobiliser ou utiliser les données sur les collections?"
 
 #. type: Plain text
 #: how-to.en.adoc:9
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] by 3 April 2020 to contribute significant ideas or examples that will add value to the online discussions."
-msgstr ""
+msgstr "Veuillez contacter mailto:dhobern@gbif.org[Donald Hobern] avant le 3 avril 2020 pour apporter des idées ou des exemples significatifs qui ajouteront de la valeur aux discussions en ligne."
 
 #. type: Plain text
 #: how-to.en.adoc:10
 msgid "We welcome short documents or slide presentations that can be shared on the consultation website."
-msgstr ""
+msgstr "Nous accueillons les documents courts ou les diapositives qui peuvent être partagés sur le site Web de consultation."
 
 #. type: Plain text
 #: how-to.en.adoc:11
 msgid "If presentations are unlikely to be clear without further explanation, please modify the slides or consider supplying the presentation as a pre-recorded video with audio commentary."
-msgstr ""
+msgstr "Si les présentations ne sont pas claires sans plus d'explications, veuillez modifier les diapositives ou envisager de fournir la présentation comme une vidéo pré-enregistrée avec un commentaire audio."
 
 #. type: Plain text
 #: how-to.en.adoc:12
 msgid "Please keep all materials brief and focused, so that a reader or viewer could assimilate the ideas within fifteen minutes or (ideally) less."
-msgstr ""
+msgstr "Veillez à ce que tous les documents soient concis, afin qu'un lecteur ou un spectateur puisse assimiler les idées dans les quinze minutes ou (idéalement) moins."
 
 #. type: Plain text
 #: how-to.en.adoc:13
 msgid "Would you like to *review the preparatory webinars* outlining the scope and plan for the consultation?"
-msgstr ""
+msgstr "Aimeriez-vous *consulter les webinaires préparatoires* qui décrivent la portée et planifier la consultation ?"
 
 #. type: Plain text
 #: how-to.en.adoc:14
 msgid "Recordings are available online on https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] and https://vimeo.com/showcase/6859611[Vimeo]."
-msgstr ""
+msgstr "Les enregistrements sont disponibles en ligne sur https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] et https://vimeo.com/showcase/6859611[Vimeo]."
 
 #. type: Plain text
 #: how-to.en.adoc:15
 msgid "Would you like to *contribute to the online discussions* for the consultation?"
-msgstr ""
+msgstr "Vous aimeriez *contribuer aux discussions en ligne* pour la consultation?"
 
 #. type: Plain text
 #: how-to.en.adoc:16
 msgid "Please register to join the consultation community on the GBIF Discourse site."
-msgstr ""
+msgstr "Veuillez vous inscrire pour rejoindre la communauté de consultation sur le site du GBIF Discours."
 
 #. type: Plain text
 #: how-to.en.adoc:17
