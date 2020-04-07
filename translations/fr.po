@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-06 13:57\n"
+"PO-Revision-Date: 2020-04-07 10:33\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -237,7 +237,7 @@ msgstr "Ce document explore des idées pour améliorer une collaboration mondial
 #. type: Plain text
 #: background.en.adoc:10
 msgid "Over the last few decades, the field of biodiversity informatics has developed to include researchers and informaticians from all over the world, collaborating to bring together knowledge of the world’s species and ecosystems in a readily usable form."
-msgstr ""
+msgstr "Au cours des dernières décennies, le domaine de l'informatique de la biodiversité s'est développé pour inclure des chercheurs et des informaticiens du monde entier. qui collaborent pour rassembler les connaissances sur les espèces et les écosystèmes de la planète sous une forme facilement utilisable."
 
 #. type: Plain text
 #: background.en.adoc:12
