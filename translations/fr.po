@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-07 17:57\n"
+"PO-Revision-Date: 2020-04-07 18:09\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -252,7 +252,7 @@ msgstr "La communauté d'informatique de la biodiversité a également prêté a
 #. type: Plain text
 #: background.en.adoc:16
 msgid "These collections are the repository for materials from centuries of international investment to collect, document, study and describe species. Specimens and other materials held in these collections anchor our understanding of evolution and contemporary diversity. They provide the bridge between historical knowledge and continuing efforts to describe life on Earth. Many of their holdings are truly irreplaceable or give otherwise irrecoverable insights into past distributions and ecology. Such insights are important also for modelling environmental futures. Information on the collections themselves is an important tool for accessing, enriching and using them."
-msgstr ""
+msgstr "Ces collections sont le dépôt de matériaux provenant de siècles d’investissements internationaux pour collecter, documenter, étudier et décrire les espèces. Les spécimens et autres matériaux contenus dans ces collections ancrent notre compréhension de l’évolution et de la diversité contemporaine. Ils constituent le pont entre les connaissances historiques et les efforts continus pour décrire la vie sur Terre. Plusieurs de ces dépôts sont irremplaçables ou donnent par ailleurs un aperçu irrécupérable des distributions et des écologies passées. Ces informations sont également importantes pour la modélisation des futurs environnementaux. L'information sur les collections elles-mêmes est un outil important pour y accéder, les enrichir et les utiliser."
 
 #. type: Plain text
 #: background.en.adoc:17
