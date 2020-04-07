@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-07 19:24\n"
+"PO-Revision-Date: 2020-04-07 19:30\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -489,24 +489,24 @@ msgstr "Améliorations de la citation et de la visibilité pour les collections"
 #. type: Plain text
 #: 100.en.adoc:65
 msgid "Research value is primarily measured in terms of visibility and impacts from published literature. Natural history collections are poorly recognised by such measures and their importance as foundational research tools is almost hidden. Users of collections are regularly urged to cite specimens examined and reference the collection. However, citation is often https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[lacking, incomplete or ambiguous]. Research infrastructures such as https://explore.openaire.eu/search/find[OpenAIRE] in Europe increasingly map not only linkages between researchers and publications but also datasets, projects, content providers and organisations. A catalogue could help to standardise citation of collections, making their impact visible through such knowledge graphs. Journals and editorial boards could be encouraged to require standard collection identifiers wherever collections are referenced."
-msgstr ""
+msgstr "La valeur de la recherche est principalement mesurée en termes de visibilité et d’impact de la littérature publiée. Les collections d'histoire naturelle sont mal reconnues par de telles mesures et leur importance est presque cachée dans le contexte des outils de recherche fondateurs. Les utilisateurs des collections sont régulièrement invités à citer les spécimens examinés et à référencer la collection. Cependant, la citation est souvent https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[manquante, incomplette ou ambiguës]. Des infrastructures de recherche telles que https://explore.openaire. u/search/find[OpenAIRE] en Europe cartographie de plus en plus non seulement les liens entre les chercheurs et les publications, mais aussi les ensembles de données, les projets, les fournisseurs de contenu et les organisations. Un catalogue pourrait aider à normaliser la citation des collections, rendant leur impact visible à travers de tels graphiques de connaissances. Les revues et les comités de rédaction pourraient être encouragés à exiger des identificateurs de collection standard partout où les collections sont référencées."
 
 #. type: delimited block =
 #: 100.en.adoc:68
 #, no-wrap
 msgid "*Q8*. How might a comprehensive catalogue promote citation and attribution for collections? What can be done to encourage wide standardised use of identifiers from the catalogue?\n"
-msgstr ""
+msgstr "*Q8* Comment un catalogue complet pourrait-il promouvoir la citation et l'attribution des collections ? Que peut-on faire pour encourager une large utilisation standardisée des identifiants du catalogue ?\n"
 
 #. type: Title ===
 #: 100.en.adoc:70
 #, no-wrap
 msgid "Support for national and regional needs and applications"
-msgstr ""
+msgstr "Prise en charge des besoins et applications nationaux et régionaux"
 
 #. type: Plain text
 #: 100.en.adoc:73
 msgid "Although this consultation aims to encourage the development of standardised information for all collections globally, each country or region may have needs or uses for this same information to in local applications and services. It is important to identify a range of these needs and to make sure they are addressed as part of a collaborative solution. An inclusive approach will bring incentives to work together to make information on each catalogue as complete, current and accurate as possible. Requirements are relatively well understood from Europe (e.g. DiSSCo) and the United States (e.g. iDigBio), but other regions may have subtly or significantly different needs."
-msgstr ""
+msgstr "Bien que cette consultation vise à encourager le développement d'informations standardisées pour toutes les collections à l'échelle mondiale, chaque pays ou région peut avoir des besoins ou des utilisations pour cette même information dans les applications et les services locaux. Il est important d'identifier une envergure de ces besoins et de s'assurer qu'ils sont traités dans le cadre d'une solution collaborative. Une approche inclusive incitera à travailler ensemble pour rendre l'information sur chaque catalogue aussi complète, actuelle et exacte que possible. Les exigences sont relativement bien comprises de la part de l'Europe (par exemple DiSSCo) et des États-Unis (par exemple iDigBio), mais d'autres régions peuvent avoir des besoins subtilement ou sensiblement différents."
 
 #. type: delimited block =
 #: 100.en.adoc:76
