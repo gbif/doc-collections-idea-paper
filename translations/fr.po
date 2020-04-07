@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-07 18:33\n"
+"PO-Revision-Date: 2020-04-07 18:44\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -376,30 +376,30 @@ msgstr "Le personnel des collections et les taxonomistes collaborent en tant que
 #: 100.en.adoc:12
 #, no-wrap
 msgid "*Q1*. Would the collections community benefit from a comprehensive directory of all natural history collections? Who would make use of such a directory? (The focus here is on the catalogue as a directory of known institutions and information required to contact them.)\n"
-msgstr ""
+msgstr "*Q1*. La communauté des collections bénéficierait-elle d'un répertoire complet de toutes les collections d'histoire naturelle ? Qui pourrait utiliser un tel annuaire ? (L'accent est mis sur le catalogue en tant que répertoire des institutions connues et des informations nécessaires pour les contacter.)\n"
 
 #. type: Title ===
 #: 100.en.adoc:14
 #, no-wrap
 msgid "Locating specimens and genetic materials"
-msgstr ""
+msgstr "Localisation de spécimens et de matériaux génétiques"
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Taxonomic studies and other research projects normally depend on researchers (or their contacts) knowing which institutions hold relevant specimens or other materials. This is complicated by the history of expeditions and collecting activities. Specimens have been scattered across all continents. Only a small proportion of these specimens have been databased in forms that can be accessed through GBIF or other portals. A catalogue providing at least summary information on taxonomic and geographic scope for each collection could assist researchers in locating relevant materials."
-msgstr ""
+msgstr "Les études taxinomiques et les autres projets de recherche dépendent généralement des chercheurs (ou de leurs contacts) qui savent quelles institutions possèdent des spécimens pertinents ou d'autres matériaux. Ce qui est compliqué par l'histoire des expéditions et des activités de collecte. Les spécimens ont été dispersés sur tous les continents. Seule une faible proportion de ces spécimens ont été placés sous forme de formulaires accessibles via le GBIF ou d'autres portails. Un catalogue fournissant au moins des renseignements sommaires sur la portée taxonomique et géographique de chaque collection pourrait aider les chercheurs à localiser les matériaux pertinents."
 
 #. type: delimited block =
 #: 100.en.adoc:20
 #, no-wrap
 msgid "*Q2*. Would summary information on every collection’s materials be a useful tool? Who would use this information? What is the minimum level of information (and what is ideal) to support these users?\n"
-msgstr ""
+msgstr "*Q2*. Les informations sommaires sur les matériaux de chaque collection seraient-elles un outil utile ? Qui utiliserait ces informations ? Quel est le niveau minimum d'informations (et quel est l'idéal) pour soutenir ces utilisateurs ?\n"
 
 #. type: Title ===
 #: 100.en.adoc:22
 #, no-wrap
 msgid "A first step towards databasing collections"
-msgstr ""
+msgstr "Un premier pas vers la base de données des collections"
 
 #. type: Plain text
 #: 100.en.adoc:25
