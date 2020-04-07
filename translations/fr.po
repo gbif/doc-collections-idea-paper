@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-07 18:17\n"
+"PO-Revision-Date: 2020-04-07 18:33\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -323,54 +323,54 @@ msgstr "Veuillez vous inscrire pour rejoindre la communauté de consultation sur
 #. type: Plain text
 #: how-to.en.adoc:17
 msgid "Discussions will take place between 17 and 29 April 2020."
-msgstr ""
+msgstr "Les discussions se déroulera entre le 17 et le 29 avril 2020."
 
 #. type: Plain text
 #: how-to.en.adoc:18
 msgid "We will keep you informed as more information is added to the site and ensure that you receive regular updates during the consultation"
-msgstr ""
+msgstr "Nous vous tiendrons informé quand plus d'informations sont ajoutées au site et nous vous assurerons de recevoir des mises à jour régulières lors de la consultation"
 
 #. type: Plain text
 #: how-to.en.adoc:19
 msgid "Will you be able to expand the relevance of the consultation by *translating short summary updates* into languages other than English?"
-msgstr ""
+msgstr "Serez-vous en mesure d'élargir la pertinence de la consultation en *traduisant des mises à jour sommaires courtes* dans des langues autres que l'anglais?"
 
 #. type: Plain text
 #: how-to.en.adoc:20
 msgid "We expect to circulate regular short summaries (a few paragraphs every day or two) to all participants during the main consultation period to keep the discussion focused, summarise agreement, and highlight new ideas and questions."
-msgstr ""
+msgstr "Nous prévoyons de faire circuler régulièrement de courts résumés (quelques paragraphes chaque jour ou deux) à tous les participants durant la période de consultation principale afin de garder la discussion centrée, résumer l'accord et mettre en évidence de nouvelles idées et questions."
 
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "We welcome assistance in translating these into languages that will make it easier for all participants to follow the discussions and know how to contribute."
-msgstr ""
+msgstr "Nous sommes heureux de recevoir tout assistance pour leurs traduction dans des langues qui permettront à tous les participants de suivre plus facilement les discussions et de savoir comment contribuer."
 
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] if you are interested in helping."
-msgstr ""
+msgstr "Veuillez contacter mailto:dhobern@gbif.org[Donald Hobern] si vous êtes intéressé à aider."
 
 #. type: Title ==
 #: 100.en.adoc:2
 #, no-wrap
 msgid "Uses for the catalogue"
-msgstr ""
+msgstr "Utilisations pour le catalogue"
 
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr ""
+msgstr "Le https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] a rassemblé des cas d'utilisation pour des données de collection d'histoire naturelle de plusieurs parties prenantes. En outre, les grands projets européens, y compris https://www.icedig.eu/[ICEDIG], se préparent au développement du https://www. issco.eu/[DiSSCo] infrastructure en documentant les cas d'utilisation des collections."
 
 #. type: Title ===
 #: 100.en.adoc:6
 #, no-wrap
 msgid "A directory to support the collections community"
-msgstr ""
+msgstr "Un annuaire pour soutenir la communauté des collections"
 
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Collections staff and taxonomists collaborate as a truly global community. Valuable specimens are distributed between institutions in all parts of the world. Researchers visit these collections or borrow specimens as part of their work. Index Herbariorum (IH) is the directory of information on the world’s herbaria (addresses, contacts, specialties, size, etc.). It is a well-managed resource and highly regarded as a tool by the botanical community. No full equivalent exists globally for other natural history collections, although national/regional infrastructures such as the ALA collections pages, the iDigBio US Collections List, and the CETAF profiles serve similar roles. GBIF has recently integrated the Global Registry of Scientific Collections (GRSciColl) into its registry as a framework that can be extended with richer information curated by collections communities."
-msgstr ""
+msgstr "Le personnel des collections et les taxonomistes collaborent en tant que communauté véritablement mondiale. De précieux spécimens sont distribués entre institutions dans toutes les parties du monde. Les chercheurs visitent ces collections ou empruntent des spécimens dans le cadre de leurs travaux. L'Index Herbariorum (IH) est le répertoire des informations sur l'herbarie du monde (adresses, contacts, spécialités, dimensions, etc.). Il s’agit d’une ressource bien gérée et hautement considérée comme un outil par la communauté botanique. Il n'existe pas d'équivalent complet pour les autres collections d'histoire naturelle, bien que les infrastructures nationales/régionales telles que les pages des collections de l'ALA, la liste iDigBio US Collections et les profils CETAF remplissent des rôles similaires. Le GBIF a récemment intégré le Registre Mondial des Collections Scientifiques (GRSciColl) dans son registre en tant que cadre pouvant être étendu avec des données plus riches organisées par les communautés de collections."
 
 #. type: delimited block =
 #: 100.en.adoc:12
