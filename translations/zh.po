@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 06:33\n"
+"PO-Revision-Date: 2020-04-08 06:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -620,24 +620,24 @@ msgstr "馆藏描述"
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
-msgstr "The https://www.tdwg.org/community/cd/[TDWG 馆藏描述兴趣小组]目前正在制定https://github.com/tdwg/cd[馆藏描述标准] (从早先的TDWG 自然馆藏描述标准演变而来)。 现有的网络和机构计划在其馆藏记录中使用各种不同格式或不同的元数据标准。 因此，这些资源（包括数据汇总）之间的互操作性有限。 为了克服这一障碍，需要对首选的标准和用词、强制性字段和不同格式的信息之间的兼容性等因素加以澄清。"
+msgstr "The https://www.tdwg.org/community/cd/[国际生物多样性信息标准组织 馆藏描述兴趣小组]目前正在制定https://github.com/tdwg/cd[馆藏描述标准] (从早先的国际生物多样性信息标准组织制定的自然馆藏描述标准演变而来)。 现有的网络和机构计划在其馆藏记录中使用各种不同格式或不同的元数据标准。 因此，这些资源（包括数据汇总）之间的互操作性有限。 为了克服这一障碍，需要对首选的标准和用词、强制性字段和不同格式的信息之间的兼容性等因素加以澄清。"
 
 #. type: delimited block =
 #: 200.en.adoc:44
 #, no-wrap
 msgid "*Q13*. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?\n"
-msgstr ""
+msgstr "*Q13*。 哪些描述性资料应被视为对每个馆藏集都是强制性的或值得拥有的？国际生物多样性信息标准组织的馆藏描述工作是否能够提供所需的一切？若不然，还需要什么样的改进？这种信息中有多少需要实现用于机器处理的正常化(而不是仅仅提供于人类读者)？\n"
 
 #. type: Title ===
 #: 200.en.adoc:46
 #, no-wrap
 msgid "Wider data linkages"
-msgstr ""
+msgstr "更广泛的数据联系"
 
 #. type: Plain text
 #: 200.en.adoc:48
 msgid "Information in the collection catalogue may be linked to a wide range of other biodiversity information (specimens, sequences, datasets, images, publications, etc.) to support information access and exploration."
-msgstr ""
+msgstr "馆藏编目中的信息可以与广泛的其他生物多样性信息（标本、序列、数据集、图像、出版物等）联系起来用以支持信息获取和搜索。"
 
 #. type: delimited block =
 #: 200.en.adoc:51
