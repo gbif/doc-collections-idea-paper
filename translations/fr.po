@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-07 19:30\n"
+"PO-Revision-Date: 2020-04-08 09:17\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -518,23 +518,23 @@ msgstr ""
 #: 200.en.adoc:2
 #, no-wrap
 msgid "Information in the catalogue"
-msgstr ""
+msgstr "Informations dans le catalogue"
 
 #. type: Plain text
 #: 200.en.adoc:5
 msgid "We need to develop a shared vision for the content that the catalogue should hold and how it interlinks with other information products."
-msgstr ""
+msgstr "Nous devons développer une vision partagée du contenu du catalogue et de la manière dont il sera lié à d'autres produits d'information."
 
 #. type: Title ===
 #: 200.en.adoc:6
 #, no-wrap
 msgid "Scope for the catalogue and definition of “collection”"
-msgstr ""
+msgstr "Portée du catalogue et définition d'une « collection »"
 
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "The scope for the catalogue needs to be defined. The core use case under consideration is the listing and description of collections holding preserved biological specimens, referred to here as \"natural history collections\". The consultation will focus on developing a solution that is robust and effective for natural history collections, but it is valuable to explore needs and opportunities around other types of natural science collection. Some of these may fit readily within the scope of the catalogue. In other cases, work on the catalogue may offer benefits to these other communities. Note in particular: 1) many institutions hold both biological and geological collections and may manage these as a unified whole; 2) DiSSCo includes geological collections within its scope, and other networks such as iDigBio include at least paleontological collections; 3) GRSciColl was established to hold records on any scientific collection; and 4) the TDWG Collection Description standard is extensible for different collection types."
-msgstr ""
+msgstr "La portée du catalogue doit être définie. L' usage principal envisagé est la liste et la description des collections contenant des spécimens biologiques conservés, dénommés ici \"collections d'histoire naturelle\". La consultation se concentrera sur le développement d'une solution solide et efficace pour les collections d'histoire naturelle, mais il sera précieux d'explorer les besoins et les opportunités d'autres types de collections de sciences naturelles. Certaines d'entre elles peuvent s'intégrer facilement dans le champ d'application du catalogue. Dans d'autres cas, le travail sur le catalogue pourra être bénéfique à ces autres communautés. Notez en particulier que: 1) de nombreuses institutions détiennent des collections biologiques et géologiques et peuvent les gérer comme une entitité unifiée ; 2) DiSSCo inclut les collections géologiques dans son champ d'application et d'autres réseaux tels que iDigBio incluent à tout le moins des collections paléontologiques ; 3) GRSciColl a été créé un registre de toutes les collections scientifiques; et 4) la norme 'Collection Description' du TDWG est extensible à différents types de collections."
 
 #. type: delimited block =
 #: 200.en.adoc:12
