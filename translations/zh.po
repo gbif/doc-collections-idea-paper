@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 08:42\n"
+"PO-Revision-Date: 2020-04-08 09:17\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -730,7 +730,7 @@ msgstr "探索生物材料的位置或划分于任意分类单元的生物材料
 #. type: delimited block =
 #: 200.en.adoc:75
 msgid "Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised"
-msgstr ""
+msgstr "开发探索服务，以便在未将标本数字化的情况下获取有关标本的信息或与相关馆藏品进行通信"
 
 #. type: delimited block =
 #: 200.en.adoc:76
