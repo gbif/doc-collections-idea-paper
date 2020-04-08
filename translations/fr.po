@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 09:17\n"
+"PO-Revision-Date: 2020-04-08 09:29\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -512,7 +512,7 @@ msgstr "Bien que cette consultation vise à encourager le développement d'infor
 #: 100.en.adoc:76
 #, no-wrap
 msgid "*Q9*. What national and regional needs or possible uses should be considered? Do national portals or specialist networks require information not currently addressed by data standards for collection metadata? Are there significant regional research infrastructures or public websites that include (or should include) information on local collections? Are there regionally important uses that are not addressed elsewhere in this document?\n"
-msgstr ""
+msgstr "*Q9* Quels sont les besoins ou utilisations possibles au niveau national et régional ? Les portails nationaux ou les réseaux spécialisés nécessitent-ils des informations qui ne sont pas couvertes par les normes actuelles de métadonnées de collection? Existe-t-il des infrastructures de recherche régionales ou des sites Web publics importants qui incluent (ou devraient inclure) des informations sur les collections locales? Y a-t-il des utilisations régionales importantes qui ne soient pas adressées ailleurs dans ce document ?\n"
 
 #. type: Title ==
 #: 200.en.adoc:2
@@ -540,27 +540,27 @@ msgstr "La portée du catalogue doit être définie. L' usage principal envisag�
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr ""
+msgstr "*Q10*. Quelle est la définition pour nos objectifs (critères minimaux et suffisants) d'une collection d'histoire naturelle? Comment les collections sont-elles liées et diffèrent des 1) institutions, 2) jeux de données et 3) événements de collecte (e. g. expéditions) ? Les catégories suivantes doivent-elles être incluses ? Sinon, y a-t-il des liens importants ou des opportunités dont on devrait encore tenir compte?\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
 msgid "Geological and paleontological collections"
-msgstr ""
+msgstr "Collections géologiques et paléontologiques"
 
 #. type: delimited block =
 #: 200.en.adoc:15
 msgid "Anthropological collections"
-msgstr ""
+msgstr "Collections anthropologiques"
 
 #. type: delimited block =
 #: 200.en.adoc:16
 msgid "Ethnobotanical collections"
-msgstr ""
+msgstr "Collections ethnobotaniques"
 
 #. type: delimited block =
 #: 200.en.adoc:17
 msgid "Wood collections (xylaria)"
-msgstr ""
+msgstr "Collections de bois (xylaria)"
 
 #. type: delimited block =
 #: 200.en.adoc:18
