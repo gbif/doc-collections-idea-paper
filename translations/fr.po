@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 09:42\n"
+"PO-Revision-Date: 2020-04-08 09:56\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -581,12 +581,12 @@ msgstr "Collections personnelles"
 #: 200.en.adoc:22
 #, no-wrap
 msgid "Identifiers for collections"
-msgstr ""
+msgstr "Identifiants pour les collections"
 
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "Most collections are already identified by one or more collection codes and may have existing web identifiers (URLs, DOIs, etc.) in one or more databases. The catalogue may reuse one or other of these identifiers or may help to support a standardised scheme. GRSciColl exists to assist with standardisation of collection codes and machine-readable identifiers, but several other efforts are also in place. Unique identifiers for each collection will be important to maximise cross-linkage of information and standardise citation, but other existing identifiers should ideally resolve to the same information and be recognised as synonyms for the preferred identifiers."
-msgstr ""
+msgstr "La plupart des collections sont déjà identifiées par un ou plusieurs codes de collection et peuvent avoir déjà des identifiants web (URLs, DOIs, etc.) dans une ou plusieurs bases de données. Le catalogue pourrait réutiliser l'un ou l'autre de ces identifiants ou aider à supporter un schéma normalisé. GRSciColl est là pour aider à la normalisation des codes de collection et des identifiants lisibles par machines, mais plusieurs autres efforts sont également en place. Les identifiants uniques pour chaque collection seront importants afin de maximiser les liens croisés entre information et référence standardisée, mais d'autres identifiants existants devraient idéalement conduire à la même information et être reconnus comme des synonymes de ces identifiants préférés."
 
 #. type: delimited block =
 #: 200.en.adoc:28
