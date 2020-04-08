@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 07:27\n"
+"PO-Revision-Date: 2020-04-08 07:33\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -663,7 +663,7 @@ msgstr "一个馆藏品所代表的物种/分类单元(使用/不使用标本计
 #. type: delimited block =
 #: 200.en.adoc:56
 msgid "Sequences, images and other preparations from the collection (but these may be better treated as information about specimens rather than about the collection)"
-msgstr ""
+msgstr "序列、图像和馆藏品的其他配制品（但这些可能最好作为标本相关而不是馆藏相关的资料处理）"
 
 #. type: delimited block =
 #: 200.en.adoc:57
