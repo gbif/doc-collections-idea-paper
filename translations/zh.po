@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 07:33\n"
+"PO-Revision-Date: 2020-04-08 07:56\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -668,7 +668,7 @@ msgstr "序列、图像和馆藏品的其他配制品（但这些可能最好作
 #. type: delimited block =
 #: 200.en.adoc:57
 msgid "Datasets (checklists, occurrences, sampling events) associated with the collection"
-msgstr ""
+msgstr "与馆藏相关的数据集(核对表、发生率、取样事项)"
 
 #. type: delimited block =
 #: 200.en.adoc:58
