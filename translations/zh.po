@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 08:13\n"
+"PO-Revision-Date: 2020-04-08 08:42\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -710,22 +710,22 @@ msgstr "馆藏编目的主要价值可能表现在可以围绕所管理的信息
 #: 200.en.adoc:70
 #, no-wrap
 msgid "*Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
-msgstr ""
+msgstr "*Q15* 除了拥有每个馆藏品的清晰并全面的相关公开数据外，我们还想怎样处理目录？ 以下可能提供的服务是候选项，但其他服务也是可能的。 在每一种情况下，该服务将取决于与其他数字储存库建立伙伴关系。（比如 https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])\n"
 
 #. type: delimited block =
 #: 200.en.adoc:72
 msgid "Assess the growth, scale and value of the world's collections"
-msgstr ""
+msgstr "评估世界馆藏品的数量增长、规模和价值"
 
 #. type: delimited block =
 #: 200.en.adoc:73
 msgid "Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection digitisation dashboard] to monitor and highlight progress"
-msgstr ""
+msgstr "提供https://zenodo.org/record/2621055#.Xn1lqIgzabi[馆藏数字化检索列表]来监控和突出显示进展"
 
 #. type: delimited block =
 #: 200.en.adoc:74
 msgid "Discover the location of biological materials or the likely presence of biological materials for any taxon"
-msgstr ""
+msgstr "探索生物材料的位置或划分于任意分类单元的生物材料的可能存在性"
 
 #. type: delimited block =
 #: 200.en.adoc:75
