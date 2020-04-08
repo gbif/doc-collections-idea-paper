@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 07:03\n"
+"PO-Revision-Date: 2020-04-08 07:27\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -653,12 +653,12 @@ msgstr "馆藏保存的标本"
 #. type: delimited block =
 #: 200.en.adoc:54
 msgid "Type specimens held by a collection"
-msgstr ""
+msgstr "将馆藏保存的标本分类"
 
 #. type: delimited block =
 #: 200.en.adoc:55
 msgid "Species/taxa represented in a collection (with/without specimen counts)"
-msgstr ""
+msgstr "一个馆藏品所代表的物种/分类单元(使用/不使用标本计数)"
 
 #. type: delimited block =
 #: 200.en.adoc:56
