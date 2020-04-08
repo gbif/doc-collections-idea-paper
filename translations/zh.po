@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 07:56\n"
+"PO-Revision-Date: 2020-04-08 08:13\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -668,43 +668,43 @@ msgstr "序列、图像和馆藏品的其他配制品（但这些可能最好作
 #. type: delimited block =
 #: 200.en.adoc:57
 msgid "Datasets (checklists, occurrences, sampling events) associated with the collection"
-msgstr "与馆藏相关的数据集(核对表、发生率、取样事项)"
+msgstr "与馆藏相关的数据集(核对表、发生率、取样活动)"
 
 #. type: delimited block =
 #: 200.en.adoc:58
 msgid "Collecting expeditions carried out by or contributing to the collection (modeled as sampling events?)"
-msgstr ""
+msgstr "收集因馆藏进行或为馆藏做贡献的考察（归类于取样活动？）"
 
 #. type: delimited block =
 #: 200.en.adoc:59
 msgid "Collectors associated with a collection"
-msgstr ""
+msgstr "与馆藏相关的收藏者"
 
 #. type: delimited block =
 #: 200.en.adoc:60
 msgid "Publications based on materials from the collection"
-msgstr ""
+msgstr "根据馆藏材料编写的出版物"
 
 #. type: delimited block =
 #: 200.en.adoc:61
 msgid "Researchers/staff associated with the collection"
-msgstr ""
+msgstr "与馆藏相关的研究员/工作人员"
 
 #. type: delimited block =
 #: 200.en.adoc:62
 msgid "Field notebooks"
-msgstr ""
+msgstr "现场记录"
 
 #. type: Title ===
 #: 200.en.adoc:64
 #, no-wrap
 msgid "Information services relating to collections"
-msgstr ""
+msgstr "与馆藏有关的信息服务"
 
 #. type: Plain text
 #: 200.en.adoc:67
 msgid "The main value from the collection catalogue may appear in the information services that can be offered around the information managed. Considering these services may help to clarify the content requirements."
-msgstr ""
+msgstr "馆藏编目的主要价值可能表现在可以围绕所管理的信息提供的信息服务。 考虑到这些服务可能有助于阐明关于内容的要求。"
 
 #. type: delimited block =
 #: 200.en.adoc:70
