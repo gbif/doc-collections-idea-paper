@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 09:56\n"
+"PO-Revision-Date: 2020-04-08 10:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -592,13 +592,13 @@ msgstr "La plupart des collections sont déjà identifiées par un ou plusieurs 
 #: 200.en.adoc:28
 #, no-wrap
 msgid "*Q11*. What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection? What characteristics of identifiers are important for use by machines and humans? Are there benefits in selecting any particular identifier scheme (e.g. https://www.doi.org/[DOIs] or https://ror.org/[ROR] identifiers)? What can be done to promote use of the preferred identifiers?\n"
-msgstr ""
+msgstr "*Q11*. Quels schémas d'identification (IH collection codes, GRSciColl URIs, etc.) existent déjà et devraient être maintenus sous une forme ou une autre ? Ces systèmes suivent-ils une définition cohérente de collection d'histoire naturelle ? Quelles sont les caractéristiques des identifiants qui sont importantes pour l'utilisation par les machines et les humains? Y a-t-il des avantages à choisir un système d'identification particulier (e.g. https://www.doi.org/[DOIs] ou https://ror.org/[ROR]) ? Que peut-on faire pour promouvoir l'utilisation de ces identifiants préférés ?\n"
 
 #. type: Title ===
 #: 200.en.adoc:30
 #, no-wrap
 msgid "Hierarchical collection structures and subcollections"
-msgstr ""
+msgstr "Hiérarchie des structures de collections et sous-collections - Q"
 
 #. type: Plain text
 #: 200.en.adoc:33
