@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 06:57\n"
+"PO-Revision-Date: 2020-04-08 07:03\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -643,12 +643,12 @@ msgstr "馆藏编目中的信息可以与广泛的其他生物多样性信息（
 #: 200.en.adoc:51
 #, no-wrap
 msgid "*Q14*. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:\n"
-msgstr ""
+msgstr "*Q14*。 哪些信息应当与馆藏记录联系起来？我们应当侧重于建立一类联系，这类联系能够实际证明创立和维持这些记录的费用是合理的。 以下是可能的候选项，但也可能是未在其中的其他。 在每种情况下，我们都应该确定是否需要是双向联系：\n"
 
 #. type: delimited block =
 #: 200.en.adoc:53
 msgid "Specimens held by a collection"
-msgstr ""
+msgstr "馆藏保存的标本"
 
 #. type: delimited block =
 #: 200.en.adoc:54
