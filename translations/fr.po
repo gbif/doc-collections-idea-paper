@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-09 15:04\n"
+"PO-Revision-Date: 2020-04-09 15:39\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -648,32 +648,32 @@ msgstr "*Q14*. Quelles informations devraient être liées aux enregistrements d
 #. type: delimited block =
 #: 200.en.adoc:53
 msgid "Specimens held by a collection"
-msgstr ""
+msgstr "Spécimens détenus par une collection"
 
 #. type: delimited block =
 #: 200.en.adoc:54
 msgid "Type specimens held by a collection"
-msgstr ""
+msgstr "Spécimens types détenus par une collection"
 
 #. type: delimited block =
 #: 200.en.adoc:55
 msgid "Species/taxa represented in a collection (with/without specimen counts)"
-msgstr ""
+msgstr "Espèces/taxons représentés dans une collection (avec/sans nombre de spécimens)"
 
 #. type: delimited block =
 #: 200.en.adoc:56
 msgid "Sequences, images and other preparations from the collection (but these may be better treated as information about specimens rather than about the collection)"
-msgstr ""
+msgstr "Séquences, images et autres préparations de la collection (mais celles-ci sont sans doute mieux traitées comme informations sur les spécimens plutôt que sur la collection)"
 
 #. type: delimited block =
 #: 200.en.adoc:57
 msgid "Datasets (checklists, occurrences, sampling events) associated with the collection"
-msgstr ""
+msgstr "Jeux de données (listes d'espèces, occurrences, événements d'échantillonnage) associés à la collection"
 
 #. type: delimited block =
 #: 200.en.adoc:58
 msgid "Collecting expeditions carried out by or contributing to the collection (modeled as sampling events?)"
-msgstr ""
+msgstr "Expéditions de collecte réalisées par ou contribuant à la collection (modélisées comme des événements d'échantillonnage ?)"
 
 #. type: delimited block =
 #: 200.en.adoc:59
