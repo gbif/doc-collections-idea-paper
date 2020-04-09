@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-08 10:24\n"
+"PO-Revision-Date: 2020-04-09 15:04\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -603,47 +603,47 @@ msgstr "Hiérarchie des structures de collections et sous-collections - Q"
 #. type: Plain text
 #: 200.en.adoc:33
 msgid "Within IH, each herbarium record usually corresponds to an institution with its own unique collection code, street address, etc. Within zoology, museums are often structured as a set of collections with differing and possibly hierarchical taxonomic scope. Specimens collected on famous expeditions or by significant researchers may have their own identity and appear as special collections. As a result, curators and researchers may wish to refer to different (potentially overlapping) sets of specimens as separate collections with their own names, identifiers and descriptions."
-msgstr ""
+msgstr "Au sein de l'IH, chaque herbarium correspond généralement à une institution avec son propre code de collection, son adresse postale, etc. Au sein de la zoologie, les musées sont souvent structurés en collections de groupes taxonomiques différents, voire hiérarchisées. Les spécimens récoltés lors des expéditions célèbres ou par des chercheurs importants peuvent avoir leur propre identité et apparaître comme des collections spéciales. Par conséquent, les conservateurs et les chercheurs peuvent vouloir désigner des ensembles de spécimens différents (potentiellement superposés) comme des collections séparées avec leurs propres noms, identifiants et descriptions."
 
 #. type: delimited block =
 #: 200.en.adoc:36
 #, no-wrap
 msgid "*Q12*. Should the catalogue support hierarchical relationships between collections (and collection records)? If so, how do parent-child relationships work, and do we infer information from parent to child or vice versa? \n"
-msgstr ""
+msgstr "*Q12*. Le catalogue doit-il supporter les relations hiérarchiques entre collections (et enregistrements de collection)? Dans l'affirmative, comment les relations parent-enfant pourraient fonctionner et pouvons-nous inférer les informations du parent à l'enfant ou vice versa? \n"
 
 #. type: Title ===
 #: 200.en.adoc:38
 #, no-wrap
 msgid "Description of a collection"
-msgstr ""
+msgstr "Description d'une collection"
 
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
-msgstr ""
+msgstr "Le https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] est en train de développer le https://github. om/tdwg/cd[standard CD pour les descriptions de collection] (dérivé du standard TDWG Natural Collections Description (NCD)). Les réseaux existants et les systèmes institutionnels utilisent une variété de formats différents ou de variantes de normes de métadonnées pour leurs enregistrements de collection, par lequel l'interopérabilité entre ces ressources (et de ce fait l'agrégation des données) est limitée. Pour surmonter cette barrière, il faut de la clarté autour de facteurs tels que les normes et les vocabulaires préférés, les champs obligatoires et la compatibilité entre les informations sous différents formats."
 
 #. type: delimited block =
 #: 200.en.adoc:44
 #, no-wrap
 msgid "*Q13*. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?\n"
-msgstr ""
+msgstr "*Q13*. Quelles informations descriptives devraient être considérées comme obligatoires ou souhaitables pour chaque collection ? Est-ce que le TDWG CD couvre tout ce qui est nécessaire? Sinon, quelles améliorations seraient nécessaires ? Combien de ces informations doivent être normalisées pour un traitement automatique (plutôt que juste pour les lecteurs humains)?\n"
 
 #. type: Title ===
 #: 200.en.adoc:46
 #, no-wrap
 msgid "Wider data linkages"
-msgstr ""
+msgstr "Liens de données plus étendus"
 
 #. type: Plain text
 #: 200.en.adoc:48
 msgid "Information in the collection catalogue may be linked to a wide range of other biodiversity information (specimens, sequences, datasets, images, publications, etc.) to support information access and exploration."
-msgstr ""
+msgstr "Les informations du catalogue de collection peuvent être liées à un large éventail d’autres informations de biodiversité (spécimens, séquences, jeux de données, images, publications, etc.). pour supporter l'accès et l'exploration de l'information."
 
 #. type: delimited block =
 #: 200.en.adoc:51
 #, no-wrap
 msgid "*Q14*. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:\n"
-msgstr ""
+msgstr "*Q14*. Quelles informations devraient être liées aux enregistrements de collection ? Nous devrions nous concentrer sur l'établissement de liens qui justifieront réellement les coûts de création et de maintien de ceux-ci. Ceux qui suivent semble être de bons candidats, mais d'autres sont possibles. Dans chaque cas, nous devrions déterminer si le lien doit être bidirectionnel :\n"
 
 #. type: delimited block =
 #: 200.en.adoc:53
