@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-09 15:39\n"
+"PO-Revision-Date: 2020-04-10 07:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -678,54 +678,54 @@ msgstr "Expéditions de collecte réalisées par ou contribuant à la collection
 #. type: delimited block =
 #: 200.en.adoc:59
 msgid "Collectors associated with a collection"
-msgstr ""
+msgstr "Collecteurs associés à une collection"
 
 #. type: delimited block =
 #: 200.en.adoc:60
 msgid "Publications based on materials from the collection"
-msgstr ""
+msgstr "Publications basées sur le matériel de la collection"
 
 #. type: delimited block =
 #: 200.en.adoc:61
 msgid "Researchers/staff associated with the collection"
-msgstr ""
+msgstr "Chercheurs/staff associés à la collection"
 
 #. type: delimited block =
 #: 200.en.adoc:62
 msgid "Field notebooks"
-msgstr ""
+msgstr "Carnets de notes de terrain"
 
 #. type: Title ===
 #: 200.en.adoc:64
 #, no-wrap
 msgid "Information services relating to collections"
-msgstr ""
+msgstr "Services d'information liés aux collections"
 
 #. type: Plain text
 #: 200.en.adoc:67
 msgid "The main value from the collection catalogue may appear in the information services that can be offered around the information managed. Considering these services may help to clarify the content requirements."
-msgstr ""
+msgstr "La valeur principale du catalogue de collection peut apparaître dans les services d'information qui peuvent être offerts autour de l'information gérée. La prise en considération de ces services peut aider à clarifier les exigences en matière de contenu."
 
 #. type: delimited block =
 #: 200.en.adoc:70
 #, no-wrap
 msgid "*Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
-msgstr ""
+msgstr "*Q15*. Que voulons-nous faire du catalogue, au-delà d'avoir des données ouvertes propres et complètes sur chaque collection? Les services potentiels suivants sont susceptibles d'être candidats, mais d'autres sont possibles. Dans chaque cas, le service dépendrait-il d'un partenariat avec d'autres référentiels numériques (par exemple https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
 
 #. type: delimited block =
 #: 200.en.adoc:72
 msgid "Assess the growth, scale and value of the world's collections"
-msgstr ""
+msgstr "Évaluer la croissance, l'étendue et la valeur des collections mondiales"
 
 #. type: delimited block =
 #: 200.en.adoc:73
 msgid "Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection digitisation dashboard] to monitor and highlight progress"
-msgstr ""
+msgstr "Alimenter un https://zenodo.org/record/2621055#.Xn1lqIgzabi[tableau de bord de numérisation des collections] afin de surveiller et mettre en évidence les progrès"
 
 #. type: delimited block =
 #: 200.en.adoc:74
 msgid "Discover the location of biological materials or the likely presence of biological materials for any taxon"
-msgstr ""
+msgstr "Découvrir l'emplacement des matériaux biologiques ou la présence probable de matériaux biologiques pour n'importe quel taxon"
 
 #. type: delimited block =
 #: 200.en.adoc:75
