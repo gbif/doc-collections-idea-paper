@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-10 07:12\n"
+"PO-Revision-Date: 2020-04-10 08:30\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -730,7 +730,7 @@ msgstr "Découvrir l'emplacement des matériaux biologiques ou la présence prob
 #. type: delimited block =
 #: 200.en.adoc:75
 msgid "Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised"
-msgstr ""
+msgstr "Développer des services de découverte afin d'accéder à l'information sur les spécimens types ou communiquer avec la collection appropriée lorsque le spécimen n'est pas numérisé"
 
 #. type: delimited block =
 #: 200.en.adoc:76
