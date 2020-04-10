@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-10 13:40\n"
+"PO-Revision-Date: 2020-04-10 14:13\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -839,19 +839,19 @@ msgstr "Systèmes de gestion de collection"
 #. type: Plain text
 #: 300.en.adoc:33
 msgid "Most natural history collections maintain data on their specimens in a collection management system (CMS) such as https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Some of these tools could develop to interface directly with the collection catalogue, providing up-to-date metadata and metrics."
-msgstr ""
+msgstr "La plupart des collections d'histoire naturelle conservent des données sur leurs spécimens dans un système de gestion de collections (CMS) tel que https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell. om/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] ou https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Certains de ces outils pourraient s'enrichir d'une interface directe avec le catalogue de collection, fournissant ainsi des métadonnées et des statistiques constamment à jour."
 
 #. type: delimited block =
 #: 300.en.adoc:36
 #, no-wrap
 msgid "*Q19*. What present or future requirements are there for interfaces directly between CMS platforms and the collection catalogue? Are there special opportunities that should be considered? Could CMS platforms become a source of metadata for institutional collections within a global catalogue?\n"
-msgstr ""
+msgstr "*Q19*. Quelles sont les exigences présentes ou futures pour les interfaces directes entre les plates-formes CMS et le catalogue de collections ? Y a-t-il des opportunités spéciales qui devraient être envisagées ? Les plateformes CMS pourraient-elles devenir une source de métadonnées pour les collections institutionnelles dans un catalogue mondial ?\n"
 
 #. type: Title ===
 #: 300.en.adoc:38
 #, no-wrap
 msgid "Interfaces, APIs and client modules"
-msgstr ""
+msgstr "Interfaces, APIs et modules client"
 
 #. type: Plain text
 #: 300.en.adoc:41
