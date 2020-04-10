@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-10 08:30\n"
+"PO-Revision-Date: 2020-04-10 08:51\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -735,43 +735,43 @@ msgstr "Développer des services de découverte afin d'accéder à l'information
 #. type: delimited block =
 #: 200.en.adoc:76
 msgid "Identify sections of collections that should be digitised to answer specific questions"
-msgstr ""
+msgstr "Identifier les sections de collections qui doivent être numérisées pour répondre à des questions spécifiques"
 
 #. type: delimited block =
 #: 200.en.adoc:77
 msgid "Match gap analysis of published specimen data against the collection catalogue to prioritise digitisation for filling taxonomic, geographic, or other gaps."
-msgstr ""
+msgstr "Analyser les écarts entre des données de spécimens publiés et le catalogue de collection afin d'orienter la numérisation qui comblera au mieux les lacunes taxonomiques, géographiques ou autres."
 
 #. type: delimited block =
 #: 200.en.adoc:78
 msgid "Discover holdings that make a particular collection unique, and therefore of even higher value"
-msgstr ""
+msgstr "Découvrir les avoirs qui rendent une collection particulière unique, et en augmente ainsi la valeur"
 
 #. type: delimited block =
 #: 200.en.adoc:79
 msgid "Develop and fund collaborative digitisation programmes focused on understanding of the holdings of the network as a whole"
-msgstr ""
+msgstr "Développer et financer des programmes de numérisation collaborative axés sur la compréhension globale des avoirs du réseau"
 
 #. type: delimited block =
 #: 200.en.adoc:80
 msgid "Develop cross-institutional loan systems and taxonomic workbenches"
-msgstr ""
+msgstr "Développer des systèmes interinstitutionnels de prêts et d'ateliers taxinomiques"
 
 #. type: delimited block =
 #: 200.en.adoc:81
 msgid "Develop citation models for collections and track their impact"
-msgstr ""
+msgstr "Développer des modèles de citation pour les collections et suivre leur impact"
 
 #. type: delimited block =
 #: 200.en.adoc:82
 msgid "Perform risk assessment of the health or stability of a collection"
-msgstr ""
+msgstr "Effectuer une évaluation des risques sur la santé ou la stabilité d'une collection"
 
 #. type: Title ==
 #: 300.en.adoc:2
 #, no-wrap
 msgid "Technology for the catalogue"
-msgstr ""
+msgstr "Technologie pour le catalogue"
 
 #. type: Plain text
 #: 300.en.adoc:5
