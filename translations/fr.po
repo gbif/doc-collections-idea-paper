@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-10 13:04\n"
+"PO-Revision-Date: 2020-04-10 13:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -804,37 +804,37 @@ msgstr "Catalogues communautaires"
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "IH is the best established catalogue servicing a large community of collections, but many other communities are important, including regionally or nationally focused efforts, such as CETAF’s institutional profiles, the web portals of https://www.idigbio.org/portal/collections[iDigBio] and the ALA, and the https://biss.pensoft.net/article/38772/[One World Collection initiative], and thematically aligned efforts, such as the http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections] and the http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. A comprehensive global catalogue should ensure that the needs of these different communities are met and support their continued operation and independence wherever is valued by collections. Understanding these requirements is essential in planning the technical implementation and governance of the catalogue."
-msgstr ""
+msgstr "IH est le catalogue le mieux établi qui dessert une grande communauté de collections, mais beaucoup d'autres communautés sont importantes, comme les efforts ciblés au niveau régional ou national, tels que les profils institutionnels du CETAF, les portails web d' https://www. digbio.org/portal/collections[iDigBio] et d'ALA, et l' https://biss.pensoft.net/article/38772/[Initiative pour une seule collection mondiale], et les efforts alignés thèmatiques, comme le http://www.wfcc.info/ccinfo/index. hp/home/content[Répertoire mondial des collections culturelles] et le portail du http://www.ggbn.org/ggbn_portal/members/index[Réseau mondial de la biodiversité du génome]. Un catalogue global complet devrait garantir de statisfaire les besoins de ces différentes communautés et de soutienir leur fonctionnement continu et leur indépendance partout où ceux-ci sont appréciées par les collections. Comprendre ces exigences est essentiel pour planifier la mise en œuvre technique et la gouvernance du catalogue."
 
 #. type: delimited block =
 #: 300.en.adoc:20
 #, no-wrap
 msgid "*Q17*. What catalogues already address the needs of some communities of collections? How can an integrated catalogue support these communities? Which communities require a separately branded identity and/or platform? What is the best way to include these communities as part of an interconnected solution? Is there a role for content to be created and improved by a wider audience (e.g. through Wikidata)?\n"
-msgstr ""
+msgstr "*Q17*. Quels catalogues répondent déjà aux besoins de certaines communautés de collections? Comment un catalogue intégré pourrait-il soutenir ces communautés ? Quelles communautés ont besoin d'une identité et/ou d'une plateforme propre? Quelle est la meilleure façon d'inclure ces communautés dans une solution interconnectée? Est-il opportun que le contenu soit créé et amélioré par un public plus large (e. g. via Wikidata)?\n"
 
 #. type: Title ===
 #: 300.en.adoc:22
 #, no-wrap
 msgid "Integrated catalogue"
-msgstr ""
+msgstr "Catalogue intégré"
 
 #. type: Plain text
 #: 300.en.adoc:25
 #, no-wrap
 msgid "GBIF has the mission to provide global-scale support for biodiversity informatics solutions and has expanded its Registry to host the data historically maintained as GRSciColl. GRSciColl content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   \n"
-msgstr ""
+msgstr "Le GBIF a pour mission de fournir un soutien à l'échelle mondiale aux solutions informatiques de la biodiversité et a élargi son Registre afin d' héberger les données historiquement maintenues dans GRSciColl. Le contenu de GRSciColl est incomplet et doit être considéré comme un cadre à l'expansion vers des métadonnées de collection plus riches qui représentent correctement les besoins et les intérêts des collections. Le GBIF peut servir de contexte à l’intégration et à la déduplication des informations de collection à partir de différentes sources et à l’interconnexion de ces informations avec d’autres données sur la biodiversité. Le GBIF a besoin de conseils sur la meilleure façon de répondre aux besoins et à la gestion de l'identité des collections et de leurs communautés, au fur et à mesure qu’il développe de tels services.   \n"
 
 #. type: delimited block =
 #: 300.en.adoc:28
 #, no-wrap
 msgid "*Q18*. Are there issues with GBIF providing hosting and support for the global catalogue through its Registry? What is required to ensure that this meets the needs of collections and is fully adopted and owned by the collections community? What challenges need to be addressed to minimise duplication of content and effort within an integrated catalogue?\n"
-msgstr ""
+msgstr "*Q18*. Y a-t-il des problèmes si GBIF fournit l'hébergement et le support du catalogue mondial au travers de son Registre ? De quoi faut-il s'assurer pour que cela réponde aux besoins des collections et soit complètement adopté et endossé par la communauté des collections? Quels défis faut-il relever pour minimiser tant la duplication du contenu que les efforts au travers d'un catalogue intégré?\n"
 
 #. type: Title ===
 #: 300.en.adoc:30
 #, no-wrap
 msgid "Collection management systems"
-msgstr ""
+msgstr "Systèmes de gestion de collection"
 
 #. type: Plain text
 #: 300.en.adoc:33
