@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-10 08:51\n"
+"PO-Revision-Date: 2020-04-10 13:04\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -776,30 +776,30 @@ msgstr "Technologie pour le catalogue"
 #. type: Plain text
 #: 300.en.adoc:5
 msgid "A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl CETAF Collections Registry and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed."
-msgstr ""
+msgstr "Un large éventail d'outils différents sont déjà utilisés dans le cadre des métadonnées de collection, la gestion partielle de catalogues tels que IH, GRSciColl, le Registre des collections du CETAF et les pages de collections nationales. Celles-ci varient en termes de capacités techniques et de pérénité. Certaines sont bien soutenues par les communautés existantes et pourraient faire partie d'une solution interconnectée. Le but de cette consultation est de déterminer quels composants, suffisamment mûrs et stables, peuvent contribuer à une telle solution et de déterminer quels autres composants devraient encore être développés."
 
 #. type: Title ===
 #: 300.en.adoc:6
 #, no-wrap
 msgid "Pathways and tools for publishing collection records"
-msgstr ""
+msgstr "Chemins et outils pour la publication des enregistrements de collection"
 
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Existing information on collections is edited and maintained in different ways. IH allows herbaria to provide or edit their records and offers support for herbaria to provide updates via email or other channels. Other communities such as national portals have other pathways for collections to provide or update information. Several tools help data publishers to create EML metadata for publishing data to GBIF and elsewhere. These could evolve to deliver collection records in preferred formats. The https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] could be enhanced to offer collection records as one of the core record types that can be shared. This would allow collections either to publish one or more collection records as a small standalone dataset or collection networks to manage and publish a dataset comprising many collection records. Wikidata could also serve as a tool or platform for editing catalogue information and making it widely accessible and reusable."
-msgstr ""
+msgstr "Les informations existantes sur les collections sont éditées et maintenues de différentes manières. IH permet aux herbiers de fournir ou de modifier leurs enregistrements et offre un support aux herbiers leurs mises à jour par e-mail ou par d'autres canaux. D'autres communautés, comme les portails nationaux, offrent d'autres moyens aux collections pour fournir ou mettre à jour leurs informations. Plusieurs outils aident les éditeurs de données à créer des métadonnées EML pour la publication de données sur le GBIF ou ailleurs. Ceux-ci pourraient évoluer vers des enregistrements de collection dans des formats préférés. L' https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] pourrait être amélioré pour offrir l'enregistrement de collection comme l'un des types d'enregistrements principaux qui peuvent être partagés. Cela permettrait aux collections de publier un ou plusieurs enregistrements de collection comme un petit jeu de données indépendant ou de réseaux de collections pour gérer et publier un jeu de données comprenant de nombreux enregistrements de collection. Wikidata pourrait également servir d'outil ou de plate-forme pour éditer des informations du catalogue et le rendre largement accessible et réutilisable."
 
 #. type: delimited block =
 #: 300.en.adoc:12
 #, no-wrap
 msgid "*Q16*. Which existing tools, databases and websites can help to mobilise and maintain collection records? Is it possible to identify additional tools or pathways that need to be developed or supported?\n"
-msgstr ""
+msgstr "*Q16*. Quels outils, bases de données et sites Web existants peuvent aider à mobiliser et à maintenir les informations de collection ? Est-il possible d'identifier des outils ou des chemins supplémentaires qui devraient être développés ou supportés ?\n"
 
 #. type: Title ===
 #: 300.en.adoc:14
 #, no-wrap
 msgid "Community catalogues"
-msgstr ""
+msgstr "Catalogues communautaires"
 
 #. type: Plain text
 #: 300.en.adoc:17
