@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-10 15:42\n"
+"PO-Revision-Date: 2020-04-10 16:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -856,7 +856,7 @@ msgstr "Interfaces, APIs et modules client"
 #. type: Plain text
 #: 300.en.adoc:41
 msgid "The value of a shared commons-based resource can be maximised by ensuring that interfaces and APIs support the needs of all key stakeholder groups, including addressing issues around content delivery to the fullest extent possible in multiple languages. Some needs may be addressed by offering reusable client components that can be embedded in other applications."
-msgstr ""
+msgstr "La valeur d'une ressource commune partagée peut être maximisée en s'assurant que les interfaces et les API répondent aux besoins de tous les groupes clés de parties prenantes, en ce compris la résolution des problèmes liés à la diffusion de contenu dans toute la mesure possible dans plusieurs langages. Certains besoins peuvent être résolus en proposant des composants clients réutilisables qui peuvent être intégrés dans d'autres applications."
 
 #. type: delimited block =
 #: 300.en.adoc:44
