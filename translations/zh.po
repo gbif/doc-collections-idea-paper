@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-13 08:12\n"
+"PO-Revision-Date: 2020-04-13 08:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -776,13 +776,13 @@ msgstr "目录技术"
 #. type: Plain text
 #: 300.en.adoc:5
 msgid "A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl CETAF Collections Registry and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed."
-msgstr ""
+msgstr "编写馆藏元数据和编制局部目录时已经使用了各种不同的工具，比如 IH, GRSciColl CETAF Collections Registry和国际馆藏文稿。它们的技术能力和可持续性各不相同。 有些得到现有群体的大力支持，可以成为相互关联的解决办法的一部分。 这种咨询会议的目标是确定哪些组成部分是成熟和稳定的，并且能够有助于这些成熟稳定的解决办法，另外还要确认哪些组成部分可能还需要完善。"
 
 #. type: Title ===
 #: 300.en.adoc:6
 #, no-wrap
 msgid "Pathways and tools for publishing collection records"
-msgstr ""
+msgstr "发布馆藏记录的路径和工具"
 
 #. type: Plain text
 #: 300.en.adoc:9
