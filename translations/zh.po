@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-13 05:37\n"
+"PO-Revision-Date: 2020-04-13 08:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -745,33 +745,33 @@ msgstr "将公布的标本数据与馆藏编目相匹配的差距分析，以优
 #. type: delimited block =
 #: 200.en.adoc:78
 msgid "Discover holdings that make a particular collection unique, and therefore of even higher value"
-msgstr ""
+msgstr "发现使某一特定馆藏品具有独特性因而价值甚至更高的持有物"
 
 #. type: delimited block =
 #: 200.en.adoc:79
 msgid "Develop and fund collaborative digitisation programmes focused on understanding of the holdings of the network as a whole"
-msgstr ""
+msgstr "制定并资助合作数字化计划，重点是了解整个网络的持有情况"
 
 #. type: delimited block =
 #: 200.en.adoc:80
 msgid "Develop cross-institutional loan systems and taxonomic workbenches"
-msgstr ""
+msgstr "创建跨机构贷款制度和分类工作台"
 
 #. type: delimited block =
 #: 200.en.adoc:81
 msgid "Develop citation models for collections and track their impact"
-msgstr ""
+msgstr "开发馆藏的引文模型并跟踪其产生的影响"
 
 #. type: delimited block =
 #: 200.en.adoc:82
 msgid "Perform risk assessment of the health or stability of a collection"
-msgstr ""
+msgstr "对馆藏品的完整性或稳定性进行风险评估"
 
 #. type: Title ==
 #: 300.en.adoc:2
 #, no-wrap
 msgid "Technology for the catalogue"
-msgstr ""
+msgstr "目录技术"
 
 #. type: Plain text
 #: 300.en.adoc:5
