@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-13 05:12\n"
+"PO-Revision-Date: 2020-04-13 05:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -740,7 +740,7 @@ msgstr "找出应该数字化以回答具体问题的馆藏部分"
 #. type: delimited block =
 #: 200.en.adoc:77
 msgid "Match gap analysis of published specimen data against the collection catalogue to prioritise digitisation for filling taxonomic, geographic, or other gaps."
-msgstr ""
+msgstr "将公布的标本数据与馆藏编目相匹配的差距分析，以优先考虑数字化，以填补分类学的、地理学的或其他空白。"
 
 #. type: delimited block =
 #: 200.en.adoc:78
