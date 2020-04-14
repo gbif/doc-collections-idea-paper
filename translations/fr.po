@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-10 16:00\n"
+"PO-Revision-Date: 2020-04-14 08:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -862,24 +862,24 @@ msgstr "La valeur d'une ressource commune partagée peut être maximisée en s'a
 #: 300.en.adoc:44
 #, no-wrap
 msgid "*Q20*. What interfaces and APIs are required to maximise access to the collection catalogue? How can the catalogue best support diverse user communities, including speakers of different languages?\n"
-msgstr ""
+msgstr "*Q20*. Quelles interfaces et API sont nécessaires pour maximiser l'accès au catalogue de collections? Comment le catalogue peut-il au mieux prendre en charge les diverses communautés d'utilisateurs, en ce y compris les locuteurs de langues différentes ?\n"
 
 #. type: Title ==
 #: 400.en.adoc:2
 #, no-wrap
 msgid "Governance of the catalogue"
-msgstr ""
+msgstr "Gouvernance du catalogue"
 
 #. type: Plain text
 #: 400.en.adoc:5
 msgid "Standards and tools are only one part of the solution. For the catalogue to succeed and provide value, it must be accepted by and deliver value to the stakeholders it represents, in particular the collection-holding institutions and the communities that support collections. It is important to identify the stakeholders that need ownership for each aspect of the collection building and to understand how they can be enabled, empowered, and resources to take on these responsibilities. Mechanisms are also needed to deal with situations in which needs or interests may come into conflict."
-msgstr ""
+msgstr "Les standards et les outils ne sont qu'une partie de la solution. Pour que le catalogue réussisse et fournisse de la valeur, il doit être accepté par les parties prenantes qu'il représente. en particulier les institutions détentrices de collections et les communautés qui soutiennent les collections. Il est important d'identifier les parties prenantes qui ont besoin de s'approprier chaque aspect de la collection et de comprendre comment elles peuvent être activées, habilités et avoir les ressources afin d'assumer ces responsabilités. Des mécanismes sont également nécessaires pour faire face à des situations dans lesquelles des besoins ou des intérêts peuvent entrer en conflit."
 
 #. type: Title ===
 #: 400.en.adoc:6
 #, no-wrap
 msgid "Ownership of information for each collection"
-msgstr ""
+msgstr "Propriété des informations pour chaque collection"
 
 #. type: Plain text
 #: 400.en.adoc:9
