@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 19:15\n"
+"PO-Revision-Date: 2020-04-14 19:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -620,7 +620,7 @@ msgstr "馆藏描述"
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
-msgstr "The https://www.tdwg.org/community/cd/[国际生物多样性信息标准组织 馆藏描述兴趣小组]目前正在制定https://github.com/tdwg/cd[馆藏描述标准] (从早先的国际生物多样性信息标准组织制定的自然馆藏描述标准演变而来)。 现有的网络和机构计划在其馆藏记录中使用各种不同格式或不同的元数据标准。 因此，这些资源（包括数据汇总）之间的互操作性有限。 为了克服这一障碍，需要对首选的标准和用词、强制性字段和不同格式的信息之间的兼容性等因素加以澄清。"
+msgstr "The https://www.tdwg.org/community/cd/[国际生物多样性信息标准组织 馆藏描述兴趣小组]目前正在制定link:https://github.com/tdwg/cd[馆藏描述标准] (从早先的国际生物多样性信息标准组织制定的自然馆藏描述标准演变而来)。 现有的网络和机构计划在其馆藏记录中使用各种不同格式或不同的元数据标准。 因此，这些资源（包括数据汇总）之间的互操作性有限。 为了克服这一障碍，需要对首选的标准和用词、强制性字段和不同格式的信息之间的兼容性等因素加以澄清。"
 
 #. type: delimited block =
 #: 200.en.adoc:44
