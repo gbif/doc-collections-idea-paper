@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 08:43\n"
+"PO-Revision-Date: 2020-04-14 08:49\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -952,19 +952,19 @@ msgstr "Incitations pour les contributeurs"
 #. type: Plain text
 #: 400.en.adoc:41
 msgid "Relatively little effort may be required for each institution to register and manage its own collection records. However, the stability of the system will depend on continued effort from these institutions or from other parties to correct errors and outdated information. There should be clear benefits or incentives encouraging stakeholders to contribute this effort. A key goal should be to ensure that the catalogue contributes usefully for the work of collection managers and taxonomists. Acknowledgement of contributions may also be valuable."
-msgstr ""
+msgstr "L'effort pour que chaque institution s'inscrire et de gèrer ses propres enregistrements de collections sera sans doute relativement faible. Toutefois, la stabilité du système dépendra des efforts continus, de ces institutions ou d'autres parties, pour corriger les erreurs et les informations périmées. Il devrait y avoir des avantages clairs ou des incitants qui encourageraient les parties prenantes à contribuer à cet effort. Un objectif clé devrait être de s'assurer que le catalogue contribue utilement au travail des gestionnaires de collection et des taxonomistes. La reconnaissance des contributions devrait aussi être précieuse."
 
 #. type: delimited block =
 #: 400.en.adoc:44
 #, no-wrap
 msgid "*Q25*. What are the incentives for different contributors to maintain information in the catalogue? How can these be maximised?\n"
-msgstr ""
+msgstr "*Q25*. Quelles sont les incitants pour les différents contributeurs à maintenir les informations dans le catalogue ? Comment les maximiser ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:46
 #, no-wrap
 msgid "Funding and sustainability"
-msgstr ""
+msgstr "Financement et durabilité"
 
 #. type: Plain text
 #: 400.en.adoc:49
