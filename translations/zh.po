@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 08:57\n"
+"PO-Revision-Date: 2020-04-14 09:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Advancing the Catalogue of the World's Natural History Collections"
-msgstr "推进《世界自然历史收藏目录》"
+msgstr "推进《世界自然历史馆藏名录》"
 
 #. type: Plain text
 #: index.en.adoc:27
@@ -804,7 +804,7 @@ msgstr "群体目录"
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "IH is the best established catalogue servicing a large community of collections, but many other communities are important, including regionally or nationally focused efforts, such as CETAF’s institutional profiles, the web portals of https://www.idigbio.org/portal/collections[iDigBio] and the ALA, and the https://biss.pensoft.net/article/38772/[One World Collection initiative], and thematically aligned efforts, such as the http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections] and the http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. A comprehensive global catalogue should ensure that the needs of these different communities are met and support their continued operation and independence wherever is valued by collections. Understanding these requirements is essential in planning the technical implementation and governance of the catalogue."
-msgstr ""
+msgstr "IH 是为大量馆藏机构提供服务的最佳名录，但许多以区域或国家为重点的其他平台机构也很重要，比如CETAF的机构简介，https://www.idigbio.org/portal/collections[iDigBio] 和ALA的门户网站，https://biss.pensoft.net/article/38772/[一个全球馆藏协议（One World Collection initiative）]，以及一些专题类别的机构和平台，如 http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections]， http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. 一个综合性的全球名录应该确保满足这些不同群体的需要，并支持它们的独立和相关工作的开展。了解这些要求对于规划名录的技术实施和管理至关重要。"
 
 #. type: delimited block =
 #: 300.en.adoc:20
@@ -822,13 +822,13 @@ msgstr "整合目录"
 #: 300.en.adoc:25
 #, no-wrap
 msgid "GBIF has the mission to provide global-scale support for biodiversity informatics solutions and has expanded its Registry to host the data historically maintained as GRSciColl. GRSciColl content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   \n"
-msgstr ""
+msgstr "GBIF的目标是为生物多样性信息学提供全球范围的支持，并扩大了注册系统，从而以GRSciColl的形式为全球生物多样性信息学数据库保存以往保存的数据。GRSciColl的内容并不完整，可将其视为一个 content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   \n"
 
 #. type: delimited block =
 #: 300.en.adoc:28
 #, no-wrap
 msgid "*Q18*. Are there issues with GBIF providing hosting and support for the global catalogue through its Registry? What is required to ensure that this meets the needs of collections and is fully adopted and owned by the collections community? What challenges need to be addressed to minimise duplication of content and effort within an integrated catalogue?\n"
-msgstr ""
+msgstr "*Q18*. 对于由GBIF来对全球名录进行管理和支持，是否有任何问题？为确保这样做能满足馆藏的需要，并被馆藏机构充分采纳和使用，需要做些什么？需要应对哪些挑战来最大限度的减少综合名录里内容和工作上的重复？\n"
 
 #. type: Title ===
 #: 300.en.adoc:30
@@ -907,7 +907,7 @@ msgstr ""
 #: 400.en.adoc:20
 #, no-wrap
 msgid "*Q22*. What do these communities require to be able to carry out their work efficiently and support their collections? How can an integrated approach enhance their offerings? What risks need to be addressed?\n"
-msgstr ""
+msgstr "*Q22*. 这些机构需要什么才能使他们的工作有效的开展？怎样通过一个集成的方法提高他们的贡献？有什么风险需要说明？\n"
 
 #. type: Title ===
 #: 400.en.adoc:22
@@ -924,7 +924,7 @@ msgstr ""
 #: 400.en.adoc:28
 #, no-wrap
 msgid "*Q23*. What technical infrastructures need to be engaged as part of the solution? How are their roles and needs best balanced with those of the collections and of their communities?\n"
-msgstr ""
+msgstr "*Q23*. 作为本方案的一部分，需要使用哪些技术基础设施？它们的作用和需要如何与馆藏品及馆藏机构的作用和需要保持平衡？\n"
 
 #. type: Title ===
 #: 400.en.adoc:30
@@ -941,7 +941,7 @@ msgstr ""
 #: 400.en.adoc:36
 #, no-wrap
 msgid "*Q24*. Are there appropriate models that can be adopted or expanded to support the governance of this catalogue? Can it be managed in the context of an existing organisation or institution?\n"
-msgstr ""
+msgstr "*Q24*. 是否有可以采用的并可以适当扩大使用的模式来支持这一名录的管理？能否在现有的组织机构框架内进行管理？ \n"
 
 #. type: Title ===
 #: 400.en.adoc:38
@@ -969,7 +969,7 @@ msgstr "筹资和可持续性"
 #. type: Plain text
 #: 400.en.adoc:49
 msgid "Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories)."
-msgstr ""
+msgstr "资金需求将取决于为编制名录而采取的办法的其他方面。如果需要更多的内部支持来维持内容，费用将会增加。即使基本上依靠全球用户来免费的管理内容，维持一个可靠稳定的基础设施还是需要努力和长期的投资 (比如 https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories)."
 
 #. type: delimited block =
 #: 400.en.adoc:52
