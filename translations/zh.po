@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 18:59\n"
+"PO-Revision-Date: 2020-04-14 19:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -232,7 +232,7 @@ msgstr "自然历史藏品的相关信息有助于绘制研究资源复杂的地
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使用一个全面的*世界自然历史收藏目录*。 每个想法都是作为一个单独的主题提出的，其中包括一系列问题，以引导在线讨论，https://www.gbif.org/zh/news/6TvOkvpPlxRm5vHxljYN5/[_推进全国自然历史馆藏_]。"
+msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使用一个全面的*世界自然历史收藏目录*。 每个想法都是作为一个单独的主题提出的，其中包括一系列问题，以引导在线讨论，link:https://www.gbif.org/zh/news/6TvOkvpPlxRm5vHxljYN5/[_推进全国自然历史馆藏_]。"
 
 #. type: Plain text
 #: background.en.adoc:10
@@ -308,7 +308,7 @@ msgstr "您是否希望查看网络研讨会概述范围并为之做准备计划
 #. type: Plain text
 #: how-to.en.adoc:14
 msgid "Recordings are available online on https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] and https://vimeo.com/showcase/6859611[Vimeo]."
-msgstr "录制材料可在网上查阅：https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] 和 https://vimeo.com/showcase/6859611[Vimeo]。"
+msgstr "录制材料可在网上查阅：link:https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] 和 link:https://vimeo.com/showcase/6859611[Vimeo]。"
 
 #. type: Plain text
 #: how-to.en.adoc:15
@@ -534,13 +534,13 @@ msgstr "目录范围和“馆藏”的定义"
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "The scope for the catalogue needs to be defined. The core use case under consideration is the listing and description of collections holding preserved biological specimens, referred to here as \"natural history collections\". The consultation will focus on developing a solution that is robust and effective for natural history collections, but it is valuable to explore needs and opportunities around other types of natural science collection. Some of these may fit readily within the scope of the catalogue. In other cases, work on the catalogue may offer benefits to these other communities. Note in particular: 1) many institutions hold both biological and geological collections and may manage these as a unified whole; 2) DiSSCo includes geological collections within its scope, and other networks such as iDigBio include at least paleontological collections; 3) GRSciColl was established to hold records on any scientific collection; and 4) the TDWG Collection Description standard is extensible for different collection types."
-msgstr "目录的范围需要界定。 正在审议的核心使用案例是保存生物标本的收藏清单和描述，此处称为“自然历史馆藏”。 咨询将侧重于为自然历史馆藏制定一种强有力和有效的实行方案，但此方案也对其他类型的自然科学收藏探索的需求和机会是有价值的。 其中有些可以很容易地纳入目录范围。对于其他情况，编纂目录的工作可能也会给其他领域带来好处。 特别强调：⑴许多同时拥有生物和地质藏品的机构可以统一管理这些藏品。 ⑵ DiSSCo在其范围内拥有地质藏品，iDigBio等其他网络门户至少拥有古生物藏品； ⑶ 为了保存所有科学藏品的记录建立了GRSciColl ；⑷ TDWG的馆藏描述标准可以扩展到不同的收藏类型。"
+msgstr "目录的范围需要界定。 正在审议的核心使用案例是保存生物标本的收藏清单和描述，此处称为“自然历史馆藏”。 咨询将侧重于为自然历史馆藏制定一种强有力和有效的实行方案，但此方案也对其他类型的自然科学收藏探索的需求和机会是有价值的。 其中有些可以很容易地纳入目录范围。对于其他情况，编纂目录的工作可能也会给其他领域带来好处。 特别强调：⑴ 许多同时拥有生物和地质藏品的机构可以统一管理这些藏品。 ⑵ DiSSCo在其范围内拥有地质藏品，iDigBio等其他网络门户至少拥有古生物藏品； ⑶ 为了保存所有科学藏品的记录建立了GRSciColl ；⑷ TDWG的馆藏描述标准可以扩展到不同的收藏类型。"
 
 #. type: delimited block =
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的标准）的定义是什么？ 馆藏如何与机构、数据集和collecting events (e.g. expenditions) 有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
+msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的标准）的定义是什么？ 馆藏如何与机构、数据集和collecting events (e.g. expeditions) 有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
@@ -839,7 +839,7 @@ msgstr "馆藏品管理系统"
 #. type: Plain text
 #: 300.en.adoc:33
 msgid "Most natural history collections maintain data on their specimens in a collection management system (CMS) such as https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Some of these tools could develop to interface directly with the collection catalogue, providing up-to-date metadata and metrics."
-msgstr "大部分自然历史馆藏品通过馆藏品管理系统 (CMS) 来管理标本信息，比如https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]。其中一些工具可以直接与馆藏名录的接口连接，从而提供实时的元数据和统计信息。"
+msgstr "大部分自然历史馆藏品通过馆藏品管理系统 (CMS) 来管理标本信息，比如link:https://www.sustain.specifysoftware.org/about/[Specify]、link:http://symbiota.org/docs/[Symbiota]、link:https://emu.axiell.com/[EMu]、link:https://biss.pensoft.net/article/39054/[DarWIN]或link:https://dps007.plants.ox.ac.uk/bol/[BRAHMS]。其中一些工具可以直接与馆藏名录的接口连接，从而提供实时的元数据和统计信息。"
 
 #. type: delimited block =
 #: 300.en.adoc:36
