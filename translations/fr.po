@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 08:06\n"
+"PO-Revision-Date: 2020-04-14 08:22\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -884,24 +884,24 @@ msgstr "Propriété des informations pour chaque collection"
 #. type: Plain text
 #: 400.en.adoc:9
 msgid "The basic assumption is that each institution should have primary responsibility and control for information on its collections. However, it may be appropriate to delegate full or partial responsibility to thematic, regional or national communities that have data curators able to ensure the quality and standardisation of collection records. In some contexts, where institutions have for any reason not provided authoritative information, or do not have the resources to do so, there may be reason to allow or encourage a wider user base to contribute and improve collection records. In all cases, a version history is required for the information, so that users can understand and respond to changes made by others."
-msgstr ""
+msgstr "L'hypothèse de base est que chaque institution devrait avoir la responsabilité et le contrôle de l'information sur ses collections. Cependant, il peut être approprié de déléguer partiellement ou entièrement cette responsabilité, à des communautés thématiques, régionales ou nationales qui ont des curateurs de données capables d’assurer la qualité et la normalisation des enregistrements de collections. Dans certains contextes, où les institutions ont, pour quelque raison que ce soit, n'ont pas fourni des informations faisant autorité ou n'ont pas les ressources pour le faire, il peut y avoir des raisons d'autoriser ou d'encourager une plus large base d'utilisateurs à contribuer et à améliorer les enregistrements de collections. Dans tous les cas, un historique de l'information est nécessaire afin que les utilisateurs puissent comprendre et répondre aux changements apportés par d'autres."
 
 #. type: delimited block =
 #: 400.en.adoc:12
 #, no-wrap
 msgid "*Q21*. How should ownership and access control for collection records be managed? How should appropriate editors be recognised and validated? Are there situations where automated or human intervention will be required to resolve disagreements or discrepancies?\n"
-msgstr ""
+msgstr "*Q21*. Comment gérer la propriété et le contrôle d'accès des enregistrements de collections ? Comment les éditeurs appropriés devraient-ils être reconnus et validés ? Y a-t-il des situations où une intervention automatique ou humaine sera nécessaire pour résoudre les désaccords ou les différences ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:14
 #, no-wrap
 msgid "Communities of practice"
-msgstr ""
+msgstr "Communautés de pratique"
 
 #. type: Plain text
 #: 400.en.adoc:17
 msgid "Communities such as IH, CETAF, ALA, iDigBio, etc. play an important role supporting collections and promoting standards-based practices. In many cases, these communities have a high level of understanding and participate closely in the development of biodiversity informatics solutions. Their roles and rights need to be well defined and supported in any integrated solution."
-msgstr ""
+msgstr "Les communautés telles que IH, CETAF, ALA, iDigBio, etc., jouent un rôle important de soutien des collections et de promotion des pratiques basées sur les normes. Dans de nombreux cas, ces communautés ont un haut niveau de compréhension et participent étroitement au développement de solutions informatiques sur la biodiversité. Leurs rôles et leurs droits doivent être bien définis et pris en compte dans toute solution intégrée."
 
 #. type: delimited block =
 #: 400.en.adoc:20
