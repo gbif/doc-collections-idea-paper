@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 11:36\n"
+"PO-Revision-Date: 2020-04-14 11:50\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -232,7 +232,7 @@ msgstr "自然历史藏品的相关信息有助于绘制研究资源复杂的地
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使用一个全面的*世界自然历史收藏目录*。 每个想法都是作为一个单独的主题提出的，其中包括一系列问题，以引导在线讨论，https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYN5/[_推进全国自然历史馆藏_]。"
+msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使用一个全面的*世界自然历史收藏目录*。 每个想法都是作为一个单独的主题提出的，其中包括一系列问题，以引导在线讨论，https://www.gbif.org/zh/news/6TvOkvpPlxRm5vHxljYN5/[_推进全国自然历史馆藏_]。"
 
 #. type: Plain text
 #: background.en.adoc:10
@@ -710,7 +710,7 @@ msgstr "馆藏编目的主要价值可能表现在可以围绕所管理的信息
 #: 200.en.adoc:70
 #, no-wrap
 msgid "*Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
-msgstr "*Q15* 除了拥有每个馆藏品的清晰并全面的相关公开数据外，我们还想怎样处理目录？ 以下可能提供的服务是候选项，但其他服务也是可能的。 在每一种情况下，该服务将取决于与其他数字储存库建立伙伴关系。（比如 https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])\n"
+msgstr "*Q15* 除了拥有每个馆藏品的清晰并全面的相关公开数据外，我们还想怎样处理目录？ 以下可能提供的服务是候选项，但其他服务也是可能的。 在每一种情况下，该服务将取决于与其他数字储存库建立伙伴关系。（比如 https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/zh/[GBIF], http://www.catalogueoflife.org/[CoL])\n"
 
 #. type: delimited block =
 #: 200.en.adoc:72
@@ -787,7 +787,7 @@ msgstr "发布馆藏记录的路径和工具"
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Existing information on collections is edited and maintained in different ways. IH allows herbaria to provide or edit their records and offers support for herbaria to provide updates via email or other channels. Other communities such as national portals have other pathways for collections to provide or update information. Several tools help data publishers to create EML metadata for publishing data to GBIF and elsewhere. These could evolve to deliver collection records in preferred formats. The https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] could be enhanced to offer collection records as one of the core record types that can be shared. This would allow collections either to publish one or more collection records as a small standalone dataset or collection networks to manage and publish a dataset comprising many collection records. Wikidata could also serve as a tool or platform for editing catalogue information and making it widely accessible and reusable."
-msgstr "现有的馆藏资料以不同方式编辑和保存。 IH允许植物标本室提供或编辑其记录，并支持植物标本室通过电子邮件或其他渠道提供更新材料。 诸如国家门户等其他群体也有提供或更新馆藏信息的其他途径。 有几个工具帮助数据数据发布人创建EML元数据，以便向GBIF和其他地方发布数据。 这些数据可以演变成以首选格式呈现的馆藏记录。link:https://www.gbif.org/ipt[综合发布工具包(IPT)]可以进一步完善，作为可以共享的核心记录类型之一提供馆藏记录。 这样就可以将一个或多个馆藏记录作为一个小型独立数据集或馆藏网络来管理并出版一个包含许多馆藏记录的数据集。 Wikidata也可以作为编辑目录信息并使其能够被广泛获取和重复利用的工具或平台。"
+msgstr "现有的馆藏资料以不同方式编辑和保存。 IH允许植物标本室提供或编辑其记录，并支持植物标本室通过电子邮件或其他渠道提供更新材料。 诸如国家门户等其他群体也有提供或更新馆藏信息的其他途径。 有几个工具帮助数据数据发布人创建EML元数据，以便向GBIF和其他地方发布数据。 这些数据可以演变成以首选格式呈现的馆藏记录。link:https://www.gbif.org/zh/ipt[综合发布工具包(IPT)]可以进一步完善，作为可以共享的核心记录类型之一提供馆藏记录。 这样就可以将一个或多个馆藏记录作为一个小型独立数据集或馆藏网络来管理并出版一个包含许多馆藏记录的数据集。 Wikidata也可以作为编辑目录信息并使其能够被广泛获取和重复利用的工具或平台。"
 
 #. type: delimited block =
 #: 300.en.adoc:12
