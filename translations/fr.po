@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 10:50\n"
+"PO-Revision-Date: 2020-04-14 11:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -359,7 +359,7 @@ msgstr "Utilisations pour le catalogue"
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr "Le https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] a rassemblé des cas d'utilisation pour des données de collection d'histoire naturelle de plusieurs parties prenantes. En outre, les grands projets européens, y compris https://www.icedig.eu/[ICEDIG], se préparent au développement du https://www. issco.eu/[DiSSCo] infrastructure en documentant les cas d'utilisation des collections."
+msgstr "Le https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] a rassemblé des cas d'utilisation pour des données de collection d'histoire naturelle de plusieurs parties prenantes. En outre, les grands projets européens, y compris https://www.icedig.eu/[ICEDIG], se préparent au développement du https://www.dissco.eu/[DiSSCo] infrastructure en documentant les cas d'utilisation des collections."
 
 #. type: Title ===
 #: 100.en.adoc:6
@@ -489,7 +489,7 @@ msgstr "Améliorations de la citation et de la visibilité pour les collections"
 #. type: Plain text
 #: 100.en.adoc:65
 msgid "Research value is primarily measured in terms of visibility and impacts from published literature. Natural history collections are poorly recognised by such measures and their importance as foundational research tools is almost hidden. Users of collections are regularly urged to cite specimens examined and reference the collection. However, citation is often https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[lacking, incomplete or ambiguous]. Research infrastructures such as https://explore.openaire.eu/search/find[OpenAIRE] in Europe increasingly map not only linkages between researchers and publications but also datasets, projects, content providers and organisations. A catalogue could help to standardise citation of collections, making their impact visible through such knowledge graphs. Journals and editorial boards could be encouraged to require standard collection identifiers wherever collections are referenced."
-msgstr "La valeur de la recherche est principalement mesurée en termes de visibilité et d’impact de la littérature publiée. Les collections d'histoire naturelle sont mal reconnues par de telles mesures et leur importance est presque cachée dans le contexte des outils de recherche fondateurs. Les utilisateurs des collections sont régulièrement invités à citer les spécimens examinés et à référencer la collection. Cependant, la citation est souvent https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[manquante, incomplette ou ambiguës]. Des infrastructures de recherche telles que https://explore.openaire. u/search/find[OpenAIRE] en Europe cartographie de plus en plus non seulement les liens entre les chercheurs et les publications, mais aussi les ensembles de données, les projets, les fournisseurs de contenu et les organisations. Un catalogue pourrait aider à normaliser la citation des collections, rendant leur impact visible à travers de tels graphiques de connaissances. Les revues et les comités de rédaction pourraient être encouragés à exiger des identificateurs de collection standard partout où les collections sont référencées."
+msgstr "La valeur de la recherche est principalement mesurée en termes de visibilité et d’impact de la littérature publiée. Les collections d'histoire naturelle sont mal reconnues par de telles mesures et leur importance est presque cachée dans le contexte des outils de recherche fondateurs. Les utilisateurs des collections sont régulièrement invités à citer les spécimens examinés et à référencer la collection. Cependant, la citation est souvent https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[manquante, incomplette ou ambiguës]. Des infrastructures de recherche telles que https://explore.openaire.eu/search/find[OpenAIRE] en Europe cartographie de plus en plus non seulement les liens entre les chercheurs et les publications, mais aussi les ensembles de données, les projets, les fournisseurs de contenu et les organisations. Un catalogue pourrait aider à normaliser la citation des collections, rendant leur impact visible à travers de tels graphiques de connaissances. Les revues et les comités de rédaction pourraient être encouragés à exiger des identificateurs de collection standard partout où les collections sont référencées."
 
 #. type: delimited block =
 #: 100.en.adoc:68
@@ -969,7 +969,7 @@ msgstr "Financement et durabilité"
 #. type: Plain text
 #: 400.en.adoc:49
 msgid "Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories)."
-msgstr "Les besoins en financement dépendront entre autre de l'approche adoptée pour construire le catalogue. Les coûts seront plus élevés si le soutien central nécessaire au maintien du contenu est plus important. Même si le contenu est largement géré gratuitement par la communauté internationale, soutenir une telle infrastructure fiable nécessite des efforts et des investissements à long terme (voir par exemple le https://www. oretrustseal.org/[modèle CoreTrustSeal] pour les dépôts de confiance)."
+msgstr "Les besoins en financement dépendront entre autre de l'approche adoptée pour construire le catalogue. Les coûts seront plus élevés si le soutien central nécessaire au maintien du contenu est plus important. Même si le contenu est largement géré gratuitement par la communauté internationale, soutenir une telle infrastructure fiable nécessite des efforts et des investissements à long terme (voir par exemple le https://www.coretrustseal.org/[modèle CoreTrustSeal] pour les dépôts de confiance)."
 
 #. type: delimited block =
 #: 400.en.adoc:52
