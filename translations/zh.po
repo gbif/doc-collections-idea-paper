@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 16:42\n"
+"PO-Revision-Date: 2020-04-14 16:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -592,7 +592,7 @@ msgstr "大部分馆藏品有一个或多个收藏代码，并且可能在一个
 #: 200.en.adoc:28
 #, no-wrap
 msgid "*Q11*. What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection? What characteristics of identifiers are important for use by machines and humans? Are there benefits in selecting any particular identifier scheme (e.g. https://www.doi.org/[DOIs] or https://ror.org/[ROR] identifiers)? What can be done to promote use of the preferred identifiers?\n"
-msgstr "*Q11*. 哪些标识符方案(IH 收藏码，GRSciColl URIs，等等) 已经存在，并且需要以某种方式进行维护。这些方案是否遵循了对自然历史馆藏的一致定义？ 哪些标识符的特征在机器和人使用时十分重要？ 选择一个特定标识符方案是否更好（例如：https://www.doi.org/[DOIs] 或 https://ror.org/[ROR] identifiers)？可以做些什么来推广使用首选标识符？\n"
+msgstr "*Q11*. 哪些标识符方案(IH 收藏码、GRSciColl URIs等) 已经存在，并且需要以某种方式进行维护。这些方案是否遵循了对自然历史馆藏的一致定义？ 哪些标识符的特征在机器和人使用时十分重要？ 选择一个特定标识符方案是否更好（例如：https://www.doi.org/[DOIs] 或 https://ror.org/[ROR] identifiers)？可以做些什么来推广使用首选标识符？\n"
 
 #. type: Title ===
 #: 200.en.adoc:30
