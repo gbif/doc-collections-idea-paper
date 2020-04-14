@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 08:22\n"
+"PO-Revision-Date: 2020-04-14 08:43\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -907,47 +907,47 @@ msgstr "Les communautés telles que IH, CETAF, ALA, iDigBio, etc., jouent un rô
 #: 400.en.adoc:20
 #, no-wrap
 msgid "*Q22*. What do these communities require to be able to carry out their work efficiently and support their collections? How can an integrated approach enhance their offerings? What risks need to be addressed?\n"
-msgstr ""
+msgstr "*Q22*. Quels sont les besoins de ces communautés pour pouvoir mener à bien leur travail et soutenir leurs collections? Comment une approche intégrée peut-elle améliorer leurs aides ? Quels risques doivent être pris en compte ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:22
 #, no-wrap
 msgid "Technical infrastructures"
-msgstr ""
+msgstr "Infrastructures techniques"
 
 #. type: Plain text
 #: 400.en.adoc:25
 msgid "Biodiversity information infrastructures such as GBIF, DiSSCo, iDigBio and other national and regional platforms are usually funded in the context of broader open science goals for research infrastructures. Their participation can provide an important bridge between the needs of the collection communities and funding and expertise for informatics solutions. Roles and responsibilities must however be well defined to ensure that the needs of researchers and user communities are central. It is important to define clearly how these technical infrastructures can best participate in the overall solution, including demonstrating the benefits required to secure sustained funding for an integrated catalogue and for all the component parts."
-msgstr ""
+msgstr "Les Infrastructures d'information sur la biodiversité telles que GBIF, DiSSCo, iDigBio et d'autres plates-formes nationales et régionales sont généralement financées dans le cadre élargi d'objectifs de science ouverte pour les infrastructures de recherche. Leur participation peut constituer un pont important entre les besoins des communautés de collection, de financement et d'expertise en solutions informatiques. Les rôles et les responsabilités doivent toutefois être bien définis afin d'assurer que les besoins des chercheurs et des communautés d'utilisateurs restent centraux. Il est important de définir clairement comment ces infrastructures techniques peuvent participer au mieux à la solution globale, notamment en démontrant les bénéfices nécessaires pour obtenir un financement durable pour un catalogue intégré et pour toutes les parties qui le constituent."
 
 #. type: delimited block =
 #: 400.en.adoc:28
 #, no-wrap
 msgid "*Q23*. What technical infrastructures need to be engaged as part of the solution? How are their roles and needs best balanced with those of the collections and of their communities?\n"
-msgstr ""
+msgstr "*Q23*. Quelles infrastructures techniques doivent être engagées dans le cadre de la solution? Comment leurs rôles et leurs besoins seront-ils au mieux équilibrés avec ceux des collections et de leurs communautés ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:30
 #, no-wrap
 msgid "Governance arrangements"
-msgstr ""
+msgstr "Dispositions de gouvernance"
 
 #. type: Plain text
 #: 400.en.adoc:33
 msgid "A complex, commons-based solution will depend for its long-term success on a governance model that provides confidence to all parties that their interests are served and protected. The model should find the right balance between ensuring the health of the collaboration and minimising associated overheads in terms of meetings, reporting, etc."
-msgstr ""
+msgstr "Une solution complexe, basée sur les communs, dépendra pour sa réussite à long terme d'un modèle de gouvernance qui garantira à toutes les parties la confiance que leurs intérêts soient bien servis et protégés. Le modèle devrait trouver le juste équilibre entre l'assurance d'une collaboration saine et la minimisation des frais généraux en termes de réunions, de rapports, etc."
 
 #. type: delimited block =
 #: 400.en.adoc:36
 #, no-wrap
 msgid "*Q24*. Are there appropriate models that can be adopted or expanded to support the governance of this catalogue? Can it be managed in the context of an existing organisation or institution?\n"
-msgstr ""
+msgstr "*Q24*. Existe-t-il des modèles appropriés qui peuvent être adoptés ou étendus afin de soutenir la gouvernance du catalogue? Peut-elle être gérée dans le contexte d'une organisation ou d'une institution existante ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:38
 #, no-wrap
 msgid "Incentives for contributors"
-msgstr ""
+msgstr "Incitations pour les contributeurs"
 
 #. type: Plain text
 #: 400.en.adoc:41
