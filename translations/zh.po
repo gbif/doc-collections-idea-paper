@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 15:41\n"
+"PO-Revision-Date: 2020-04-14 16:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -901,7 +901,7 @@ msgstr "实践社区"
 #. type: Plain text
 #: 400.en.adoc:17
 msgid "Communities such as IH, CETAF, ALA, iDigBio, etc. play an important role supporting collections and promoting standards-based practices. In many cases, these communities have a high level of understanding and participate closely in the development of biodiversity informatics solutions. Their roles and rights need to be well defined and supported in any integrated solution."
-msgstr ""
+msgstr "诸如IH, CETAF, ALA, iDigBio等机构或项目在支持馆藏建设和促进基于标准的实践方面发挥了重要的作用。在很多情况下，他们对制定生物多样性信息学方案有较高的理解和深入的参与。在任何集成的解决方案中，都需要明确的界定、支持他们的作用和权力。"
 
 #. type: delimited block =
 #: 400.en.adoc:20
