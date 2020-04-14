@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 08:43\n"
+"PO-Revision-Date: 2020-04-14 08:49\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -810,7 +810,7 @@ msgstr ""
 #: 300.en.adoc:20
 #, no-wrap
 msgid "*Q17*. What catalogues already address the needs of some communities of collections? How can an integrated catalogue support these communities? Which communities require a separately branded identity and/or platform? What is the best way to include these communities as part of an interconnected solution? Is there a role for content to be created and improved by a wider audience (e.g. through Wikidata)?\n"
-msgstr ""
+msgstr "*Q17*. 哪些现有的目录已解决了一些馆藏机构的需求？整合后的目录如何支持这些机构？哪些机构需要一个单独的身份认证或平台？ 将这些机构纳入到一起的最佳途径是什么？对于内容来说，是否有一个方式使之能被更广泛的用户创建和编辑，比如通过维基百科？\n"
 
 #. type: Title ===
 #: 300.en.adoc:22
