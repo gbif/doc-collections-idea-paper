@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 11:50\n"
+"PO-Revision-Date: 2020-04-14 19:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -206,7 +206,7 @@ msgstr "封面图片"
 #. type: Plain text
 #: colophon.en.adoc:52
 msgid "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
-msgstr "Maryland sematophyllum moss (_Sematophyllum marylandicum_), 由W.R. Buck在Ferncliff Natural Area采集, Ohiopyle State Park, Pennsylvania, United States. 照片来自纽约植物园2018年图集 via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
+msgstr "Maryland sematophyllum moss (_Sematophyllum marylandicum_), 由W.R. Buck在Ferncliff Natural Area采集, Ohiopyle State Park, Pennsylvania, United States. 照片来自纽约植物园2018年图集 via https://www.gbif.org/zh/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:53
@@ -232,7 +232,7 @@ msgstr "自然历史藏品的相关信息有助于绘制研究资源复杂的地
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使用一个全面的*世界自然历史收藏目录*。 每个想法都是作为一个单独的主题提出的，其中包括一系列问题，以引导在线讨论，https://www.gbif.org/zh/news/6TvOkvpPlxRm5vHxljYN5/[_推进全国自然历史馆藏_]。"
+msgstr "本文件探讨了改进全球协作的想法，以建立、维护和使用一个全面的*世界自然历史收藏目录*。 每个想法都是作为一个单独的主题提出的，其中包括一系列问题，以引导在线讨论，link:https://www.gbif.org/zh/news/6TvOkvpPlxRm5vHxljYN5/[_推进全国自然历史馆藏_]。"
 
 #. type: Plain text
 #: background.en.adoc:10
@@ -242,7 +242,7 @@ msgstr "过去几十年来，生物多样性信息学领域已经发展起来，
 #. type: Plain text
 #: background.en.adoc:12
 msgid "The focus of biodiversity informatics has largely been on species and other taxa (including their names, diagnostic characters and traits), natural history specimens (including information on their collection in the field, their measurements, images, sequences, etc.), and field observations (including information on occurrence, distribution and abundance surveys, monitoring activities, citizen science, genomics and many other sources). These elements together help to address two fundamental challenges in biology: characterising the set of species with which we share the planet, and understanding the changing distribution, co-occurrence, interactions, and dynamics of these species in space and time."
-msgstr "生物多样性信息学的重点主要是物种和其他分类群（包括其名称、可鉴别特征和特性）， 自然历史标本(包括它们在实地收集的资料、它们的测量结果、图像、序列等) - 实地观察（包括关于发生率、分布和丰度调查、监测活动、citizen science、基因组学和许多其他来源的资料）。 这些因素结合在一起，有助于应对生物学方面的两项基本挑战：了解与我们共生于地球的一系列物种的特点， 并了解这些物种在空间和时间上不断变化的分布、共同发生、相互作用和动态。"
+msgstr "生物多样性信息学的重点主要是物种和其他分类群(包括其名称、可鉴别特征和特性)、自然历史标本(包括在实地收集的资料、测量结果、图像、序列等)、实地观察（包括关于发生率、分布和丰度调查、监测活动、公众科学、基因组学和许多其他来源的资料）。 这些方面结合在一起，有助于应对生物学方面的两项基本挑战：了解与我们共生于地球的一系列物种的特点，并了解这些物种在空间和时间上不断变化的分布、共存、相互作用和动态。"
 
 #. type: Plain text
 #: background.en.adoc:14
@@ -252,12 +252,12 @@ msgstr "生物多样性信息学界也关注支撑这些主要要素的其他各
 #. type: Plain text
 #: background.en.adoc:16
 msgid "These collections are the repository for materials from centuries of international investment to collect, document, study and describe species. Specimens and other materials held in these collections anchor our understanding of evolution and contemporary diversity. They provide the bridge between historical knowledge and continuing efforts to describe life on Earth. Many of their holdings are truly irreplaceable or give otherwise irrecoverable insights into past distributions and ecology. Such insights are important also for modelling environmental futures. Information on the collections themselves is an important tool for accessing, enriching and using them."
-msgstr "这些收藏品是几百年来国际投资收集、记录、研究和描述物种的材料储存库。 这些收藏中的标本和其他材料巩固了我们对演变和当代多样性的理解。 它们构建了历史知识与形容地球上生命的不懈努力之间的桥梁。许多藏品确实是不可替代的，或者对过去的分布和生态提供了以其他方式无法复原的见解。 这种见解对于未来环境的建模也很重要。关于这些藏品本身的信息是获取、enriching和使用这些藏品的重要工具。"
+msgstr "这些馆藏是几百年来全球采集、记录、研究和描述物种的材料储存库。这些馆藏中的标本和其他材料巩固了我们对演变和当代多样性的理解。 它们构建了历史知识与描述地球上生命的不懈努力之间的桥梁。许多馆藏确实是不可替代的，或者对过去的分布和生态提供了其他方式无法实现的认识。 这种认识对于未来环境的建模也很重要。这些馆藏本身的信息是获取、丰富和使之得以使用的重要工具。"
 
 #. type: Plain text
 #: background.en.adoc:17
 msgid "Many established use cases for standardised collection information relate primarily to preserved biological collections. This paper treats these collections as its core focus. However, we hope that the consultation will also explore two other closely related contexts: 1) geological collections (often held and managed by the same institutions as biological collections) and 2) living collections (overlapping significantly with the subject matter and research uses of preserved biological collections). We welcome inputs that address this wider scope."
-msgstr "许多已经确定的使用标准化收集信息的案例主要与保存的生物收藏品有关，本文将这些收藏品作为核心重点。 然而我们希望，这次consultation还将探讨另外两个密切相关的情况：⑴ 地质采集（往往由一样作为生物藏馆的机构进行和管理）和⑵ 活体采集（与主题事项大相径庭，研究如何使用保存的生物收藏品）。 我们欢迎更广范围的见解。"
+msgstr "许多对标准化的馆藏信息的使用案例都与保存的生物馆藏有关，本文将把这些馆藏作为核心重点。 然而我们希望，本次咨询会还可以探讨另外两个密切相关的部分：⑴ 地质馆藏（往往由同样作为生物藏馆的机构进行和管理）；⑵ 活体馆藏（与主题事项大相径庭，研究如何使用保存的生物馆藏）。我们欢迎更广范围的见解。"
 
 #. type: Title ==
 #: how-to.en.adoc:1
@@ -308,7 +308,7 @@ msgstr "您是否希望查看网络研讨会概述范围并为之做准备计划
 #. type: Plain text
 #: how-to.en.adoc:14
 msgid "Recordings are available online on https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] and https://vimeo.com/showcase/6859611[Vimeo]."
-msgstr "录制材料可在网上查阅：https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] 和 https://vimeo.com/showcase/6859611[Vimeo]。"
+msgstr "录制材料可在网上查阅：link:https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] 和 link:https://vimeo.com/showcase/6859611[Vimeo]。"
 
 #. type: Plain text
 #: how-to.en.adoc:15
@@ -534,13 +534,13 @@ msgstr "目录范围和“馆藏”的定义"
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "The scope for the catalogue needs to be defined. The core use case under consideration is the listing and description of collections holding preserved biological specimens, referred to here as \"natural history collections\". The consultation will focus on developing a solution that is robust and effective for natural history collections, but it is valuable to explore needs and opportunities around other types of natural science collection. Some of these may fit readily within the scope of the catalogue. In other cases, work on the catalogue may offer benefits to these other communities. Note in particular: 1) many institutions hold both biological and geological collections and may manage these as a unified whole; 2) DiSSCo includes geological collections within its scope, and other networks such as iDigBio include at least paleontological collections; 3) GRSciColl was established to hold records on any scientific collection; and 4) the TDWG Collection Description standard is extensible for different collection types."
-msgstr "目录的范围需要界定。 正在审议的核心使用案例是保存生物标本的收藏清单和描述，此处称为“自然历史馆藏”。 咨询将侧重于为自然历史馆藏制定一种强有力和有效的实行方案，但此方案也对其他类型的自然科学收藏探索的需求和机会是有价值的。 其中有些可以很容易地纳入目录范围。对于其他情况，编纂目录的工作可能也会给其他领域带来好处。 特别强调：⑴许多同时拥有生物和地质藏品的机构可以统一管理这些藏品。 ⑵ DiSSCo在其范围内拥有地质藏品，iDigBio等其他网络门户至少拥有古生物藏品； ⑶ 为了保存所有科学藏品的记录建立了GRSciColl ；⑷ TDWG的馆藏描述标准可以扩展到不同的收藏类型。"
+msgstr "目录的范围需要界定。 正在审议的核心使用案例是保存生物标本的收藏清单和描述，此处称为“自然历史馆藏”。 咨询将侧重于为自然历史馆藏制定一种强有力和有效的实行方案，但此方案也对其他类型的自然科学收藏探索的需求和机会是有价值的。 其中有些可以很容易地纳入目录范围。对于其他情况，编纂目录的工作可能也会给其他领域带来好处。 特别强调：⑴ 许多同时拥有生物和地质藏品的机构可以统一管理这些藏品。 ⑵ DiSSCo在其范围内拥有地质藏品，iDigBio等其他网络门户至少拥有古生物藏品； ⑶ 为了保存所有科学藏品的记录建立了GRSciColl ；⑷ TDWG的馆藏描述标准可以扩展到不同的收藏类型。"
 
 #. type: delimited block =
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的标准）的定义是什么？ 馆藏如何与机构、数据集和collecting events（eg.expenditions）有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
+msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的标准）的定义是什么？ 馆藏如何与机构、数据集和collecting events (e.g. expeditions) 有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
@@ -592,7 +592,7 @@ msgstr "大部分馆藏品有一个或多个收藏代码，并且可能在一个
 #: 200.en.adoc:28
 #, no-wrap
 msgid "*Q11*. What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection? What characteristics of identifiers are important for use by machines and humans? Are there benefits in selecting any particular identifier scheme (e.g. https://www.doi.org/[DOIs] or https://ror.org/[ROR] identifiers)? What can be done to promote use of the preferred identifiers?\n"
-msgstr "*Q11*. 哪些标识符方案(IH 收藏码，GRSciColl URIs，等等) 已经存在，并且需要以某种方式进行维护。这些方案是否遵循了对自然历史馆藏的一致定义？ 哪些标识符的特征在机器和人使用时十分重要？ 选择一个特定标识符方案是否更好（例如：https://www.doi.org/[DOIs] 或 https://ror.org/[ROR] identifiers)？可以做些什么来推广使用首选标识符？\n"
+msgstr "*Q11*. 哪些标识符方案(IH 收藏码、GRSciColl URIs等) 已经存在，并且需要以某种方式进行维护。这些方案是否遵循了对自然历史馆藏的一致定义？ 哪些标识符的特征在机器和人使用时十分重要？ 选择一个特定标识符方案是否更好（例如：https://www.doi.org/[DOIs] 或 https://ror.org/[ROR] identifiers)？可以做些什么来推广使用首选标识符？\n"
 
 #. type: Title ===
 #: 200.en.adoc:30
@@ -839,7 +839,7 @@ msgstr "馆藏品管理系统"
 #. type: Plain text
 #: 300.en.adoc:33
 msgid "Most natural history collections maintain data on their specimens in a collection management system (CMS) such as https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Some of these tools could develop to interface directly with the collection catalogue, providing up-to-date metadata and metrics."
-msgstr ""
+msgstr "大部分自然历史馆藏品通过馆藏品管理系统 (CMS) 来管理标本信息，比如link:https://www.sustain.specifysoftware.org/about/[Specify]、link:http://symbiota.org/docs/[Symbiota]、link:https://emu.axiell.com/[EMu]、link:https://biss.pensoft.net/article/39054/[DarWIN]或link:https://dps007.plants.ox.ac.uk/bol/[BRAHMS]。其中一些工具可以直接与馆藏名录的接口连接，从而提供实时的元数据和统计信息。"
 
 #. type: delimited block =
 #: 300.en.adoc:36
@@ -873,7 +873,7 @@ msgstr "目录管理"
 #. type: Plain text
 #: 400.en.adoc:5
 msgid "Standards and tools are only one part of the solution. For the catalogue to succeed and provide value, it must be accepted by and deliver value to the stakeholders it represents, in particular the collection-holding institutions and the communities that support collections. It is important to identify the stakeholders that need ownership for each aspect of the collection building and to understand how they can be enabled, empowered, and resources to take on these responsibilities. Mechanisms are also needed to deal with situations in which needs or interests may come into conflict."
-msgstr ""
+msgstr "标准和工具只是解决问题的一部分。要想让名录得以建立并有价值，就必须得到名录所代表的利益攸关方的认可并让他们认识到其价值，尤其是馆藏机构和提供馆藏的群体。对馆藏建设各个方面要拥有所属权的利益攸关方的确定也很重要，要了解怎样才能对其进行推动、授权，并确定承担这些责任需要的资源。此外，还需要建立相关的机制来处理可能产生的需要或者利益冲突。"
 
 #. type: Title ===
 #: 400.en.adoc:6
@@ -884,7 +884,7 @@ msgstr "每个馆藏品的信息所有权"
 #. type: Plain text
 #: 400.en.adoc:9
 msgid "The basic assumption is that each institution should have primary responsibility and control for information on its collections. However, it may be appropriate to delegate full or partial responsibility to thematic, regional or national communities that have data curators able to ensure the quality and standardisation of collection records. In some contexts, where institutions have for any reason not provided authoritative information, or do not have the resources to do so, there may be reason to allow or encourage a wider user base to contribute and improve collection records. In all cases, a version history is required for the information, so that users can understand and respond to changes made by others."
-msgstr ""
+msgstr "基本的假设是，每个机构都对馆藏信息进行管控和承担主要责任。不过，也许应将全部或部分责任委托给有能确保馆藏记录的质量和标准化处理的数据管理员的专题小组、区域或国家代表。在某些情况下，如果机构出于任何原因没有提供权威信息或者没有相应的资源去提供信息，也许可以允许或鼓励更广泛的用户来贡献信、完善记录信息。在所有的情况下，信息都需要一个版本历史，以便用户能够理解和回应他人所作的改动。"
 
 #. type: delimited block =
 #: 400.en.adoc:12
@@ -901,7 +901,7 @@ msgstr "实践社区"
 #. type: Plain text
 #: 400.en.adoc:17
 msgid "Communities such as IH, CETAF, ALA, iDigBio, etc. play an important role supporting collections and promoting standards-based practices. In many cases, these communities have a high level of understanding and participate closely in the development of biodiversity informatics solutions. Their roles and rights need to be well defined and supported in any integrated solution."
-msgstr ""
+msgstr "诸如IH, CETAF, ALA, iDigBio等机构或项目在支持馆藏建设和促进基于标准的实践方面发挥了重要的作用。在很多情况下，他们对制定生物多样性信息学方案有较高的理解和深入的参与。在任何集成的解决方案中，都需要明确的界定、支持他们的作用和权力。"
 
 #. type: delimited block =
 #: 400.en.adoc:20
@@ -918,7 +918,7 @@ msgstr "技术基础设施"
 #. type: Plain text
 #: 400.en.adoc:25
 msgid "Biodiversity information infrastructures such as GBIF, DiSSCo, iDigBio and other national and regional platforms are usually funded in the context of broader open science goals for research infrastructures. Their participation can provide an important bridge between the needs of the collection communities and funding and expertise for informatics solutions. Roles and responsibilities must however be well defined to ensure that the needs of researchers and user communities are central. It is important to define clearly how these technical infrastructures can best participate in the overall solution, including demonstrating the benefits required to secure sustained funding for an integrated catalogue and for all the component parts."
-msgstr ""
+msgstr "如GBIF、DiSSCo, iDigBio这样的生物多样性信息平台和其他的国家/区域平台，通常是在研究基础设施更广泛的开放科学目标范围内提供资金的。 他们的参与可以在收集馆藏机构的需求和信息化解决方案的资金、专门知识之间提供重要的桥梁。 然而，必须明确界定作用和责任，以确保研究人员和用户群体的需要是最重要的。 也必须明确界定这些技术性的基础设施如何能够最好的加入到总体解决方案中，包括展示确保建立综合名录及所有组成部分获得持续供资所需的好处。"
 
 #. type: delimited block =
 #: 400.en.adoc:28
@@ -935,7 +935,7 @@ msgstr "管理安排"
 #. type: Plain text
 #: 400.en.adoc:33
 msgid "A complex, commons-based solution will depend for its long-term success on a governance model that provides confidence to all parties that their interests are served and protected. The model should find the right balance between ensuring the health of the collaboration and minimising associated overheads in terms of meetings, reporting, etc."
-msgstr ""
+msgstr "一个综合的、基于共同利益基础上的解决方案的长期成功取决于一种能够使各方相信其利益得到满足和保护的管理模式。这种模式. The model should find the right balance between ensuring the health of the collaboration and minimising associated overheads in terms of meetings, reporting, etc."
 
 #. type: delimited block =
 #: 400.en.adoc:36
@@ -952,7 +952,7 @@ msgstr "对贡献者的激励"
 #. type: Plain text
 #: 400.en.adoc:41
 msgid "Relatively little effort may be required for each institution to register and manage its own collection records. However, the stability of the system will depend on continued effort from these institutions or from other parties to correct errors and outdated information. There should be clear benefits or incentives encouraging stakeholders to contribute this effort. A key goal should be to ensure that the catalogue contributes usefully for the work of collection managers and taxonomists. Acknowledgement of contributions may also be valuable."
-msgstr ""
+msgstr "对于每个机构来说，可能需要付出相对较少的努力来登记和管理各自的馆藏记录。然而，系统的稳定性将取决于这些机构或其他机构持续的对错误和过时信息的更正。应该有明确的好处或者激励措施来鼓励相关机构为此努力。一个关键的目标是确保名录对馆藏管理员和分类学家的工作有用，承认其贡献也可能是有意义的。"
 
 #. type: delimited block =
 #: 400.en.adoc:44
