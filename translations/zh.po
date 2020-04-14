@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-13 08:56\n"
+"PO-Revision-Date: 2020-04-14 06:19\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -793,7 +793,7 @@ msgstr "现有的馆藏资料以不同方式编辑和保存。 IH允许植物标
 #: 300.en.adoc:12
 #, no-wrap
 msgid "*Q16*. Which existing tools, databases and websites can help to mobilise and maintain collection records? Is it possible to identify additional tools or pathways that need to be developed or supported?\n"
-msgstr ""
+msgstr "*Q16*. 哪些现有工具、数据库和网站能够有助于调动和保持收集记录？ 能否找到需要开发或支持的其他工具或途径？\n"
 
 #. type: Title ===
 #: 300.en.adoc:14
