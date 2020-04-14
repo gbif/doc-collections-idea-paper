@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 08:23\n"
+"PO-Revision-Date: 2020-04-14 08:43\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -890,7 +890,7 @@ msgstr ""
 #: 400.en.adoc:12
 #, no-wrap
 msgid "*Q21*. How should ownership and access control for collection records be managed? How should appropriate editors be recognised and validated? Are there situations where automated or human intervention will be required to resolve disagreements or discrepancies?\n"
-msgstr ""
+msgstr "*Q21*.  如何管理馆藏记录的所有权和控制权？如何确认和验证适当的编辑？是否有需要自动或人为干预来解决分歧或差异的情况?\n"
 
 #. type: Title ===
 #: 400.en.adoc:14
@@ -975,5 +975,5 @@ msgstr ""
 #: 400.en.adoc:52
 #, no-wrap
 msgid "*Q26*. How can the governance and technical aspects be funded? Is external funding likely? What other models may be feasible (contributions from collections, inclusion within the funded mission for GBIF or some other host)?\n"
-msgstr ""
+msgstr "*Q26*.  如何为管理和技术支持提供资金？是否可能找到来自外部的资助？能有什么样的其他可能的模式（从募捐中获得捐款，费用包含在来自GBIF或其他承担机构的项目经费里）？\n"
 
