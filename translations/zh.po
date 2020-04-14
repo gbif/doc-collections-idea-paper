@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 09:46\n"
+"PO-Revision-Date: 2020-04-14 11:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -57,7 +57,7 @@ msgstr "参与者"
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life | International Barcode of Life"
-msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], 生命目录|国际生命编码。"
+msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], 全球生物物种名录|国际生命条形码计划。"
 
 #. type: Plain text
 #: colophon.en.adoc:15
@@ -489,7 +489,7 @@ msgstr "引文和馆藏品的可视度的改进"
 #. type: Plain text
 #: 100.en.adoc:65
 msgid "Research value is primarily measured in terms of visibility and impacts from published literature. Natural history collections are poorly recognised by such measures and their importance as foundational research tools is almost hidden. Users of collections are regularly urged to cite specimens examined and reference the collection. However, citation is often https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[lacking, incomplete or ambiguous]. Research infrastructures such as https://explore.openaire.eu/search/find[OpenAIRE] in Europe increasingly map not only linkages between researchers and publications but also datasets, projects, content providers and organisations. A catalogue could help to standardise citation of collections, making their impact visible through such knowledge graphs. Journals and editorial boards could be encouraged to require standard collection identifiers wherever collections are referenced."
-msgstr "研究价值主要是根据出版物的可见度和影响力来衡量的。 衡量标准自然历史馆藏价值被低估，其作为基本研究工具的重要性几乎被掩盖。 馆藏的使用者经常被要求引用已检查过的标本和参考馆藏。但引证常常是[https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/]缺失、不完整或含糊不清的。 在欧洲诸如OpenAIRE[https://explore.openaire.eu/search/find]之类的研究基础设施不仅越来越多地建立研究人员与出版物之间的联系，还建立数据集、项目、内容提供者和组织机构之间的联系。目录可能有助于馆藏品的引述标准化，并通过这种知识图表显示其影响力可视化。 可以鼓励记者和编辑委员会要求在参考馆藏品时采用标准馆藏标识符。"
+msgstr "研究价值主要是根据出版物的可见度和影响力来衡量的。 衡量标准自然历史馆藏价值被低估，其作为基本研究工具的重要性几乎被掩盖。 馆藏的使用者经常被要求引用已检查过的标本和参考馆藏。但引证常常是link:https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[缺失]、不完整或含糊不清的。 在欧洲诸如link:https://explore.openaire.eu/search/find[OpenAIRE]之类的研究基础设施不仅越来越多地建立研究人员与出版物之间的联系，还建立数据集、项目、内容提供者和组织机构之间的联系。目录可能有助于馆藏品的引述标准化，并通过这种知识图表显示其影响力可视化。 可以鼓励记者和编辑委员会要求在参考馆藏品时采用标准馆藏标识符。"
 
 #. type: delimited block =
 #: 100.en.adoc:68
@@ -534,7 +534,7 @@ msgstr "目录范围和“馆藏”的定义"
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "The scope for the catalogue needs to be defined. The core use case under consideration is the listing and description of collections holding preserved biological specimens, referred to here as \"natural history collections\". The consultation will focus on developing a solution that is robust and effective for natural history collections, but it is valuable to explore needs and opportunities around other types of natural science collection. Some of these may fit readily within the scope of the catalogue. In other cases, work on the catalogue may offer benefits to these other communities. Note in particular: 1) many institutions hold both biological and geological collections and may manage these as a unified whole; 2) DiSSCo includes geological collections within its scope, and other networks such as iDigBio include at least paleontological collections; 3) GRSciColl was established to hold records on any scientific collection; and 4) the TDWG Collection Description standard is extensible for different collection types."
-msgstr "目录的范围需要界定。 正在审议的核心使用案例是保存生物标本的收藏清单和描述，此处称为“自然历史馆藏”。 咨询将侧重于为自然历史馆藏制定一种强有力和有效的实行方案，但此方案也对其他类型的自然科学收藏探索的需求和机会是有价值的。 其中有些可以很容易地纳入目录范围。对于其他情况，编纂目录的工作可能也会给其他领域带来好处。 特别强调：1）许多同时拥有生物和地质藏品的机构可以统一管理这些藏品。 2) DiSSCo在其范围内拥有地质藏品，iDigBio等其他网络门户至少拥有古生物藏品； (3) 为了保存所有科学藏品的记录建立了GRSciColl ；(4) TDWG的馆藏描述标准可以扩展到不同的收藏类型。"
+msgstr "目录的范围需要界定。 正在审议的核心使用案例是保存生物标本的收藏清单和描述，此处称为“自然历史馆藏”。 咨询将侧重于为自然历史馆藏制定一种强有力和有效的实行方案，但此方案也对其他类型的自然科学收藏探索的需求和机会是有价值的。 其中有些可以很容易地纳入目录范围。对于其他情况，编纂目录的工作可能也会给其他领域带来好处。 特别强调：⑴许多同时拥有生物和地质藏品的机构可以统一管理这些藏品。 ⑵ DiSSCo在其范围内拥有地质藏品，iDigBio等其他网络门户至少拥有古生物藏品； ⑶ 为了保存所有科学藏品的记录建立了GRSciColl ；⑷ TDWG的馆藏描述标准可以扩展到不同的收藏类型。"
 
 #. type: delimited block =
 #: 200.en.adoc:12
@@ -720,7 +720,7 @@ msgstr "评估世界馆藏品的数量增长、规模和价值"
 #. type: delimited block =
 #: 200.en.adoc:73
 msgid "Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection digitisation dashboard] to monitor and highlight progress"
-msgstr "提供https://zenodo.org/record/2621055#.Xn1lqIgzabi[馆藏数字化检索列表]来监控和突出显示进展"
+msgstr "提供link:https://zenodo.org/record/2621055#.Xn1lqIgzabi[馆藏数字化检索列表]来监控和突出显示进展"
 
 #. type: delimited block =
 #: 200.en.adoc:74
@@ -787,7 +787,7 @@ msgstr "发布馆藏记录的路径和工具"
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Existing information on collections is edited and maintained in different ways. IH allows herbaria to provide or edit their records and offers support for herbaria to provide updates via email or other channels. Other communities such as national portals have other pathways for collections to provide or update information. Several tools help data publishers to create EML metadata for publishing data to GBIF and elsewhere. These could evolve to deliver collection records in preferred formats. The https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] could be enhanced to offer collection records as one of the core record types that can be shared. This would allow collections either to publish one or more collection records as a small standalone dataset or collection networks to manage and publish a dataset comprising many collection records. Wikidata could also serve as a tool or platform for editing catalogue information and making it widely accessible and reusable."
-msgstr "现有的馆藏资料以不同方式编辑和保存。 IH允许植物标本室提供或编辑其记录，并支持植物标本室通过电子邮件或其他渠道提供更新材料。 诸如国家门户等其他群体也有提供或更新馆藏信息的其他途径。 有几个工具帮助数据数据发布人创建EML元数据，以便向GBIF和其他地方发布数据。 这些数据可以演变成以首选格式呈现的馆藏记录。综合发布工具包(IPT) [ https://www.gbif.org/ipt]可以进一步完善，作为可以共享的核心记录类型之一提供馆藏记录。 这样就可以将一个或多个馆藏记录作为一个小型独立数据集或馆藏网络来管理并出版一个包含许多馆藏记录的数据集。 Wikidata也可以作为编辑目录信息并使其能够被广泛获取和重复利用的工具或平台。"
+msgstr "现有的馆藏资料以不同方式编辑和保存。 IH允许植物标本室提供或编辑其记录，并支持植物标本室通过电子邮件或其他渠道提供更新材料。 诸如国家门户等其他群体也有提供或更新馆藏信息的其他途径。 有几个工具帮助数据数据发布人创建EML元数据，以便向GBIF和其他地方发布数据。 这些数据可以演变成以首选格式呈现的馆藏记录。link:https://www.gbif.org/ipt[综合发布工具包(IPT)]可以进一步完善，作为可以共享的核心记录类型之一提供馆藏记录。 这样就可以将一个或多个馆藏记录作为一个小型独立数据集或馆藏网络来管理并出版一个包含许多馆藏记录的数据集。 Wikidata也可以作为编辑目录信息并使其能够被广泛获取和重复利用的工具或平台。"
 
 #. type: delimited block =
 #: 300.en.adoc:12
@@ -804,7 +804,7 @@ msgstr "群体目录"
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "IH is the best established catalogue servicing a large community of collections, but many other communities are important, including regionally or nationally focused efforts, such as CETAF’s institutional profiles, the web portals of https://www.idigbio.org/portal/collections[iDigBio] and the ALA, and the https://biss.pensoft.net/article/38772/[One World Collection initiative], and thematically aligned efforts, such as the http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections] and the http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. A comprehensive global catalogue should ensure that the needs of these different communities are met and support their continued operation and independence wherever is valued by collections. Understanding these requirements is essential in planning the technical implementation and governance of the catalogue."
-msgstr "IH 是为大量馆藏机构提供服务的最佳名录，但许多以区域或国家为重点的其他平台机构也很重要，比如CETAF的机构简介，https://www.idigbio.org/portal/collections[iDigBio] 和ALA的门户网站，https://biss.pensoft.net/article/38772/[一个全球馆藏协议（One World Collection initiative）]，以及一些专题类别的机构和平台，如 http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections]， http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. 一个综合性的全球名录应该确保满足这些不同群体的需要，并支持它们的独立和相关工作的开展。了解这些要求对于规划名录的技术实施和管理至关重要。"
+msgstr "IH 是为大量馆藏机构提供服务的最佳名录，但许多以区域或国家为重点的其他平台机构也很重要，比如CETAF的机构简介，link:https://www.idigbio.org/portal/collections[iDigBio] 和ALA的门户网站，link:https://biss.pensoft.net/article/38772/[一个全球馆藏协议（One World Collection initiative）]，以及一些专题类别的机构和平台，如link:http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections]，link:http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. 一个综合性的全球名录应该确保满足这些不同群体的需要，并支持它们的独立和相关工作的开展。了解这些要求对于规划名录的技术实施和管理至关重要。"
 
 #. type: delimited block =
 #: 300.en.adoc:20
