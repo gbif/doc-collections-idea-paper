@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 11:50\n"
+"PO-Revision-Date: 2020-04-14 15:10\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -839,7 +839,7 @@ msgstr "馆藏品管理系统"
 #. type: Plain text
 #: 300.en.adoc:33
 msgid "Most natural history collections maintain data on their specimens in a collection management system (CMS) such as https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Some of these tools could develop to interface directly with the collection catalogue, providing up-to-date metadata and metrics."
-msgstr ""
+msgstr "大部分自然历史馆藏品通过馆藏品管理系统 (CMS) 来管理标本信息，比如https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]。其中一些工具可以直接与馆藏名录的接口连接，从而提供实时的元数据和统计信息。"
 
 #. type: delimited block =
 #: 300.en.adoc:36
