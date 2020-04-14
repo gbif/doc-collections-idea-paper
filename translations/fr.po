@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 08:57\n"
+"PO-Revision-Date: 2020-04-14 10:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -227,12 +227,12 @@ msgstr "Ce document explore les besoins et les opportunités liés à l'informat
 #. type: Plain text
 #: background.en.adoc:6
 msgid "Information about natural history collections helps to map the complex landscape of research resources and assists researchers in locating and contacting the holders of specimens. Collection records contribute to the development of a https://doi.org/10.3897/rio.2.e8767[fully interlinked biodiversity knowledge graph], showcasing the existence and importance of museums and herbaria and supplying context to available data on specimens. These records also potentially open new avenues for fresh use of these collections and for accelerating their full availability online."
-msgstr "L'information à propos des collections d'histoire naturelle aide à cartographier le paysage complexe des ressources de recherche et aide les chercheurs à localiser et contacter les détenteurs de spécimens. Les notices de collecte contribuent au développement d'une https://doi.org/10.3897/rio.2. 8767 [graphique de la connaissance de la biodiversité completement interconnecté ], illustrant l’existence et l’importance des musées et des herbiers et fournissant le contexte des données disponibles sur les spécimens. Ces jeux de données peuvent également ouvrir de nouvelles avenues pour une utilisation nouvelle de ces collections et pour accélérer leur disponibilité en ligne."
+msgstr "L'information à propos des collections d'histoire naturelle aide à cartographier le paysage complexe des ressources de recherche et aide les chercheurs à localiser et contacter les détenteurs de spécimens. Les notices de collecte contribuent au développement d'une https://doi.org/10.3897/rio.2.8767[graphique de la connaissance de la biodiversité completement interconnecté], illustrant l’existence et l’importance des musées et des herbiers et fournissant le contexte des données disponibles sur les spécimens. Ces jeux de données peuvent également ouvrir de nouvelles avenues pour une utilisation nouvelle de ces collections et pour accélérer leur disponibilité en ligne."
 
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "Ce document explore des idées pour améliorer une collaboration mondiale en vue de construire, de maintenir et d'utiliser un *catalogue complet des collections d'histoire naturelle du monde*. Chaque idée est présentée comme un sujet distinct avec un ensemble de questions pour guider la discussion au cours de la consultation en ligne, https://www. bif.org/news/6TvOkvpPlxRm5vHxljYN5/[_Progressant le Catalogue des Collections d'Histoire Naturelle du Monde_]."
+msgstr "Ce document explore des idées pour améliorer une collaboration mondiale en vue de construire, de maintenir et d'utiliser un *catalogue complet des collections d'histoire naturelle du monde*. Chaque idée est présentée comme un sujet distinct avec un ensemble de questions pour guider la discussion au cours de la consultation en ligne, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYN5/[_Progressant le Catalogue des Collections d'Histoire Naturelle du Monde_]."
 
 #. type: Plain text
 #: background.en.adoc:10
