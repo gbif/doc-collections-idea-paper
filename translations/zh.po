@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 16:48\n"
+"PO-Revision-Date: 2020-04-14 18:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -206,7 +206,7 @@ msgstr "封面图片"
 #. type: Plain text
 #: colophon.en.adoc:52
 msgid "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
-msgstr "Maryland sematophyllum moss (_Sematophyllum marylandicum_), 由W.R. Buck在Ferncliff Natural Area采集, Ohiopyle State Park, Pennsylvania, United States. 照片来自纽约植物园2018年图集 via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
+msgstr "Maryland sematophyllum moss (_Sematophyllum marylandicum_), 由W.R. Buck在Ferncliff Natural Area采集, Ohiopyle State Park, Pennsylvania, United States. 照片来自纽约植物园2018年图集 via https://www.gbif.org/zh/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:53
@@ -257,7 +257,7 @@ msgstr "这些馆藏是几百年来全球采集、记录、研究和描述物种
 #. type: Plain text
 #: background.en.adoc:17
 msgid "Many established use cases for standardised collection information relate primarily to preserved biological collections. This paper treats these collections as its core focus. However, we hope that the consultation will also explore two other closely related contexts: 1) geological collections (often held and managed by the same institutions as biological collections) and 2) living collections (overlapping significantly with the subject matter and research uses of preserved biological collections). We welcome inputs that address this wider scope."
-msgstr "许多对标准化的馆藏信息的使用案例都与保存的生物馆藏有关，本文将把这些馆藏作为核心重点。 然而我们希望，本次咨询会还可以探讨另外两个密切相关的部分：1）地质馆藏（往往由同样作为生物藏馆的机构进行和管理）；2）活体馆藏（与主题事项大相径庭，研究如何使用保存的生物馆藏）。我们欢迎更广范围的见解。"
+msgstr "许多对标准化的馆藏信息的使用案例都与保存的生物馆藏有关，本文将把这些馆藏作为核心重点。 然而我们希望，本次咨询会还可以探讨另外两个密切相关的部分：⑴ 地质馆藏（往往由同样作为生物藏馆的机构进行和管理）；⑵ 活体馆藏（与主题事项大相径庭，研究如何使用保存的生物馆藏）。我们欢迎更广范围的见解。"
 
 #. type: Title ==
 #: how-to.en.adoc:1
@@ -540,7 +540,7 @@ msgstr "目录的范围需要界定。 正在审议的核心使用案例是保�
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的标准）的定义是什么？ 馆藏如何与机构、数据集和collecting events（eg.expenditions）有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
+msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的标准）的定义是什么？ 馆藏如何与机构、数据集和collecting events (e.g. expenditions) 有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
