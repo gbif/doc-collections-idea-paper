@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-06 13:57\n"
+"PO-Revision-Date: 2020-04-14 11:50\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -232,7 +232,7 @@ msgstr "La información acerca de las colecciones de historia natural ayuda a ma
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "Este documento explora ideas para mejorar la colaboración global para construir, mantener y utilizar un *catálogo de las colecciones de historia natural del mundo* exhaustivo. Cada idea se presenta como un tema separado con un conjunto de preguntas para guiar la discusión dentro de la consulta en línea, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Adelantando el Catálogo de Colecciones de Historia Natural del Mundo_]."
+msgstr "Este documento explora ideas para mejorar la colaboración global para construir, mantener y utilizar un *catálogo de las colecciones de historia natural del mundo* exhaustivo. Cada idea se presenta como un tema separado con un conjunto de preguntas para guiar la discusión dentro de la consulta en línea, https://www.gbif.org/es/news/6TvOkvpPlxRm5vHxljYNN5/[_Adelantando el Catálogo de Colecciones de Historia Natural del Mundo_]."
 
 #. type: Plain text
 #: background.en.adoc:10
@@ -711,7 +711,7 @@ msgstr "El valor principal del catálogo de colecciones podría revelarse en los
 #: 200.en.adoc:70
 #, no-wrap
 msgid "*Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
-msgstr "*P15*. ¿Qué queremos hacer con el catálogo, más allá de disponer de datos interconectados abiertos, claros y exhaustivos sobre cada colección? Los siguientes servicios podrían ser potenciales candidatos, pero otros son posibles. En cada caso, ¿el servicio dependería de una asociación con otros repositorios digitales (e.g., https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
+msgstr "*P15*. ¿Qué queremos hacer con el catálogo, más allá de disponer de datos interconectados abiertos, claros y exhaustivos sobre cada colección? Los siguientes servicios podrían ser potenciales candidatos, pero otros son posibles. En cada caso, ¿el servicio dependería de una asociación con otros repositorios digitales (e.g., https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/es/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
 
 #. type: delimited block =
 #: 200.en.adoc:72
@@ -788,7 +788,7 @@ msgstr "Rutas y herramientas para la publicación de registros de colecciones"
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Existing information on collections is edited and maintained in different ways. IH allows herbaria to provide or edit their records and offers support for herbaria to provide updates via email or other channels. Other communities such as national portals have other pathways for collections to provide or update information. Several tools help data publishers to create EML metadata for publishing data to GBIF and elsewhere. These could evolve to deliver collection records in preferred formats. The https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] could be enhanced to offer collection records as one of the core record types that can be shared. This would allow collections either to publish one or more collection records as a small standalone dataset or collection networks to manage and publish a dataset comprising many collection records. Wikidata could also serve as a tool or platform for editing catalogue information and making it widely accessible and reusable."
-msgstr "La información existente sobre las colecciones es editada y mantenida de diferentes maneras. IH permite que los herbarios proporcionen o editen sus registros y ofrece soporte para que los herbarios proporcionen actualizaciones por correo electrónico u otros canales. Otras comunidades, como los portales nacionales, tienen otras vías para que las colecciones proporcionen o actualicen información. Varias herramientas ayudan a los publicadores de datos a crear metadatos EML para publicar datos en GBIF y en otros lugares. Estas herramientas podrían mejorarse para proporcionar registros de colecciones en formatos preferidos. La https://www.gbif.org/ipt[herramienta de publicación integrada (Integrated Publishing Toolkit, IPT)] podría ser mejorada para ofrecer registros de colecciones como uno de los tipos de registro principales que se pueden compartir. Esto permitiría a las colecciones publicar uno o más registros de colecciones como un pequeño conjunto de datos autónomo y permitiría a redes de colecciones administrar y publicar un conjunto de datos que comprenda muchos registros de colecciones. Wikidata también podría servir como herramienta o plataforma para editar información del catálogo y hacerla ampliamente accesible y reutilizable."
+msgstr "La información existente sobre las colecciones es editada y mantenida de diferentes maneras. IH permite que los herbarios proporcionen o editen sus registros y ofrece soporte para que los herbarios proporcionen actualizaciones por correo electrónico u otros canales. Otras comunidades, como los portales nacionales, tienen otras vías para que las colecciones proporcionen o actualicen información. Varias herramientas ayudan a los publicadores de datos a crear metadatos EML para publicar datos en GBIF y en otros lugares. Estas herramientas podrían mejorarse para proporcionar registros de colecciones en formatos preferidos. La https://www.gbif.org/es/ipt[herramienta de publicación integrada (Integrated Publishing Toolkit, IPT)] podría ser mejorada para ofrecer registros de colecciones como uno de los tipos de registro principales que se pueden compartir. Esto permitiría a las colecciones publicar uno o más registros de colecciones como un pequeño conjunto de datos autónomo y permitiría a redes de colecciones administrar y publicar un conjunto de datos que comprenda muchos registros de colecciones. Wikidata también podría servir como herramienta o plataforma para editar información del catálogo y hacerla ampliamente accesible y reutilizable."
 
 #. type: delimited block =
 #: 300.en.adoc:12
