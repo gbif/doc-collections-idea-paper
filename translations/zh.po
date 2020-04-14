@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 08:49\n"
+"PO-Revision-Date: 2020-04-14 08:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -845,7 +845,7 @@ msgstr ""
 #: 300.en.adoc:36
 #, no-wrap
 msgid "*Q19*. What present or future requirements are there for interfaces directly between CMS platforms and the collection catalogue? Are there special opportunities that should be considered? Could CMS platforms become a source of metadata for institutional collections within a global catalogue?\n"
-msgstr ""
+msgstr "*Q19*.  对CMS平台和馆藏目录之间直接的接口，现在和将来有什么要求？是否有特殊的机会要考虑？在全球名录中，CMS平台能否成为机构馆藏元数据的一个来源？  \n"
 
 #. type: Title ===
 #: 300.en.adoc:38
@@ -856,13 +856,13 @@ msgstr "接口、 API和客户端模块"
 #. type: Plain text
 #: 300.en.adoc:41
 msgid "The value of a shared commons-based resource can be maximised by ensuring that interfaces and APIs support the needs of all key stakeholder groups, including addressing issues around content delivery to the fullest extent possible in multiple languages. Some needs may be addressed by offering reusable client components that can be embedded in other applications."
-msgstr ""
+msgstr "通过确保接口和API支持所有关键利益攸关方群体的需要，可以最大限度地提高共同资源的价值。 包括以多种语言来尽可能充分地解决内容相关的问题。 某些需要可以通过提供可重复使用的嵌入其他应用程序的客户端组件来解决。"
 
 #. type: delimited block =
 #: 300.en.adoc:44
 #, no-wrap
 msgid "*Q20*. What interfaces and APIs are required to maximise access to the collection catalogue? How can the catalogue best support diverse user communities, including speakers of different languages?\n"
-msgstr ""
+msgstr "*Q20*. 需要什么样的接口和API才能最大限度的访问馆藏名录？名录如何才能更好的支持不同的用户群体，包括不同语言的群体？\n"
 
 #. type: Title ==
 #: 400.en.adoc:2
