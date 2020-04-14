@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-06 13:57\n"
+"PO-Revision-Date: 2020-04-14 08:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Advancing the Catalogue of the World's Natural History Collections"
-msgstr "Progressant le Catalogue des Collections d'Histoire Naturelle du Monde"
+msgstr "Faire Avancer le Catalogue des Collections d’Histoire Naturelle du Monde"
 
 #. type: Plain text
 #: index.en.adoc:27
@@ -118,7 +118,7 @@ msgstr "Licence"
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "The document _Advancing the Catalogue of the World's Natural History Collections_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr "Le document _Progressant le Catalogue des Collections d'Histoire Naturelle du Monde_ est licencié sous https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
+msgstr "Le document _Faire Avancer le Catalogue des Collections d’Histoire Naturelle du Monde_ est licencié sous https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:29
@@ -145,7 +145,7 @@ msgstr "v2.0, mars 2020"
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid "Updated from v1.0, published on 25 February 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Advancing the Catalogue of the World's Natural History Collections. v1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-wnsx-ep77"
-msgstr "Mis à jour de la v1.0, publié le 25 février 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Progressant le Catalogue des Collections d'Histoire Naturelle du Monde. v1.0. Copenhague: Secrétariat du GBIF. https://doi.org/10.15468/doc-wnsx-ep77"
+msgstr "Mis à jour de la v1.0, publié le 25 février 2020: Hobern D, Asase A, Groom Q, Paul D, Robertson T, Semal P, Thiers B & Woodburn M (2020) Faire Avancer le Catalogue des Collections d’Histoire Naturelle du Monde. v1.0. Copenhague: Secrétariat du GBIF. https://doi.org/10.15468/doc-wnsx-ep77"
 
 #. type: Plain text
 #: colophon.en.adoc:38
@@ -170,7 +170,7 @@ msgstr "Améliorations de la citation et de la visibilité pour les collections 
 #. type: Plain text
 #: colophon.en.adoc:43
 msgid "Support for national and regional needs and applications - Q9"
-msgstr "Soutien pour les besoins et les applications national et regional - Q9"
+msgstr "Prise en charge des besoins et applications nationaux et régionaux - Q9"
 
 #. type: Plain text
 #: colophon.en.adoc:44
@@ -237,743 +237,743 @@ msgstr "Ce document explore des idées pour améliorer une collaboration mondial
 #. type: Plain text
 #: background.en.adoc:10
 msgid "Over the last few decades, the field of biodiversity informatics has developed to include researchers and informaticians from all over the world, collaborating to bring together knowledge of the world’s species and ecosystems in a readily usable form."
-msgstr ""
+msgstr "Au cours des dernières décennies, le domaine de l'informatique de la biodiversité s'est développé pour inclure des chercheurs et des informaticiens du monde entier. qui collaborent pour rassembler les connaissances sur les espèces et les écosystèmes de la planète sous une forme facilement utilisable."
 
 #. type: Plain text
 #: background.en.adoc:12
 msgid "The focus of biodiversity informatics has largely been on species and other taxa (including their names, diagnostic characters and traits), natural history specimens (including information on their collection in the field, their measurements, images, sequences, etc.), and field observations (including information on occurrence, distribution and abundance surveys, monitoring activities, citizen science, genomics and many other sources). These elements together help to address two fundamental challenges in biology: characterising the set of species with which we share the planet, and understanding the changing distribution, co-occurrence, interactions, and dynamics of these species in space and time."
-msgstr ""
+msgstr "L'informatique de la biodiversité a principalement porté sur les espèces et autres taxons (y compris leurs noms, leurs caractères de diagnostic et leurs caractéristiques), spécimens d'histoire naturelle (y compris les données sur leur collection sur le terrain, leurs mesures, images, séquences, etc.), et les observations sur le terrain (y compris les données sur les incidents, la distribution et l'abondance, les activités de suivi, la science citoyenne, la génomique et de nombreuses autres sources). Ces éléments contribuent ensemble à relever deux défis fondamentaux de la biologie: caractériser l'ensemble des espèces avec lesquelles nous partageons la planète, et la compréhension de la distribution, de la co-occurrence, des interactions et de la dynamique de ces espèces dans l'espace et dans le temps."
 
 #. type: Plain text
 #: background.en.adoc:14
 msgid "The biodiversity informatics community has also given attention to other categories of information that support these primary elements, especially through efforts to digitise the vast literature on taxonomy and biodiversity and work to develop a comprehensive catalogue of the world’s natural history collections, including museums, herbaria and a range of specialised collections."
-msgstr ""
+msgstr "La communauté d'informatique de la biodiversité a également prêté attention à d'autres catégories d'information qui soutiennent ces éléments primaires, en particulier par le biais de la numérisation de la vaste littérature sur la taxonomie et la biodiversité et de travailler à l'élaboration d'un catalogue complet des collections d'histoire naturelle du monde, y compris des musées, des herbariums et une gamme de collections spécialisées."
 
 #. type: Plain text
 #: background.en.adoc:16
 msgid "These collections are the repository for materials from centuries of international investment to collect, document, study and describe species. Specimens and other materials held in these collections anchor our understanding of evolution and contemporary diversity. They provide the bridge between historical knowledge and continuing efforts to describe life on Earth. Many of their holdings are truly irreplaceable or give otherwise irrecoverable insights into past distributions and ecology. Such insights are important also for modelling environmental futures. Information on the collections themselves is an important tool for accessing, enriching and using them."
-msgstr ""
+msgstr "Ces collections sont le dépôt de matériaux provenant de siècles d’investissements internationaux pour collecter, documenter, étudier et décrire les espèces. Les spécimens et autres matériaux contenus dans ces collections ancrent notre compréhension de l’évolution et de la diversité contemporaine. Ils constituent le pont entre les connaissances historiques et les efforts continus pour décrire la vie sur Terre. Plusieurs de ces dépôts sont irremplaçables ou donnent par ailleurs un aperçu irrécupérable des distributions et des écologies passées. Ces informations sont également importantes pour la modélisation des futurs environnementaux. L'information sur les collections elles-mêmes est un outil important pour y accéder, les enrichir et les utiliser."
 
 #. type: Plain text
 #: background.en.adoc:17
 msgid "Many established use cases for standardised collection information relate primarily to preserved biological collections. This paper treats these collections as its core focus. However, we hope that the consultation will also explore two other closely related contexts: 1) geological collections (often held and managed by the same institutions as biological collections) and 2) living collections (overlapping significantly with the subject matter and research uses of preserved biological collections). We welcome inputs that address this wider scope."
-msgstr ""
+msgstr "Plusieurs cas d'utilisation établis pour des informations normalisées de collecte se rapportent principalement à des collections biologiques préservées. Cependant, nous espérons que la consultation explorera également deux autres contextes étroitement liés : 1) les collections géologiques (souvent détenues et gérées par les mêmes institutions que les collections biologiques) et 2) les collections vivantes (se chevauchant de façon significative avec les matières et les utilisations de recherche des collections biologiques préservées). Nous saluons les contributions qui abordent ce champ d'application plus large."
 
 #. type: Title ==
 #: how-to.en.adoc:1
 #, no-wrap
 msgid "How to respond to this Ideas Paper"
-msgstr ""
+msgstr "Comment répondre à ce Note Conceptuelle"
 
 #. type: Plain text
 #: how-to.en.adoc:4
 msgid "Read the sections below and contribute to developing a roadmap for collaborative activity to build the catalogue."
-msgstr ""
+msgstr "Lisez les sections ci-dessous et contribuez à l'élaboration d'une feuille de route pour la création du catalogue."
 
 #. type: Plain text
 #: how-to.en.adoc:6
 msgid "We welcome contributions as follows:"
-msgstr ""
+msgstr "Nous saluons les contributions de la manière suivante :"
 
 #. type: Plain text
 #: how-to.en.adoc:8
 msgid "Do you represent a *stakeholder, project, database, tool, standard or community* that addresses some aspect of the topics outlined here, or do you have ideas for novel approaches to mobilise or use information on collections?"
-msgstr ""
+msgstr "Représentez-vous une *partie prenante, un projet, une base de données, un outil, une norme ou une communauté* qui aborde certains aspects des sujets décrits ici, ou avez-vous des idées de nouvelles approches pour mobiliser ou utiliser les données sur les collections?"
 
 #. type: Plain text
 #: how-to.en.adoc:9
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] by 3 April 2020 to contribute significant ideas or examples that will add value to the online discussions."
-msgstr ""
+msgstr "Veuillez contacter mailto:dhobern@gbif.org[Donald Hobern] avant le 3 avril 2020 pour apporter des idées ou des exemples significatifs qui ajouteront de la valeur aux discussions en ligne."
 
 #. type: Plain text
 #: how-to.en.adoc:10
 msgid "We welcome short documents or slide presentations that can be shared on the consultation website."
-msgstr ""
+msgstr "Nous accueillons les documents courts ou les diapositives qui peuvent être partagés sur le site Web de consultation."
 
 #. type: Plain text
 #: how-to.en.adoc:11
 msgid "If presentations are unlikely to be clear without further explanation, please modify the slides or consider supplying the presentation as a pre-recorded video with audio commentary."
-msgstr ""
+msgstr "Si les présentations ne sont pas claires sans plus d'explications, veuillez modifier les diapositives ou envisager de fournir la présentation comme une vidéo pré-enregistrée avec un commentaire audio."
 
 #. type: Plain text
 #: how-to.en.adoc:12
 msgid "Please keep all materials brief and focused, so that a reader or viewer could assimilate the ideas within fifteen minutes or (ideally) less."
-msgstr ""
+msgstr "Veillez à ce que tous les documents soient concis, afin qu'un lecteur ou un spectateur puisse assimiler les idées dans les quinze minutes ou (idéalement) moins."
 
 #. type: Plain text
 #: how-to.en.adoc:13
 msgid "Would you like to *review the preparatory webinars* outlining the scope and plan for the consultation?"
-msgstr ""
+msgstr "Aimeriez-vous *consulter les webinaires préparatoires* qui décrivent la portée et planifier la consultation ?"
 
 #. type: Plain text
 #: how-to.en.adoc:14
 msgid "Recordings are available online on https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] and https://vimeo.com/showcase/6859611[Vimeo]."
-msgstr ""
+msgstr "Les enregistrements sont disponibles en ligne sur https://youtube.com/playlist?list=PLy6tIKN_kHB8CxNdY_x1jmmuZx4UDZ6NB[YouTube] et https://vimeo.com/showcase/6859611[Vimeo]."
 
 #. type: Plain text
 #: how-to.en.adoc:15
 msgid "Would you like to *contribute to the online discussions* for the consultation?"
-msgstr ""
+msgstr "Vous aimeriez *contribuer aux discussions en ligne* pour la consultation?"
 
 #. type: Plain text
 #: how-to.en.adoc:16
 msgid "Please register to join the consultation community on the GBIF Discourse site."
-msgstr ""
+msgstr "Veuillez vous inscrire pour rejoindre la communauté de consultation sur le site du GBIF Discours."
 
 #. type: Plain text
 #: how-to.en.adoc:17
 msgid "Discussions will take place between 17 and 29 April 2020."
-msgstr ""
+msgstr "Les discussions se déroulera entre le 17 et le 29 avril 2020."
 
 #. type: Plain text
 #: how-to.en.adoc:18
 msgid "We will keep you informed as more information is added to the site and ensure that you receive regular updates during the consultation"
-msgstr ""
+msgstr "Nous vous tiendrons informé quand plus d'informations sont ajoutées au site et nous vous assurerons de recevoir des mises à jour régulières lors de la consultation"
 
 #. type: Plain text
 #: how-to.en.adoc:19
 msgid "Will you be able to expand the relevance of the consultation by *translating short summary updates* into languages other than English?"
-msgstr ""
+msgstr "Serez-vous en mesure d'élargir la pertinence de la consultation en *traduisant des mises à jour sommaires courtes* dans des langues autres que l'anglais?"
 
 #. type: Plain text
 #: how-to.en.adoc:20
 msgid "We expect to circulate regular short summaries (a few paragraphs every day or two) to all participants during the main consultation period to keep the discussion focused, summarise agreement, and highlight new ideas and questions."
-msgstr ""
+msgstr "Nous prévoyons de faire circuler régulièrement de courts résumés (quelques paragraphes chaque jour ou deux) à tous les participants durant la période de consultation principale afin de garder la discussion centrée, résumer l'accord et mettre en évidence de nouvelles idées et questions."
 
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "We welcome assistance in translating these into languages that will make it easier for all participants to follow the discussions and know how to contribute."
-msgstr ""
+msgstr "Nous sommes heureux de recevoir tout assistance pour leurs traduction dans des langues qui permettront à tous les participants de suivre plus facilement les discussions et de savoir comment contribuer."
 
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] if you are interested in helping."
-msgstr ""
+msgstr "Veuillez contacter mailto:dhobern@gbif.org[Donald Hobern] si vous êtes intéressé à aider."
 
 #. type: Title ==
 #: 100.en.adoc:2
 #, no-wrap
 msgid "Uses for the catalogue"
-msgstr ""
+msgstr "Utilisations pour le catalogue"
 
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr ""
+msgstr "Le https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] a rassemblé des cas d'utilisation pour des données de collection d'histoire naturelle de plusieurs parties prenantes. En outre, les grands projets européens, y compris https://www.icedig.eu/[ICEDIG], se préparent au développement du https://www. issco.eu/[DiSSCo] infrastructure en documentant les cas d'utilisation des collections."
 
 #. type: Title ===
 #: 100.en.adoc:6
 #, no-wrap
 msgid "A directory to support the collections community"
-msgstr ""
+msgstr "Un annuaire pour soutenir la communauté des collections"
 
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Collections staff and taxonomists collaborate as a truly global community. Valuable specimens are distributed between institutions in all parts of the world. Researchers visit these collections or borrow specimens as part of their work. Index Herbariorum (IH) is the directory of information on the world’s herbaria (addresses, contacts, specialties, size, etc.). It is a well-managed resource and highly regarded as a tool by the botanical community. No full equivalent exists globally for other natural history collections, although national/regional infrastructures such as the ALA collections pages, the iDigBio US Collections List, and the CETAF profiles serve similar roles. GBIF has recently integrated the Global Registry of Scientific Collections (GRSciColl) into its registry as a framework that can be extended with richer information curated by collections communities."
-msgstr ""
+msgstr "Le personnel des collections et les taxonomistes collaborent en tant que communauté véritablement mondiale. De précieux spécimens sont distribués entre institutions dans toutes les parties du monde. Les chercheurs visitent ces collections ou empruntent des spécimens dans le cadre de leurs travaux. L'Index Herbariorum (IH) est le répertoire des informations sur l'herbarie du monde (adresses, contacts, spécialités, dimensions, etc.). Il s’agit d’une ressource bien gérée et hautement considérée comme un outil par la communauté botanique. Il n'existe pas d'équivalent complet pour les autres collections d'histoire naturelle, bien que les infrastructures nationales/régionales telles que les pages des collections de l'ALA, la liste iDigBio US Collections et les profils CETAF remplissent des rôles similaires. Le GBIF a récemment intégré le Registre Mondial des Collections Scientifiques (GRSciColl) dans son registre en tant que cadre pouvant être étendu avec des données plus riches organisées par les communautés de collections."
 
 #. type: delimited block =
 #: 100.en.adoc:12
 #, no-wrap
 msgid "*Q1*. Would the collections community benefit from a comprehensive directory of all natural history collections? Who would make use of such a directory? (The focus here is on the catalogue as a directory of known institutions and information required to contact them.)\n"
-msgstr ""
+msgstr "*Q1*. La communauté des collections bénéficierait-elle d'un répertoire complet de toutes les collections d'histoire naturelle ? Qui pourrait utiliser un tel annuaire ? (L'accent est mis sur le catalogue en tant que répertoire des institutions connues et des informations nécessaires pour les contacter.)\n"
 
 #. type: Title ===
 #: 100.en.adoc:14
 #, no-wrap
 msgid "Locating specimens and genetic materials"
-msgstr ""
+msgstr "Localisation de spécimens et de matériaux génétiques"
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Taxonomic studies and other research projects normally depend on researchers (or their contacts) knowing which institutions hold relevant specimens or other materials. This is complicated by the history of expeditions and collecting activities. Specimens have been scattered across all continents. Only a small proportion of these specimens have been databased in forms that can be accessed through GBIF or other portals. A catalogue providing at least summary information on taxonomic and geographic scope for each collection could assist researchers in locating relevant materials."
-msgstr ""
+msgstr "Les études taxinomiques et les autres projets de recherche dépendent généralement des chercheurs (ou de leurs contacts) qui savent quelles institutions possèdent des spécimens pertinents ou d'autres matériaux. Ce qui est compliqué par l'histoire des expéditions et des activités de collecte. Les spécimens ont été dispersés sur tous les continents. Seule une faible proportion de ces spécimens ont été placés sous forme de formulaires accessibles via le GBIF ou d'autres portails. Un catalogue fournissant au moins des renseignements sommaires sur la portée taxonomique et géographique de chaque collection pourrait aider les chercheurs à localiser les matériaux pertinents."
 
 #. type: delimited block =
 #: 100.en.adoc:20
 #, no-wrap
 msgid "*Q2*. Would summary information on every collection’s materials be a useful tool? Who would use this information? What is the minimum level of information (and what is ideal) to support these users?\n"
-msgstr ""
+msgstr "*Q2*. Les informations sommaires sur les matériaux de chaque collection seraient-elles un outil utile ? Qui utiliserait ces informations ? Quel est le niveau minimum d'informations (et quel est l'idéal) pour soutenir ces utilisateurs ?\n"
 
 #. type: Title ===
 #: 100.en.adoc:22
 #, no-wrap
 msgid "A first step towards databasing collections"
-msgstr ""
+msgstr "Un premier pas vers la base de données des collections"
 
 #. type: Plain text
 #: 100.en.adoc:25
 msgid "The information needed to build the catalogue of collections closely matches the metadata required to publish a specimen dataset to GBIF and other portals. A record that describes a collection could be treated as a minimal first step, perhaps leading through processes such as Join The Dots and onwards to comprehensive digitisation. A comprehensive catalogue of such records could guide efforts to prioritise further digitisation, by highlighting collections with holdings of particular relevance or by assisting the development of collaborative digitisation networks like the ADBC Thematic Collection Networks."
-msgstr ""
+msgstr "Les informations nécessaires pour construire le catalogue des collections correspondent de près aux métadonnées requises pour publier un jeu de données de spécimens sur le GBIF et d'autres portails. Un enregistrement qui décrit une collection peut être considéré comme une première étape minimale, peut-être par le biais de processus tels que 'Join The Dots' et continuer à la numérisation complète. Un catalogue complet de ces enregistrements pourrait guider les efforts pour donner la priorité à la numérisation, en mettant en évidence les collections avec des fonds d'une importance particulière ou en aidant le développement de réseaux de numérisation collaborative tels que les réseaux de collections thématiques ADBC."
 
 #. type: delimited block =
 #: 100.en.adoc:28
 #, no-wrap
 msgid "*Q3*. Can publishing a collection record to a catalogue assist collections in moving towards full digitisation? What incentives or support do collections need to make this a worthwhile step?\n"
-msgstr ""
+msgstr "*Q3* La publication d'un dossier de collection dans un catalogue peut-elle aider les collections à se diriger vers la numérisation complète ? Quels sont les incitants ou le soutien dont les collections ont besoin pour en faire une étape digne d'intérêt ?\n"
 
 #. type: Title ===
 #: 100.en.adoc:30
 #, no-wrap
 msgid "Assessing the scale and value of collections"
-msgstr ""
+msgstr "Évaluation de la portée et de la valeur des collections"
 
 #. type: Plain text
 #: 100.en.adoc:33
 msgid "Estimates of the number of specimens held by collections run into billions, but no definitive number exists. A catalogue could help to narrow these estimates and to assess the economic value of these irreplaceable holdings. This information may help to justify the scale of effort and funding needed to digitise collections and make their data accessible for universal, reliable and persistent use."
-msgstr ""
+msgstr "Les estimations du nombre de spécimens détenus par les collections s'élèvent à des milliards, mais aucun nombre définitif n'existe. Un catalogue pourrait aider à réduire ces estimations et à évaluer la valeur économique de ces dépôts irremplaçables. Ces informations peuvent aider à justifier l'ampleur des efforts et du financement nécessaires pour la numérisation des collections et rendre leurs données accessibles pour une utilisation universelle, fiable et persistante."
 
 #. type: delimited block =
 #: 100.en.adoc:36
 #, no-wrap
 msgid "*Q4*. Would more accurate estimates of the scale and value of collections be useful? How might these be used and by whom?\n"
-msgstr ""
+msgstr "*Q4*. Des estimations plus précises de la portée et de la valeur des collections seraient-elles utiles ? Comment pourraient-elles être utilisées et par qui ?\n"
 
 #. type: Title ===
 #: 100.en.adoc:38
 #, no-wrap
 msgid "Increased value for data on specimens, taxonomic publications, etc."
-msgstr ""
+msgstr "Augmentation de la valeur des données sur les spécimens, publications taxonomiques, etc."
 
 #. type: Plain text
 #: 100.en.adoc:41
 msgid "Accurate information on any collection can be used as a reference or as linked data associated with specimen records and other data objects. Users of specimen records need contextual information about the collection that holds the specimen, for example to communicate with collection managers about individual specimens, to offer corrections to specimen data, or simply to determine whether the collection is likely to hold quantities of similar specimens. It may be inefficient to embed all of this information within the specimen record. Holding a single authoritative copy assists with keeping the collection information current. The collection record may also contain information on taxonomic or geographic scope or other aspects that can resolve potential ambiguities within a specimen record. Links to current collection records will also enhance taxonomic publications referencing their materials. This is particularly important because catalogue numbers and other specimen identifiers used in publications may not link to digitised information on the specimens. Linking to the collection simplifies future access and may enable digital links to be inferred in future."
-msgstr ""
+msgstr "Des informations précises dans toute les collection peuvent être utilisées comme référence ou comme données liées associées à des enregistrements de spécimens et à d'autres objets de données. Les utilisateurs d'enregistrements de spécimens ont besoin d'informations contextuelles sur la collection qui contient le spécimen, par exemple pour communiquer avec les gestionnaires de collection à propos des spécimens individuels, pour apporter des corrections aux données des spécimens ou simplement pour déterminer si la collection est susceptible de contenir des quantités de spécimens similaires. Il peut être inefficace d'intégrer toutes ces informations dans l'enregistrements du spécimen. La détention d'une seule copie faisant autorité aide à maintenir l'information recueillie à jour. Les enregistrements de collection peuvent également contenir des renseignements sur la portée taxonomique ou géographique ou d'autres aspects qui peuvent résoudre les ambiguïtés potentielles dans un enregistrements de spécimen. Les liens vers les enregistrements de collection actuels amélioreront également les publications taxonomique faisant référence à leurs matériaux. Ceci est particulièrement important parce que les numéros de catalogue et autres identifiants de spécimens utilisés dans les publications peuvent ne pas être liés à des informations numérisées sur les spécimens. La connexion à la collection simplifie l'accès futur et peut permettre à l'avenir de déduire des liens numériques."
 
 #. type: delimited block =
 #: 100.en.adoc:44
 #, no-wrap
 msgid "*Q5*. How could a comprehensive collections catalogue contribute to improvements to other categories of biodiversity data? What requirements would these improvements place on the catalogue?\n"
-msgstr ""
+msgstr "*Q5* Comment un catalogue de collections complet pourrait-il contribuer à améliorer des autres catégories de données sur la biodiversité ? Quelles conditions ces améliorations mettraient-elles sur le catalogue ?\n"
 
 #. type: Title ===
 #: 100.en.adoc:46
 #, no-wrap
 msgid "Reducing duplication of effort"
-msgstr ""
+msgstr "Réduction de la duplication des efforts"
 
 #. type: Plain text
 #: 100.en.adoc:49
 msgid "Although no complete catalogue of collections exists, the need for such information leads to such data repeatedly being published in different formats for different portals, project documentation, metadata for other data, etc. This duplication results in confusion as outdated information remains on the web. Mechanisms that always link to a single continuously updated version (and a version history) would address these issues."
-msgstr ""
+msgstr "Bien qu’aucun catalogue complet de collections n’existe, le besoin de telles informations conduit à ce que de telles données soient publiées de manière répétée dans différents formats pour différents portails, documentation du projet, métadonnées pour d'autres données, etc. Cette duplication est source de confusion, car des informations obsolètes restent sur le Web. Les mécanismes qui se lient toujours à une seule version continuellement mise à jour (et à une histoire de versions) résoudront ces problèmes."
 
 #. type: delimited block =
 #: 100.en.adoc:52
 #, no-wrap
 msgid "*Q6*. Can we identify savings in time and costs that would arise from a well-managed shared catalogue of collections?\n"
-msgstr ""
+msgstr "*Q6*. Pouvons-nous identifier les économies de temps et de coûts qui résulteraient d'un catalogue de collections partagé bien géré ?\n"
 
 #. type: Title ===
 #: 100.en.adoc:54
 #, no-wrap
 msgid "Foundation for new and enriched services"
-msgstr ""
+msgstr "Fondation pour des services nouveaux et enrichis"
 
 #. type: Plain text
 #: 100.en.adoc:57
 msgid "A comprehensive directory could serve as a foundation for new tools that enhance taxonomic efforts and cooperation between all collection holders. One example might be the development of distributed loans systems or on-demand digitisation, as planned for the DiSSCo European Loans and Visits System (ELViS). A catalogue could also serve as a showcase for institutions to highlight their holdings and unique features, as in the visual concept shared by GBIF for collection pages. GBIF tracking and reporting on the use of biodiversity data in research publications could feed into new services that provide standard metrics and help collections to measure and report their impact."
-msgstr ""
+msgstr "Un annuaire complet pourrait servir de base à de nouveaux outils qui renforcent les efforts taxonomiques et la coopération entre tous les détenteurs de collection. Un exemple pourrait être le développement de systèmes de prêts distribués ou de la numérisation à la demande, tel que prévu pour le système de prêts et de visites européens de DiSSCo (ELViS). Un catalogue pourrait également servir de vitrine aux institutions pour mettre en valeur leurs propriétés et leurs caractéristiques uniques, comme dans le concept visuel partagé par le GBIF pour les pages de collection. Le suivi et les rapports du GBIF sur l’utilisation des données sur la biodiversité dans les publications de recherche pourraient alimenter de nouveaux services fournissant des paramètres standards et aider les collections à mesurer et à rendre compte de leur impact."
 
 #. type: delimited block =
 #: 100.en.adoc:60
 #, no-wrap
 msgid "*Q7*. What other services could be developed on the foundations of a collection catalogue? Would these attract investment to fund the development and support the maintenance of the catalogue?\n"
-msgstr ""
+msgstr "*Q7* Quels autres services pourraient être développés sur les fondations d'un catalogue de collections ? Celles-ci attireraient-elles des investissements pour financer le développement et soutenir la maintenance du catalogue?\n"
 
 #. type: Title ===
 #: 100.en.adoc:62
 #, no-wrap
 msgid "Improvements to citation and visibility for collections"
-msgstr ""
+msgstr "Améliorations de la citation et de la visibilité pour les collections"
 
 #. type: Plain text
 #: 100.en.adoc:65
 msgid "Research value is primarily measured in terms of visibility and impacts from published literature. Natural history collections are poorly recognised by such measures and their importance as foundational research tools is almost hidden. Users of collections are regularly urged to cite specimens examined and reference the collection. However, citation is often https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[lacking, incomplete or ambiguous]. Research infrastructures such as https://explore.openaire.eu/search/find[OpenAIRE] in Europe increasingly map not only linkages between researchers and publications but also datasets, projects, content providers and organisations. A catalogue could help to standardise citation of collections, making their impact visible through such knowledge graphs. Journals and editorial boards could be encouraged to require standard collection identifiers wherever collections are referenced."
-msgstr ""
+msgstr "La valeur de la recherche est principalement mesurée en termes de visibilité et d’impact de la littérature publiée. Les collections d'histoire naturelle sont mal reconnues par de telles mesures et leur importance est presque cachée dans le contexte des outils de recherche fondateurs. Les utilisateurs des collections sont régulièrement invités à citer les spécimens examinés et à référencer la collection. Cependant, la citation est souvent https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[manquante, incomplette ou ambiguës]. Des infrastructures de recherche telles que https://explore.openaire. u/search/find[OpenAIRE] en Europe cartographie de plus en plus non seulement les liens entre les chercheurs et les publications, mais aussi les ensembles de données, les projets, les fournisseurs de contenu et les organisations. Un catalogue pourrait aider à normaliser la citation des collections, rendant leur impact visible à travers de tels graphiques de connaissances. Les revues et les comités de rédaction pourraient être encouragés à exiger des identificateurs de collection standard partout où les collections sont référencées."
 
 #. type: delimited block =
 #: 100.en.adoc:68
 #, no-wrap
 msgid "*Q8*. How might a comprehensive catalogue promote citation and attribution for collections? What can be done to encourage wide standardised use of identifiers from the catalogue?\n"
-msgstr ""
+msgstr "*Q8* Comment un catalogue complet pourrait-il promouvoir la citation et l'attribution des collections ? Que peut-on faire pour encourager une large utilisation standardisée des identifiants du catalogue ?\n"
 
 #. type: Title ===
 #: 100.en.adoc:70
 #, no-wrap
 msgid "Support for national and regional needs and applications"
-msgstr ""
+msgstr "Prise en charge des besoins et applications nationaux et régionaux"
 
 #. type: Plain text
 #: 100.en.adoc:73
 msgid "Although this consultation aims to encourage the development of standardised information for all collections globally, each country or region may have needs or uses for this same information to in local applications and services. It is important to identify a range of these needs and to make sure they are addressed as part of a collaborative solution. An inclusive approach will bring incentives to work together to make information on each catalogue as complete, current and accurate as possible. Requirements are relatively well understood from Europe (e.g. DiSSCo) and the United States (e.g. iDigBio), but other regions may have subtly or significantly different needs."
-msgstr ""
+msgstr "Bien que cette consultation vise à encourager le développement d'informations standardisées pour toutes les collections à l'échelle mondiale, chaque pays ou région peut avoir des besoins ou des utilisations pour cette même information dans les applications et les services locaux. Il est important d'identifier une envergure de ces besoins et de s'assurer qu'ils sont traités dans le cadre d'une solution collaborative. Une approche inclusive incitera à travailler ensemble pour rendre l'information sur chaque catalogue aussi complète, actuelle et exacte que possible. Les exigences sont relativement bien comprises de la part de l'Europe (par exemple DiSSCo) et des États-Unis (par exemple iDigBio), mais d'autres régions peuvent avoir des besoins subtilement ou sensiblement différents."
 
 #. type: delimited block =
 #: 100.en.adoc:76
 #, no-wrap
 msgid "*Q9*. What national and regional needs or possible uses should be considered? Do national portals or specialist networks require information not currently addressed by data standards for collection metadata? Are there significant regional research infrastructures or public websites that include (or should include) information on local collections? Are there regionally important uses that are not addressed elsewhere in this document?\n"
-msgstr ""
+msgstr "*Q9* Quels sont les besoins ou utilisations possibles au niveau national et régional ? Les portails nationaux ou les réseaux spécialisés nécessitent-ils des informations qui ne sont pas couvertes par les normes actuelles de métadonnées de collection? Existe-t-il des infrastructures de recherche régionales ou des sites Web publics importants qui incluent (ou devraient inclure) des informations sur les collections locales? Y a-t-il des utilisations régionales importantes qui ne soient pas adressées ailleurs dans ce document ?\n"
 
 #. type: Title ==
 #: 200.en.adoc:2
 #, no-wrap
 msgid "Information in the catalogue"
-msgstr ""
+msgstr "Informations dans le catalogue"
 
 #. type: Plain text
 #: 200.en.adoc:5
 msgid "We need to develop a shared vision for the content that the catalogue should hold and how it interlinks with other information products."
-msgstr ""
+msgstr "Nous devons développer une vision partagée du contenu du catalogue et de la manière dont il sera lié à d'autres produits d'information."
 
 #. type: Title ===
 #: 200.en.adoc:6
 #, no-wrap
 msgid "Scope for the catalogue and definition of “collection”"
-msgstr ""
+msgstr "Portée du catalogue et définition d'une « collection »"
 
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "The scope for the catalogue needs to be defined. The core use case under consideration is the listing and description of collections holding preserved biological specimens, referred to here as \"natural history collections\". The consultation will focus on developing a solution that is robust and effective for natural history collections, but it is valuable to explore needs and opportunities around other types of natural science collection. Some of these may fit readily within the scope of the catalogue. In other cases, work on the catalogue may offer benefits to these other communities. Note in particular: 1) many institutions hold both biological and geological collections and may manage these as a unified whole; 2) DiSSCo includes geological collections within its scope, and other networks such as iDigBio include at least paleontological collections; 3) GRSciColl was established to hold records on any scientific collection; and 4) the TDWG Collection Description standard is extensible for different collection types."
-msgstr ""
+msgstr "La portée du catalogue doit être définie. L' usage principal envisagé est la liste et la description des collections contenant des spécimens biologiques conservés, dénommés ici \"collections d'histoire naturelle\". La consultation se concentrera sur le développement d'une solution solide et efficace pour les collections d'histoire naturelle, mais il sera précieux d'explorer les besoins et les opportunités d'autres types de collections de sciences naturelles. Certaines d'entre elles peuvent s'intégrer facilement dans le champ d'application du catalogue. Dans d'autres cas, le travail sur le catalogue pourra être bénéfique à ces autres communautés. Notez en particulier que: 1) de nombreuses institutions détiennent des collections biologiques et géologiques et peuvent les gérer comme une entitité unifiée ; 2) DiSSCo inclut les collections géologiques dans son champ d'application et d'autres réseaux tels que iDigBio incluent à tout le moins des collections paléontologiques ; 3) GRSciColl a été créé un registre de toutes les collections scientifiques; et 4) la norme 'Collection Description' du TDWG est extensible à différents types de collections."
 
 #. type: delimited block =
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr ""
+msgstr "*Q10*. Quelle est la définition pour nos objectifs (critères minimaux et suffisants) d'une collection d'histoire naturelle? Comment les collections sont-elles liées et diffèrent des 1) institutions, 2) jeux de données et 3) événements de collecte (e. g. expéditions) ? Les catégories suivantes doivent-elles être incluses ? Sinon, y a-t-il des liens importants ou des opportunités dont on devrait encore tenir compte?\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
 msgid "Geological and paleontological collections"
-msgstr ""
+msgstr "Collections géologiques et paléontologiques"
 
 #. type: delimited block =
 #: 200.en.adoc:15
 msgid "Anthropological collections"
-msgstr ""
+msgstr "Collections anthropologiques"
 
 #. type: delimited block =
 #: 200.en.adoc:16
 msgid "Ethnobotanical collections"
-msgstr ""
+msgstr "Collections ethnobotaniques"
 
 #. type: delimited block =
 #: 200.en.adoc:17
 msgid "Wood collections (xylaria)"
-msgstr ""
+msgstr "Collections de bois (xylaria)"
 
 #. type: delimited block =
 #: 200.en.adoc:18
 msgid "Tissue banks, DNA repositories and slide collections"
-msgstr ""
+msgstr "Banques de tissus, dépôts d'ADN et collections de plaquettes"
 
 #. type: delimited block =
 #: 200.en.adoc:19
 msgid "Living collections (microbial collections, zoos, aquaria, botanic gardens, seed banks)"
-msgstr ""
+msgstr "Collections vivantes (collections microbiennes, zoos, aquarias, jardins botaniques, banques de semences)"
 
 #. type: delimited block =
 #: 200.en.adoc:20
 msgid "Personal collections"
-msgstr ""
+msgstr "Collections personnelles"
 
 #. type: Title ===
 #: 200.en.adoc:22
 #, no-wrap
 msgid "Identifiers for collections"
-msgstr ""
+msgstr "Identifiants pour les collections"
 
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "Most collections are already identified by one or more collection codes and may have existing web identifiers (URLs, DOIs, etc.) in one or more databases. The catalogue may reuse one or other of these identifiers or may help to support a standardised scheme. GRSciColl exists to assist with standardisation of collection codes and machine-readable identifiers, but several other efforts are also in place. Unique identifiers for each collection will be important to maximise cross-linkage of information and standardise citation, but other existing identifiers should ideally resolve to the same information and be recognised as synonyms for the preferred identifiers."
-msgstr ""
+msgstr "La plupart des collections sont déjà identifiées par un ou plusieurs codes de collection et peuvent avoir déjà des identifiants web (URLs, DOIs, etc.) dans une ou plusieurs bases de données. Le catalogue pourrait réutiliser l'un ou l'autre de ces identifiants ou aider à supporter un schéma normalisé. GRSciColl est là pour aider à la normalisation des codes de collection et des identifiants lisibles par machines, mais plusieurs autres efforts sont également en place. Les identifiants uniques pour chaque collection seront importants afin de maximiser les liens croisés entre information et référence standardisée, mais d'autres identifiants existants devraient idéalement conduire à la même information et être reconnus comme des synonymes de ces identifiants préférés."
 
 #. type: delimited block =
 #: 200.en.adoc:28
 #, no-wrap
 msgid "*Q11*. What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection? What characteristics of identifiers are important for use by machines and humans? Are there benefits in selecting any particular identifier scheme (e.g. https://www.doi.org/[DOIs] or https://ror.org/[ROR] identifiers)? What can be done to promote use of the preferred identifiers?\n"
-msgstr ""
+msgstr "*Q11*. Quels schémas d'identification (IH collection codes, GRSciColl URIs, etc.) existent déjà et devraient être maintenus sous une forme ou une autre ? Ces systèmes suivent-ils une définition cohérente de collection d'histoire naturelle ? Quelles sont les caractéristiques des identifiants qui sont importantes pour l'utilisation par les machines et les humains? Y a-t-il des avantages à choisir un système d'identification particulier (e.g. https://www.doi.org/[DOIs] ou https://ror.org/[ROR]) ? Que peut-on faire pour promouvoir l'utilisation de ces identifiants préférés ?\n"
 
 #. type: Title ===
 #: 200.en.adoc:30
 #, no-wrap
 msgid "Hierarchical collection structures and subcollections"
-msgstr ""
+msgstr "Hiérarchie des structures de collections et sous-collections - Q"
 
 #. type: Plain text
 #: 200.en.adoc:33
 msgid "Within IH, each herbarium record usually corresponds to an institution with its own unique collection code, street address, etc. Within zoology, museums are often structured as a set of collections with differing and possibly hierarchical taxonomic scope. Specimens collected on famous expeditions or by significant researchers may have their own identity and appear as special collections. As a result, curators and researchers may wish to refer to different (potentially overlapping) sets of specimens as separate collections with their own names, identifiers and descriptions."
-msgstr ""
+msgstr "Au sein de l'IH, chaque herbarium correspond généralement à une institution avec son propre code de collection, son adresse postale, etc. Au sein de la zoologie, les musées sont souvent structurés en collections de groupes taxonomiques différents, voire hiérarchisées. Les spécimens récoltés lors des expéditions célèbres ou par des chercheurs importants peuvent avoir leur propre identité et apparaître comme des collections spéciales. Par conséquent, les conservateurs et les chercheurs peuvent vouloir désigner des ensembles de spécimens différents (potentiellement superposés) comme des collections séparées avec leurs propres noms, identifiants et descriptions."
 
 #. type: delimited block =
 #: 200.en.adoc:36
 #, no-wrap
 msgid "*Q12*. Should the catalogue support hierarchical relationships between collections (and collection records)? If so, how do parent-child relationships work, and do we infer information from parent to child or vice versa? \n"
-msgstr ""
+msgstr "*Q12*. Le catalogue doit-il supporter les relations hiérarchiques entre collections (et enregistrements de collection)? Dans l'affirmative, comment les relations parent-enfant pourraient fonctionner et pouvons-nous inférer les informations du parent à l'enfant ou vice versa? \n"
 
 #. type: Title ===
 #: 200.en.adoc:38
 #, no-wrap
 msgid "Description of a collection"
-msgstr ""
+msgstr "Description d'une collection"
 
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
-msgstr ""
+msgstr "Le https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] est en train de développer le https://github. om/tdwg/cd[standard CD pour les descriptions de collection] (dérivé du standard TDWG Natural Collections Description (NCD)). Les réseaux existants et les systèmes institutionnels utilisent une variété de formats différents ou de variantes de normes de métadonnées pour leurs enregistrements de collection, par lequel l'interopérabilité entre ces ressources (et de ce fait l'agrégation des données) est limitée. Pour surmonter cette barrière, il faut de la clarté autour de facteurs tels que les normes et les vocabulaires préférés, les champs obligatoires et la compatibilité entre les informations sous différents formats."
 
 #. type: delimited block =
 #: 200.en.adoc:44
 #, no-wrap
 msgid "*Q13*. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?\n"
-msgstr ""
+msgstr "*Q13*. Quelles informations descriptives devraient être considérées comme obligatoires ou souhaitables pour chaque collection ? Est-ce que le TDWG CD couvre tout ce qui est nécessaire? Sinon, quelles améliorations seraient nécessaires ? Combien de ces informations doivent être normalisées pour un traitement automatique (plutôt que juste pour les lecteurs humains)?\n"
 
 #. type: Title ===
 #: 200.en.adoc:46
 #, no-wrap
 msgid "Wider data linkages"
-msgstr ""
+msgstr "Liens de données plus étendus"
 
 #. type: Plain text
 #: 200.en.adoc:48
 msgid "Information in the collection catalogue may be linked to a wide range of other biodiversity information (specimens, sequences, datasets, images, publications, etc.) to support information access and exploration."
-msgstr ""
+msgstr "Les informations du catalogue de collection peuvent être liées à un large éventail d’autres informations de biodiversité (spécimens, séquences, jeux de données, images, publications, etc.). pour supporter l'accès et l'exploration de l'information."
 
 #. type: delimited block =
 #: 200.en.adoc:51
 #, no-wrap
 msgid "*Q14*. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:\n"
-msgstr ""
+msgstr "*Q14*. Quelles informations devraient être liées aux enregistrements de collection ? Nous devrions nous concentrer sur l'établissement de liens qui justifieront réellement les coûts de création et de maintien de ceux-ci. Ceux qui suivent semble être de bons candidats, mais d'autres sont possibles. Dans chaque cas, nous devrions déterminer si le lien doit être bidirectionnel :\n"
 
 #. type: delimited block =
 #: 200.en.adoc:53
 msgid "Specimens held by a collection"
-msgstr ""
+msgstr "Spécimens détenus par une collection"
 
 #. type: delimited block =
 #: 200.en.adoc:54
 msgid "Type specimens held by a collection"
-msgstr ""
+msgstr "Spécimens types détenus par une collection"
 
 #. type: delimited block =
 #: 200.en.adoc:55
 msgid "Species/taxa represented in a collection (with/without specimen counts)"
-msgstr ""
+msgstr "Espèces/taxons représentés dans une collection (avec/sans nombre de spécimens)"
 
 #. type: delimited block =
 #: 200.en.adoc:56
 msgid "Sequences, images and other preparations from the collection (but these may be better treated as information about specimens rather than about the collection)"
-msgstr ""
+msgstr "Séquences, images et autres préparations de la collection (mais celles-ci sont sans doute mieux traitées comme informations sur les spécimens plutôt que sur la collection)"
 
 #. type: delimited block =
 #: 200.en.adoc:57
 msgid "Datasets (checklists, occurrences, sampling events) associated with the collection"
-msgstr ""
+msgstr "Jeux de données (listes d'espèces, occurrences, événements d'échantillonnage) associés à la collection"
 
 #. type: delimited block =
 #: 200.en.adoc:58
 msgid "Collecting expeditions carried out by or contributing to the collection (modeled as sampling events?)"
-msgstr ""
+msgstr "Expéditions de collecte réalisées par ou contribuant à la collection (modélisées comme des événements d'échantillonnage ?)"
 
 #. type: delimited block =
 #: 200.en.adoc:59
 msgid "Collectors associated with a collection"
-msgstr ""
+msgstr "Collecteurs associés à une collection"
 
 #. type: delimited block =
 #: 200.en.adoc:60
 msgid "Publications based on materials from the collection"
-msgstr ""
+msgstr "Publications basées sur le matériel de la collection"
 
 #. type: delimited block =
 #: 200.en.adoc:61
 msgid "Researchers/staff associated with the collection"
-msgstr ""
+msgstr "Chercheurs/staff associés à la collection"
 
 #. type: delimited block =
 #: 200.en.adoc:62
 msgid "Field notebooks"
-msgstr ""
+msgstr "Carnets de notes de terrain"
 
 #. type: Title ===
 #: 200.en.adoc:64
 #, no-wrap
 msgid "Information services relating to collections"
-msgstr ""
+msgstr "Services d'information liés aux collections"
 
 #. type: Plain text
 #: 200.en.adoc:67
 msgid "The main value from the collection catalogue may appear in the information services that can be offered around the information managed. Considering these services may help to clarify the content requirements."
-msgstr ""
+msgstr "La valeur principale du catalogue de collection peut apparaître dans les services d'information qui peuvent être offerts autour de l'information gérée. La prise en considération de ces services peut aider à clarifier les exigences en matière de contenu."
 
 #. type: delimited block =
 #: 200.en.adoc:70
 #, no-wrap
 msgid "*Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
-msgstr ""
+msgstr "*Q15*. Que voulons-nous faire du catalogue, au-delà d'avoir des données ouvertes propres et complètes sur chaque collection? Les services potentiels suivants sont susceptibles d'être candidats, mais d'autres sont possibles. Dans chaque cas, le service dépendrait-il d'un partenariat avec d'autres référentiels numériques (par exemple https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
 
 #. type: delimited block =
 #: 200.en.adoc:72
 msgid "Assess the growth, scale and value of the world's collections"
-msgstr ""
+msgstr "Évaluer la croissance, l'étendue et la valeur des collections mondiales"
 
 #. type: delimited block =
 #: 200.en.adoc:73
 msgid "Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection digitisation dashboard] to monitor and highlight progress"
-msgstr ""
+msgstr "Alimenter un https://zenodo.org/record/2621055#.Xn1lqIgzabi[tableau de bord de numérisation des collections] afin de surveiller et mettre en évidence les progrès"
 
 #. type: delimited block =
 #: 200.en.adoc:74
 msgid "Discover the location of biological materials or the likely presence of biological materials for any taxon"
-msgstr ""
+msgstr "Découvrir l'emplacement des matériaux biologiques ou la présence probable de matériaux biologiques pour n'importe quel taxon"
 
 #. type: delimited block =
 #: 200.en.adoc:75
 msgid "Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised"
-msgstr ""
+msgstr "Développer des services de découverte afin d'accéder à l'information sur les spécimens types ou communiquer avec la collection appropriée lorsque le spécimen n'est pas numérisé"
 
 #. type: delimited block =
 #: 200.en.adoc:76
 msgid "Identify sections of collections that should be digitised to answer specific questions"
-msgstr ""
+msgstr "Identifier les sections de collections qui doivent être numérisées pour répondre à des questions spécifiques"
 
 #. type: delimited block =
 #: 200.en.adoc:77
 msgid "Match gap analysis of published specimen data against the collection catalogue to prioritise digitisation for filling taxonomic, geographic, or other gaps."
-msgstr ""
+msgstr "Analyser les écarts entre des données de spécimens publiés et le catalogue de collection afin d'orienter la numérisation qui comblera au mieux les lacunes taxonomiques, géographiques ou autres."
 
 #. type: delimited block =
 #: 200.en.adoc:78
 msgid "Discover holdings that make a particular collection unique, and therefore of even higher value"
-msgstr ""
+msgstr "Découvrir les avoirs qui rendent une collection particulière unique, et en augmente ainsi la valeur"
 
 #. type: delimited block =
 #: 200.en.adoc:79
 msgid "Develop and fund collaborative digitisation programmes focused on understanding of the holdings of the network as a whole"
-msgstr ""
+msgstr "Développer et financer des programmes de numérisation collaborative axés sur la compréhension globale des avoirs du réseau"
 
 #. type: delimited block =
 #: 200.en.adoc:80
 msgid "Develop cross-institutional loan systems and taxonomic workbenches"
-msgstr ""
+msgstr "Développer des systèmes interinstitutionnels de prêts et d'ateliers taxinomiques"
 
 #. type: delimited block =
 #: 200.en.adoc:81
 msgid "Develop citation models for collections and track their impact"
-msgstr ""
+msgstr "Développer des modèles de citation pour les collections et suivre leur impact"
 
 #. type: delimited block =
 #: 200.en.adoc:82
 msgid "Perform risk assessment of the health or stability of a collection"
-msgstr ""
+msgstr "Effectuer une évaluation des risques sur la santé ou la stabilité d'une collection"
 
 #. type: Title ==
 #: 300.en.adoc:2
 #, no-wrap
 msgid "Technology for the catalogue"
-msgstr ""
+msgstr "Technologie pour le catalogue"
 
 #. type: Plain text
 #: 300.en.adoc:5
 msgid "A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl CETAF Collections Registry and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed."
-msgstr ""
+msgstr "Un large éventail d'outils différents sont déjà utilisés dans le cadre des métadonnées de collection, la gestion partielle de catalogues tels que IH, GRSciColl, le Registre des collections du CETAF et les pages de collections nationales. Celles-ci varient en termes de capacités techniques et de pérénité. Certaines sont bien soutenues par les communautés existantes et pourraient faire partie d'une solution interconnectée. Le but de cette consultation est de déterminer quels composants, suffisamment mûrs et stables, peuvent contribuer à une telle solution et de déterminer quels autres composants devraient encore être développés."
 
 #. type: Title ===
 #: 300.en.adoc:6
 #, no-wrap
 msgid "Pathways and tools for publishing collection records"
-msgstr ""
+msgstr "Chemins et outils pour la publication des enregistrements de collection"
 
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Existing information on collections is edited and maintained in different ways. IH allows herbaria to provide or edit their records and offers support for herbaria to provide updates via email or other channels. Other communities such as national portals have other pathways for collections to provide or update information. Several tools help data publishers to create EML metadata for publishing data to GBIF and elsewhere. These could evolve to deliver collection records in preferred formats. The https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] could be enhanced to offer collection records as one of the core record types that can be shared. This would allow collections either to publish one or more collection records as a small standalone dataset or collection networks to manage and publish a dataset comprising many collection records. Wikidata could also serve as a tool or platform for editing catalogue information and making it widely accessible and reusable."
-msgstr ""
+msgstr "Les informations existantes sur les collections sont éditées et maintenues de différentes manières. IH permet aux herbiers de fournir ou de modifier leurs enregistrements et offre un support aux herbiers leurs mises à jour par e-mail ou par d'autres canaux. D'autres communautés, comme les portails nationaux, offrent d'autres moyens aux collections pour fournir ou mettre à jour leurs informations. Plusieurs outils aident les éditeurs de données à créer des métadonnées EML pour la publication de données sur le GBIF ou ailleurs. Ceux-ci pourraient évoluer vers des enregistrements de collection dans des formats préférés. L' https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] pourrait être amélioré pour offrir l'enregistrement de collection comme l'un des types d'enregistrements principaux qui peuvent être partagés. Cela permettrait aux collections de publier un ou plusieurs enregistrements de collection comme un petit jeu de données indépendant ou de réseaux de collections pour gérer et publier un jeu de données comprenant de nombreux enregistrements de collection. Wikidata pourrait également servir d'outil ou de plate-forme pour éditer des informations du catalogue et le rendre largement accessible et réutilisable."
 
 #. type: delimited block =
 #: 300.en.adoc:12
 #, no-wrap
 msgid "*Q16*. Which existing tools, databases and websites can help to mobilise and maintain collection records? Is it possible to identify additional tools or pathways that need to be developed or supported?\n"
-msgstr ""
+msgstr "*Q16*. Quels outils, bases de données et sites Web existants peuvent aider à mobiliser et à maintenir les informations de collection ? Est-il possible d'identifier des outils ou des chemins supplémentaires qui devraient être développés ou supportés ?\n"
 
 #. type: Title ===
 #: 300.en.adoc:14
 #, no-wrap
 msgid "Community catalogues"
-msgstr ""
+msgstr "Catalogues communautaires"
 
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "IH is the best established catalogue servicing a large community of collections, but many other communities are important, including regionally or nationally focused efforts, such as CETAF’s institutional profiles, the web portals of https://www.idigbio.org/portal/collections[iDigBio] and the ALA, and the https://biss.pensoft.net/article/38772/[One World Collection initiative], and thematically aligned efforts, such as the http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections] and the http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. A comprehensive global catalogue should ensure that the needs of these different communities are met and support their continued operation and independence wherever is valued by collections. Understanding these requirements is essential in planning the technical implementation and governance of the catalogue."
-msgstr ""
+msgstr "IH est le catalogue le mieux établi et dessert une grande communauté de collections, mais beaucoup d'autres communautés sont importantes, comme les efforts ciblés au niveau régional ou national, tels que les profils institutionnels du CETAF, les portails web d' https://www. digbio.org/portal/collections[iDigBio] et d'ALA, et l' https://biss.pensoft.net/article/38772/[Initiative pour une seule collection mondiale], et les efforts alignés thèmatiques, comme le http://www.wfcc.info/ccinfo/index. hp/home/content[Répertoire mondial des collections culturelles] et le portail du http://www.ggbn.org/ggbn_portal/members/index[Réseau mondial de la biodiversité du génome]. Un catalogue global complet devrait s'assurer que les besoins de ces différentes communautés sont satisfaits et soutenir leur fonctionnement continu et leur indépendance partout où elles sont utiles aux collections. Comprendre ces exigences est essentiel à la planification de la mise en œuvre technique et à la gouvernance du catalogue."
 
 #. type: delimited block =
 #: 300.en.adoc:20
 #, no-wrap
 msgid "*Q17*. What catalogues already address the needs of some communities of collections? How can an integrated catalogue support these communities? Which communities require a separately branded identity and/or platform? What is the best way to include these communities as part of an interconnected solution? Is there a role for content to be created and improved by a wider audience (e.g. through Wikidata)?\n"
-msgstr ""
+msgstr "*Q17*. Quels catalogues répondent déjà aux besoins de certaines communautés de collections? Comment un catalogue intégré pourrait-il soutenir ces communautés ? Quelles communautés ont besoin d'une identité et/ou d'une plateforme propre? Quelle est la meilleure façon d'inclure ces communautés dans une solution interconnectée? Est-il opportun que le contenu soit créé et amélioré par un public plus large (e. g. via Wikidata)?\n"
 
 #. type: Title ===
 #: 300.en.adoc:22
 #, no-wrap
 msgid "Integrated catalogue"
-msgstr ""
+msgstr "Catalogue intégré"
 
 #. type: Plain text
 #: 300.en.adoc:25
 #, no-wrap
 msgid "GBIF has the mission to provide global-scale support for biodiversity informatics solutions and has expanded its Registry to host the data historically maintained as GRSciColl. GRSciColl content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   \n"
-msgstr ""
+msgstr "Le GBIF a pour mission de fournir un soutien à l'échelle mondiale aux solutions informatiques de la biodiversité et a élargi son Registre afin d' héberger les données historiquement maintenues dans GRSciColl. Le contenu de GRSciColl est incomplet et doit être considéré comme un cadre à l'expansion vers des métadonnées de collection plus riches qui représentent correctement les besoins et les intérêts des collections. Le GBIF peut servir de contexte à l’intégration et à la déduplication des informations de collection à partir de différentes sources et à l’interconnexion de ces informations avec d’autres données sur la biodiversité. Le GBIF a besoin de conseils sur la meilleure façon de répondre aux besoins et à la gestion de l'identité des collections et de leurs communautés, au fur et à mesure qu’il développe de tels services.   \n"
 
 #. type: delimited block =
 #: 300.en.adoc:28
 #, no-wrap
 msgid "*Q18*. Are there issues with GBIF providing hosting and support for the global catalogue through its Registry? What is required to ensure that this meets the needs of collections and is fully adopted and owned by the collections community? What challenges need to be addressed to minimise duplication of content and effort within an integrated catalogue?\n"
-msgstr ""
+msgstr "*Q18*. Y a-t-il des problèmes si GBIF fournit l'hébergement et le support du catalogue mondial au travers de son Registre ? De quoi faut-il s'assurer pour que cela réponde aux besoins des collections et soit complètement adopté et endossé par la communauté des collections? Quels défis faut-il relever pour minimiser tant la duplication du contenu que les efforts au travers d'un catalogue intégré?\n"
 
 #. type: Title ===
 #: 300.en.adoc:30
 #, no-wrap
 msgid "Collection management systems"
-msgstr ""
+msgstr "Systèmes de gestion de collection"
 
 #. type: Plain text
 #: 300.en.adoc:33
 msgid "Most natural history collections maintain data on their specimens in a collection management system (CMS) such as https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell.com/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] or https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Some of these tools could develop to interface directly with the collection catalogue, providing up-to-date metadata and metrics."
-msgstr ""
+msgstr "La plupart des collections d'histoire naturelle conservent des données sur leurs spécimens dans un système de gestion de collections (CMS) tel que https://www.sustain.specifysoftware.org/about/[Specify], http://symbiota.org/docs/[Symbiota], https://emu.axiell. om/[EMu], https://biss.pensoft.net/article/39054/[DarWIN] ou https://dps007.plants.ox.ac.uk/bol/[BRAHMS]. Certains de ces outils pourraient s'enrichir d'une interface directe avec le catalogue de collection, fournissant ainsi des métadonnées et des statistiques constamment à jour."
 
 #. type: delimited block =
 #: 300.en.adoc:36
 #, no-wrap
 msgid "*Q19*. What present or future requirements are there for interfaces directly between CMS platforms and the collection catalogue? Are there special opportunities that should be considered? Could CMS platforms become a source of metadata for institutional collections within a global catalogue?\n"
-msgstr ""
+msgstr "*Q19*. Quelles sont les exigences présentes ou futures pour les interfaces directes entre les plates-formes CMS et le catalogue de collections ? Y a-t-il des opportunités spéciales qui devraient être envisagées ? Les plateformes CMS pourraient-elles devenir une source de métadonnées pour les collections institutionnelles dans un catalogue mondial ?\n"
 
 #. type: Title ===
 #: 300.en.adoc:38
 #, no-wrap
 msgid "Interfaces, APIs and client modules"
-msgstr ""
+msgstr "Interfaces, APIs et modules client"
 
 #. type: Plain text
 #: 300.en.adoc:41
 msgid "The value of a shared commons-based resource can be maximised by ensuring that interfaces and APIs support the needs of all key stakeholder groups, including addressing issues around content delivery to the fullest extent possible in multiple languages. Some needs may be addressed by offering reusable client components that can be embedded in other applications."
-msgstr ""
+msgstr "La valeur d'une ressource commune partagée peut être maximisée en s'assurant que les interfaces et les API répondent aux besoins de tous les groupes clés de parties prenantes, en ce compris la résolution des problèmes liés à la diffusion de contenu dans toute la mesure possible dans plusieurs langages. Certains besoins peuvent être résolus en proposant des composants clients réutilisables qui peuvent être intégrés dans d'autres applications."
 
 #. type: delimited block =
 #: 300.en.adoc:44
 #, no-wrap
 msgid "*Q20*. What interfaces and APIs are required to maximise access to the collection catalogue? How can the catalogue best support diverse user communities, including speakers of different languages?\n"
-msgstr ""
+msgstr "*Q20*. Quelles interfaces et API sont nécessaires pour maximiser l'accès au catalogue de collections? Comment le catalogue peut-il au mieux prendre en charge les diverses communautés d'utilisateurs, en ce y compris les locuteurs de langues différentes ?\n"
 
 #. type: Title ==
 #: 400.en.adoc:2
 #, no-wrap
 msgid "Governance of the catalogue"
-msgstr ""
+msgstr "Gouvernance du catalogue"
 
 #. type: Plain text
 #: 400.en.adoc:5
 msgid "Standards and tools are only one part of the solution. For the catalogue to succeed and provide value, it must be accepted by and deliver value to the stakeholders it represents, in particular the collection-holding institutions and the communities that support collections. It is important to identify the stakeholders that need ownership for each aspect of the collection building and to understand how they can be enabled, empowered, and resources to take on these responsibilities. Mechanisms are also needed to deal with situations in which needs or interests may come into conflict."
-msgstr ""
+msgstr "Les standards et les outils ne sont qu'une partie de la solution. Pour que le catalogue réussisse et fournisse de la valeur, il doit être accepté par les parties prenantes qu'il représente. en particulier les institutions détentrices de collections et les communautés qui soutiennent les collections. Il est important d'identifier les parties prenantes qui ont besoin de s'approprier chaque aspect de la collection et de comprendre comment elles peuvent être activées, habilités et avoir les ressources afin d'assumer ces responsabilités. Des mécanismes sont également nécessaires pour faire face à des situations dans lesquelles des besoins ou des intérêts peuvent entrer en conflit."
 
 #. type: Title ===
 #: 400.en.adoc:6
 #, no-wrap
 msgid "Ownership of information for each collection"
-msgstr ""
+msgstr "Propriété des informations pour chaque collection"
 
 #. type: Plain text
 #: 400.en.adoc:9
 msgid "The basic assumption is that each institution should have primary responsibility and control for information on its collections. However, it may be appropriate to delegate full or partial responsibility to thematic, regional or national communities that have data curators able to ensure the quality and standardisation of collection records. In some contexts, where institutions have for any reason not provided authoritative information, or do not have the resources to do so, there may be reason to allow or encourage a wider user base to contribute and improve collection records. In all cases, a version history is required for the information, so that users can understand and respond to changes made by others."
-msgstr ""
+msgstr "L'hypothèse de base est que chaque institution devrait avoir la responsabilité et le contrôle de l'information sur ses collections. Cependant, il peut être approprié de déléguer partiellement ou entièrement cette responsabilité, à des communautés thématiques, régionales ou nationales qui ont des curateurs de données capables d’assurer la qualité et la normalisation des enregistrements de collections. Dans certains contextes, où les institutions ont, pour quelque raison que ce soit, n'ont pas fourni des informations faisant autorité ou n'ont pas les ressources pour le faire, il peut y avoir des raisons d'autoriser ou d'encourager une plus large base d'utilisateurs à contribuer et à améliorer les enregistrements de collections. Dans tous les cas, un historique de l'information est nécessaire afin que les utilisateurs puissent comprendre et répondre aux changements apportés par d'autres."
 
 #. type: delimited block =
 #: 400.en.adoc:12
 #, no-wrap
 msgid "*Q21*. How should ownership and access control for collection records be managed? How should appropriate editors be recognised and validated? Are there situations where automated or human intervention will be required to resolve disagreements or discrepancies?\n"
-msgstr ""
+msgstr "*Q21*. Comment gérer la propriété et le contrôle d'accès des enregistrements de collections ? Comment les éditeurs appropriés devraient-ils être reconnus et validés ? Y a-t-il des situations où une intervention automatique ou humaine sera nécessaire pour résoudre les désaccords ou les différences ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:14
 #, no-wrap
 msgid "Communities of practice"
-msgstr ""
+msgstr "Communautés de pratique"
 
 #. type: Plain text
 #: 400.en.adoc:17
 msgid "Communities such as IH, CETAF, ALA, iDigBio, etc. play an important role supporting collections and promoting standards-based practices. In many cases, these communities have a high level of understanding and participate closely in the development of biodiversity informatics solutions. Their roles and rights need to be well defined and supported in any integrated solution."
-msgstr ""
+msgstr "Les communautés telles que IH, CETAF, ALA, iDigBio, etc., jouent un rôle important de soutien des collections et de promotion des pratiques basées sur les normes. Dans de nombreux cas, ces communautés ont un haut niveau de compréhension et participent étroitement au développement de solutions informatiques sur la biodiversité. Leurs rôles et leurs droits doivent être bien définis et pris en compte dans toute solution intégrée."
 
 #. type: delimited block =
 #: 400.en.adoc:20
 #, no-wrap
 msgid "*Q22*. What do these communities require to be able to carry out their work efficiently and support their collections? How can an integrated approach enhance their offerings? What risks need to be addressed?\n"
-msgstr ""
+msgstr "*Q22*. Quels sont les besoins de ces communautés pour pouvoir mener à bien leur travail et soutenir leurs collections? Comment une approche intégrée peut-elle améliorer leurs aides ? Quels risques doivent être pris en compte ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:22
 #, no-wrap
 msgid "Technical infrastructures"
-msgstr ""
+msgstr "Infrastructures techniques"
 
 #. type: Plain text
 #: 400.en.adoc:25
 msgid "Biodiversity information infrastructures such as GBIF, DiSSCo, iDigBio and other national and regional platforms are usually funded in the context of broader open science goals for research infrastructures. Their participation can provide an important bridge between the needs of the collection communities and funding and expertise for informatics solutions. Roles and responsibilities must however be well defined to ensure that the needs of researchers and user communities are central. It is important to define clearly how these technical infrastructures can best participate in the overall solution, including demonstrating the benefits required to secure sustained funding for an integrated catalogue and for all the component parts."
-msgstr ""
+msgstr "Les Infrastructures d'information sur la biodiversité telles que GBIF, DiSSCo, iDigBio et d'autres plates-formes nationales et régionales sont généralement financées dans le cadre élargi d'objectifs de science ouverte pour les infrastructures de recherche. Leur participation peut constituer un pont important entre les besoins des communautés de collection, de financement et d'expertise en solutions informatiques. Les rôles et les responsabilités doivent toutefois être bien définis afin d'assurer que les besoins des chercheurs et des communautés d'utilisateurs restent centraux. Il est important de définir clairement comment ces infrastructures techniques peuvent participer au mieux à la solution globale, notamment en démontrant les bénéfices nécessaires pour obtenir un financement durable pour un catalogue intégré et pour toutes les parties qui le constituent."
 
 #. type: delimited block =
 #: 400.en.adoc:28
 #, no-wrap
 msgid "*Q23*. What technical infrastructures need to be engaged as part of the solution? How are their roles and needs best balanced with those of the collections and of their communities?\n"
-msgstr ""
+msgstr "*Q23*. Quelles infrastructures techniques doivent être engagées dans le cadre de la solution? Comment leurs rôles et leurs besoins seront-ils au mieux équilibrés avec ceux des collections et de leurs communautés ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:30
 #, no-wrap
 msgid "Governance arrangements"
-msgstr ""
+msgstr "Dispositions de gouvernance"
 
 #. type: Plain text
 #: 400.en.adoc:33
 msgid "A complex, commons-based solution will depend for its long-term success on a governance model that provides confidence to all parties that their interests are served and protected. The model should find the right balance between ensuring the health of the collaboration and minimising associated overheads in terms of meetings, reporting, etc."
-msgstr ""
+msgstr "Une solution complexe, basée sur les communs, dépendra pour sa réussite à long terme d'un modèle de gouvernance qui garantira à toutes les parties la confiance que leurs intérêts soient bien servis et protégés. Le modèle devrait trouver le juste équilibre entre l'assurance d'une collaboration saine et la minimisation des frais généraux en termes de réunions, de rapports, etc."
 
 #. type: delimited block =
 #: 400.en.adoc:36
 #, no-wrap
 msgid "*Q24*. Are there appropriate models that can be adopted or expanded to support the governance of this catalogue? Can it be managed in the context of an existing organisation or institution?\n"
-msgstr ""
+msgstr "*Q24*. Existe-t-il des modèles appropriés qui peuvent être adoptés ou étendus afin de soutenir la gouvernance du catalogue? Peut-elle être gérée dans le contexte d'une organisation ou d'une institution existante ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:38
 #, no-wrap
 msgid "Incentives for contributors"
-msgstr ""
+msgstr "Incitations pour les contributeurs"
 
 #. type: Plain text
 #: 400.en.adoc:41
 msgid "Relatively little effort may be required for each institution to register and manage its own collection records. However, the stability of the system will depend on continued effort from these institutions or from other parties to correct errors and outdated information. There should be clear benefits or incentives encouraging stakeholders to contribute this effort. A key goal should be to ensure that the catalogue contributes usefully for the work of collection managers and taxonomists. Acknowledgement of contributions may also be valuable."
-msgstr ""
+msgstr "L'effort pour que chaque institution s'inscrire et de gèrer ses propres enregistrements de collections sera sans doute relativement faible. Toutefois, la stabilité du système dépendra des efforts continus, de ces institutions ou d'autres parties, pour corriger les erreurs et les informations périmées. Il devrait y avoir des avantages clairs ou des incitants qui encourageraient les parties prenantes à contribuer à cet effort. Un objectif clé devrait être de s'assurer que le catalogue contribue utilement au travail des gestionnaires de collection et des taxonomistes. La reconnaissance des contributions devrait aussi être précieuse."
 
 #. type: delimited block =
 #: 400.en.adoc:44
 #, no-wrap
 msgid "*Q25*. What are the incentives for different contributors to maintain information in the catalogue? How can these be maximised?\n"
-msgstr ""
+msgstr "*Q25*. Quelles sont les incitants pour les différents contributeurs à maintenir les informations dans le catalogue ? Comment les maximiser ?\n"
 
 #. type: Title ===
 #: 400.en.adoc:46
 #, no-wrap
 msgid "Funding and sustainability"
-msgstr ""
+msgstr "Financement et durabilité"
 
 #. type: Plain text
 #: 400.en.adoc:49
 msgid "Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories)."
-msgstr ""
+msgstr "Les besoins en financement dépendront entre autre de l'approche adoptée pour construire le catalogue. Les coûts seront plus élevés si le soutien central nécessaire au maintien du contenu est plus important. Même si le contenu est largement géré gratuitement par la communauté internationale, soutenir une telle infrastructure fiable nécessite des efforts et des investissements à long terme (voir par exemple le https://www. oretrustseal.org/[modèle CoreTrustSeal] pour les dépôts de confiance)."
 
 #. type: delimited block =
 #: 400.en.adoc:52
 #, no-wrap
 msgid "*Q26*. How can the governance and technical aspects be funded? Is external funding likely? What other models may be feasible (contributions from collections, inclusion within the funded mission for GBIF or some other host)?\n"
-msgstr ""
+msgstr "*Q26*. Comment financer les aspects techniques et de gouvernance? Un financement externe est-il envisageable? Quels autres modèles peuvent être réalisables (contributions provenant des collections, inclusion dans la mission financée du GBIF ou tout autre hôte)?\n"
 

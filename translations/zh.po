@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-06 13:57\n"
+"PO-Revision-Date: 2020-04-14 09:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Advancing the Catalogue of the World's Natural History Collections"
-msgstr "推进《世界自然历史收藏目录》"
+msgstr "推进《世界自然历史馆藏名录》"
 
 #. type: Plain text
 #: index.en.adoc:27
@@ -46,7 +46,7 @@ msgstr "推荐引用格式"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v2.0. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/p93g-te47."
-msgstr ""
+msgstr "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v2.0. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/p93g-te47."
 
 #. type: Title ==
 #: colophon.en.adoc:11
@@ -62,12 +62,12 @@ msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], 生命目录|国�
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "https://orcid.org/0000-0003-0116-3445[Alex Asase], University of Ghana | GBIF Ghana"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-0116-3445[Alex Asase], 加纳大学 | GBIF Ghana"
 
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid "https://orcid.org/0000-0002-0596-5376[Quentin Groom], Meise Botanic Garden"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-0596-5376[Quentin Groom], 梅瑟植物园 （Meise Botanic Garden）"
 
 #. type: Plain text
 #: colophon.en.adoc:17
@@ -77,32 +77,32 @@ msgstr "中国科学院 罗茂芳"
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD 兴趣小组"
 
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF Secretariat"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF 秘书处"
 
 #. type: Plain text
 #: colophon.en.adoc:20
 msgid "https://orcid.org/0000-0002-4048-7728[Patrick Semal], Royal Belgian Institute of Natural Sciences | CETAF"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-4048-7728[Patrick Semal], 比利时皇家自然科学研究所 | CETAF"
 
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], New York Botanical Garden | Index Herbariorum"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], 纽约植物园 | Index Herbariorum"
 
 #. type: Plain text
 #: colophon.en.adoc:22
 msgid "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Natural History Museum, London | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], 自然历史博物馆，英国伦敦 | TDWG CD 兴趣小组"
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "Eliza Zschuschen, Suriname National Herbarium"
-msgstr ""
+msgstr "Eliza Zschuschen, 苏里南国家标本馆"
 
 #. type: Plain text
 #: colophon.en.adoc:25
@@ -124,7 +124,7 @@ msgstr "推进《全球自然历史馆藏目录》文档授权于link:https://cr
 #: colophon.en.adoc:29
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "永久的统一标识符 URI"
 
 #. type: Plain text
 #: colophon.en.adoc:31
@@ -206,7 +206,7 @@ msgstr "封面图片"
 #. type: Plain text
 #: colophon.en.adoc:52
 msgid "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
-msgstr ""
+msgstr "Maryland sematophyllum moss (_Sematophyllum marylandicum_), 由W.R. Buck在Ferncliff Natural Area采集, Ohiopyle State Park, Pennsylvania, United States. 照片来自纽约植物园2018年图集 via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:53
@@ -263,7 +263,7 @@ msgstr "许多已经确定的使用标准化收集信息的案例主要与保存
 #: how-to.en.adoc:1
 #, no-wrap
 msgid "How to respond to this Ideas Paper"
-msgstr "如何发表此著作相关的建议或感想"
+msgstr "如何对此初步意向草案发表建议或感想"
 
 #. type: Plain text
 #: how-to.en.adoc:4
@@ -555,7 +555,7 @@ msgstr "人类学的馆藏品"
 #. type: delimited block =
 #: 200.en.adoc:16
 msgid "Ethnobotanical collections"
-msgstr ""
+msgstr "民族植物馆藏"
 
 #. type: delimited block =
 #: 200.en.adoc:17
@@ -603,238 +603,238 @@ msgstr "馆藏分类结构和子收藏"
 #. type: Plain text
 #: 200.en.adoc:33
 msgid "Within IH, each herbarium record usually corresponds to an institution with its own unique collection code, street address, etc. Within zoology, museums are often structured as a set of collections with differing and possibly hierarchical taxonomic scope. Specimens collected on famous expeditions or by significant researchers may have their own identity and appear as special collections. As a result, curators and researchers may wish to refer to different (potentially overlapping) sets of specimens as separate collections with their own names, identifiers and descriptions."
-msgstr ""
+msgstr "在IH系统内，每份植物标本记录通常在相对应的每个机构都拥有自己独特的馆藏码、街道地址等。 在动物学中，博物馆通常是按照一组具有可能是分级分类范围不同的馆藏品来组织的。 由著名探险队收集到的标本或由影响力大的研究人员收集到的标本可能有自己的独特名字，并作为特殊馆藏问世。 因此，管理人员和研究人员可能更偏好将不同的（可能有重叠的）标本集作为独立馆藏单元，用其本有的名字、识别符和描述说明。"
 
 #. type: delimited block =
 #: 200.en.adoc:36
 #, no-wrap
 msgid "*Q12*. Should the catalogue support hierarchical relationships between collections (and collection records)? If so, how do parent-child relationships work, and do we infer information from parent to child or vice versa? \n"
-msgstr ""
+msgstr "*Q12*此目录是否应展现出馆藏（和馆藏记录）之间的层次结构关系？ 如果是，怎样才能使这种类似父母与子女的层次关系实现运作，我们是从大合集中推断信息找小合集还是反过来？ \n"
 
 #. type: Title ===
 #: 200.en.adoc:38
 #, no-wrap
 msgid "Description of a collection"
-msgstr ""
+msgstr "馆藏描述"
 
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
-msgstr ""
+msgstr "The https://www.tdwg.org/community/cd/[国际生物多样性信息标准组织 馆藏描述兴趣小组]目前正在制定https://github.com/tdwg/cd[馆藏描述标准] (从早先的国际生物多样性信息标准组织制定的自然馆藏描述标准演变而来)。 现有的网络和机构计划在其馆藏记录中使用各种不同格式或不同的元数据标准。 因此，这些资源（包括数据汇总）之间的互操作性有限。 为了克服这一障碍，需要对首选的标准和用词、强制性字段和不同格式的信息之间的兼容性等因素加以澄清。"
 
 #. type: delimited block =
 #: 200.en.adoc:44
 #, no-wrap
 msgid "*Q13*. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?\n"
-msgstr ""
+msgstr "*Q13*。 哪些描述性资料应被视为对每个馆藏集都是强制性的或值得拥有的？国际生物多样性信息标准组织的馆藏描述工作是否能够提供所需的一切？若不然，还需要什么样的改进？这种信息中有多少需要实现用于机器处理的正常化(而不是仅仅提供于人类读者)？\n"
 
 #. type: Title ===
 #: 200.en.adoc:46
 #, no-wrap
 msgid "Wider data linkages"
-msgstr ""
+msgstr "更广泛的数据联系"
 
 #. type: Plain text
 #: 200.en.adoc:48
 msgid "Information in the collection catalogue may be linked to a wide range of other biodiversity information (specimens, sequences, datasets, images, publications, etc.) to support information access and exploration."
-msgstr ""
+msgstr "馆藏编目中的信息可以与广泛的其他生物多样性信息（标本、序列、数据集、图像、出版物等）联系起来用以支持信息获取和搜索。"
 
 #. type: delimited block =
 #: 200.en.adoc:51
 #, no-wrap
 msgid "*Q14*. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:\n"
-msgstr ""
+msgstr "*Q14*。 哪些信息应当与馆藏记录联系起来？我们应当侧重于建立一类联系，这类联系能够实际证明创立和维持这些记录的费用是合理的。 以下是可能的候选项，但也可能是未在其中的其他。 在每种情况下，我们都应该确定是否需要是双向联系：\n"
 
 #. type: delimited block =
 #: 200.en.adoc:53
 msgid "Specimens held by a collection"
-msgstr ""
+msgstr "馆藏保存的标本"
 
 #. type: delimited block =
 #: 200.en.adoc:54
 msgid "Type specimens held by a collection"
-msgstr ""
+msgstr "将馆藏保存的标本分类"
 
 #. type: delimited block =
 #: 200.en.adoc:55
 msgid "Species/taxa represented in a collection (with/without specimen counts)"
-msgstr ""
+msgstr "一个馆藏品所代表的物种/分类单元(使用/不使用标本计数)"
 
 #. type: delimited block =
 #: 200.en.adoc:56
 msgid "Sequences, images and other preparations from the collection (but these may be better treated as information about specimens rather than about the collection)"
-msgstr ""
+msgstr "序列、图像和馆藏品的其他配制品（但这些可能最好作为标本相关而不是馆藏相关的资料处理）"
 
 #. type: delimited block =
 #: 200.en.adoc:57
 msgid "Datasets (checklists, occurrences, sampling events) associated with the collection"
-msgstr ""
+msgstr "与馆藏相关的数据集(核对表、发生率、取样活动)"
 
 #. type: delimited block =
 #: 200.en.adoc:58
 msgid "Collecting expeditions carried out by or contributing to the collection (modeled as sampling events?)"
-msgstr ""
+msgstr "收集因馆藏进行或为馆藏做贡献的考察（归类于取样活动？）"
 
 #. type: delimited block =
 #: 200.en.adoc:59
 msgid "Collectors associated with a collection"
-msgstr ""
+msgstr "与馆藏相关的收藏者"
 
 #. type: delimited block =
 #: 200.en.adoc:60
 msgid "Publications based on materials from the collection"
-msgstr ""
+msgstr "根据馆藏材料编写的出版物"
 
 #. type: delimited block =
 #: 200.en.adoc:61
 msgid "Researchers/staff associated with the collection"
-msgstr ""
+msgstr "与馆藏相关的研究员/工作人员"
 
 #. type: delimited block =
 #: 200.en.adoc:62
 msgid "Field notebooks"
-msgstr ""
+msgstr "现场记录"
 
 #. type: Title ===
 #: 200.en.adoc:64
 #, no-wrap
 msgid "Information services relating to collections"
-msgstr ""
+msgstr "与馆藏有关的信息服务"
 
 #. type: Plain text
 #: 200.en.adoc:67
 msgid "The main value from the collection catalogue may appear in the information services that can be offered around the information managed. Considering these services may help to clarify the content requirements."
-msgstr ""
+msgstr "馆藏编目的主要价值可能表现在可以围绕所管理的信息提供的信息服务。 考虑到这些服务可能有助于阐明关于内容的要求。"
 
 #. type: delimited block =
 #: 200.en.adoc:70
 #, no-wrap
 msgid "*Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
-msgstr ""
+msgstr "*Q15* 除了拥有每个馆藏品的清晰并全面的相关公开数据外，我们还想怎样处理目录？ 以下可能提供的服务是候选项，但其他服务也是可能的。 在每一种情况下，该服务将取决于与其他数字储存库建立伙伴关系。（比如 https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])\n"
 
 #. type: delimited block =
 #: 200.en.adoc:72
 msgid "Assess the growth, scale and value of the world's collections"
-msgstr ""
+msgstr "评估世界馆藏品的数量增长、规模和价值"
 
 #. type: delimited block =
 #: 200.en.adoc:73
 msgid "Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection digitisation dashboard] to monitor and highlight progress"
-msgstr ""
+msgstr "提供https://zenodo.org/record/2621055#.Xn1lqIgzabi[馆藏数字化检索列表]来监控和突出显示进展"
 
 #. type: delimited block =
 #: 200.en.adoc:74
 msgid "Discover the location of biological materials or the likely presence of biological materials for any taxon"
-msgstr ""
+msgstr "探索生物材料的位置或划分于任意分类单元的生物材料的可能存在性"
 
 #. type: delimited block =
 #: 200.en.adoc:75
 msgid "Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised"
-msgstr ""
+msgstr "开发探索服务，以便在未将标本数字化的情况下获取有关标本的信息或与相关馆藏品进行通信"
 
 #. type: delimited block =
 #: 200.en.adoc:76
 msgid "Identify sections of collections that should be digitised to answer specific questions"
-msgstr ""
+msgstr "找出应该数字化以回答具体问题的馆藏部分"
 
 #. type: delimited block =
 #: 200.en.adoc:77
 msgid "Match gap analysis of published specimen data against the collection catalogue to prioritise digitisation for filling taxonomic, geographic, or other gaps."
-msgstr ""
+msgstr "将公布的标本数据与馆藏编目相匹配的差距分析，以优先考虑数字化，以填补分类学的、地理学的或其他空白。"
 
 #. type: delimited block =
 #: 200.en.adoc:78
 msgid "Discover holdings that make a particular collection unique, and therefore of even higher value"
-msgstr ""
+msgstr "发现使某一特定馆藏品具有独特性因而价值甚至更高的持有物"
 
 #. type: delimited block =
 #: 200.en.adoc:79
 msgid "Develop and fund collaborative digitisation programmes focused on understanding of the holdings of the network as a whole"
-msgstr ""
+msgstr "制定并资助合作数字化计划，重点是了解整个网络的持有情况"
 
 #. type: delimited block =
 #: 200.en.adoc:80
 msgid "Develop cross-institutional loan systems and taxonomic workbenches"
-msgstr ""
+msgstr "创建跨机构贷款制度和分类工作台"
 
 #. type: delimited block =
 #: 200.en.adoc:81
 msgid "Develop citation models for collections and track their impact"
-msgstr ""
+msgstr "开发馆藏的引文模型并跟踪其产生的影响"
 
 #. type: delimited block =
 #: 200.en.adoc:82
 msgid "Perform risk assessment of the health or stability of a collection"
-msgstr ""
+msgstr "对馆藏品的完整性或稳定性进行风险评估"
 
 #. type: Title ==
 #: 300.en.adoc:2
 #, no-wrap
 msgid "Technology for the catalogue"
-msgstr ""
+msgstr "目录技术"
 
 #. type: Plain text
 #: 300.en.adoc:5
 msgid "A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl CETAF Collections Registry and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed."
-msgstr ""
+msgstr "编写馆藏元数据和编制局部目录时已经使用了各种不同的工具，比如 IH, GRSciColl CETAF Collections Registry和国际馆藏文稿。它们的技术能力和可持续性各不相同。 有些得到现有群体的大力支持，可以成为相互关联的解决办法的一部分。 这种咨询会议的目标是确定哪些组成部分是成熟和稳定的，并且能够有助于这些成熟稳定的解决办法，另外还要确认哪些组成部分可能还需要完善。"
 
 #. type: Title ===
 #: 300.en.adoc:6
 #, no-wrap
 msgid "Pathways and tools for publishing collection records"
-msgstr ""
+msgstr "发布馆藏记录的路径和工具"
 
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Existing information on collections is edited and maintained in different ways. IH allows herbaria to provide or edit their records and offers support for herbaria to provide updates via email or other channels. Other communities such as national portals have other pathways for collections to provide or update information. Several tools help data publishers to create EML metadata for publishing data to GBIF and elsewhere. These could evolve to deliver collection records in preferred formats. The https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] could be enhanced to offer collection records as one of the core record types that can be shared. This would allow collections either to publish one or more collection records as a small standalone dataset or collection networks to manage and publish a dataset comprising many collection records. Wikidata could also serve as a tool or platform for editing catalogue information and making it widely accessible and reusable."
-msgstr ""
+msgstr "现有的馆藏资料以不同方式编辑和保存。 IH允许植物标本室提供或编辑其记录，并支持植物标本室通过电子邮件或其他渠道提供更新材料。 诸如国家门户等其他群体也有提供或更新馆藏信息的其他途径。 有几个工具帮助数据数据发布人创建EML元数据，以便向GBIF和其他地方发布数据。 这些数据可以演变成以首选格式呈现的馆藏记录。综合发布工具包(IPT) [ https://www.gbif.org/ipt]可以进一步完善，作为可以共享的核心记录类型之一提供馆藏记录。 这样就可以将一个或多个馆藏记录作为一个小型独立数据集或馆藏网络来管理并出版一个包含许多馆藏记录的数据集。 Wikidata也可以作为编辑目录信息并使其能够被广泛获取和重复利用的工具或平台。"
 
 #. type: delimited block =
 #: 300.en.adoc:12
 #, no-wrap
 msgid "*Q16*. Which existing tools, databases and websites can help to mobilise and maintain collection records? Is it possible to identify additional tools or pathways that need to be developed or supported?\n"
-msgstr ""
+msgstr "*Q16*. 哪些现有工具、数据库和网站能够有助于调动和保持收集记录？ 能否找到需要开发或支持的其他工具或途径？\n"
 
 #. type: Title ===
 #: 300.en.adoc:14
 #, no-wrap
 msgid "Community catalogues"
-msgstr ""
+msgstr "群体目录"
 
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "IH is the best established catalogue servicing a large community of collections, but many other communities are important, including regionally or nationally focused efforts, such as CETAF’s institutional profiles, the web portals of https://www.idigbio.org/portal/collections[iDigBio] and the ALA, and the https://biss.pensoft.net/article/38772/[One World Collection initiative], and thematically aligned efforts, such as the http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections] and the http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. A comprehensive global catalogue should ensure that the needs of these different communities are met and support their continued operation and independence wherever is valued by collections. Understanding these requirements is essential in planning the technical implementation and governance of the catalogue."
-msgstr ""
+msgstr "IH 是为大量馆藏机构提供服务的最佳名录，但许多以区域或国家为重点的其他平台机构也很重要，比如CETAF的机构简介，https://www.idigbio.org/portal/collections[iDigBio] 和ALA的门户网站，https://biss.pensoft.net/article/38772/[一个全球馆藏协议（One World Collection initiative）]，以及一些专题类别的机构和平台，如 http://www.wfcc.info/ccinfo/index.php/home/content[World Directory of Culture Collections]， http://www.ggbn.org/ggbn_portal/members/index[Global Genome Biodiversity Network portal]. 一个综合性的全球名录应该确保满足这些不同群体的需要，并支持它们的独立和相关工作的开展。了解这些要求对于规划名录的技术实施和管理至关重要。"
 
 #. type: delimited block =
 #: 300.en.adoc:20
 #, no-wrap
 msgid "*Q17*. What catalogues already address the needs of some communities of collections? How can an integrated catalogue support these communities? Which communities require a separately branded identity and/or platform? What is the best way to include these communities as part of an interconnected solution? Is there a role for content to be created and improved by a wider audience (e.g. through Wikidata)?\n"
-msgstr ""
+msgstr "*Q17*. 哪些现有的目录已解决了一些馆藏机构的需求？整合后的目录如何支持这些机构？哪些机构需要一个单独的身份认证或平台？ 将这些机构纳入到一起的最佳途径是什么？对于内容来说，是否有一个方式使之能被更广泛的用户创建和编辑，比如通过维基百科？\n"
 
 #. type: Title ===
 #: 300.en.adoc:22
 #, no-wrap
 msgid "Integrated catalogue"
-msgstr ""
+msgstr "整合目录"
 
 #. type: Plain text
 #: 300.en.adoc:25
 #, no-wrap
 msgid "GBIF has the mission to provide global-scale support for biodiversity informatics solutions and has expanded its Registry to host the data historically maintained as GRSciColl. GRSciColl content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   \n"
-msgstr ""
+msgstr "GBIF的目标是为生物多样性信息学提供全球范围的支持，并扩大了注册系统，从而以GRSciColl的形式为全球生物多样性信息学数据库保存以往保存的数据。GRSciColl的内容并不完整，可将其视为一个 content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   \n"
 
 #. type: delimited block =
 #: 300.en.adoc:28
 #, no-wrap
 msgid "*Q18*. Are there issues with GBIF providing hosting and support for the global catalogue through its Registry? What is required to ensure that this meets the needs of collections and is fully adopted and owned by the collections community? What challenges need to be addressed to minimise duplication of content and effort within an integrated catalogue?\n"
-msgstr ""
+msgstr "*Q18*. 对于由GBIF来对全球名录进行管理和支持，是否有任何问题？为确保这样做能满足馆藏的需要，并被馆藏机构充分采纳和使用，需要做些什么？需要应对哪些挑战来最大限度的减少综合名录里内容和工作上的重复？\n"
 
 #. type: Title ===
 #: 300.en.adoc:30
 #, no-wrap
 msgid "Collection management systems"
-msgstr ""
+msgstr "馆藏品管理系统"
 
 #. type: Plain text
 #: 300.en.adoc:33
@@ -845,30 +845,30 @@ msgstr ""
 #: 300.en.adoc:36
 #, no-wrap
 msgid "*Q19*. What present or future requirements are there for interfaces directly between CMS platforms and the collection catalogue? Are there special opportunities that should be considered? Could CMS platforms become a source of metadata for institutional collections within a global catalogue?\n"
-msgstr ""
+msgstr "*Q19*.  对CMS平台和馆藏目录之间直接的接口，现在和将来有什么要求？是否有特殊的机会要考虑？在全球名录中，CMS平台能否成为机构馆藏元数据的一个来源？  \n"
 
 #. type: Title ===
 #: 300.en.adoc:38
 #, no-wrap
 msgid "Interfaces, APIs and client modules"
-msgstr ""
+msgstr "接口、 API和客户端模块"
 
 #. type: Plain text
 #: 300.en.adoc:41
 msgid "The value of a shared commons-based resource can be maximised by ensuring that interfaces and APIs support the needs of all key stakeholder groups, including addressing issues around content delivery to the fullest extent possible in multiple languages. Some needs may be addressed by offering reusable client components that can be embedded in other applications."
-msgstr ""
+msgstr "通过确保接口和API支持所有关键利益攸关方群体的需要，可以最大限度地提高共同资源的价值。 包括以多种语言来尽可能充分地解决内容相关的问题。 某些需要可以通过提供可重复使用的嵌入其他应用程序的客户端组件来解决。"
 
 #. type: delimited block =
 #: 300.en.adoc:44
 #, no-wrap
 msgid "*Q20*. What interfaces and APIs are required to maximise access to the collection catalogue? How can the catalogue best support diverse user communities, including speakers of different languages?\n"
-msgstr ""
+msgstr "*Q20*. 需要什么样的接口和API才能最大限度的访问馆藏名录？名录如何才能更好的支持不同的用户群体，包括不同语言的群体？\n"
 
 #. type: Title ==
 #: 400.en.adoc:2
 #, no-wrap
 msgid "Governance of the catalogue"
-msgstr ""
+msgstr "目录管理"
 
 #. type: Plain text
 #: 400.en.adoc:5
@@ -879,7 +879,7 @@ msgstr ""
 #: 400.en.adoc:6
 #, no-wrap
 msgid "Ownership of information for each collection"
-msgstr ""
+msgstr "每个馆藏品的信息所有权"
 
 #. type: Plain text
 #: 400.en.adoc:9
@@ -890,13 +890,13 @@ msgstr ""
 #: 400.en.adoc:12
 #, no-wrap
 msgid "*Q21*. How should ownership and access control for collection records be managed? How should appropriate editors be recognised and validated? Are there situations where automated or human intervention will be required to resolve disagreements or discrepancies?\n"
-msgstr ""
+msgstr "*Q21*.  如何管理馆藏记录的所有权和控制权？如何确认和验证适当的编辑？是否有需要自动或人为干预来解决分歧或差异的情况?\n"
 
 #. type: Title ===
 #: 400.en.adoc:14
 #, no-wrap
 msgid "Communities of practice"
-msgstr ""
+msgstr "实践社区"
 
 #. type: Plain text
 #: 400.en.adoc:17
@@ -907,13 +907,13 @@ msgstr ""
 #: 400.en.adoc:20
 #, no-wrap
 msgid "*Q22*. What do these communities require to be able to carry out their work efficiently and support their collections? How can an integrated approach enhance their offerings? What risks need to be addressed?\n"
-msgstr ""
+msgstr "*Q22*. 这些机构需要什么才能使他们的工作有效的开展？怎样通过一个集成的方法提高他们的贡献？有什么风险需要说明？\n"
 
 #. type: Title ===
 #: 400.en.adoc:22
 #, no-wrap
 msgid "Technical infrastructures"
-msgstr ""
+msgstr "技术基础设施"
 
 #. type: Plain text
 #: 400.en.adoc:25
@@ -924,13 +924,13 @@ msgstr ""
 #: 400.en.adoc:28
 #, no-wrap
 msgid "*Q23*. What technical infrastructures need to be engaged as part of the solution? How are their roles and needs best balanced with those of the collections and of their communities?\n"
-msgstr ""
+msgstr "*Q23*. 作为本方案的一部分，需要使用哪些技术基础设施？它们的作用和需要如何与馆藏品及馆藏机构的作用和需要保持平衡？\n"
 
 #. type: Title ===
 #: 400.en.adoc:30
 #, no-wrap
 msgid "Governance arrangements"
-msgstr ""
+msgstr "管理安排"
 
 #. type: Plain text
 #: 400.en.adoc:33
@@ -941,13 +941,13 @@ msgstr ""
 #: 400.en.adoc:36
 #, no-wrap
 msgid "*Q24*. Are there appropriate models that can be adopted or expanded to support the governance of this catalogue? Can it be managed in the context of an existing organisation or institution?\n"
-msgstr ""
+msgstr "*Q24*. 是否有可以采用的并可以适当扩大使用的模式来支持这一名录的管理？能否在现有的组织机构框架内进行管理？ \n"
 
 #. type: Title ===
 #: 400.en.adoc:38
 #, no-wrap
 msgid "Incentives for contributors"
-msgstr ""
+msgstr "对贡献者的激励"
 
 #. type: Plain text
 #: 400.en.adoc:41
@@ -958,22 +958,22 @@ msgstr ""
 #: 400.en.adoc:44
 #, no-wrap
 msgid "*Q25*. What are the incentives for different contributors to maintain information in the catalogue? How can these be maximised?\n"
-msgstr ""
+msgstr "*Q25*。对不同的贡献者来说，在目录中维护信息的激励是什么？如何最大限度地激励大家？\n"
 
 #. type: Title ===
 #: 400.en.adoc:46
 #, no-wrap
 msgid "Funding and sustainability"
-msgstr ""
+msgstr "筹资和可持续性"
 
 #. type: Plain text
 #: 400.en.adoc:49
 msgid "Funding needs will depend on other aspects of the approach adopted to build the catalogue. Costs will be higher if more central support is required to maintain the content. Even if the content is largely managed for free by the international community, sustaining a reliable infrastructure requires effort and long-term investment (see for example the https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories)."
-msgstr ""
+msgstr "资金需求将取决于为编制名录而采取的办法的其他方面。如果需要更多的内部支持来维持内容，费用将会增加。即使基本上依靠全球用户来免费的管理内容，维持一个可靠稳定的基础设施还是需要努力和长期的投资 (比如 https://www.coretrustseal.org/[CoreTrustSeal model] for trusted repositories)."
 
 #. type: delimited block =
 #: 400.en.adoc:52
 #, no-wrap
 msgid "*Q26*. How can the governance and technical aspects be funded? Is external funding likely? What other models may be feasible (contributions from collections, inclusion within the funded mission for GBIF or some other host)?\n"
-msgstr ""
+msgstr "*Q26*.  如何为管理和技术支持提供资金？是否可能找到来自外部的资助？能有什么样的其他可能的模式（从募捐中获得捐款，费用包含在来自GBIF或其他承担机构的项目经费里）？\n"
 
