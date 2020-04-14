@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 08:06\n"
+"PO-Revision-Date: 2020-04-14 08:23\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -67,7 +67,7 @@ msgstr "https://orcid.org/0000-0003-0116-3445[Alex Asase], 加纳大学 | GBIF G
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid "https://orcid.org/0000-0002-0596-5376[Quentin Groom], Meise Botanic Garden"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-0596-5376[Quentin Groom], 梅瑟植物园 （Meise Botanic Garden）"
 
 #. type: Plain text
 #: colophon.en.adoc:17
@@ -77,32 +77,32 @@ msgstr "中国科学院 罗茂芳"
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-2639-7520[Deborah Paul], iDigBio | TDWG CD 兴趣小组"
 
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF Secretariat"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6215-3617[Tim Robertson], GBIF 秘书处"
 
 #. type: Plain text
 #: colophon.en.adoc:20
 msgid "https://orcid.org/0000-0002-4048-7728[Patrick Semal], Royal Belgian Institute of Natural Sciences | CETAF"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-4048-7728[Patrick Semal], 比利时皇家自然科学研究所 | CETAF"
 
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], New York Botanical Garden | Index Herbariorum"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-8613-7133[Barbara Thiers], 纽约植物园 | Index Herbariorum"
 
 #. type: Plain text
 #: colophon.en.adoc:22
 msgid "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], Natural History Museum, London | TDWG CD Interest Group"
-msgstr ""
+msgstr "https://orcid.org/0000-0001-6496-1423[Matt Woodburn], 自然历史博物馆，英国伦敦 | TDWG CD 兴趣小组"
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "Eliza Zschuschen, Suriname National Herbarium"
-msgstr ""
+msgstr "Eliza Zschuschen, 苏里南国家标本馆"
 
 #. type: Plain text
 #: colophon.en.adoc:25
@@ -124,7 +124,7 @@ msgstr "推进《全球自然历史馆藏目录》文档授权于link:https://cr
 #: colophon.en.adoc:29
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "永久的统一标识符 URI"
 
 #. type: Plain text
 #: colophon.en.adoc:31
@@ -206,7 +206,7 @@ msgstr "封面图片"
 #. type: Plain text
 #: colophon.en.adoc:52
 msgid "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
-msgstr ""
+msgstr "Maryland sematophyllum moss (_Sematophyllum marylandicum_), 由W.R. Buck在Ferncliff Natural Area采集, Ohiopyle State Park, Pennsylvania, United States. 照片来自纽约植物园2018年图集 via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:53
@@ -263,7 +263,7 @@ msgstr "许多已经确定的使用标准化收集信息的案例主要与保存
 #: how-to.en.adoc:1
 #, no-wrap
 msgid "How to respond to this Ideas Paper"
-msgstr "如何发表此著作相关的建议或感想"
+msgstr "如何对此初步意向草案发表建议或感想"
 
 #. type: Plain text
 #: how-to.en.adoc:4
@@ -555,7 +555,7 @@ msgstr "人类学的馆藏品"
 #. type: delimited block =
 #: 200.en.adoc:16
 msgid "Ethnobotanical collections"
-msgstr ""
+msgstr "民族植物馆藏"
 
 #. type: delimited block =
 #: 200.en.adoc:17
@@ -816,7 +816,7 @@ msgstr ""
 #: 300.en.adoc:22
 #, no-wrap
 msgid "Integrated catalogue"
-msgstr ""
+msgstr "整合目录"
 
 #. type: Plain text
 #: 300.en.adoc:25
@@ -834,7 +834,7 @@ msgstr ""
 #: 300.en.adoc:30
 #, no-wrap
 msgid "Collection management systems"
-msgstr ""
+msgstr "馆藏品管理系统"
 
 #. type: Plain text
 #: 300.en.adoc:33
@@ -851,7 +851,7 @@ msgstr ""
 #: 300.en.adoc:38
 #, no-wrap
 msgid "Interfaces, APIs and client modules"
-msgstr ""
+msgstr "接口、 API和客户端模块"
 
 #. type: Plain text
 #: 300.en.adoc:41
@@ -868,7 +868,7 @@ msgstr ""
 #: 400.en.adoc:2
 #, no-wrap
 msgid "Governance of the catalogue"
-msgstr ""
+msgstr "目录管理"
 
 #. type: Plain text
 #: 400.en.adoc:5
@@ -879,7 +879,7 @@ msgstr ""
 #: 400.en.adoc:6
 #, no-wrap
 msgid "Ownership of information for each collection"
-msgstr ""
+msgstr "每个馆藏品的信息所有权"
 
 #. type: Plain text
 #: 400.en.adoc:9
@@ -896,7 +896,7 @@ msgstr ""
 #: 400.en.adoc:14
 #, no-wrap
 msgid "Communities of practice"
-msgstr ""
+msgstr "实践社区"
 
 #. type: Plain text
 #: 400.en.adoc:17
@@ -913,7 +913,7 @@ msgstr ""
 #: 400.en.adoc:22
 #, no-wrap
 msgid "Technical infrastructures"
-msgstr ""
+msgstr "技术基础设施"
 
 #. type: Plain text
 #: 400.en.adoc:25
@@ -930,7 +930,7 @@ msgstr ""
 #: 400.en.adoc:30
 #, no-wrap
 msgid "Governance arrangements"
-msgstr ""
+msgstr "管理安排"
 
 #. type: Plain text
 #: 400.en.adoc:33
@@ -947,7 +947,7 @@ msgstr ""
 #: 400.en.adoc:38
 #, no-wrap
 msgid "Incentives for contributors"
-msgstr ""
+msgstr "对贡献者的激励"
 
 #. type: Plain text
 #: 400.en.adoc:41
@@ -958,13 +958,13 @@ msgstr ""
 #: 400.en.adoc:44
 #, no-wrap
 msgid "*Q25*. What are the incentives for different contributors to maintain information in the catalogue? How can these be maximised?\n"
-msgstr ""
+msgstr "*Q25*。对不同的贡献者来说，在目录中维护信息的激励是什么？如何最大限度地激励大家？\n"
 
 #. type: Title ===
 #: 400.en.adoc:46
 #, no-wrap
 msgid "Funding and sustainability"
-msgstr ""
+msgstr "筹资和可持续性"
 
 #. type: Plain text
 #: 400.en.adoc:49
