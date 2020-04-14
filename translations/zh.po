@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 15:10\n"
+"PO-Revision-Date: 2020-04-14 15:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -873,7 +873,7 @@ msgstr "目录管理"
 #. type: Plain text
 #: 400.en.adoc:5
 msgid "Standards and tools are only one part of the solution. For the catalogue to succeed and provide value, it must be accepted by and deliver value to the stakeholders it represents, in particular the collection-holding institutions and the communities that support collections. It is important to identify the stakeholders that need ownership for each aspect of the collection building and to understand how they can be enabled, empowered, and resources to take on these responsibilities. Mechanisms are also needed to deal with situations in which needs or interests may come into conflict."
-msgstr ""
+msgstr "标准和工具只是解决问题的一部分。要想让名录得以建立并有价值，就必须得到名录所代表的利益攸关方的认可并让他们认识到其价值，尤其是馆藏机构和提供馆藏的群体。对馆藏建设各个方面要拥有所属权的利益攸关方的确定也很重要，要了解怎样才能对其进行推动、授权，并确定承担这些责任需要的资源。此外，还需要建立相关的机制来处理可能产生的需要或者利益冲突。"
 
 #. type: Title ===
 #: 400.en.adoc:6
@@ -884,7 +884,7 @@ msgstr "每个馆藏品的信息所有权"
 #. type: Plain text
 #: 400.en.adoc:9
 msgid "The basic assumption is that each institution should have primary responsibility and control for information on its collections. However, it may be appropriate to delegate full or partial responsibility to thematic, regional or national communities that have data curators able to ensure the quality and standardisation of collection records. In some contexts, where institutions have for any reason not provided authoritative information, or do not have the resources to do so, there may be reason to allow or encourage a wider user base to contribute and improve collection records. In all cases, a version history is required for the information, so that users can understand and respond to changes made by others."
-msgstr ""
+msgstr "基本的假设是，每个机构都对馆藏信息进行管控和承担主要责任。不过，也许应将全部或部分责任委托给有能确保馆藏记录的质量和标准化处理的数据管理员的专题小组、区域或国家代表。在某些情况下，如果机构出于任何原因没有提供权威信息或者没有相应的资源去提供信息，也许可以允许或鼓励更广泛的用户来贡献信、完善记录信息。在所有的情况下，信息都需要一个版本历史，以便用户能够理解和回应他人所作的改动。"
 
 #. type: delimited block =
 #: 400.en.adoc:12
