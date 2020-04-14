@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 06:19\n"
+"PO-Revision-Date: 2020-04-14 08:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -46,7 +46,7 @@ msgstr "推荐引用格式"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v2.0. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/p93g-te47."
-msgstr ""
+msgstr "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers B, Woodburn M & Zschuschen E (2020) Advancing the Catalogue of the World's Natural History Collections. v2.0. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/p93g-te47."
 
 #. type: Title ==
 #: colophon.en.adoc:11
@@ -62,7 +62,7 @@ msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], 生命目录|国�
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "https://orcid.org/0000-0003-0116-3445[Alex Asase], University of Ghana | GBIF Ghana"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-0116-3445[Alex Asase], 加纳大学 | GBIF Ghana"
 
 #. type: Plain text
 #: colophon.en.adoc:16
