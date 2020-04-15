@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 07:36\n"
+"PO-Revision-Date: 2020-04-15 07:49\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -338,12 +338,12 @@ msgstr "您是否能够通过**将简短的进展总结**翻译成英文以外�
 #. type: Plain text
 #: how-to.en.adoc:20
 msgid "We expect to circulate regular short summaries (a few paragraphs every day or two) to all participants during the main consultation period to keep the discussion focused, summarise agreement, and highlight new ideas and questions."
-msgstr "我们期望在集中咨询期间向所有与会者定期分发简短的摘要（每一或两天发送几段），以便使讨论重点突出； 总结达成的共识，并重点突出新的想法和问题。"
+msgstr "在集中咨询期间，我们期望向所有参与者定期发送简短的进展报告（每一或两天发送几段话），以便强调讨论的重点，总结已达成的共识，突出新的观点和问题。"
 
 #. type: Plain text
 #: how-to.en.adoc:21
 msgid "We welcome assistance in translating these into languages that will make it easier for all participants to follow the discussions and know how to contribute."
-msgstr "我们欢迎协助将这些讨论内容翻译成各种语言，使所有与会者更容易理解讨论内容并了解如何参与其中。"
+msgstr "我们欢迎协助将这些讨论内容翻译成各种语言，使所有参与者更容易理解讨论的内容，并了解如何参与其中。"
 
 #. type: Plain text
 #: how-to.en.adoc:21
@@ -354,18 +354,18 @@ msgstr "如果您有兴趣提供帮助，请联系mailto:dhobern@gbif.org[Donald
 #: 100.en.adoc:2
 #, no-wrap
 msgid "Uses for the catalogue"
-msgstr "目录的使用"
+msgstr "名录的使用"
 
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr "https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG 收藏描述兴趣小组]已经从几个主要利益攸关方收集了一些自然历史收藏信息的使用案例。 此外，包括link:https://www.icedig.eu/[ICEDIG]在内的主要欧洲项目正在准备通过记录藏品的使用案例构建link:https://www.issco.eu/[DiSSCo]信息基础构架。"
+msgstr "Https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG 馆藏描述兴趣小组]已经从几个主要利益攸关方收集了一些自然历史馆藏信息的使用案例。 此外，包括link:https://www.icedig.eu/[ICEDIG]在内的主要欧洲项目正在准备通过记录馆藏的使用案例来构建link:https://www.issco.eu/[DiSSCo]信息基础构架。"
 
 #. type: Title ===
 #: 100.en.adoc:6
 #, no-wrap
 msgid "A directory to support the collections community"
-msgstr "为收藏社区提供帮助的联系录"
+msgstr "为馆藏社区提供帮助的说明"
 
 #. type: Plain text
 #: 100.en.adoc:9
