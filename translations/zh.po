@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 10:10\n"
+"PO-Revision-Date: 2020-04-15 10:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -603,13 +603,13 @@ msgstr "馆藏分类结构和附属收藏"
 #. type: Plain text
 #: 200.en.adoc:33
 msgid "Within IH, each herbarium record usually corresponds to an institution with its own unique collection code, street address, etc. Within zoology, museums are often structured as a set of collections with differing and possibly hierarchical taxonomic scope. Specimens collected on famous expeditions or by significant researchers may have their own identity and appear as special collections. As a result, curators and researchers may wish to refer to different (potentially overlapping) sets of specimens as separate collections with their own names, identifiers and descriptions."
-msgstr "在IH系统内，每份植物标本记录通常在相对应的每个机构都拥有自己独特的馆藏码、街道地址等。 在动物学中，博物馆通常是按照一组具有可能是分级分类范围不同的馆藏品来组织的。 由著名探险队收集到的标本或由影响力大的研究人员收集到的标本可能有自己的独特名字，并作为特殊馆藏问世。 因此，管理人员和研究人员可能更偏好将不同的（可能有重叠的）标本集作为独立馆藏单元，用其本有的名字、识别符和描述说明。"
+msgstr "在IH系统内，每份植物标本记录通常在相对应的每个机构都拥有自己独特的馆藏码、街道地址等。 在动物学中，博物馆通常是按照一套具有不同分类范围的馆藏品来组织。由著名探险队采集到的标本或由重要的研究人员采集的标本可能有自己的独特名字，并作为特殊馆藏问世。 因此，管理人员和研究人员可能更偏好将不同的（可能有重叠的）标本集作为独立馆藏单元，用其本有的名字、识别符和描述说明。"
 
 #. type: delimited block =
 #: 200.en.adoc:36
 #, no-wrap
 msgid "*Q12*. Should the catalogue support hierarchical relationships between collections (and collection records)? If so, how do parent-child relationships work, and do we infer information from parent to child or vice versa? \n"
-msgstr "*Q12*。此目录是否应展现出馆藏（和馆藏记录）之间的层次结构关系？ 如果是，怎样才能使这种类似父母与子女的层次关系实现运作，我们是从大合集中推断信息找小合集还是反过来？ \n"
+msgstr "*Q12*. 此名录是否应展现出馆藏（和馆藏记录）之间的层次结构关系？ 如果是，怎样才能使这种类似父级与子级的层次关系实现运作，我们是从父级到子级还是反过来？ \n"
 
 #. type: Title ===
 #: 200.en.adoc:38
@@ -620,7 +620,7 @@ msgstr "馆藏描述"
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
-msgstr "The https://www.tdwg.org/community/cd/[国际生物多样性信息标准组织 馆藏描述兴趣小组]目前正在制定link:https://github.com/tdwg/cd[馆藏描述标准] (从早先的国际生物多样性信息标准组织制定的自然馆藏描述标准演变而来)。 现有的网络和机构计划在其馆藏记录中使用各种不同格式或不同的元数据标准。 因此，这些资源（包括数据汇总）之间的互操作性有限。 为了克服这一障碍，需要对首选的标准和用词、强制性字段和不同格式的信息之间的兼容性等因素加以澄清。"
+msgstr " https://www.tdwg.org/community/cd/[国际生物多样性信息标准组织 馆藏描述兴趣小组]目前正在制定link:https://github.com/tdwg/cd[馆藏描述标准] (从早先的国际生物多样性信息标准组织制定的自然馆藏描述标准演变而来)。 现有的网络和机构计划在其馆藏记录中使用各种不同格式或不同的元数据标准。 因此，这些资源（包括数据汇总）之间的互操作性有限。 为了克服这一障碍，需要对首选的标准和用词、强制性字段和不同格式的信息之间的兼容性等因素加以澄清。"
 
 #. type: delimited block =
 #: 200.en.adoc:44
