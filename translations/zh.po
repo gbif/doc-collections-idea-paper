@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 14:09\n"
+"PO-Revision-Date: 2020-04-15 14:11\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -232,7 +232,7 @@ msgstr "自然历史馆藏的相关信息有助于绘制研究资源复杂的地
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "本文档探讨改进全球协作的想法，从而建立、维护和使用一个综合性的*世界自然历史馆藏名录*。 每个想法都是作为一个单独的议题提出的，每个议题包含一系列问题，以引导大家在线讨论，link:https://www.gbif.org/zh/news/6TvOkvpPlxRm5vHxljYN5/[_推进全球自然历史馆藏_]。"
+msgstr "本文档探讨改进全球协作的想法，从而建立、维护和使用一个综合性的**世界自然历史馆藏名录**。 每个想法都是作为一个单独的议题提出的，每个议题包含一系列问题，以引导大家在线讨论，link:https://www.gbif.org/zh/news/6TvOkvpPlxRm5vHxljYN5/[_推进全球自然历史馆藏_]。"
 
 #. type: Plain text
 #: background.en.adoc:10
