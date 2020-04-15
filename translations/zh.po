@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 14:11\n"
+"PO-Revision-Date: 2020-04-15 16:23\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -603,7 +603,7 @@ msgstr "馆藏分类结构和附属收藏"
 #. type: Plain text
 #: 200.en.adoc:33
 msgid "Within IH, each herbarium record usually corresponds to an institution with its own unique collection code, street address, etc. Within zoology, museums are often structured as a set of collections with differing and possibly hierarchical taxonomic scope. Specimens collected on famous expeditions or by significant researchers may have their own identity and appear as special collections. As a result, curators and researchers may wish to refer to different (potentially overlapping) sets of specimens as separate collections with their own names, identifiers and descriptions."
-msgstr "在IH系统内，每份植物标本记录通常在相对应的每个机构都拥有自己独特的馆藏码、街道地址等。 在动物学中，博物馆通常是按照一套具有不同分类范围的馆藏品来组织。由著名探险队采集到的标本或由重要的研究人员采集的标本可能有自己的独特名字，并作为特殊馆藏问世。 因此，管理人员和研究人员可能更偏好将不同的（可能有重叠的）标本集作为独立馆藏单元，用其本有的名字、识别符和描述说明。"
+msgstr "在国际标本馆索引（IH）中，每份植物标本记录通常在相对应的每个机构都拥有自己独特的馆藏码、街道地址等。 在动物学中，博物馆通常是按照一套具有不同分类范围的馆藏品来组织。由著名探险队采集到的标本或由重要的研究人员采集的标本可能有自己的独特名字，并作为特殊馆藏问世。 因此，管理人员和研究人员可能更偏好将不同的（可能有重叠的）标本集作为独立馆藏单元，用其本有的名字、识别符和描述说明。"
 
 #. type: delimited block =
 #: 200.en.adoc:36
@@ -626,13 +626,13 @@ msgstr "https://www.tdwg.org/community/cd/[国际生物多样性信息标准组�
 #: 200.en.adoc:44
 #, no-wrap
 msgid "*Q13*. What descriptive information should be considered mandatory or desirable for each Collection? Does the TDWG CD work supply everything needed? Otherwise, what enhancements are necessary? How much of this information needs to be normalised for machine processing (rather than just for human readers)?\n"
-msgstr "*Q13*。 哪些描述性资料应被视为对每个馆藏集都是强制性的或值得拥有的？国际生物多样性信息标准组织的馆藏描述工作是否能够提供所需的一切？若不然，还需要什么样的改进？这种信息中有多少需要实现用于机器处理的正常化(而不是仅仅提供于人类读者)？\n"
+msgstr "*Q13*. 哪些描述性资料应被视为对每个馆藏集都是必填性的或希望拥有的？国际生物多样性信息标准组织的馆藏描述工作是否能够提供所需的一切？否则，还需要什么样的改进？这种信息中有多少需要被机器处理为正常化(而不是仅仅提供给人类读者)？\n"
 
 #. type: Title ===
 #: 200.en.adoc:46
 #, no-wrap
 msgid "Wider data linkages"
-msgstr "更广泛的数据联系"
+msgstr "更广泛的数据关联"
 
 #. type: Plain text
 #: 200.en.adoc:48
@@ -643,7 +643,7 @@ msgstr "馆藏编目中的信息可以与广泛的其他生物多样性信息（
 #: 200.en.adoc:51
 #, no-wrap
 msgid "*Q14*. What information should be linked to collection records? We should focus on making linkages that will actually justify the costs of creating and maintaining them. The following are likely to be candidates, but others are possible. In each case, we should determine whether the linkage needs to be bidirectional:\n"
-msgstr "*Q14*。 哪些信息应当与馆藏记录联系起来？我们应当侧重于建立一类联系，这类联系能够实际证明创立和维持这些记录的费用是合理的。 以下是可能的候选项，但也可能是未在其中的其他。 在每种情况下，我们都应该确定是否需要是双向联系：\n"
+msgstr "*Q14*. 哪些信息应当与馆藏记录联系起来？我们应当侧重于建立关联，并且这类关联能够在实际中证明为创建和维持的付出都是值得的。 以下是可能的候选项，但也可能是还未在其中的其他。 在每种情况下，我们都应该确定是否需要建立双向联系：\n"
 
 #. type: delimited block =
 #: 200.en.adoc:53
@@ -653,12 +653,12 @@ msgstr "馆藏保存的标本"
 #. type: delimited block =
 #: 200.en.adoc:54
 msgid "Type specimens held by a collection"
-msgstr "将馆藏保存的标本分类"
+msgstr "馆藏保存的模式标本"
 
 #. type: delimited block =
 #: 200.en.adoc:55
 msgid "Species/taxa represented in a collection (with/without specimen counts)"
-msgstr "一个馆藏品所代表的物种/分类单元(使用/不使用标本计数)"
+msgstr "一个馆藏品所代表的物种/分类单元(有/没有标本计数)"
 
 #. type: delimited block =
 #: 200.en.adoc:56
@@ -668,17 +668,17 @@ msgstr "序列、图像和馆藏品的其他配制品（但这些可能最好作
 #. type: delimited block =
 #: 200.en.adoc:57
 msgid "Datasets (checklists, occurrences, sampling events) associated with the collection"
-msgstr "与馆藏相关的数据集(核对表、发生率、取样活动)"
+msgstr "与馆藏相关的数据集(名录、物种出现、取样活动)"
 
 #. type: delimited block =
 #: 200.en.adoc:58
 msgid "Collecting expeditions carried out by or contributing to the collection (modeled as sampling events?)"
-msgstr "收集因馆藏进行或为馆藏做贡献的考察（归类于取样活动？）"
+msgstr "因馆藏进行或为馆藏而开展的考察(归类于取样活动？)"
 
 #. type: delimited block =
 #: 200.en.adoc:59
 msgid "Collectors associated with a collection"
-msgstr "与馆藏相关的收藏者"
+msgstr "与馆藏相关的采集人"
 
 #. type: delimited block =
 #: 200.en.adoc:60
@@ -693,7 +693,7 @@ msgstr "与馆藏相关的研究员/工作人员"
 #. type: delimited block =
 #: 200.en.adoc:62
 msgid "Field notebooks"
-msgstr "现场记录"
+msgstr "野外记录"
 
 #. type: Title ===
 #: 200.en.adoc:64
@@ -704,43 +704,43 @@ msgstr "与馆藏有关的信息服务"
 #. type: Plain text
 #: 200.en.adoc:67
 msgid "The main value from the collection catalogue may appear in the information services that can be offered around the information managed. Considering these services may help to clarify the content requirements."
-msgstr "馆藏编目的主要价值可能表现在可以围绕所管理的信息提供的信息服务。 考虑到这些服务可能有助于阐明关于内容的要求。"
+msgstr "馆藏编目的主要价值可能表现在可以围绕所管理的信息提供的信息服务。考虑这些服务可能有助于阐明对内容的要求。"
 
 #. type: delimited block =
 #: 200.en.adoc:70
 #, no-wrap
 msgid "*Q15*. What do we want to do with the catalogue, beyond having clean and comprehensive linked open data about each collection? The following potential services are likely to be candidates, but others are possible. In each case, would the service depend on a partnership with other digital repositories (e.g. https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/[GBIF], http://www.catalogueoflife.org/[CoL])?\n"
-msgstr "*Q15*。除了拥有每个馆藏品的清晰并全面的相关公开数据外，我们还想怎样处理目录？ 以下可能提供的服务是候选项，但其他服务也是可能的。 在每一种情况下，该服务将取决于与其他数字储存库建立伙伴关系。（比如 https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/zh/[GBIF], http://www.catalogueoflife.org/[CoL])\n"
+msgstr "*Q15*. 除了得到每个馆藏品的清晰且全面的相关开放数据外，我们还打算怎样处理名录？ 以下是候选的服务类型，也可能还有其他服务。 对于每一种信息服务，是否需要依赖与其他数字仓储建立伙伴关系 (比如 https://www.biodiversitylibrary.org/[BHL], https://www.gbif.org/zh/[GBIF], http://www.catalogueoflife.org/[CoL])？\n"
 
 #. type: delimited block =
 #: 200.en.adoc:72
 msgid "Assess the growth, scale and value of the world's collections"
-msgstr "评估世界馆藏品的数量增长、规模和价值"
+msgstr "评估世界馆藏的数量增长、规模和价值"
 
 #. type: delimited block =
 #: 200.en.adoc:73
 msgid "Provide https://zenodo.org/record/2621055#.Xn1lqIgzabi[collection digitisation dashboard] to monitor and highlight progress"
-msgstr "提供link:https://zenodo.org/record/2621055#.Xn1lqIgzabi[馆藏数字化检索列表]来监控和突出显示进展"
+msgstr "提供link:https://zenodo.org/record/2621055#.Xn1lqIgzabi[馆藏数字化检索列表]来监控和突出进展"
 
 #. type: delimited block =
 #: 200.en.adoc:74
 msgid "Discover the location of biological materials or the likely presence of biological materials for any taxon"
-msgstr "探索生物材料的位置或划分于任意分类单元的生物材料的可能存在性"
+msgstr "探索生物材料的位置或任意分类单元的生物材料的可能存在性"
 
 #. type: delimited block =
 #: 200.en.adoc:75
 msgid "Develop discovery services for accessing information on type specimens or communicating with the relevant collection where the specimen is not digitised"
-msgstr "开发探索服务，以便在未将标本数字化的情况下获取有关标本的信息或与相关馆藏品进行通信"
+msgstr "开发发现服务，以便在标本没有数字化的情况下获取有关标本的信息或与相关馆藏进行联系"
 
 #. type: delimited block =
 #: 200.en.adoc:76
 msgid "Identify sections of collections that should be digitised to answer specific questions"
-msgstr "找出应该数字化以回答具体问题的馆藏部分"
+msgstr "确定应该进行数字化处理以解决具体问题的馆藏"
 
 #. type: delimited block =
 #: 200.en.adoc:77
 msgid "Match gap analysis of published specimen data against the collection catalogue to prioritise digitisation for filling taxonomic, geographic, or other gaps."
-msgstr "将公布的标本数据与馆藏编目相匹配的差距分析，以优先考虑数字化，以填补分类学的、地理学的或其他空白。"
+msgstr "将发布的标本数据与馆藏编目进行匹配，从而确定应优先进行数字化的馆藏，以填补分类学的、地理学的或其他方面的空白。"
 
 #. type: delimited block =
 #: 200.en.adoc:78
