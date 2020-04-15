@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 06:06\n"
+"PO-Revision-Date: 2020-04-15 06:20\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -140,7 +140,7 @@ msgstr "文档控制"
 #. type: Plain text
 #: colophon.en.adoc:34
 msgid "v2.0, March 2020"
-msgstr "2.0版本，2020年3月"
+msgstr "2020年3月， 2.0版本"
 
 #. type: Plain text
 #: colophon.en.adoc:36
@@ -150,22 +150,22 @@ msgstr "由2020年2月25日出版的1.0版本更新： Hobern D, Asase A, Groom 
 #. type: Plain text
 #: colophon.en.adoc:38
 msgid "The main changes from v1.0 are as follows:"
-msgstr "与1.0版本不同的主要变化如下："
+msgstr "与1.0版本主要的不同在于："
 
 #. type: Plain text
 #: colophon.en.adoc:40
 msgid "Clarification in scope of consultation and definition of \"natural history collection\""
-msgstr "澄清协商范围和“自然历史收藏”的定义"
+msgstr "澄清咨询的范围和“自然历史馆藏”的定义"
 
 #. type: Plain text
 #: colophon.en.adoc:41
 msgid "Additional topics and questions:"
-msgstr "追加专题和问题："
+msgstr "其他议题和问题："
 
 #. type: Plain text
 #: colophon.en.adoc:42
 msgid "Improvements to citation and visibility for collections - Q8"
-msgstr "改进引文和馆藏品的可见度 - Q8"
+msgstr "修改馆藏的引用和可见 - Q8"
 
 #. type: Plain text
 #: colophon.en.adoc:43
@@ -180,12 +180,12 @@ msgstr "馆藏品的标识符 - Q11"
 #. type: Plain text
 #: colophon.en.adoc:45
 msgid "Hierarchical collection structures and subcollections - Q12"
-msgstr "馆藏分类结构和子收藏 - Q12"
+msgstr "馆藏分类层级和附属馆藏 - Q12"
 
 #. type: Plain text
 #: colophon.en.adoc:46
 msgid "Major edits to topic and questions:"
-msgstr "专题和问题的主要编辑："
+msgstr "对议题和问题的主要改动："
 
 #. type: Plain text
 #: colophon.en.adoc:47
