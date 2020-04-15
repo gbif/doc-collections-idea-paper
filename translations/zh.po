@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 08:06\n"
+"PO-Revision-Date: 2020-04-15 08:25\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -376,30 +376,30 @@ msgstr "馆藏工作人员和分类学家作为一个真正的全球性社区进
 #: 100.en.adoc:12
 #, no-wrap
 msgid "*Q1*. Would the collections community benefit from a comprehensive directory of all natural history collections? Who would make use of such a directory? (The focus here is on the catalogue as a directory of known institutions and information required to contact them.)\n"
-msgstr "*Q1*。收藏界是否能从所有自然历史收藏的综合目录中获益？谁会使用这样一个目录？ （此处关注的重点是作为已知机构和联系机构所需信息的目录。）\n"
+msgstr "*Q1*. 馆藏社区是否能从一个涵盖所有自然历史馆藏的综合名录中获益？谁会使用这样一个名录？ （此处关注的名录重点是它作为机构和联系机构所需要的信息的名录。）\n"
 
 #. type: Title ===
 #: 100.en.adoc:14
 #, no-wrap
 msgid "Locating specimens and genetic materials"
-msgstr "定位标本和遗传材料"
+msgstr "定位标本和遗传材料的位置"
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Taxonomic studies and other research projects normally depend on researchers (or their contacts) knowing which institutions hold relevant specimens or other materials. This is complicated by the history of expeditions and collecting activities. Specimens have been scattered across all continents. Only a small proportion of these specimens have been databased in forms that can be accessed through GBIF or other portals. A catalogue providing at least summary information on taxonomic and geographic scope for each collection could assist researchers in locating relevant materials."
-msgstr "分类学研究和其他研究项目通常依靠研究人员（或其认识的人）去了解哪些机构持有相关的标本或其他材料来开展。 这一过程由于考察和收集活动的历史而更加复杂。标本散布在各个大陆。 这些标本只有一小部分被收录进表格数据库，可以通过GBIF或其他门户查阅。 一个至少提供每个收藏品的分类和地理范围概要信息的目录，可以帮助研究人员找到相关材料。"
+msgstr "分类学及其他研究工作通常依靠研究人员（或他们认识的人）去了解哪些机构保存有相关的标本或其他材料来进行进行。 这一过程由于考察和采集事件的漫长历史而更加复杂。标本是散布在各个大陆的，这些标本中，只有一小部分被录入到数据库，可以通过GBIF或其他门户网站查阅。 一个至少提供每个馆藏的分类和地理范围概要信息的名录，可以帮助研究人员找到相关材料。"
 
 #. type: delimited block =
 #: 100.en.adoc:20
 #, no-wrap
 msgid "*Q2*. Would summary information on every collection’s materials be a useful tool? Who would use this information? What is the minimum level of information (and what is ideal) to support these users?\n"
-msgstr "*Q2*。每个收藏品相关材料的摘要信息是否是有用的工具？谁会使用这种信息？能帮助到这些用户的最少信息水平是多少(以及什么才是理想水平？）\n"
+msgstr "*Q2*. 关于每个馆藏材料的摘要信息是否是有用的工具？谁会使用这种信息？能帮助这些用户的最少信息水平是多少(多少信息才算是理想水平？)\n"
 
 #. type: Title ===
 #: 100.en.adoc:22
 #, no-wrap
 msgid "A first step towards databasing collections"
-msgstr "馆藏数据化的第一步。"
+msgstr "建立馆藏数据库的第一步"
 
 #. type: Plain text
 #: 100.en.adoc:25
