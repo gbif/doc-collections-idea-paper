@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 08:51\n"
+"PO-Revision-Date: 2020-04-15 09:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -455,36 +455,36 @@ msgstr "减少重复工作"
 #. type: Plain text
 #: 100.en.adoc:49
 msgid "Although no complete catalogue of collections exists, the need for such information leads to such data repeatedly being published in different formats for different portals, project documentation, metadata for other data, etc. This duplication results in confusion as outdated information remains on the web. Mechanisms that always link to a single continuously updated version (and a version history) would address these issues."
-msgstr "虽然不存在完全完整的馆藏目录，但这类资料的需求导致这类数据被一再以不同格式发布在不同的门户网站、 项目文件、其他数据的元数据等中。这些重复信息造成混乱，因为网上仍有过时的信息。 总是链接到一个能够不断更新的单一版本(包含版本历史) 的机制将解决这些问题。"
+msgstr "虽然不存在完全完整的馆藏名录，但对这类信息的需求导致这类信息被重复的以不同格式发布在不同的门户网站、项目文件、其他数据的元数据等中。这些重复信息因其在网上的过时，而造成混乱。因而，建立一个能够不断更新的单一版本(包含版本历史) 的机制将解决这些问题。"
 
 #. type: delimited block =
 #: 100.en.adoc:52
 #, no-wrap
 msgid "*Q6*. Can we identify savings in time and costs that would arise from a well-managed shared catalogue of collections?\n"
-msgstr "*Q6*。我们能否认同一个管理良好的共用收藏目录能节省时间和费用？\n"
+msgstr "*Q6*. 我们是否认可一个管理良好的共享的馆藏名录能节省时间和费用？\n"
 
 #. type: Title ===
 #: 100.en.adoc:54
 #, no-wrap
 msgid "Foundation for new and enriched services"
-msgstr "新型和丰富服务的基础"
+msgstr "为新的服务和更多服务提供基础"
 
 #. type: Plain text
 #: 100.en.adoc:57
 msgid "A comprehensive directory could serve as a foundation for new tools that enhance taxonomic efforts and cooperation between all collection holders. One example might be the development of distributed loans systems or on-demand digitisation, as planned for the DiSSCo European Loans and Visits System (ELViS). A catalogue could also serve as a showcase for institutions to highlight their holdings and unique features, as in the visual concept shared by GBIF for collection pages. GBIF tracking and reporting on the use of biodiversity data in research publications could feed into new services that provide standard metrics and help collections to measure and report their impact."
-msgstr "一个综合目录可作为新工具的基础，促进分类工作开展及其与所有收藏者之间的合作。 例如，按照DiSSCo欧洲贷款和访问系统(ELViS) 计划的那样，可以开发分配贷款系统或按需数字化。 目录也可作为机构展示的机会，突出其收藏资产和独特特征，正如在GBIF 馆藏页面共享的视觉概念。 GBIF追踪和报告研究出版物中生物多样性数据的使用情况，使得产生提供权威衡量标准的新服务，并有助于量度和反馈收藏品的影响力。"
+msgstr "一个综合性名录可作为新工具的基础，以加强分类工作开展和所有馆藏者之间的合作。 例如，按照DiSSCo欧洲贷款和访问系统(ELViS) 的计划，开发分布式贷款系统或按需进行数字化。名录也可作为机构展示的机会，突出其拥有的馆藏和其独特性，正如GBIF馆藏页面的视觉概念。GBIF追踪和报告出版物中生物多样性数据的使用情况，提供衡量标准的新服务，并有助于量度和反馈馆藏的影响力。"
 
 #. type: delimited block =
 #: 100.en.adoc:60
 #, no-wrap
 msgid "*Q7*. What other services could be developed on the foundations of a collection catalogue? Would these attract investment to fund the development and support the maintenance of the catalogue?\n"
-msgstr "*Q7*。可以在收藏目录的基础上开发哪些其他服务？ 这些是否会吸引投资为开发和维护目录提供资金和支持？\n"
+msgstr "*Q7*. 可以在馆藏名录的基础上开发哪些其他服务？ 这些是否会吸引来投资，从而为开发和维护名录提供资金和支持？\n"
 
 #. type: Title ===
 #: 100.en.adoc:62
 #, no-wrap
 msgid "Improvements to citation and visibility for collections"
-msgstr "引文和馆藏品的可视度的改进"
+msgstr "对引用和馆藏可视度的改进"
 
 #. type: Plain text
 #: 100.en.adoc:65
