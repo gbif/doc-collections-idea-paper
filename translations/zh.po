@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 02:23\n"
+"PO-Revision-Date: 2020-04-15 06:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -35,7 +35,7 @@ msgstr "img/web/photo2.jpg"
 #: colophon.en.adoc:6
 #, no-wrap
 msgid "Colophon"
-msgstr "版权标记"
+msgstr "版权"
 
 #. type: Title ===
 #: colophon.en.adoc:8
@@ -52,7 +52,7 @@ msgstr "Hobern D, Asase A, Groom Q, Luo M, Paul D, Robertson T, Semal P, Thiers 
 #: colophon.en.adoc:11
 #, no-wrap
 msgid "Contributors"
-msgstr "参与者"
+msgstr "贡献者"
 
 #. type: Plain text
 #: colophon.en.adoc:14
@@ -62,12 +62,12 @@ msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], 全球生物物种
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "https://orcid.org/0000-0003-0116-3445[Alex Asase], University of Ghana | GBIF Ghana"
-msgstr "https://orcid.org/0000-0003-0116-3445[Alex Asase], 加纳大学 | GBIF Ghana"
+msgstr "https://orcid.org/0000-0003-0116-3445[Alex Asase], 加纳大学 | GBIF 加纳"
 
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid "https://orcid.org/0000-0002-0596-5376[Quentin Groom], Meise Botanic Garden"
-msgstr "https://orcid.org/0000-0002-0596-5376[Quentin Groom], 梅瑟植物园 （Meise Botanic Garden）"
+msgstr "https://orcid.org/0000-0002-0596-5376[Quentin Groom], 比利时梅瑟植物园"
 
 #. type: Plain text
 #: colophon.en.adoc:17
