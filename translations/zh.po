@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 19:53\n"
+"PO-Revision-Date: 2020-04-15 01:31\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -206,7 +206,7 @@ msgstr "封面图片"
 #. type: Plain text
 #: colophon.en.adoc:52
 msgid "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
-msgstr "Maryland sematophyllum moss (_Sematophyllum marylandicum_), 由W.R. Buck在Ferncliff Natural Area采集, Ohiopyle State Park, Pennsylvania, United States. 照片来自纽约植物园2018年图集 via https://www.gbif.org/zh/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
+msgstr "Maryland sematophyllum 苔藓 (_Sematophyllum marylandicum_), 由W.R. Buck在美国宾夕法尼亚州Ohiopyle州立公园Ferncliff Natural Area采集 。 照片来自纽约植物园2018年图集 via https://www.gbif.org/zh/occurrence/1929304566[纽约植物园标本馆(NY)],，使用许可 http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:53
