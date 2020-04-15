@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 17:14\n"
+"PO-Revision-Date: 2020-04-15 17:20\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -222,22 +222,22 @@ msgstr "背景"
 #. type: Plain text
 #: background.en.adoc:4
 msgid "This paper explores needs and opportunities around digital information and services associated with \"natural history collections\". This term is used here to refer particularly to institutional collections that hold preserved biological materials (specimens, tissues, DNA extracts, etc.). Several important use cases relate specifically to the role of these collections to support taxonomy and other fields of biological research. However, many of the requirements discussed here are common to other natural science collections, especially geoscience collections, living collections and privately-owned collections. We hope that this paper and the planned discussions will also address the needs of this wider community."
-msgstr "这篇文档探讨与“自然历史馆藏”有关的数字信息和服务方面的需求和机会。此处使用“自然历史馆藏（natural history collections）”这一术语特指保存生物材料（标本、组织、脱氧核糖核酸（DNA）提取物等）的机构馆藏。有几个重要的使用案例体现这些馆藏在分类学和其他生物研究领域中的作用。 不过，这里要讨论的许多需求与其他自然科学馆藏是具有共性的，特别是与地球科学馆藏、活体馆藏和私人拥有的收藏有共性。 我们希望，这篇文章和计划展开的讨论能满足更广泛群体的需要。"
+msgstr "这篇文档探讨与“自然历史馆藏”有关的数字信息和服务方面的需求和机会。此处使用“自然历史馆藏（natural history collections）”这一术语特指生物材料（标本、组织、脱氧核糖核酸（DNA）提取物等）的机构馆藏。有一些重要的例子体现这些馆藏在分类学和其他生物研究领域中的作用。 不过，这里要讨论的许多需求与其他自然科学馆藏是具有共性的，特别是与地球科学馆藏、活体馆藏和私人拥有的收藏有共性。 我们希望，这篇文章和计划展开的讨论能满足更广泛群体的需要。"
 
 #. type: Plain text
 #: background.en.adoc:6
 msgid "Information about natural history collections helps to map the complex landscape of research resources and assists researchers in locating and contacting the holders of specimens. Collection records contribute to the development of a https://doi.org/10.3897/rio.2.e8767[fully interlinked biodiversity knowledge graph], showcasing the existence and importance of museums and herbaria and supplying context to available data on specimens. These records also potentially open new avenues for fresh use of these collections and for accelerating their full availability online."
-msgstr "自然历史馆藏的相关信息有助于绘制研究资源复杂的地形图，并有助于研究人员找到标本的持有人并与他们联系。馆藏记录有助于绘制一张link:https://doi.org/10.3897/rio.2.e8767[完全相互关联的生物多样性知识图表]，展示出博物馆和标本馆的存在及其重要性，并向现有的标本数据提供背景信息。 这些记录还可能为重新利用这些馆藏开辟新的渠道，并促进馆藏信息在网上的完全开放。"
+msgstr "自然历史馆藏的相关信息有助于绘制研究资源复杂的地形图，并有助于研究人员找到标本的持有人并与他们联系。馆藏记录有助于绘制一张link:https://doi.org/10.3897/rio.2.e8767[完全相互关联的生物多样性知识图表]，展示出博物馆和标本馆的存在及其重要性，并提供现有的标本数据的背景信息。 这些记录还可能为重新利用这些馆藏开辟新的渠道，并促进馆藏信息在网上的完全开放。"
 
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "本文档探讨改进全球协作的想法，从而建立、维护和使用一个综合性的**世界自然历史馆藏名录**。 每个想法都是作为一个单独的议题提出的，每个议题包含一系列问题，以引导大家在线讨论，link:https://www.gbif.org/zh/news/6TvOkvpPlxRm5vHxljYN5/[_建立全球自然历史馆藏名录_]。"
+msgstr "本文档探讨改进全球协作的想法，从而建立、维护和使用一个综合性的**世界自然历史馆藏名录**。 每个想法都是作为一个单独的议题提出的，每个议题包含一系列问题，以引导大家在线讨论，link:https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_建立全球自然历史馆藏名录_]。"
 
 #. type: Plain text
 #: background.en.adoc:10
 msgid "Over the last few decades, the field of biodiversity informatics has developed to include researchers and informaticians from all over the world, collaborating to bring together knowledge of the world’s species and ecosystems in a readily usable form."
-msgstr "过去几十年来，生物多样性信息学的发展使得世界各地的研究人员、信息专家一起合作，将世界物种和生态系统的知识以便于使用的形式汇集起来。"
+msgstr "过去几十年来，生物多样性信息学的发展使得世界各地的研究人员、信息专家一起合作，将全球物种和生态系统的知识以便于使用的形式汇集起来。"
 
 #. type: Plain text
 #: background.en.adoc:12
