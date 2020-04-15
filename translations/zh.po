@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 16:23\n"
+"PO-Revision-Date: 2020-04-15 16:44\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -745,12 +745,12 @@ msgstr "将发布的标本数据与馆藏编目进行匹配，从而确定应优
 #. type: delimited block =
 #: 200.en.adoc:78
 msgid "Discover holdings that make a particular collection unique, and therefore of even higher value"
-msgstr "发现使某一特定馆藏品具有独特性因而价值甚至更高的持有物"
+msgstr "发现某一特定馆藏具有独特性而价值更高的馆藏"
 
 #. type: delimited block =
 #: 200.en.adoc:79
 msgid "Develop and fund collaborative digitisation programmes focused on understanding of the holdings of the network as a whole"
-msgstr "制定并资助合作数字化计划，重点是了解整个网络的持有情况"
+msgstr "发展并资助合作性的、侧重于了解整个网络馆藏情况数字化项目"
 
 #. type: delimited block =
 #: 200.en.adoc:80
@@ -760,23 +760,23 @@ msgstr "创建跨机构贷款制度和分类工作台"
 #. type: delimited block =
 #: 200.en.adoc:81
 msgid "Develop citation models for collections and track their impact"
-msgstr "开发馆藏的引文模型并跟踪其产生的影响"
+msgstr "开发馆藏的引用模式并跟踪其产生的影响"
 
 #. type: delimited block =
 #: 200.en.adoc:82
 msgid "Perform risk assessment of the health or stability of a collection"
-msgstr "对馆藏品的完整性或稳定性进行风险评估"
+msgstr "对馆藏品的状态或稳定性进行风险评估"
 
 #. type: Title ==
 #: 300.en.adoc:2
 #, no-wrap
 msgid "Technology for the catalogue"
-msgstr "目录技术"
+msgstr "建立名录所需要的技术"
 
 #. type: Plain text
 #: 300.en.adoc:5
 msgid "A wide range of different tools are already in use for authoring collection metadata, curating partial catalogues such as IH, GRSciColl CETAF Collections Registry and national collections pages. These vary in their technical capabilities and sustainability. Some are well supported by existing communities and could form part of an interconnected solution. A goal for this consultation is to identify which components are mature and stable and can contribute to such a solution and to identify what other components may need to be developed."
-msgstr "编写馆藏元数据和编制局部目录时已经使用了各种不同的工具，比如 IH, GRSciColl CETAF Collections Registry和国际馆藏文稿。它们的技术能力和可持续性各不相同。 有些得到现有群体的大力支持，可以成为相互关联的解决办法的一部分。 这种咨询会议的目标是确定哪些组成部分是成熟和稳定的，并且能够有助于这些成熟稳定的解决办法，另外还要确认哪些组成部分可能还需要完善。"
+msgstr "编写馆藏元数据和编制部分名录时已经使用了各种不同的工具，比如 IH, GRSciColl CETAF Collections Registry和各国的馆藏网页。这些工具的技术能力和可持续性各不相同。有些得到现有社区的大力支持，可以成为相互关联的解决方案的一部分。本次咨询会议的目标是确定哪些工具是成熟、稳定的，并且能够对解决方案有用，另外还要确认哪些工具可能还需要完善。"
 
 #. type: Title ===
 #: 300.en.adoc:6
