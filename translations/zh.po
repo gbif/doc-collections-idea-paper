@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 09:26\n"
+"PO-Revision-Date: 2020-04-15 10:10\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -489,13 +489,13 @@ msgstr "对引用和馆藏可视度的改进"
 #. type: Plain text
 #: 100.en.adoc:65
 msgid "Research value is primarily measured in terms of visibility and impacts from published literature. Natural history collections are poorly recognised by such measures and their importance as foundational research tools is almost hidden. Users of collections are regularly urged to cite specimens examined and reference the collection. However, citation is often https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[lacking, incomplete or ambiguous]. Research infrastructures such as https://explore.openaire.eu/search/find[OpenAIRE] in Europe increasingly map not only linkages between researchers and publications but also datasets, projects, content providers and organisations. A catalogue could help to standardise citation of collections, making their impact visible through such knowledge graphs. Journals and editorial boards could be encouraged to require standard collection identifiers wherever collections are referenced."
-msgstr "研究价值主要是根据出版物的可见度和影响力来衡量的。 衡量标准自然历史馆藏价值被低估，其作为基本研究工具的重要性几乎被掩盖。 馆藏的使用者经常被要求引用已检查过的标本和参考馆藏。但引证常常是link:https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[缺失]、不完整或含糊不清的。 在欧洲诸如link:https://explore.openaire.eu/search/find[OpenAIRE]之类的研究基础设施不仅越来越多地建立研究人员与出版物之间的联系，还建立数据集、项目、内容提供者和组织机构之间的联系。目录可能有助于馆藏品的引述标准化，并通过这种知识图表显示其影响力可视化。 可以鼓励记者和编辑委员会要求在参考馆藏品时采用标准馆藏标识符。"
+msgstr "研究价值主要是通过出版物的发布和影响力来衡量的。而通过这样的衡量标准，会低估自然历史馆藏的价值，并且几乎掩盖了它们作为基本研究工具的重要性。 馆藏的使用者经常被要求引用已检查过的标本和馆藏信息。但这样的引用常常是link:https://fistfulofcinctans.wordpress.com/2016/06/23/how-and-why-to-cite-museum-specimens-in-research/[缺失]、不完整或含糊不清的。在欧洲诸如link:https://explore.openaire.eu/search/find[OpenAIRE]之类的研究基础设施不仅越来越多地建立研究人员与出版物之间的联系，还建立数据集、项目、内容提供者和组织机构之间的联系。名录可能有助于馆藏引用的标准化描述，并通过这种知识图表显示将其影响力可视化。这样，可以鼓励期刊和编辑委员会要求在标本馆藏进行引用时采用标准的馆藏标识符。"
 
 #. type: delimited block =
 #: 100.en.adoc:68
 #, no-wrap
 msgid "*Q8*. How might a comprehensive catalogue promote citation and attribution for collections? What can be done to encourage wide standardised use of identifiers from the catalogue?\n"
-msgstr "*Q8*。一个全面的目录如何能够改进收藏品的引证和归属源？ 可以做些什么来促进目录中标识符的标准化使用普及化？\n"
+msgstr "*Q8*. 一个综合的名录如何能够改进馆藏的引用和强调其归属？ 可以做些什么来促进名录中标识符的标准化使用得到普及？\n"
 
 #. type: Title ===
 #: 100.en.adoc:70
@@ -506,13 +506,13 @@ msgstr "支持国家和区域的需要和应用"
 #. type: Plain text
 #: 100.en.adoc:73
 msgid "Although this consultation aims to encourage the development of standardised information for all collections globally, each country or region may have needs or uses for this same information to in local applications and services. It is important to identify a range of these needs and to make sure they are addressed as part of a collaborative solution. An inclusive approach will bring incentives to work together to make information on each catalogue as complete, current and accurate as possible. Requirements are relatively well understood from Europe (e.g. DiSSCo) and the United States (e.g. iDigBio), but other regions may have subtly or significantly different needs."
-msgstr "尽管这次咨询的目的是促进全球所有馆藏制定标准化信息， 但是每个国家或区域在当地的应用和服务中对于同样的信息可能有不同的需求或用途。 重要的是要认识到一系列这类需求，并确保将其作为协作解决方案的一部分来处理。 一个具有包容性的方案将促使各国共同努力使每个目录的信息尽可能完整、最新和准确。 欧洲(例如DiSSCo)和美国(例如iDigBio)的要求相对较好理解，但其他区域的需要可能有微小或明显不同。"
+msgstr "尽管这次咨询的目的是推动为全球所有馆藏资料制定标准化信息， 但是每个国家或区域在当地的应用和服务中对于同样的信息可能有不同的需求或用途。重要的是要认识到一系列这类需求，并确保将其作为协作解决方案的一部分来处理。 一个具有包容性的方案将促使各国共同努力使名录的信息尽可能完整、最新和准确。 欧洲(例如DiSSCo)和美国(例如iDigBio)的要求相对较好理解，但其他区域的需要可能有微小或明显不同。"
 
 #. type: delimited block =
 #: 100.en.adoc:76
 #, no-wrap
 msgid "*Q9*. What national and regional needs or possible uses should be considered? Do national portals or specialist networks require information not currently addressed by data standards for collection metadata? Are there significant regional research infrastructures or public websites that include (or should include) information on local collections? Are there regionally important uses that are not addressed elsewhere in this document?\n"
-msgstr "*Q9*。应考虑哪些国家和区域需要或可能的用途？ 国家门户网站或专家网络是否需要馆藏元数据的数据标准目前尚未涉及的信息？ 是否存在重要的区域性研究基础设施或公共网站包括（或应当包括）地方馆藏的信息？ 是否存在本文档没有提及的重要区域性用途？\n"
+msgstr "*Q9*. 应考虑哪些在国家和地区层面的需要或者在国家和地区可能的用途？ 国家门户网站或专家网络是否需要其它目前馆藏元数据的数据标准未涉及的信息？ 是否存在重要的区域性研究基础设施或公共网站包括（或应当包括）地方馆藏的信息？ 是否存在本文档没有提及的重要的地区性用途？\n"
 
 #. type: Title ==
 #: 200.en.adoc:2
@@ -523,34 +523,34 @@ msgstr "目录中的信息"
 #. type: Plain text
 #: 200.en.adoc:5
 msgid "We need to develop a shared vision for the content that the catalogue should hold and how it interlinks with other information products."
-msgstr "我们需要就目录应包含的内容以及它与其他信息产品之间的相互联系形成共同的愿景。"
+msgstr "我们需要就名录应包含的内容以及它与其他信息产品之间的相互联系达成共同的愿景。"
 
 #. type: Title ===
 #: 200.en.adoc:6
 #, no-wrap
 msgid "Scope for the catalogue and definition of “collection”"
-msgstr "目录范围和“馆藏”的定义"
+msgstr "名录范围和“馆藏”的定义"
 
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "The scope for the catalogue needs to be defined. The core use case under consideration is the listing and description of collections holding preserved biological specimens, referred to here as \"natural history collections\". The consultation will focus on developing a solution that is robust and effective for natural history collections, but it is valuable to explore needs and opportunities around other types of natural science collection. Some of these may fit readily within the scope of the catalogue. In other cases, work on the catalogue may offer benefits to these other communities. Note in particular: 1) many institutions hold both biological and geological collections and may manage these as a unified whole; 2) DiSSCo includes geological collections within its scope, and other networks such as iDigBio include at least paleontological collections; 3) GRSciColl was established to hold records on any scientific collection; and 4) the TDWG Collection Description standard is extensible for different collection types."
-msgstr "目录的范围需要界定。 正在审议的核心使用案例是保存生物标本的收藏清单和描述，此处称为“自然历史馆藏”。 咨询将侧重于为自然历史馆藏制定一种强有力和有效的实行方案，但此方案也对其他类型的自然科学收藏探索的需求和机会是有价值的。 其中有些可以很容易地纳入目录范围。对于其他情况，编纂目录的工作可能也会给其他领域带来好处。 特别强调：⑴ 许多同时拥有生物和地质藏品的机构可以统一管理这些藏品。 ⑵ DiSSCo在其范围内拥有地质藏品，iDigBio等其他网络门户至少拥有古生物藏品； ⑶ 为了保存所有科学藏品的记录建立了GRSciColl ；⑷ TDWG的馆藏描述标准可以扩展到不同的收藏类型。"
+msgstr "名录的范围需要进行界定。重点考虑的是保存的生物标本的清单和描述，此处称为“自然历史馆藏”。咨询会将侧重于为自然历史馆藏制定一个有力且有效的实行方案，但此方案也可以对其他类型的自然科学馆藏的需求和机会有价值。 其中有些可以很自然地纳入名录范围。对于其他情况，编纂名录的工作可能也会给其他领域带来好处。特别注意：（1）许多同时拥有生物和地质馆藏的机构可以统一管理这些馆藏标本。（2）DiSSCo拥有地质馆藏，iDigBio等其他平台拥有古生物馆藏以及其他馆藏；（3）为了保存任何科学馆藏的记录，建立了GRSciColl；（4）TDWG的馆藏描述标准可以扩展到不同的馆藏类型。"
 
 #. type: delimited block =
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr "*Q10*. 如何定义我们采集自然历史馆藏的目的（最基本和充分的标准）？ 馆藏如何与机构、数据集和采集事件(如考察）有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
+msgstr "*Q10*. 如何描述我们采集自然历史馆藏的目的（最基本和充分的条款）？ 馆藏如何与机构、数据集和采集事件(如考察）有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要关联或机会？\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
 msgid "Geological and paleontological collections"
-msgstr "地质学的和古生物学的馆藏品"
+msgstr "地质学的和古生物学的馆藏"
 
 #. type: delimited block =
 #: 200.en.adoc:15
 msgid "Anthropological collections"
-msgstr "人类学的馆藏品"
+msgstr "人类学馆藏"
 
 #. type: delimited block =
 #: 200.en.adoc:16
@@ -560,17 +560,17 @@ msgstr "民族植物馆藏"
 #. type: delimited block =
 #: 200.en.adoc:17
 msgid "Wood collections (xylaria)"
-msgstr "木材馆藏品(xylaria)"
+msgstr "木材馆藏(xylaria)"
 
 #. type: delimited block =
 #: 200.en.adoc:18
 msgid "Tissue banks, DNA repositories and slide collections"
-msgstr "组织库、 DNA 存储库和切片馆藏"
+msgstr "组织库、 DNA仓储和切片馆藏"
 
 #. type: delimited block =
 #: 200.en.adoc:19
 msgid "Living collections (microbial collections, zoos, aquaria, botanic gardens, seed banks)"
-msgstr "活体生物馆藏品(微生物馆藏、动物园、水族馆、植物园、种子库)"
+msgstr "活体生物馆藏(微生物馆藏、动物园、水族馆、植物园、种子库)"
 
 #. type: delimited block =
 #: 200.en.adoc:20
@@ -586,19 +586,19 @@ msgstr "馆藏品的标识符"
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "Most collections are already identified by one or more collection codes and may have existing web identifiers (URLs, DOIs, etc.) in one or more databases. The catalogue may reuse one or other of these identifiers or may help to support a standardised scheme. GRSciColl exists to assist with standardisation of collection codes and machine-readable identifiers, but several other efforts are also in place. Unique identifiers for each collection will be important to maximise cross-linkage of information and standardise citation, but other existing identifiers should ideally resolve to the same information and be recognised as synonyms for the preferred identifiers."
-msgstr "大部分馆藏品有一个或多个收藏代码，并且可能在一个或更多数据库中都存在网络标识码(URL、DOI等)。 此目录可能使用其中的一个标识码，或者不采用其中的任何一个，又或是帮助建立标准化方案。 GRSciColl的存在就是为了帮助馆藏代码和机器可读的标识码标准化，但其他一些工作仍在进程中。 每个馆藏品拥有独一无二的标识码对于最大限度地加强信息相互联系和标准化引证十分重要。 但其他现有的标识符最好能够解析出相同的信息，并被视为首选标识符的同义替代。"
+msgstr "大部分馆藏品有一个或多个馆藏代码，并且可能在一个或多个数据库中存在网络标识码(URL、DOI等)。 此名录可能使用其中的一个标识码，或者不采用其中的任何一个，而是帮助建立标准化方案。GRSciColl的存在就是为了帮助馆藏代码和机器可读的标识码标准化，还有其他相关的工作在推动。每个馆藏品拥有独一无二的标识码对于最大限度地加强信息相互联系和标准化引用十分重要。其他现有的标识符应该能够解析出相同的信息，并被视为首选标识符的同义替代。"
 
 #. type: delimited block =
 #: 200.en.adoc:28
 #, no-wrap
 msgid "*Q11*. What identifier schemes (IH collection codes, GRSciColl URIs, etc.) already exist and need to be maintained in some form? Do these schemes follow a consistent definition of a natural history collection? What characteristics of identifiers are important for use by machines and humans? Are there benefits in selecting any particular identifier scheme (e.g. https://www.doi.org/[DOIs] or https://ror.org/[ROR] identifiers)? What can be done to promote use of the preferred identifiers?\n"
-msgstr "*Q11*。哪些标识符方案(IH 收藏码、GRSciColl URIs等) 已经存在，并且需要以某种方式进行维护。这些方案是否遵循了对自然历史馆藏的一致定义？ 哪些标识符的特征在机器和人使用时十分重要？ 选择一个特定标识符方案是否更好（例如：link:https://www.doi.org/[DOIs] 或 link:https://ror.org/[ROR] identifiers)？可以做些什么来推广使用首选标识符？\n"
+msgstr "*Q11*. 哪些标识符方案(IH 馆藏代码、GRSciColl URIs等) 已经存在，并且需要以某种方式进行维护？这些方案是否遵循了对自然历史馆藏的一致定义？ 哪些标识符的特征在机器和人使用时十分重要？选择一个特定标识符方案是否更好（例如：link:https://www.doi.org/[DOIs] 或 link:https://ror.org/[ROR] identifiers)？可以做些什么来推广对首选标识符的使用？\n"
 
 #. type: Title ===
 #: 200.en.adoc:30
 #, no-wrap
 msgid "Hierarchical collection structures and subcollections"
-msgstr "馆藏分类结构和子收藏"
+msgstr "馆藏分类结构和附属收藏"
 
 #. type: Plain text
 #: 200.en.adoc:33
