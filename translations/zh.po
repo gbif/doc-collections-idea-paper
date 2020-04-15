@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 13:39\n"
+"PO-Revision-Date: 2020-04-15 14:09\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -359,7 +359,7 @@ msgstr "名录的使用"
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG Collection Description Interest Group] has collected use cases for natural history collection information from several major stakeholders. In addition, major European projects, including https://www.icedig.eu/[ICEDIG], are preparing for the development of the https://www.dissco.eu/[DiSSCo] infrastructure by documenting use cases for collections."
-msgstr "Https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG 馆藏描述兴趣小组]已经从几个主要利益攸关方收集了一些自然历史馆藏信息的使用案例。 此外，包括link:https://www.icedig.eu/[ICEDIG]在内的主要欧洲项目正在准备通过记录馆藏的使用案例来构建link:https://www.issco.eu/[DiSSCo]信息基础构架。"
+msgstr "https://github.com/tdwg/cd/tree/master/reference/use_cases[TDWG 馆藏描述兴趣小组]已经从几个主要利益攸关方收集了一些自然历史馆藏信息的使用案例。 此外，包括link:https://www.icedig.eu/[ICEDIG]在内的主要欧洲项目正在准备通过记录馆藏的使用案例来构建link:https://www.issco.eu/[DiSSCo]信息基础构架。"
 
 #. type: Title ===
 #: 100.en.adoc:6
@@ -620,7 +620,7 @@ msgstr "馆藏描述"
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "The https://www.tdwg.org/community/cd/[TDWG Collection Descriptions (CD) Interest Group] is currently developing the https://github.com/tdwg/cd[CD standard for collection descriptions] (evolving from the earlier TDWG Natural Collections Description (NCD) standard). Existing networks and institutional schemes use a variety of different formats or variants of metadata standards for their collection records, as a result of which interoperability between these resources (and hence data aggregation) is limited. To overcome this barrier, clarity is needed around factors such as preferred standards and vocabularies, mandatory fields and compatibility between information in different formats."
-msgstr " https://www.tdwg.org/community/cd/[国际生物多样性信息标准组织 馆藏描述兴趣小组]目前正在制定link:https://github.com/tdwg/cd[馆藏描述标准] (从早先的国际生物多样性信息标准组织制定的自然馆藏描述标准演变而来)。 现有的网络和机构计划在其馆藏记录中使用各种不同格式或不同的元数据标准。 因此，这些资源（包括数据汇总）之间的互操作性有限。 为了克服这一障碍，需要对首选的标准和用词、强制性字段和不同格式的信息之间的兼容性等因素加以澄清。"
+msgstr "https://www.tdwg.org/community/cd/[国际生物多样性信息标准组织 馆藏描述兴趣小组]目前正在制定link:https://github.com/tdwg/cd[馆藏描述标准] (从早先的国际生物多样性信息标准组织制定的自然馆藏描述标准演变而来)。 现有的网络和机构计划在其馆藏记录中使用各种不同格式或不同的元数据标准。 因此，这些资源（包括数据汇总）之间的互操作性有限。 为了克服这一障碍，需要对首选的标准和用词、强制性字段和不同格式的信息之间的兼容性等因素加以澄清。"
 
 #. type: delimited block =
 #: 200.en.adoc:44
