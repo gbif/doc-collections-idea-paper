@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 07:18\n"
+"PO-Revision-Date: 2020-04-15 07:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -333,7 +333,7 @@ msgstr "我们将向您通报网站新增信息，并确保您在此咨询会议
 #. type: Plain text
 #: how-to.en.adoc:19
 msgid "Will you be able to expand the relevance of the consultation by *translating short summary updates* into languages other than English?"
-msgstr "您是否能够通过**将简短的摘要更新**翻译成英文以外的其他语言来扩大咨询的相关性？"
+msgstr "您是否能够通过**将简短的进展总结**翻译成英文以外的其他语言来扩大咨询的参与性？"
 
 #. type: Plain text
 #: how-to.en.adoc:20
