@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 01:31\n"
+"PO-Revision-Date: 2020-04-15 01:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -206,7 +206,7 @@ msgstr "封面图片"
 #. type: Plain text
 #: colophon.en.adoc:52
 msgid "Maryland sematophyllum moss (_Sematophyllum marylandicum_), collected by W.R. Buck in Ferncliff Natural Area, Ohiopyle State Park, Pennsylvania, United States. Photo 2018 New York Botanical Garden via https://www.gbif.org/occurrence/1929304566[The New York Botanical Garden Herbarium (NY)], licensed under http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
-msgstr "Maryland sematophyllum 苔藓 (_Sematophyllum marylandicum_), 由W.R. Buck在美国宾夕法尼亚州Ohiopyle州立公园Ferncliff Natural Area采集 。 照片来自纽约植物园2018年图集 via https://www.gbif.org/zh/occurrence/1929304566[纽约植物园标本馆(NY)],，使用许可 http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
+msgstr "马里兰锦藓属苔藓 (_Sematophyllum marylandicum_), 由W.R. Buck在美国宾夕法尼亚州Ohiopyle州立公园Ferncliff Natural Area采集 。 照片来自纽约植物园2018年图集 via https://www.gbif.org/zh/occurrence/1929304566[纽约植物园标本馆(NY)],，使用许可 http://creativecommons.org/licenses/by/4.0/[CC BY 4.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:53
@@ -540,7 +540,7 @@ msgstr "目录的范围需要界定。 正在审议的核心使用案例是保�
 #: 200.en.adoc:12
 #, no-wrap
 msgid "*Q10*. What is the definition for our purposes (minimal and sufficient criteria) of a natural history collection? How do collections relate to and differ from 1) institutions, 2) datasets and 3) collecting events (e.g. expeditions)? Should the following categories be included? Otherwise, are there important linkages or opportunities that should still be considered?\n"
-msgstr "*Q10*。 对我们创建自然历史馆藏的目的（最低和充分的标准）的定义是什么？ 馆藏如何与机构、数据集和collecting events (e.g. expeditions) 有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
+msgstr "*Q10*. 如何定义我们采集自然历史馆藏的目的（最基本和充分的标准）？ 馆藏如何与机构、数据集和采集事件(如考察）有关但又与之不同？是否应包括以下类别？否则，是否存在仍应考虑在内的重要联系或机会？\n"
 
 #. type: delimited block =
 #: 200.en.adoc:14
