@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 08:25\n"
+"PO-Revision-Date: 2020-04-15 08:51\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -404,47 +404,47 @@ msgstr "建立馆藏数据库的第一步"
 #. type: Plain text
 #: 100.en.adoc:25
 msgid "The information needed to build the catalogue of collections closely matches the metadata required to publish a specimen dataset to GBIF and other portals. A record that describes a collection could be treated as a minimal first step, perhaps leading through processes such as Join The Dots and onwards to comprehensive digitisation. A comprehensive catalogue of such records could guide efforts to prioritise further digitisation, by highlighting collections with holdings of particular relevance or by assisting the development of collaborative digitisation networks like the ADBC Thematic Collection Networks."
-msgstr "建立收集目录所需的信息与向GBIF和其他门户网站发布标本数据集所需的元数据高度匹配。 描述收藏的记录作为最起码的第一步，也许能够引导信息一点一点组合起来进而全面数字化的进程。通过突出具有特别相关性的收藏品，或协助类似于ADBC 专题收集网络等合作数字化网络发展，这种描述性记录的全面目录可以指导优先处理进一步数字化的工作。"
+msgstr "建立馆藏名录所需要的信息与在GBIF和其他门户网站发布标本数据集所需要的元数据高度匹配。描述馆藏的记录作为最开始的第一步，可能使信息一点一点组合起来从而达到全面数字化的进程。通过突出具有特别相关性的馆藏，或协助类似于ADBC 专题收集网络等数字化协作网络的发展，这种描述性记录的综合名录可以指导优先处理进一步数字化的工作。"
 
 #. type: delimited block =
 #: 100.en.adoc:28
 #, no-wrap
 msgid "*Q3*. Can publishing a collection record to a catalogue assist collections in moving towards full digitisation? What incentives or support do collections need to make this a worthwhile step?\n"
-msgstr "*Q3*。是否可以将收藏记录发布到目录，帮助收藏走向完全数字化？ 收藏需要什么奖励或支持才能使这个步骤成为一个有价值的步骤？\n"
+msgstr "*Q3*. 是否可以将馆藏记录发布到名录，以帮助馆藏信息走向完全数字化？ 馆藏社区需要怎样的激励或支持才能使这个发布成为一个值得去做的步骤？\n"
 
 #. type: Title ===
 #: 100.en.adoc:30
 #, no-wrap
 msgid "Assessing the scale and value of collections"
-msgstr "评估收藏的规模和价值"
+msgstr "评估馆藏的规模和价值"
 
 #. type: Plain text
 #: 100.en.adoc:33
 msgid "Estimates of the number of specimens held by collections run into billions, but no definitive number exists. A catalogue could help to narrow these estimates and to assess the economic value of these irreplaceable holdings. This information may help to justify the scale of effort and funding needed to digitise collections and make their data accessible for universal, reliable and persistent use."
-msgstr "估计被收藏起来的标本数达到数十亿，但没有确切数字。一个目录可有助于缩小这些估计数的范围，并评估这些不可替代的收藏品的经济价值。 这类资料可能有助于阐明收藏品的数字化工作以及使其数据能被普及并被长期使用所需的努力和资金规模。"
+msgstr "在全球，估计被馆藏的标本数量达到几十亿，但无法知道确切的数字。一个名录可以有助于缩小估计数的范围，并评估这些不可替代的馆藏的经济价值。这些信息可能有助于阐明数字化馆藏所需的努力和所需的资金规模，并使其数据可被普遍、可靠和持久地使用。"
 
 #. type: delimited block =
 #: 100.en.adoc:36
 #, no-wrap
 msgid "*Q4*. Would more accurate estimates of the scale and value of collections be useful? How might these be used and by whom?\n"
-msgstr "*Q4*。是否需要更准确地估计收藏品的规模和价值？如何使用这些信息以及由谁使用？\n"
+msgstr "*Q4*. 是否需要更准确地估计馆藏的规模和价值？如何使用这些信息以及由谁使用？\n"
 
 #. type: Title ===
 #: 100.en.adoc:38
 #, no-wrap
 msgid "Increased value for data on specimens, taxonomic publications, etc."
-msgstr "标本的数据、分类出版物等的价值增加。"
+msgstr "增加标本数据、分类学出版物等数据的价值"
 
 #. type: Plain text
 #: 100.en.adoc:41
 msgid "Accurate information on any collection can be used as a reference or as linked data associated with specimen records and other data objects. Users of specimen records need contextual information about the collection that holds the specimen, for example to communicate with collection managers about individual specimens, to offer corrections to specimen data, or simply to determine whether the collection is likely to hold quantities of similar specimens. It may be inefficient to embed all of this information within the specimen record. Holding a single authoritative copy assists with keeping the collection information current. The collection record may also contain information on taxonomic or geographic scope or other aspects that can resolve potential ambiguities within a specimen record. Links to current collection records will also enhance taxonomic publications referencing their materials. This is particularly important because catalogue numbers and other specimen identifiers used in publications may not link to digitised information on the specimens. Linking to the collection simplifies future access and may enable digital links to be inferred in future."
-msgstr "任何关于收集工作的准确信息可作为参考资料或与标本记录和其他数据对象相关联的数据使用。 标本记录的使用者需要关于标本的收藏的背景信息，例如与收集管理者就个别样本进行沟通，对标本数据进行纠正，或只是确定藏品中是否可能存在大量相似标本。将所有这些信息都嵌入标本记录可能是没有效率的。 但保存一份权威性的副本有助于使收集资料随时更新。 收集记录还可包含关于分类或地理范畴等其他方面的信息，标本记录中潜在的模棱两可之处也可以在这些信息中找到答案。与现有收藏记录的链接也将改善分类学出版物参考收藏信息。 这一点尤其重要，因为出版物中使用的目录编号和其他标本识别码可能与标本的数字化信息没有对应。 与收藏记录建立链接简化了今后的存取，可能会使今后使用数字链接。"
+msgstr "任何关于采集工作的准确信息可作为参考资料或与标本记录和其他数据对象相关联的数据使用。标本记录的使用者需要关于标本馆藏的背景信息，例如与馆藏管理者就个别样本进行沟通，对标本数据进行纠正，或只是确定馆藏中是否可能存在大量相似的标本。将所有这些信息都嵌入标本记录可能是没有效率的，但保存一份权威性的副本有助于使资料随时更新。 馆藏记录还可包含关于分类或地理范畴等其他方面的信息，标本记录中存在的模棱两可之处也可以在这些信息中找到答案。与现有馆藏记录进行关联也可改善分类学出版物参考馆藏信息，这一点尤其重要，因为出版物中使用的名录编号和其他标本标识符可能与标本的数字化信息没有对应。 与馆藏记录建立了链接，就简化了今后的标本获取，还可能使今后建立数字化链接。"
 
 #. type: delimited block =
 #: 100.en.adoc:44
 #, no-wrap
 msgid "*Q5*. How could a comprehensive collections catalogue contribute to improvements to other categories of biodiversity data? What requirements would these improvements place on the catalogue?\n"
-msgstr "*Q5*。全面的馆藏目录如何有助于改进其他类别的生物多样性数据？ 这些改进将对目录作何要求？\n"
+msgstr "*Q5*. 一个综合性的馆藏名录如何能够对其他类别的生物多样性数据有用？ 这种作用将对名录本身有何要求？\n"
 
 #. type: Title ===
 #: 100.en.adoc:46
