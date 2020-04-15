@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 16:44\n"
+"PO-Revision-Date: 2020-04-15 16:50\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -787,19 +787,19 @@ msgstr "发布馆藏记录的路径和工具"
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Existing information on collections is edited and maintained in different ways. IH allows herbaria to provide or edit their records and offers support for herbaria to provide updates via email or other channels. Other communities such as national portals have other pathways for collections to provide or update information. Several tools help data publishers to create EML metadata for publishing data to GBIF and elsewhere. These could evolve to deliver collection records in preferred formats. The https://www.gbif.org/ipt[Integrated Publishing Toolkit (IPT)] could be enhanced to offer collection records as one of the core record types that can be shared. This would allow collections either to publish one or more collection records as a small standalone dataset or collection networks to manage and publish a dataset comprising many collection records. Wikidata could also serve as a tool or platform for editing catalogue information and making it widely accessible and reusable."
-msgstr "现有的馆藏资料以不同方式编辑和保存。 IH允许植物标本室提供或编辑其记录，并支持植物标本室通过电子邮件或其他渠道提供更新材料。 诸如国家门户等其他群体也有提供或更新馆藏信息的其他途径。 有几个工具帮助数据数据发布人创建EML元数据，以便向GBIF和其他地方发布数据。 这些数据可以演变成以首选格式呈现的馆藏记录。link:https://www.gbif.org/zh/ipt[综合发布工具包(IPT)]可以进一步完善，作为可以共享的核心记录类型之一提供馆藏记录。 这样就可以将一个或多个馆藏记录作为一个小型独立数据集或馆藏网络来管理并出版一个包含许多馆藏记录的数据集。 Wikidata也可以作为编辑目录信息并使其能够被广泛获取和重复利用的工具或平台。"
+msgstr "现有的馆藏资料以不同方式编辑和保存。 IH允许标本馆提供或编辑各自的记录，并支持标本馆通过电子邮件或其他渠道提供更新材料。国家门户网站等其他平台也有提供或更新馆藏信息的途径。有几个工具可以帮助数据发布人创建EML元数据，以便向GBIF和其他平台发布数据。这些数据可以演变成以首选格式呈现的馆藏记录。可以进一步完善link:https://www.gbif.org/zh/ipt[综合发布工具包(IPT)]成一个可被共享的核心记录类型，从而提供馆藏记录。这样就可以将一个或多个馆藏记录作为一个小型独立数据集或馆藏网络来管理并发布一个包含许多馆藏记录的数据集。Wikidata也可以作为编辑名录信息并使其能够被广泛获取和重复利用的工具或平台。"
 
 #. type: delimited block =
 #: 300.en.adoc:12
 #, no-wrap
 msgid "*Q16*. Which existing tools, databases and websites can help to mobilise and maintain collection records? Is it possible to identify additional tools or pathways that need to be developed or supported?\n"
-msgstr "*Q16*。哪些现有工具、数据库和网站能够有助于调动和保持收集记录？ 能否找到需要开发或支持的其他工具或途径？\n"
+msgstr "*Q16*. 哪些现有工具、数据库和网站能够有助于调动和维护馆藏记录？ 能否找到需要开发或支持的其他工具或途径？\n"
 
 #. type: Title ===
 #: 300.en.adoc:14
 #, no-wrap
 msgid "Community catalogues"
-msgstr "群体目录"
+msgstr "社区名录"
 
 #. type: Plain text
 #: 300.en.adoc:17
