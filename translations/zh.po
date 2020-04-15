@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 07:09\n"
+"PO-Revision-Date: 2020-04-15 07:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -278,7 +278,7 @@ msgstr "我们欢迎以下方面的贡献："
 #. type: Plain text
 #: how-to.en.adoc:8
 msgid "Do you represent a *stakeholder, project, database, tool, standard or community* that addresses some aspect of the topics outlined here, or do you have ideas for novel approaches to mobilise or use information on collections?"
-msgstr "您是否代表一个*利益攸关者、项目、数据库、工具、标准或群体*来处理这里概述的主题的某些方面。 或者您是否有全新调动或使用收藏品信息的方法呢？"
+msgstr "您是否代表一个**利益攸关者、项目、数据库、工具、标准或群体**来处理这里概述的主题的某些方面。 或者您是否有全新调动或使用收藏品信息的方法呢？"
 
 #. type: Plain text
 #: how-to.en.adoc:9
@@ -293,17 +293,17 @@ msgstr "我们欢迎大家分享可以用于在网站上进行讨论的简短文
 #. type: Plain text
 #: how-to.en.adoc:11
 msgid "If presentations are unlikely to be clear without further explanation, please modify the slides or consider supplying the presentation as a pre-recorded video with audio commentary."
-msgstr "如果不作进一步解释，陈述无法做到清晰明了， 请修改幻灯片或考虑以附有音频评论的预制视频方式呈现。"
+msgstr "如果陈述文件不作进一步解释，就无法表述清楚，请修改幻灯片或考虑以附有音频评论的预制视频方式进行呈现。"
 
 #. type: Plain text
 #: how-to.en.adoc:12
 msgid "Please keep all materials brief and focused, so that a reader or viewer could assimilate the ideas within fifteen minutes or (ideally) less."
-msgstr "请保持所有材料简短和有针对性，以便读者或浏览者能够在十五分钟或（理想化）更少时间内明白您的观点大意。"
+msgstr "请保持所有材料简洁和有针对性，以便读者或浏览者能够在15分钟或更少时间内（理想化）明白您的观点。"
 
 #. type: Plain text
 #: how-to.en.adoc:13
 msgid "Would you like to *review the preparatory webinars* outlining the scope and plan for the consultation?"
-msgstr "您是否希望查看网络研讨会概述范围并为之做准备计划？"
+msgstr "您是否希望**查看网络研讨会**对咨询范围和计划进行的陈述？"
 
 #. type: Plain text
 #: how-to.en.adoc:14
@@ -313,7 +313,7 @@ msgstr "录制材料可在网上查阅：link:https://youtube.com/playlist?list=
 #. type: Plain text
 #: how-to.en.adoc:15
 msgid "Would you like to *contribute to the online discussions* for the consultation?"
-msgstr "您愿意参与到此次在线咨询会议的讨论中吗？"
+msgstr "您愿意**参与到此次在线咨询会议的讨论中**？"
 
 #. type: Plain text
 #: how-to.en.adoc:16
@@ -323,12 +323,12 @@ msgstr "请注册以加入在 GBIF Discourse 网站上的咨询社区。"
 #. type: Plain text
 #: how-to.en.adoc:17
 msgid "Discussions will take place between 17 and 29 April 2020."
-msgstr "讨论将在2020年4月17日至29日进行。"
+msgstr "讨论将在2020年4月17-29日进行。"
 
 #. type: Plain text
 #: how-to.en.adoc:18
 msgid "We will keep you informed as more information is added to the site and ensure that you receive regular updates during the consultation"
-msgstr "我们将随时向您通报网站新增信息并确保您在此咨询会议期间收到定期更新。"
+msgstr "我们将向您通报网站新增信息，并确保您在此咨询会议期间收到定期更新。"
 
 #. type: Plain text
 #: how-to.en.adoc:19
