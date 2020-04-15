@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 17:52\n"
+"PO-Revision-Date: 2020-04-15 18:10\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Advancing the Catalogue of the World's Natural History Collections"
-msgstr "建立《世界自然历史馆藏名录》"
+msgstr "建立《全球自然历史馆藏名录》"
 
 #. type: Plain text
 #: index.en.adoc:27
