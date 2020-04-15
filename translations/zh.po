@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 17:41\n"
+"PO-Revision-Date: 2020-04-15 17:52\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -232,7 +232,7 @@ msgstr "自然历史馆藏的相关信息有助于绘制研究资源复杂的地
 #. type: Plain text
 #: background.en.adoc:8
 msgid "This document explores ideas for improved global collaboration to build, maintain and use a comprehensive *catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_]."
-msgstr "本文档探讨改进全球协作的想法，从而建立、维护和使用一个综合性的**世界自然历史馆藏名录**。 每个想法都是作为一个单独的议题提出的，每个议题包含一系列问题，以引导大家在线讨论，link:https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_建立全球自然历史馆藏名录_]。"
+msgstr "本文档探讨改进全球协作的想法，从而建立、维护和使用一个综合性的**世界自然历史馆藏名录**。 每个想法都是作为一个单独的议题提出的，每个议题包含一系列问题，以引导大家在线讨论link:https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_建立全球自然历史馆藏名录_]。"
 
 #. type: Plain text
 #: background.en.adoc:10
@@ -370,7 +370,7 @@ msgstr "为馆藏社区提供帮助的说明"
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Collections staff and taxonomists collaborate as a truly global community. Valuable specimens are distributed between institutions in all parts of the world. Researchers visit these collections or borrow specimens as part of their work. Index Herbariorum (IH) is the directory of information on the world’s herbaria (addresses, contacts, specialties, size, etc.). It is a well-managed resource and highly regarded as a tool by the botanical community. No full equivalent exists globally for other natural history collections, although national/regional infrastructures such as the ALA collections pages, the iDigBio US Collections List, and the CETAF profiles serve similar roles. GBIF has recently integrated the Global Registry of Scientific Collections (GRSciColl) into its registry as a framework that can be extended with richer information curated by collections communities."
-msgstr "馆藏工作人员和分类学家作为一个真正的全球性社区进行合作。宝贵的标本在世界各地的机构之间互相流通。 研究人员工作的一部分就是查看这些馆藏或借用这些标本。 国际标本馆索引（IH）是全球标本馆的名录（地址、联系人、专业、馆藏量大小等），是很好的进行了管理的资源，成为植物学社区里一种工具。尽管一些国家/地区的信息基础构架起到相似作用，如澳大利亚ALA馆藏页面，iDigBio中美国的馆藏清单、CETAF简介，但在全球，没有其它能与IH相提并论的项目或机构存在。最近，GBIF将全球科学馆藏注册系统 （Global Registry of Scientific Collections，GRSciColl）整合到GBIF注册系统中，从而通过馆藏社区管理的丰富信息使系统框架得以扩展。"
+msgstr "馆藏工作人员和分类学家作为一个真正的全球性社区进行合作。宝贵的标本在世界各地的机构之间互相流通。 研究人员工作的一部分就是查看这些馆藏或借用这些标本。 国际标本馆索引（IH）是全球标本馆的名录（地址、联系人、专业、馆藏量大小等），是很好的进行了管理的资源，成为植物学社区里一种工具。尽管一些国家/地区的信息基础构架起到相似作用，如澳大利亚ALA馆藏页面，iDigBio中美国的馆藏清单、CETAF简介，但在全球，没有其它能与IH相提并论的项目或机构存在。最近，GBIF将全球科学馆藏注册系统（Global Registry of Scientific Collections，GRSciColl）整合到GBIF注册系统中，从而通过馆藏社区管理的丰富信息使系统框架得以扩展。"
 
 #. type: delimited block =
 #: 100.en.adoc:12
