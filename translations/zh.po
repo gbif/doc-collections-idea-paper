@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 01:45\n"
+"PO-Revision-Date: 2020-04-15 02:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -822,7 +822,7 @@ msgstr "整合目录"
 #: 300.en.adoc:25
 #, no-wrap
 msgid "GBIF has the mission to provide global-scale support for biodiversity informatics solutions and has expanded its Registry to host the data historically maintained as GRSciColl. GRSciColl content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   \n"
-msgstr "GBIF的目标是为生物多样性信息学提供全球范围的支持，并扩大了注册系统，从而以GRSciColl的形式为全球生物多样性信息学数据库保存以往保存的数据。GRSciColl的内容并不完整，可将其视为一个 content is incomplete and is best seen as a framework for expansion with richer collection metadata that properly represents the needs and interests of collections. GBIF can serve as the context for integration and deduplication of collection information from different sources and for interlinking this information for other biodiversity data. GBIF requires guidance on the best way to support the needs and branding of collections and their communities as it develops such services.   \n"
+msgstr "GBIF的目标是为生物多样性信息学提供全球范围的支持，并扩大了注册系统，从而以GRSciColl的形式为全球生物多样性信息学数据库保存以往保存的数据。GRSciColl的内容并不完整，可将其视为一个大的框架，其中包含着代表馆藏需求和兴趣的元数据。GBIF可以对不同来源的馆藏信息进行整合并去除重复，并将这些信息与其他相关的生物多样性数据关联起来。GBIF需要得到指导从而以最好的方式去支持馆藏及馆藏机构群体的需求和品牌化。 \n"
 
 #. type: delimited block =
 #: 300.en.adoc:28
