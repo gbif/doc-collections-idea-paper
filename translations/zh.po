@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 06:45\n"
+"PO-Revision-Date: 2020-04-15 07:09\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -237,7 +237,7 @@ msgstr "本文档探讨改进全球协作的想法，从而建立、维护和使
 #. type: Plain text
 #: background.en.adoc:10
 msgid "Over the last few decades, the field of biodiversity informatics has developed to include researchers and informaticians from all over the world, collaborating to bring together knowledge of the world’s species and ecosystems in a readily usable form."
-msgstr "过去几十年来，生物多样性信息学领域已经发展起来，来自世界各地的研究人员和信息学家协作整合关于全球物种和生态系统的知识，使之成为以便于使用的形式。"
+msgstr "过去几十年来，生物多样性信息学的发展使得世界各地的研究人员、信息专家一起合作，将世界物种和生态系统的知识以便于使用的形式汇集起来。"
 
 #. type: Plain text
 #: background.en.adoc:12
@@ -247,7 +247,7 @@ msgstr "生物多样性信息学的重点主要是物种和其他分类群(包�
 #. type: Plain text
 #: background.en.adoc:14
 msgid "The biodiversity informatics community has also given attention to other categories of information that support these primary elements, especially through efforts to digitise the vast literature on taxonomy and biodiversity and work to develop a comprehensive catalogue of the world’s natural history collections, including museums, herbaria and a range of specialised collections."
-msgstr "生物多样性信息学界也关注支撑这些主要要素的其他各类信息。 特别是努力使关于分类学和生物多样性的大量文献数字化，并努力编制一份全球自然历史馆藏的综合目录， 包括博物馆、植物标本室和一系列专门收藏品。"
+msgstr "生物多样性信息学界也关注支持这些重点领域的其他各类信息。 特别是通过努力将关于分类学和生物多样性的大量文献数字化，并编制一份全球自然历史馆藏的综合名录， 包括博物馆、植物馆和一系列特殊的馆藏品。"
 
 #. type: Plain text
 #: background.en.adoc:16
@@ -257,7 +257,7 @@ msgstr "这些馆藏是几百年来全球采集、记录、研究和描述物种
 #. type: Plain text
 #: background.en.adoc:17
 msgid "Many established use cases for standardised collection information relate primarily to preserved biological collections. This paper treats these collections as its core focus. However, we hope that the consultation will also explore two other closely related contexts: 1) geological collections (often held and managed by the same institutions as biological collections) and 2) living collections (overlapping significantly with the subject matter and research uses of preserved biological collections). We welcome inputs that address this wider scope."
-msgstr "许多对标准化的馆藏信息的使用案例都与保存的生物馆藏有关，本文将把这些馆藏作为核心重点。 然而我们希望，本次咨询会还可以探讨另外两个密切相关的部分：⑴ 地质馆藏（往往由同样作为生物藏馆的机构进行和管理）；⑵ 活体馆藏（与主题事项大相径庭，研究如何使用保存的生物馆藏）。我们欢迎更广范围的见解。"
+msgstr "许多对标准化的馆藏信息的使用案例都与保存的生物馆藏有关，本文将把这些馆藏作为核心来讨论。 然而我们希望，本次咨询会还可以探讨另外两个密切相关的部分：⑴ 地质馆藏（往往由同样作为生物藏馆的机构进行和管理）；⑵ 活体馆藏（与讨论主题很吻合，研究如何使用保存的生物馆藏）。我们欢迎更大范围的见解。"
 
 #. type: Title ==
 #: how-to.en.adoc:1
@@ -268,7 +268,7 @@ msgstr "如何对此初步意向草案发表建议或感想"
 #. type: Plain text
 #: how-to.en.adoc:4
 msgid "Read the sections below and contribute to developing a roadmap for collaborative activity to build the catalogue."
-msgstr "阅读下面的章节，并为协作活动制定一个roadmap做出贡献，以便完成编制目录。"
+msgstr "阅读下面的章节，并为协作活动制定一个路线图做出贡献，以便完成编制名录。"
 
 #. type: Plain text
 #: how-to.en.adoc:6
@@ -278,17 +278,17 @@ msgstr "我们欢迎以下方面的贡献："
 #. type: Plain text
 #: how-to.en.adoc:8
 msgid "Do you represent a *stakeholder, project, database, tool, standard or community* that addresses some aspect of the topics outlined here, or do you have ideas for novel approaches to mobilise or use information on collections?"
-msgstr "您是否代表一个**利益攸关者、项目、数据库、工具、标准或群体**来处理这里概述的主题的某些方面。 或者您是否有全新调动或使用收藏品信息的方法呢？"
+msgstr "您是否代表一个*利益攸关者、项目、数据库、工具、标准或群体*来处理这里概述的主题的某些方面。 或者您是否有全新调动或使用收藏品信息的方法呢？"
 
 #. type: Plain text
 #: how-to.en.adoc:9
 msgid "Please contact mailto:dhobern@gbif.org[Donald Hobern] by 3 April 2020 to contribute significant ideas or examples that will add value to the online discussions."
-msgstr "请在2020年4月3日之前联系邮箱mailto:dhobern@gbif.org[Donald Hobern]，以便提供重要的想法或例子，会使得在线讨论价值增加。"
+msgstr "请在2020年4月3日之前联系mailto:dhobern@gbif.org[Donald Hobern]，以便提供重要的想法或例子，从而增加在线讨论的价值。"
 
 #. type: Plain text
 #: how-to.en.adoc:10
 msgid "We welcome short documents or slide presentations that can be shared on the consultation website."
-msgstr "我们欢迎可以在讨论网站上分享的简短文件或幻灯片陈述材料。"
+msgstr "我们欢迎大家分享可以用于在网站上进行讨论的简短文档或幻灯片材料。"
 
 #. type: Plain text
 #: how-to.en.adoc:11
