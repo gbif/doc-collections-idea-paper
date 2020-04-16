@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
 "POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-15 18:32\n"
+"PO-Revision-Date: 2020-04-16 01:39\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -57,7 +57,7 @@ msgstr "贡献者"
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "https://orcid.org/0000-0001-6492-4016[Donald Hobern], Catalogue of Life | International Barcode of Life"
-msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], 全球生物物种名录|国际生命条形码计划。"
+msgstr "https://orcid.org/0000-0001-6492-4016[Donald Hobern], 全球生物物种名录|国际生命条形码计划"
 
 #. type: Plain text
 #: colophon.en.adoc:15
