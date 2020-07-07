@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-16 01:39\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2020-07-07 12:44+0000\n"
+"PO-Revision-Date: 2020-07-07 12:52\n"
+"Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -11,8 +11,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: collections-ideas-paper\n"
+"X-Crowdin-Project-ID: 393021\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /2.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 322\n"
 
 #. type: Title =
 #: index.en.adoc:1
@@ -21,7 +23,7 @@ msgid "Advancing the Catalogue of the World's Natural History Collections"
 msgstr "建立《全球自然历史馆藏名录》"
 
 #. type: Plain text
-#: index.en.adoc:27
+#: index.en.adoc:30
 msgid "languageLinks:combined[]"
 msgstr "languageLinks:combined[]"
 
