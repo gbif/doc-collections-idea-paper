@@ -20,6 +20,9 @@
 :pagenums:
 :license: https://creativecommons.org/licenses/by/4.0/
 :xrefstyle: short
+// Use original #_prefix_characters as the document has been published with these.
+:idprefix: _
+:idseparator: _
 :scripts: cjk
 
 ifdef::backend-html5[]
