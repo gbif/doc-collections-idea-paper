@@ -3,6 +3,8 @@ https://doi.org/10.35035/p93g-te47[image:https://zenodo.org/badge/DOI/10.35035/p
 https://creativecommons.org/licenses/by/4.0/[image:https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg[CC BY 4.0]]
 https://builds.gbif.org/job/doc-collections-idea-paper/[image:https://builds.gbif.org/job/doc-collections-idea-paper/badge/icon[Build status]]
 
-= Advancing the Catalogue of the World's Natural History Collections
+= Advancing the Catalogue of the World’s Natural History Collections
 
 This document explores ideas for improved global collaboration to build, maintain and use a *comprehensive catalogue of the world’s natural history collections*. Each idea is presented as a separate topic with a set of questions to guide discussion within the online consultation, https://www.gbif.org/news/6TvOkvpPlxRm5vHxljYNN5/[_Advancing the Catalogue of the World’s Natural History Collections_].
+
+The document is available as HTML and PDF at https://docs.gbif.org/collections-idea-paper/[Advancing the Catalogue of the World’s Natural History Collections].
