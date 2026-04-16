@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: collections-ideas-paper\n"
-"POT-Creation-Date: 2020-04-06 13:36+0000\n"
-"PO-Revision-Date: 2020-04-14 11:50\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2020-07-07 12:44+0000\n"
+"PO-Revision-Date: 2020-07-07 12:52\n"
+"Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -11,8 +11,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Crowdin-Project: collections-ideas-paper\n"
+"X-Crowdin-Project-ID: 393021\n"
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /2.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 322\n"
 
 #. type: Title =
 #: index.en.adoc:1
@@ -21,7 +23,7 @@ msgid "Advancing the Catalogue of the World's Natural History Collections"
 msgstr "Faire Avancer le Catalogue des Collections d’Histoire Naturelle du Monde"
 
 #. type: Plain text
-#: index.en.adoc:27
+#: index.en.adoc:30
 msgid "languageLinks:combined[]"
 msgstr "languageLinks:combined[]"
 
